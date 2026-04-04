@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 23:00:39 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 23:38:50 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -27,7 +27,7 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Episode 2: The Watcher | Unseen Terror</title>
+      <title>Episode 1: The Watcher | Unseen Terror</title>
       <description>Midnight turns sinister as Nina and James find themselves trapped in a nightmare where an unseen force prowls outside their bedroom window. This episode delves into the chilling atmosphere of terror, with meticulous sound design that heightens the suspense. As the shadowy figure&apos;s presence grows more relentless, Nina and James must confront their deepest fears. Voice cast includes expert performers who bring this supernatural horror to life, immersing listeners in a world where every whisper could be a harbinger of doom. Content warnings: This episode contains intense horror elements and supernatural themes that may disturb some listeners. Watch the full visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Don&apos;t miss out—subscribe, rate, and review Midnight Whisperer to stay updated on new episodes of spine-chilling audio drama. Written and produced by Midnight Whisperer.</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_watcher.mp3" length="7763528" type="audio/mpeg" />
       <guid isPermaLink="false">58bbe780-b87d-4da0-a2f5-86b02e32807e</guid>
@@ -38,7 +38,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_watcher.jpg" />
-      <itunes:episode>8</itunes:episode>
+      <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural thriller, unseen force, terror at night, chilling atmosphere, sound design, midnight whispers, spine-chilling audio, dark fiction, haunting sounds, narrative horror, unsettling suspense, mysterious figure, sanity test, horror audio drama, audio storytelling, unseen terror</itunes:keywords>
     </item>
     <item>
@@ -56,7 +56,7 @@ https://youtu.be/_c2pFM3XCiQ</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_knock.jpg" />
-      <itunes:episode>11</itunes:episode>
+      <itunes:episode>2</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural mystery, urban horror, nightly knocks, midnight whisperer, spine-chilling tales, haunted apartment, mysterious sounds, immersive sound design, voice acting, creepy story, dark podcast, paranormal events</itunes:keywords>
     </item>
   </channel>
