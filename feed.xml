@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Midnight Whisperer</title>
+    <link>https://www.youtube.com/@MidnightWhispererDark</link>
+    <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
+    <language>en</language>
+    <generator>Midnight Whisperer Pipeline</generator>
+<<<<<<< HEAD
+    <lastBuildDate>Wed, 01 Apr 2026 07:48:47 +0530</lastBuildDate>
+=======
+    <lastBuildDate>Sat, 04 Apr 2026 21:26:58 +0530</lastBuildDate>
+>>>>>>> 4cdede6 (Update podcast feed: Episode 2: Three Knocks. No One There. Every Night)
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Midnight Whisperer</itunes:author>
+    <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/cover.jpg" />
+    <itunes:owner>
+      <itunes:email>pass15000@gmail.com</itunes:email>
+      <itunes:name>Midnight Whisperer</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <itunes:category text="Fiction" />
+
+    <item>
+      <title>Episode 2: The Watcher | Unseen Terror</title>
+      <description>Midnight turns sinister as Nina and James find themselves trapped in a nightmare where an unseen force prowls outside their bedroom window. This episode delves into the chilling atmosphere of terror, with meticulous sound design that heightens the suspense. As the shadowy figure&apos;s presence grows more relentless, Nina and James must confront their deepest fears. Voice cast includes expert performers who bring this supernatural horror to life, immersing listeners in a world where every whisper could be a harbinger of doom. Content warnings: This episode contains intense horror elements and supernatural themes that may disturb some listeners. Watch the full visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Don&apos;t miss out—subscribe, rate, and review Midnight Whisperer to stay updated on new episodes of spine-chilling audio drama. Written and produced by Midnight Whisperer.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_watcher.mp3" length="7763528" type="audio/mpeg" />
+<<<<<<< HEAD
+      <podcast:alternateEnclosure type="video/mp4" length="87094951" default="true">
+        <podcast:source uri="https://aritrabasu104.github.io/midnight-whisperer-podcast/videos/the_watcher.mp4" />
+      </podcast:alternateEnclosure>
+=======
+>>>>>>> 4cdede6 (Update podcast feed: Episode 2: Three Knocks. No One There. Every Night)
+      <guid isPermaLink="false">58bbe780-b87d-4da0-a2f5-86b02e32807e</guid>
+      <pubDate>Wed, 01 Apr 2026 07:48:45 +0530</pubDate>
+      <link>https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_watcher.mp3</link>
+      <itunes:summary>In &apos;The Watcher&apos;, Nina and James face an unseen terror prowling outside their bedroom window, with the sound design enhancing every chilling moment in this supernatural horror tale.</itunes:summary>
+      <itunes:duration>5:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_watcher.jpg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, supernatural thriller, unseen force, terror at night, chilling atmosphere, sound design, midnight whispers, spine-chilling audio, dark fiction, haunting sounds, narrative horror, unsettling suspense, mysterious figure, sanity test, horror audio drama, audio storytelling, unseen terror</itunes:keywords>
+    </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Episode 2: Three Knocks. No One There. Every Night</title>
+      <description>Every night at midnight, Daniel hears three mysterious knocks from inside his apartment walls. Who or what is behind them? Dive into a spine-chilling audio drama with immersive sound design and haunting voice acting by the talented Rachel. With each knock, the atmosphere thickens, leaving listeners on edge as they unravel the supernatural mystery plaguing Daniel&apos;s urban abode. Content warnings: This episode contains disturbing themes and may be unsettling for some listeners. Watch the full visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Don&apos;t forget to subscribe, rate, and review Midnight Whisperer in your podcast app.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/_c2pFM3XCiQ</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_knock.mp3" length="5585543" type="audio/mpeg" />
+      <guid isPermaLink="false">f6bdad32-86c1-40ca-afce-935a839fa34c</guid>
+      <pubDate>Sat, 04 Apr 2026 21:26:57 +0530</pubDate>
+      <link>https://youtu.be/_c2pFM3XCiQ</link>
+      <itunes:summary>In &apos;Three Knocks. No One There. Every Night&apos;, Daniel is plagued by nightly knocks from inside his walls. As the mystery unfolds, listeners are treated to a spine-chilling audio drama with immersive sound design and voice acting by Rachel, leaving them on edge until the very end.</itunes:summary>
+      <itunes:duration>3:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_knock.jpg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, supernatural mystery, urban horror, nightly knocks, midnight whisperer, spine-chilling tales, haunted apartment, mysterious sounds, immersive sound design, voice acting, creepy story, dark podcast, paranormal events</itunes:keywords>
+    </item>
+>>>>>>> 4cdede6 (Update podcast feed: Episode 2: Three Knocks. No One There. Every Night)
+  </channel>
+</rss>
