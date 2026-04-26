@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 23:14:01 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 09:16:49 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -40,6 +40,35 @@
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_watcher.jpg" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural thriller, unseen force, terror at night, chilling atmosphere, sound design, midnight whispers, spine-chilling audio, dark fiction, haunting sounds, narrative horror, unsettling suspense, mysterious figure, sanity test, horror audio drama, audio storytelling, unseen terror</itunes:keywords>
+    </item>
+    <item>
+      <title>Episode 5: The Footage | Horror Audio Drama</title>
+      <description>&quot;The Footage&quot; is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
+
+Best experienced with headphones in a dark room.
+
+Watch the full visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find us.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/2zrvg_sYZwY</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_footage.mp3" length="10622369" type="audio/mpeg" />
+      <guid isPermaLink="false">0ff1b798-9a51-4345-908f-961173db9a4a</guid>
+      <pubDate>Sun, 26 Apr 2026 09:16:47 +0530</pubDate>
+      <link>https://youtu.be/2zrvg_sYZwY</link>
+      <itunes:summary>&quot;The Footage&quot; — an original horror audio drama by Midnight Whisperer. Fully voiced with immersive sound design. Best experienced with headphones in a dark room.</itunes:summary>
+      <itunes:duration>7:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_footage.jpg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the footage, scary podcast, horror fiction</itunes:keywords>
     </item>
     <item>
       <title>Episode 2: Three Knocks. No One There. Every Night</title>
