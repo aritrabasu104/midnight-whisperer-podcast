@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 15:24:01 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 15:26:19 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -60,11 +60,14 @@ Watch with original horror artwork on YouTube:
 https://youtu.be/2zrvg_sYZwY
 
 Watch with original horror artwork on YouTube:
-https://youtu.be/RWpVjmKGyyc</description>
+https://youtu.be/RWpVjmKGyyc
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/TvKgCLefTpQ</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_footage.mp3" length="10622369" type="audio/mpeg" />
       <guid isPermaLink="false">0ff1b798-9a51-4345-908f-961173db9a4a</guid>
       <pubDate>Sun, 26 Apr 2026 09:16:47 +0530</pubDate>
-      <link>https://youtu.be/RWpVjmKGyyc</link>
+      <link>https://youtu.be/TvKgCLefTpQ</link>
       <itunes:summary>&quot;The Footage&quot; — an original horror audio drama by Midnight Whisperer. Fully voiced with immersive sound design. Best experienced with headphones in a dark room.</itunes:summary>
       <itunes:duration>7:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
