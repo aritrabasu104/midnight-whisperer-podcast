@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 10:57:54 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:37:44 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -26,6 +26,35 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 7: The Sitter | Horror Audio Drama</title>
+      <description>&quot;The Sitter&quot; is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
+
+Best experienced with headphones in a dark room.
+
+Watch the full visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find us.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/TA5jP1rCcIU</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_sitter.mp3" length="11989723" type="audio/mpeg" />
+      <guid isPermaLink="false">aa520457-4111-4345-8bf7-6798fbf042e2</guid>
+      <pubDate>Wed, 29 Apr 2026 19:37:42 +0530</pubDate>
+      <link>https://youtu.be/TA5jP1rCcIU</link>
+      <itunes:summary>&quot;The Sitter&quot; — an original horror audio drama by Midnight Whisperer. Fully voiced with immersive sound design. Best experienced with headphones in a dark room.</itunes:summary>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_sitter.jpg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the sitter, scary podcast, horror fiction</itunes:keywords>
+    </item>
     <item>
       <title>Episode 1: The Watcher | Unseen Terror</title>
       <description>Midnight turns sinister as Nina and James find themselves trapped in a nightmare where an unseen force prowls outside their bedroom window. This episode delves into the chilling atmosphere of terror, with meticulous sound design that heightens the suspense. As the shadowy figure&apos;s presence grows more relentless, Nina and James must confront their deepest fears. Voice cast includes expert performers who bring this supernatural horror to life, immersing listeners in a world where every whisper could be a harbinger of doom. Content warnings: This episode contains intense horror elements and supernatural themes that may disturb some listeners. Watch the full visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Don&apos;t miss out—subscribe, rate, and review Midnight Whisperer to stay updated on new episodes of spine-chilling audio drama. Written and produced by Midnight Whisperer.</description>
