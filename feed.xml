@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 19:37:44 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 21:35:40 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -98,6 +98,24 @@ https://youtu.be/2gZOOak23mQ</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_last_sheaf.jpg" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the last sheaf, scary podcast, horror fiction</itunes:keywords>
+    </item>
+    <item>
+      <title>Episode 8: The Silent Resonance Of The Mourner&apos;s Voice</title>
+      <description>Ready to close your eyes and listen? This audio drama invites you into a soundscape where silence speaks louder than words. As you strap on your headphones, prepare for a journey through the dark corridors of the human psyche. In this installment, the specific entities are revealed fully as the Mourner and the Innkeeper interact. Their dialogue carries a heavy weight of lost souls, creating an atmospheric burden you must feel to understand the full narrative. Brought to life via high-fidelity recording techniques ensures clarity and immersion for every listener. No video distractions allow pure focus on emotional depth, letting the spoken word guide your imagination naturally. Production values highlight crisp voice acting over cheap foley, ensuring authenticity in the sonic landscape. SFX are crafted specifically for headphone listeners and spatial audio devices to maximize impact. Ambient noises build fear slowly, layering tension within the eight-minute runtime. This is not merely recorded text but performed artistry designed for audio platforms. Content warning: Mild horror and psychological stressors require your attention. Downloadable content implies offline listening availability for commuters or bedtime relaxation. We encourage engagement in your preferred podcast ecosystem, urging you to leave feedback. Credits confirm authorship by Midnight Whisperer, recognizing the effort behind the sonic world.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/HCNCvPahzRo</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_mourner.mp3" length="12874333" type="audio/mpeg" />
+      <guid isPermaLink="false">16778de0-d258-4fbb-a88d-cfa7dc063bc0</guid>
+      <pubDate>Thu, 30 Apr 2026 21:35:38 +0530</pubDate>
+      <link>https://youtu.be/HCNCvPahzRo</link>
+      <itunes:summary>This audio drama explores the silent grief contained within The Mourner. Immersive binaural storytelling reveals hidden regrets shared between two shadowbound figures.</itunes:summary>
+      <itunes:duration>8:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_mourner.jpg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:keywords>horror podcast, audio drama, scary stories, midnight whisperer, the mourner, innkeeper story, binaural horror, night time listening, supernatural thriller, voice acting, immersive sound, spooky audio, dark ambient, mystery audiobook, audio fiction, horror narration, suspense podcast, halloween podcast, shadow realm, audio horror</itunes:keywords>
     </item>
     <item>
       <title>Episode 5: The Footage | Horror Audio Drama</title>
