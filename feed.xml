@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 16 May 2026 00:13:14 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:36:54 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -279,6 +279,7 @@ https://youtu.be/QKBP9LxnwJU</description>
       <itunes:duration>6:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_parish_diary.jpg" />
       <itunes:episode>11</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the parish diary, scary podcast, horror fiction</itunes:keywords>
     </item>
