@@ -10,13 +10,13 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 16 May 2026 22:58:32 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:20:26 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/cover.jpg?v=20260517" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Midnight Whisperer</itunes:name>
@@ -51,7 +51,7 @@ https://youtu.be/TA5jP1rCcIU</description>
       <itunes:duration>8:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_sitter.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_sitter.jpg" />
       <itunes:episode>7</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the sitter, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -69,7 +69,7 @@ https://youtu.be/VxaTQL6RnWY</description>
       <itunes:duration>5:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_watcher.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_watcher.jpg" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural thriller, unseen force, terror at night, chilling atmosphere, sound design, midnight whispers, spine-chilling audio, dark fiction, haunting sounds, narrative horror, unsettling suspense, mysterious figure, sanity test, horror audio drama, audio storytelling, unseen terror</itunes:keywords>
     </item>
@@ -98,7 +98,7 @@ https://youtu.be/KFAM3vkdF9k</description>
       <itunes:duration>7:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_last_sheaf.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_last_sheaf.jpg" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the last sheaf, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -127,7 +127,7 @@ https://youtu.be/ldoiqn_Ngsk</description>
       <itunes:duration>6:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_ringer.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_ringer.jpg" />
       <itunes:episode>10</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the ringer, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -145,7 +145,7 @@ https://youtu.be/iQ_N3RppzQ4</description>
       <itunes:duration>8:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_mourner.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_mourner.jpg" />
       <itunes:episode>8</itunes:episode>
       <itunes:keywords>horror podcast, audio drama, scary stories, midnight whisperer, the mourner, innkeeper story, binaural horror, night time listening, supernatural thriller, voice acting, immersive sound, spooky audio, dark ambient, mystery audiobook, audio fiction, horror narration, suspense podcast, halloween podcast, shadow realm, audio horror</itunes:keywords>
     </item>
@@ -174,9 +174,38 @@ https://youtu.be/TvKgCLefTpQ</description>
       <itunes:duration>7:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_footage.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_footage.jpg" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the footage, scary podcast, horror fiction</itunes:keywords>
+    </item>
+    <item>
+      <title>Episode 13: The Thursday Rose | Horror Audio Drama</title>
+      <description>&quot;The Thursday Rose&quot; is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
+
+Best experienced with headphones in a dark room.
+
+Watch the full visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find us.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/GRO0qTxgts0</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_thursday_rose.mp3" length="8833713" type="audio/mpeg" />
+      <guid isPermaLink="false">ee53a6c0-89d3-4039-a69d-97b117b47da1</guid>
+      <pubDate>Sun, 17 May 2026 18:20:25 +0530</pubDate>
+      <link>https://youtu.be/GRO0qTxgts0</link>
+      <itunes:summary>&quot;The Thursday Rose&quot; — an original horror audio drama by Midnight Whisperer. Fully voiced with immersive sound design. Best experienced with headphones in a dark room.</itunes:summary>
+      <itunes:duration>6:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_thursday_rose.jpg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the thursday rose, scary podcast, horror fiction</itunes:keywords>
     </item>
     <item>
       <title>Episode 12: The Card with the Corner Turned | Horror Audio Drama</title>
@@ -203,7 +232,7 @@ https://youtu.be/kNwXT17myfU</description>
       <itunes:duration>6:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_card_with_the_corner_turned.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_card_with_the_corner_turned.jpg" />
       <itunes:episode>12</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the card with the corner turned, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -221,7 +250,7 @@ https://youtu.be/_c2pFM3XCiQ</description>
       <itunes:duration>3:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_knock.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_knock.jpg" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural mystery, urban horror, nightly knocks, midnight whisperer, spine-chilling tales, haunted apartment, mysterious sounds, immersive sound design, voice acting, creepy story, dark podcast, paranormal events</itunes:keywords>
     </item>
@@ -250,7 +279,7 @@ https://youtu.be/pR-arzvM6_I</description>
       <itunes:duration>6:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_hollow_choir.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_hollow_choir.jpg" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the hollow choir, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -279,7 +308,7 @@ https://youtu.be/K2pyoRsCJKI</description>
       <itunes:duration>6:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_lantern.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_lantern.jpg" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the lantern, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -308,7 +337,7 @@ https://youtu.be/QKBP9LxnwJU</description>
       <itunes:duration>6:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_parish_diary.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_parish_diary.jpg" />
       <itunes:episode>11</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the parish diary, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -326,7 +355,7 @@ https://youtu.be/dEFklXMIOBw</description>
       <itunes:duration>7:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_tithe.jpg?v=20260517" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_tithe.jpg" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural horror, binaural sound, voice acting, original score, eerie sounds, haunted mansion, mystery thriller, nightly knocks, sacrifice theme, ghost story, dark audio drama, chilling tales</itunes:keywords>
     </item>
