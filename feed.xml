@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 17 May 2026 18:20:26 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:02:48 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
@@ -179,35 +179,6 @@ https://youtu.be/TvKgCLefTpQ</description>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the footage, scary podcast, horror fiction</itunes:keywords>
     </item>
     <item>
-      <title>Episode 13: The Thursday Rose | Horror Audio Drama</title>
-      <description>&quot;The Thursday Rose&quot; is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
-
-Best experienced with headphones in a dark room.
-
-Watch the full visual experience with original artwork on YouTube:
-https://www.youtube.com/@MidnightWhispererDark
-
-Subscribe and leave a review to help others find us.
-
-Written and produced by Midnight Whisperer.
-
-Content warning: horror themes, supernatural elements.
-
-Watch with original horror artwork on YouTube:
-https://youtu.be/GRO0qTxgts0</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_thursday_rose.mp3" length="8833713" type="audio/mpeg" />
-      <guid isPermaLink="false">ee53a6c0-89d3-4039-a69d-97b117b47da1</guid>
-      <pubDate>Sun, 17 May 2026 18:20:25 +0530</pubDate>
-      <link>https://youtu.be/GRO0qTxgts0</link>
-      <itunes:summary>&quot;The Thursday Rose&quot; — an original horror audio drama by Midnight Whisperer. Fully voiced with immersive sound design. Best experienced with headphones in a dark room.</itunes:summary>
-      <itunes:duration>6:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_thursday_rose.jpg" />
-      <itunes:episode>13</itunes:episode>
-      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the thursday rose, scary podcast, horror fiction</itunes:keywords>
-    </item>
-    <item>
       <title>Episode 12: The Card with the Corner Turned | Horror Audio Drama</title>
       <description>&quot;The Card with the Corner Turned&quot; is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
 
@@ -282,6 +253,35 @@ https://youtu.be/pR-arzvM6_I</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_hollow_choir.jpg" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the hollow choir, scary podcast, horror fiction</itunes:keywords>
+    </item>
+    <item>
+      <title>Episode 14: The Thursday Rose | Horror Audio Drama</title>
+      <description>&quot;The Thursday Rose&quot; is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
+
+Best experienced with headphones in a dark room.
+
+Watch the full visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find us.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/GRO0qTxgts0</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_thursday_rose.mp3" length="8833713" type="audio/mpeg" />
+      <guid isPermaLink="false">6a0da690-b171-4c01-b3d4-2cb5415e9800</guid>
+      <pubDate>Mon, 18 May 2026 12:02:46 +0530</pubDate>
+      <link>https://youtu.be/GRO0qTxgts0</link>
+      <itunes:summary>&quot;The Thursday Rose&quot; — an original horror audio drama by Midnight Whisperer. Fully voiced with immersive sound design. Best experienced with headphones in a dark room.</itunes:summary>
+      <itunes:duration>6:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_thursday_rose.jpg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the thursday rose, scary podcast, horror fiction</itunes:keywords>
     </item>
     <item>
       <title>Episode 4: The Lantern | Horror Audio Drama</title>
