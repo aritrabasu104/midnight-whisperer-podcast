@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>真夜中のささやき</title>
+    <link>https://www.youtube.com/@MidnightWhispererDark</link>
+    <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
+    <language>ja</language>
+    <generator>Midnight Whisperer Pipeline</generator>
+    <lastBuildDate>Thu, 04 Jun 2026 10:47:04 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>真夜中のささやき</itunes:author>
+    <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/cover.jpg" />
+    <itunes:owner>
+      <itunes:email>pass15000@gmail.com</itunes:email>
+      <itunes:name>真夜中のささやき</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <itunes:category text="Fiction" />
+
+    <item>
+      <title>エピソード15：水浸しの影 オーディオストーリー</title>
+      <description>沈黙が薄れゆくと、影さえも口を閉ざす。今夜、私たちはあなたを、音が互いに反目し合い、夜を生き延びるためにあなたの全神経を集中させる船へと誘います。エンジンが轟音を立てる中、 MiraとArman積荷の中に物理法則に反する秘密が隠されていることに気づき、黒い虚空へと漂流していく。この作品は、視覚的な邪魔を一切排除し、純粋な雰囲気の緊張感を提供することで、波間に隠された真実を聞き取れるようにします。高忠実度マイクを使用して、木材のきしみ音や濡れたロープが金属に叩きつけられる音までを捉え、耳元で親密な緊張感を体験できます。魅力的な物語をお探しなら、この作品は視覚的な邪魔を一切排除し、純粋な雰囲気の緊張感を提供します。私たちの制作は、共鳴を重ね合わせることで、目に見える範囲を超えた深みを生み出します。つまり、目を閉じて音に身を委ねてください。このオーディオドラマはヘッドホン用に作られており、通常のビデオでは味わえない没入感を提供します。ご注意：超自然的な危険、心理的なサスペンス、暗い船旅を伴う海洋ホラーのテーマが含まれています。シーンを視覚的に確認したい方は、YouTubeチャンネル（https://www.youtube.com/@MidnightWhispererDark）にアクセスして、音声フィードとオリジナルのアートワークが融合した映像体験をご覧ください。お気に入りのポッドキャストアプリで、チャンネル登録、評価、レビューをクリックして私たちを応援してください。皆様のご協力が、リスナーの皆様の今後の活動の励みとなります。Midnight Midnight Whispererが制作・執筆。不気味なエンターテイメントを愛するファンのために、デジタル世界に闇をもたらすことを目指しています。YouTubeでオリジナルのホラーアートワークと共にご覧ください：https://youtu.be/8ex2WvfAM8k
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/W3xrOZjfQRg</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_lamp_on_the_water_ja.mp3" length="7087062" type="audio/mpeg" />
+      <guid isPermaLink="false">3ab57915-ca58-46df-88ba-2a49c5719c14</guid>
+      <pubDate>Thu, 04 Jun 2026 10:47:02 +0530</pubDate>
+      <link>https://youtu.be/W3xrOZjfQRg</link>
+      <itunes:summary>このオーディオドラマでは、 MiraとArman案内人もいないまま、幽玄な湖を旅する。暗闇の中、船の乗組員を静寂が包み込むにつれ、音響効果はますます緊迫感を増していく。</itunes:summary>
+      <itunes:duration>4:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_lamp_on_the_water_ja.jpg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, バイノーラルサウンドデザイン, オリジナルスコア, 海上ホラー, 超自然的なテーマ, 不気味な音声, 幽霊話, 暗い物語, 真夜中のささやき手, 音声物語, オカルトミステリー, 水の伝承, 不気味な雰囲気, 夜間走行用オーディオ, 不気味なポッドキャストのエピソード</itunes:keywords>
+    </item>
+  </channel>
+</rss>
