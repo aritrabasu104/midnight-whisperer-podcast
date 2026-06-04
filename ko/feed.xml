@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>한밤의 속삭임</title>
+    <link>https://www.youtube.com/@MidnightWhispererDark</link>
+    <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
+    <language>ko</language>
+    <generator>Midnight Whisperer Pipeline</generator>
+    <lastBuildDate>Thu, 04 Jun 2026 10:48:16 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>한밤의 속삭임</itunes:author>
+    <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/cover.jpg" />
+    <itunes:owner>
+      <itunes:email>pass15000@gmail.com</itunes:email>
+      <itunes:name>한밤의 속삭임</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <itunes:category text="Fiction" />
+
+    <item>
+      <title>제15화: 물에 젖은 그림자 오디오 스토리</title>
+      <description>침묵이 너무 얇아지면 그림자조차 말을 멈춥니다. 오늘 밤, 소리가 스스로에게 반하는 배 안으로 여러분을 초대합니다. 그곳에서 살아남기 위해서는 온전히 집중해야 합니다. 엔진이 굉음을 내는 가운데, Mira 와 Arman 자신들의 화물이 물리 법칙을 거스르는 비밀을 품고 있다는 사실을 깨닫고 칠흑 같은 심연 속으로 표류합니다. 이 작품은 시각적 방해 없이 순수한 분위기의 긴장감을 선사하며, 파도 속에 숨겨진 진실을 귀로 직접 듣게 합니다. 고음질 마이크를 사용하여 나무가 삐걱거리는 소리부터 젖은 밧줄이 금속에 부딪히는 소리까지 모든 소리를 포착하여, 마치 귀 가까이에서 듣는 듯한 생생한 긴장감을 선사합니다. 몰입도 높은 스토리를 찾고 있다면, 이 작품은 시각적 방해 없이 순수한 분위기의 긴장감을 선사합니다. 눈으로 볼 수 있는 것 이상의 깊이를 구현하기 위해 여러 겹의 공명을 활용했으므로, 눈을 감고 소리에 흠뻑 빠져보세요. 이 오디오 드라마는 헤드폰에 최적화되어 있어 일반 영상으로는 경험할 수 없는 몰입감을 제공합니다. 주의: 초자연적인 위험, 심리적 긴장감, 그리고 어두운 배 여행을 배경으로 한 해상 공포를 소재로 하고 있습니다. 장면을 시각적으로 보고 싶으신 분들은 YouTube 채널(https://www.youtube.com/@MidnightWhispererDark)을 방문하여 오디오 피드와 함께 오리지널 아트워크를 감상하세요. 즐겨 사용하는 팟캐스트 앱에서 구독, 평점, 리뷰를 남겨주시면 저희에게 큰 힘이 됩니다. 여러분의 응원은 앞으로 나아갈 길을 밝혀줍니다. Midnight Whisperer 가 제작하고 연출한 이 팟캐스트는 오싹한 엔터테인먼트를 좋아하는 팬들을 위해 디지털 세계에 어둠을 선사합니다. YouTube에서 오리지널 호러 아트워크와 함께 감상하세요: https://youtu.be/8ex2WvfAM8k
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/xLcTjXU8KPg</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_lamp_on_the_water_ko.mp3" length="7340972" type="audio/mpeg" />
+      <guid isPermaLink="false">7344136a-e0ba-45e7-ae49-83a498c9acb7</guid>
+      <pubDate>Thu, 04 Jun 2026 10:48:15 +0530</pubDate>
+      <link>https://youtu.be/xLcTjXU8KPg</link>
+      <itunes:summary>이 오디오 드라마에서 Mira 와 Arman 안내자 없이 유령 같은 호수를 건너갑니다. 어둠이 깔린 항해 동안 침묵이 배의 선원들을 집어삼키면서 음향 효과는 더욱 짙어집니다.</itunes:summary>
+      <itunes:duration>5:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_lamp_on_the_water_ko.jpg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 바이너럴 사운드 디자인, 오리지널 악보, 해양 공포, 초자연적 주제, 소름 끼치는 오디오, 유령 이야기, 어두운 이야기, 한밤중의 속삭임, 오디오 스토리, 오컬트 미스터리, 물에 관한 이야기, 으스스한 분위기, 야간 운전 오디오, 으스스한 팟캐스트 에피소드</itunes:keywords>
+    </item>
+  </channel>
+</rss>
