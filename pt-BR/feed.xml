@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Sussurros da Meia-Noite</title>
+    <link>https://www.youtube.com/@MidnightWhispererDark</link>
+    <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
+    <language>pt-BR</language>
+    <generator>Midnight Whisperer Pipeline</generator>
+    <lastBuildDate>Thu, 04 Jun 2026 10:43:22 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Sussurros da Meia-Noite</itunes:author>
+    <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/cover.jpg" />
+    <itunes:owner>
+      <itunes:email>pass15000@gmail.com</itunes:email>
+      <itunes:name>Sussurros da Meia-Noite</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <itunes:category text="Fiction" />
+
+    <item>
+      <title>Episódio 15: Uma Sombra Encharcada – História em Áudio</title>
+      <description>Quando o silêncio se torna insuportável, até as sombras se recusam a falar. Esta noite, convidamos você a entrar no barco onde o som se volta contra si mesmo, exigindo toda a sua atenção para sobreviver à noite. Enquanto o motor ruge, Mira e Arman percebem que sua carga guarda segredos que desafiam a física enquanto derivam em um vazio negro. Esta obra oferece pura tensão atmosférica sem distrações visuais, garantindo que você ouça a verdade escondida nas ondas.
+
+Você vai sentir a tensão através de uma intimidade ao nível dos ouvidos, utilizando microfones de alta fidelidade para capturar cada rangido da madeira e cada batida da corda molhada contra o metal. Se você está procurando uma narrativa envolvente, esta obra oferece pura tensão atmosférica sem distrações visuais. Nossa produção se baseia na sobreposição de ressonâncias para criar uma profundidade além do que os olhos podem ver, o que significa: feche os olhos e deixe o som envolver você. Este drama em áudio foi criado para fones de ouvido, proporcionando uma experiência imersiva que um vídeo comum não consegue igualar.
+
+Atenção: Contém temas de perigo sobrenatural, suspense psicológico e horror marítimo envolvendo uma viagem sombria de barco. Para quem quiser visualizar a cena, acesse o canal do YouTube em https://www.youtube.com/@MidnightWhispererDark para assistir à experiência visual com arte original acompanhando a trilha de áudio. Apoia a gente clicando em “Inscrever-se”, avaliando e deixando um comentário onde quer que você encontre seu app de podcast favorito. Essas ações ajudam a iluminar o caminho para nossos ouvintes. Escrito e produzido por Midnight Whisperer, dedicado a trazer a escuridão para o mundo digital para os fãs de entretenimento assustador.
+
+Assista com a arte original de terror no YouTube:
+https://youtu.be/8ex2WvfAM8k
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/IpZYxOLxGIs</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_lamp_on_the_water_pt-BR.mp3" length="7219346" type="audio/mpeg" />
+      <guid isPermaLink="false">996e7a1b-d24e-4a7c-a896-f02e14fe8f85</guid>
+      <pubDate>Thu, 04 Jun 2026 10:43:20 +0530</pubDate>
+      <link>https://youtu.be/IpZYxOLxGIs</link>
+      <itunes:summary>Nesta peça em áudio, Mira e Arman atravessam um lago assustador sem nenhum guia. A paisagem sonora se intensifica à medida que o silêncio toma conta da tripulação do barco durante uma viagem sombria.</itunes:summary>
+      <itunes:duration>5:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</itunes:keywords>
+    </item>
+  </channel>
+</rss>
