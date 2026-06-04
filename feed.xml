@@ -7,13 +7,13 @@
   <channel>
     <title>Midnight Whisperer</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
-    <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</description>
+    <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 20 May 2026 21:42:06 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:40:02 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
-    <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room. New episodes every week. Watch the full visual experience on YouTube: https://www.youtube.com/@MidnightWhispererDark</itunes:summary>
+    <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/cover.jpg" />
@@ -177,6 +177,28 @@ https://youtu.be/iQ_N3RppzQ4</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_mourner.jpg" />
       <itunes:episode>8</itunes:episode>
       <itunes:keywords>horror podcast, audio drama, scary stories, midnight whisperer, the mourner, innkeeper story, binaural horror, night time listening, supernatural thriller, voice acting, immersive sound, spooky audio, dark ambient, mystery audiobook, audio fiction, horror narration, suspense podcast, halloween podcast, shadow realm, audio horror</itunes:keywords>
+    </item>
+    <item>
+      <title>Episode 15: A Waterlogged Shadow Audio Story</title>
+      <description>When the silence stretches too thin, even shadows refuse to speak. Tonight, we invite you into the boat where sound turns against itself, demanding your full attention to survive the night. As the engine roars, Mira and Arman realize their cargo holds secrets that defy physics while drifting into a black void. This entry offers pure atmospheric tension without visual distraction, ensuring you hear the truth hidden in the waves.
+
+You will experience the tension through ear-level intimacy, utilizing high-fidelity microphones to capture every creak of wood and slap of wet rope against metal. If you are searching for a compelling narrative, this entry offers pure atmospheric tension without visual distraction. Our production relies on layering resonance to create depth beyond what the eye can see, meaning close your eyes and let the sound wash over you. This audio drama is crafted for headphones, providing an immersive experience that standard video cannot match.
+
+Please note: Contains themes of supernatural peril, psychological suspense, and maritime horror involving a dark boat journey. For those who want to visualize the scene, visit the YouTube channel at https://www.youtube.com/@MidnightWhispererDark to watch the visual experience with original artwork alongside the audio feed. Support us by clicking subscribe, rating, and reviewing wherever you find your favorite podcast app. These acts help illuminate the path forward for our listeners. Written and produced by Midnight Whisperer, dedicated to bringing darkness into the digital realm for fans of spooky entertainment.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/8ex2WvfAM8k</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_lamp_on_the_water.mp3" length="5921582" type="audio/mpeg" />
+      <guid isPermaLink="false">f93b89f5-ea72-4557-9e6b-7011d8038b18</guid>
+      <pubDate>Thu, 04 Jun 2026 10:40:01 +0530</pubDate>
+      <link>https://youtu.be/8ex2WvfAM8k</link>
+      <itunes:summary>In this audio drama, Mira and Arman traverse a spectral lake without guidance. The soundscape intensifies as silence claims their boat&apos;s crew during a dark voyage.</itunes:summary>
+      <itunes:duration>4:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_lamp_on_the_water.jpg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, binaural sound design, original score, maritime horror, supernatural themes, creepy audio, ghost story, dark storytelling, midnight whisperer, audio tale, occult mystery, water lore, eerie atmosphere, night drive audio, spooky podcast episode</itunes:keywords>
     </item>
     <item>
       <title>Episode 5: The Footage | Horror Audio Drama</title>
