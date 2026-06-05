@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 20:19:29 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:55:59 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Murmures de Minuit</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -27,7 +27,7 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Épisode 15 : Une histoire audio intitulée « Une ombre trempée »</title>
+      <title>Épisode 1: Une histoire audio intitulée « Une ombre trempée »</title>
       <description>Quand le silence s&apos;étire à l&apos;infini, même les ombres se taisent. Ce soir, on t&apos;invite à monter à bord d&apos;un bateau où le son se retourne contre lui-même, exigeant toute ton attention pour survivre à la nuit. Alors que le moteur rugit, Mira et Arman se rendent compte que leur cale recèle des secrets qui défient les lois de la physique, tandis qu&apos;ils dérivent dans un vide noir. Cette œuvre offre une tension atmosphérique pure, sans distraction visuelle, pour que tu puisses entendre la vérité cachée dans les vagues.
 
 Tu vivras cette tension grâce à une intimité au niveau de l’oreille, grâce à des microphones haute fidélité qui capturent chaque craquement du bois et chaque claquement de corde mouillée contre le métal. Si tu recherches un récit captivant, cette œuvre offre une tension atmosphérique pure, sans distraction visuelle. Notre production s&apos;appuie sur la superposition de résonances pour créer une profondeur qui dépasse ce que l&apos;œil peut voir; en d&apos;autres termes, ferme les yeux et laisse le son t&apos;envelopper. Ce drame audio est conçu pour être écouté au casque, offrant une expérience immersive qu&apos;une vidéo standard ne peut égaler.
@@ -39,7 +39,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Rkrn-zpCMHE</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_lamp_on_the_water_fr.mp3" length="7497079" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_lamp_on_the_water_fr.mp3?v=71b9359df484" length="7497079" type="audio/mpeg" />
       <guid isPermaLink="false">1f615d1c-7055-492c-8fdf-d62c898ac05c</guid>
       <pubDate>Thu, 04 Jun 2026 10:45:48 +0530</pubDate>
       <link>https://youtu.be/Rkrn-zpCMHE</link>
