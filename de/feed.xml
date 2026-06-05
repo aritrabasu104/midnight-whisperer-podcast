@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 20:17:35 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:54:09 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Mitternachtsflüstern</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -27,7 +27,7 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Folge 15: Eine durchnässte Schatten-Hörgeschichte</title>
+      <title>Folge 1: Eine durchnässte Schatten-Hörgeschichte</title>
       <description>Wenn die Stille zu drückend wird, weigern sich sogar die Schatten zu sprechen. Heute Nacht laden wir dich in das Boot ein, in dem sich der Klang gegen sich selbst wendet und deine volle Aufmerksamkeit fordert, um die Nacht zu überstehen. Während der Motor dröhnt, erkennen Mira und Arman, dass ihre Ladung Geheimnisse birgt, die den Gesetzen der Physik trotzen, während sie in eine schwarze Leere treiben. Dieser Beitrag bietet pure atmosphärische Spannung ohne visuelle Ablenkung und sorgt dafür, dass du die in den Wellen verborgene Wahrheit hörst.
 
 Du erlebst die Spannung durch die Nähe am Ohr, wobei High-Fidelity-Mikrofone eingesetzt werden, um jedes Knarren des Holzes und jedes Schlagen nasser Seile gegen Metall einzufangen. Wenn du auf der Suche nach einer fesselnden Erzählung bist, bietet dieser Beitrag pure atmosphärische Spannung ohne visuelle Ablenkung. Unsere Produktion setzt auf die Überlagerung von Resonanzen, um eine Tiefe zu schaffen, die über das hinausgeht, was das Auge sehen kann – schließe also deine Augen und lass den Klang auf dich wirken. Dieses Hörspiel ist für Kopfhörer konzipiert und bietet ein immersives Erlebnis, das ein normales Video nicht erreichen kann.
@@ -39,7 +39,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/3RhtFTBU_PI</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_lamp_on_the_water_de.mp3" length="7104616" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_lamp_on_the_water_de.mp3?v=4bfbc21131b8" length="7104616" type="audio/mpeg" />
       <guid isPermaLink="false">6dae46b4-5aa4-4d8b-9254-f3db7c5dbf82</guid>
       <pubDate>Thu, 04 Jun 2026 10:44:34 +0530</pubDate>
       <link>https://youtu.be/3RhtFTBU_PI</link>
