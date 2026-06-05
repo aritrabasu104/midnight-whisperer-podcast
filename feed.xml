@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 01:07:05 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:16:21 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -409,6 +409,24 @@ https://youtu.be/dEFklXMIOBw</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_tithe.jpg" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural horror, binaural sound, voice acting, original score, eerie sounds, haunted mansion, mystery thriller, nightly knocks, sacrifice theme, ghost story, dark audio drama, chilling tales</itunes:keywords>
+    </item>
+    <item>
+      <title>Episode 16: The Audible Void</title>
+      <description>Step into the shadows where sound becomes reality and listen closely to unravel the mysteries hidden within a hollow whisper. In this fully immersive audio experience, Midnight Whisperer invites you into a soundscape designed to unsettle your very nervous system as Dev and Meera confront an object that defies natural law. Unlike visual media, our production relies entirely on spoken word, binaural recording techniques, and layered atmospheric scores to construct fear within your personal space. You will hear every footstep creak, every whisper carried through hollow corridors, ensuring you feel alone yet connected to the narrative depths without visual distraction. We utilize original music composition and complex binaural sound design to place the listener directly inside the story environment, ensuring no detail is left unexplored. This specific horror chapter explores the supernatural implications of an idol that consumes light before falling down into darkness, demanding your full attention to survive the night. For those who prefer seeing the visuals, visit our YouTube channel at https://www.youtube.com/@MidnightWhispererDark for the special artwork visualization. However, the true power lies in listening strictly through your preferred podcast application. Please remember to subscribe and rate this podcast app wherever you find us, as your feedback drives our darker creations for months. Written and produced by the Midnight Whisperer collective, this episode stands as a testament to audio-only storytelling excellence. We encourage listeners to wear headphones or earbuds to fully appreciate the high-fidelity spatial audio engineering embedded within these tracks. Without immersive headsets, much of the intended emotional impact might be lost during playback on standard speakers. The soundscapes here are specifically calibrated to trigger a subtle psychological response associated with ancient folklore and night time listening. This week&apos;s narrative dives deep into hidden truths that refuse to stay buried quietly, making every second count.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/g4k5xgiJrfM</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_idol_that_ate_the_light.mp3?v=70c6b8db908d" length="8484508" type="audio/mpeg" />
+      <guid isPermaLink="false">d12f443e-a898-441f-8494-8238a94d1877</guid>
+      <pubDate>Fri, 05 Jun 2026 19:16:20 +0530</pubDate>
+      <link>https://youtu.be/g4k5xgiJrfM</link>
+      <itunes:summary>In this episode, Dev and Meera confront the eerie silence of the idol while navigating a nightmarish audio landscape. Pure horror and original scoring define this atmospheric journey into darkness.</itunes:summary>
+      <itunes:duration>5:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_idol_that_ate_the_light.jpg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, spooky sounds, binaural recording, ghost story, supernatural thriller, dark fiction, creepy cult, occult mysteries, night time listening, immersive sound design, original score, midnight whisperer, audio fiction, horror narration, voice acting, atmosphere horror, dark whispers, audio experience</itunes:keywords>
     </item>
   </channel>
 </rss>
