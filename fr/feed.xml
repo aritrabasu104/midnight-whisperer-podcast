@@ -10,13 +10,13 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 20:55:59 +0530</lastBuildDate>
-    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 21:05:28 +0530</lastBuildDate>
+    <atom:link href="https://example.com/podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Murmures de Minuit</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/cover.jpg" />
+    <itunes:image href="https://example.com/podcast/fr/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Murmures de Minuit</itunes:name>
@@ -39,7 +39,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Rkrn-zpCMHE</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_lamp_on_the_water_fr.mp3?v=71b9359df484" length="7497079" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/fr/episodes/the_lamp_on_the_water_fr.mp3?v=71b9359df484" length="7497079" type="audio/mpeg" />
       <guid isPermaLink="false">1f615d1c-7055-492c-8fdf-d62c898ac05c</guid>
       <pubDate>Thu, 04 Jun 2026 10:45:48 +0530</pubDate>
       <link>https://youtu.be/Rkrn-zpCMHE</link>
@@ -47,7 +47,7 @@ https://youtu.be/Rkrn-zpCMHE</description>
       <itunes:duration>5:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_lamp_on_the_water_fr.jpg" />
+      <itunes:image href="https://example.com/podcast/fr/artwork/the_lamp_on_the_water_fr.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, conception sonore binaurale, bande originale, horreur maritime, thèmes surnaturels, un enregistrement effrayant, une histoire de fantômes, récits sombres, le chuchoteur de minuit, conte audio, mystère occulte, tout ce qu&apos;il faut savoir sur l&apos;eau, ambiance inquiétante, enregistrement audio d&apos;un trajet de nuit, épisode de podcast qui donne la chair de poule</itunes:keywords>
     </item>
@@ -60,7 +60,7 @@ https://youtu.be/g4k5xgiJrfM
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/9OqZb4L3-pg</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_idol_that_ate_the_light_fr.mp3?v=07d2555910b8" length="5073334" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/fr/episodes/the_idol_that_ate_the_light_fr.mp3?v=07d2555910b8" length="5073334" type="audio/mpeg" />
       <guid isPermaLink="false">ed857caa-8f74-4390-a6da-63ad78dcb8de</guid>
       <pubDate>Fri, 05 Jun 2026 20:19:28 +0530</pubDate>
       <link>https://youtu.be/9OqZb4L3-pg</link>
@@ -68,7 +68,7 @@ https://youtu.be/9OqZb4L3-pg</description>
       <itunes:duration>3:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg" />
+      <itunes:image href="https://example.com/podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, des bruits effrayants, enregistrement binaural, une histoire de fantômes, thriller surnaturel, fiction noire, secte effrayante, mystères occultes, écoute nocturne, une conception sonore immersive, bande originale, le chuchoteur de minuit, fiction audio, récit d&apos;horreur, doublage, horreur atmosphérique, murmures sombres, expérience audio</itunes:keywords>
     </item>

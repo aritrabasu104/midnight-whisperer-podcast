@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 20:54:09 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:05:47 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Mitternachtsflüstern</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -47,7 +47,7 @@ https://youtu.be/3RhtFTBU_PI</description>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_lamp_on_the_water_de.jpg" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_lamp_on_the_water_de.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, binaurales sounddesign, originalpartitur, horror auf see, übernatürliche themen, gruseliges audio, geistergeschichte, düstere erzählkunst, mitternachtsflüsterer, hörgeschichte, okkultes geheimnis, wissenswertes über wasser, unheimliche atmosphäre, audio für nachtfahrten, gruselige podcast-folge</itunes:keywords>
     </item>

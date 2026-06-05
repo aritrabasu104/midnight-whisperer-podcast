@@ -10,13 +10,13 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 20:57:52 +0530</lastBuildDate>
-    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 21:05:28 +0530</lastBuildDate>
+    <atom:link href="https://example.com/podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>真夜中のささやき</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/cover.jpg" />
+    <itunes:image href="https://example.com/podcast/ja/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>真夜中のささやき</itunes:name>
@@ -32,7 +32,7 @@
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/W3xrOZjfQRg</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_lamp_on_the_water_ja.mp3?v=65b87f17f75f" length="7087062" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/ja/episodes/the_lamp_on_the_water_ja.mp3?v=65b87f17f75f" length="7087062" type="audio/mpeg" />
       <guid isPermaLink="false">3ab57915-ca58-46df-88ba-2a49c5719c14</guid>
       <pubDate>Thu, 04 Jun 2026 10:47:02 +0530</pubDate>
       <link>https://youtu.be/W3xrOZjfQRg</link>
@@ -40,7 +40,7 @@ https://youtu.be/W3xrOZjfQRg</description>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_lamp_on_the_water_ja.jpg" />
+      <itunes:image href="https://example.com/podcast/ja/artwork/the_lamp_on_the_water_ja.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, バイノーラルサウンドデザイン, オリジナルスコア, 海上ホラー, 超自然的なテーマ, 不気味な音声, 幽霊話, 暗い物語, 真夜中のささやき手, 音声物語, オカルトミステリー, 水の伝承, 不気味な雰囲気, 夜間走行用オーディオ, 不気味なポッドキャストのエピソード</itunes:keywords>
     </item>
@@ -50,7 +50,7 @@ https://youtu.be/W3xrOZjfQRg</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/gHycQ_vzAKk</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_idol_that_ate_the_light_ja.mp3?v=b1e655fecd9d" length="4437618" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/ja/episodes/the_idol_that_ate_the_light_ja.mp3?v=b1e655fecd9d" length="4437618" type="audio/mpeg" />
       <guid isPermaLink="false">f102b3ba-a890-486d-8103-2d3ee97e017d</guid>
       <pubDate>Fri, 05 Jun 2026 20:21:27 +0530</pubDate>
       <link>https://youtu.be/gHycQ_vzAKk</link>
@@ -58,7 +58,7 @@ https://youtu.be/gHycQ_vzAKk</description>
       <itunes:duration>3:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_idol_that_ate_the_light_ja.jpg" />
+      <itunes:image href="https://example.com/podcast/ja/artwork/the_idol_that_ate_the_light_ja.jpg" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 不気味な音, バイノーラル録音, 幽霊話, 超常現象スリラー, ダークフィクション, 不気味なカルト, オカルトの謎, 夜間のリスニング, 没入型サウンドデザイン, オリジナルスコア, 真夜中のささやき手, オーディオフィクション, ホラーナレーション, 声優, 雰囲気ホラー, 暗いささやき, オーディオ体験</itunes:keywords>
     </item>

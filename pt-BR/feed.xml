@@ -10,13 +10,13 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 20:51:24 +0530</lastBuildDate>
-    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 21:05:28 +0530</lastBuildDate>
+    <atom:link href="https://example.com/podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Sussurros da Meia-Noite</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/cover.jpg" />
+    <itunes:image href="https://example.com/podcast/pt-BR/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Sussurros da Meia-Noite</itunes:name>
@@ -39,7 +39,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/IpZYxOLxGIs</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_lamp_on_the_water_pt-BR.mp3?v=fee93d587645" length="7219346" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_lamp_on_the_water_pt-BR.mp3?v=fee93d587645" length="7219346" type="audio/mpeg" />
       <guid isPermaLink="false">996e7a1b-d24e-4a7c-a896-f02e14fe8f85</guid>
       <pubDate>Thu, 04 Jun 2026 10:43:20 +0530</pubDate>
       <link>https://youtu.be/IpZYxOLxGIs</link>
@@ -47,7 +47,7 @@ https://youtu.be/IpZYxOLxGIs</description>
       <itunes:duration>5:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg" />
+      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</itunes:keywords>
     </item>
@@ -60,7 +60,7 @@ https://youtu.be/g4k5xgiJrfM
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/bmS2y1X4N2U</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_idol_that_ate_the_light_pt-BR.mp3?v=5c54ada205de" length="4582441" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_idol_that_ate_the_light_pt-BR.mp3?v=5c54ada205de" length="4582441" type="audio/mpeg" />
       <guid isPermaLink="false">fbec3fc9-f7a2-4838-bac4-4c57993b948c</guid>
       <pubDate>Fri, 05 Jun 2026 20:15:39 +0530</pubDate>
       <link>https://youtu.be/bmS2y1X4N2U</link>
@@ -68,7 +68,7 @@ https://youtu.be/bmS2y1X4N2U</description>
       <itunes:duration>3:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg" />
+      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, sons assustadores, gravação binaural, história de fantasmas, thriller sobrenatural, ficção sombria, seita assustadora, mistérios ocultos, ouvir à noite, design de som imersivo, trilha sonora original, midnight whisperer, ficção em áudio, narração de terror, dublagem, terror atmosférico, sussurros sombrios, experiência sonora</itunes:keywords>
     </item>

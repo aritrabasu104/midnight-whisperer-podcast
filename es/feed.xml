@@ -10,13 +10,13 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 19:20:08 +0530</lastBuildDate>
-    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 21:05:28 +0530</lastBuildDate>
+    <atom:link href="https://example.com/podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Susurros de Medianoche</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/cover.jpg" />
+    <itunes:image href="https://example.com/podcast/es/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Susurros de Medianoche</itunes:name>
@@ -52,7 +52,7 @@ Se expande en audio como una luz perpetua, permitiendo vivir y observar cada ins
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Iez-6EqQu3A</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_lamp_on_the_water_es.mp3" length="6288342" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/es/episodes/the_lamp_on_the_water_es.mp3?v=f088e54b2603" length="6288342" type="audio/mpeg" />
       <guid isPermaLink="false">74544a01-ca0d-4376-9a45-042f8c321da5</guid>
       <pubDate>Thu, 04 Jun 2026 10:42:06 +0530</pubDate>
       <link>https://youtu.be/Iez-6EqQu3A</link>
@@ -60,7 +60,7 @@ https://youtu.be/Iez-6EqQu3A</description>
       <itunes:duration>4:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_lamp_on_the_water_es.jpg" />
+      <itunes:image href="https://example.com/podcast/es/artwork/the_lamp_on_the_water_es.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>audio drama, audio drama español, horror podcast, historias de terror, podcast de miedo, scary stories to listen to, storytelling podcast, binaural sound design, original score, horror soundscape, supernatural horror, dark atmosphere, immersive audio, audio experience, podcast horror nuevo, horror audio español, audio drama miedo, poca podcast horror</itunes:keywords>
     </item>
@@ -70,7 +70,7 @@ https://youtu.be/Iez-6EqQu3A</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/tNPZvxhoR2c</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_idol_that_ate_the_light_es.mp3?v=e5bf317907a9" length="4903434" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/es/episodes/the_idol_that_ate_the_light_es.mp3?v=e5bf317907a9" length="4903434" type="audio/mpeg" />
       <guid isPermaLink="false">65b66626-fff1-481a-ad99-f415f56d098a</guid>
       <pubDate>Fri, 05 Jun 2026 19:20:07 +0530</pubDate>
       <link>https://youtu.be/tNPZvxhoR2c</link>
@@ -78,7 +78,7 @@ https://youtu.be/tNPZvxhoR2c</description>
       <itunes:duration>3:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_idol_that_ate_the_light_es.jpg" />
+      <itunes:image href="https://example.com/podcast/es/artwork/the_idol_that_ate_the_light_es.jpg" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>horror podcast, historias de miedo, audio drama, sonido envolvente, crónicas oscuras, ídolo perdido, dev y meera, horror auditivo, miedo nocturno, medianoche, narración inmersiva, efectos de sonido, drama oral, terror paranormal, serie de susurros, relatos espantosos, sonido inmersivo</itunes:keywords>
     </item>
