@@ -10,7 +10,7 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 10:43:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:22:17 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Sussurros da Meia-Noite</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
@@ -50,6 +50,27 @@ https://youtu.be/IpZYxOLxGIs</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</itunes:keywords>
+    </item>
+    <item>
+      <title>Episódio 16: O Vazio Audível</title>
+      <description>Entre nas sombras, onde o som se torna realidade, e preste atenção para desvendar os mistérios escondidos em um sussurro surdo. Nesta experiência sonora totalmente imersiva, Midnight Whisperer te convida a entrar em uma paisagem sonora criada para perturbar o teu próprio sistema nervoso, enquanto Dev e Meera enfrentam um objeto que desafia as leis da natureza. Ao contrário da mídia visual, nossa produção se baseia inteiramente na palavra falada, em técnicas de gravação binaural e em trilhas sonoras atmosféricas em camadas para criar medo dentro do teu espaço pessoal. Tu ouvirás cada passo rangendo, cada sussurro levado por corredores vazios, garantindo que te sintas sozinho, mas conectado às profundezas da narrativa, sem distrações visuais. Utilizamos composições musicais originais e um complexo design de som binaural para colocar o ouvinte diretamente dentro do ambiente da história, garantindo que nenhum detalhe seja deixado de lado. Este capítulo específico de terror explora as implicações sobrenaturais de um ídolo que consome a luz antes de cair na escuridão, exigindo toda a tua atenção para sobreviver à noite. Para quem prefere ver o visual, visita nosso canal no YouTube em https://www.youtube.com/@MidnightWhispererDark para ver a visualização especial da arte. No entanto, o verdadeiro poder está em ouvir exclusivamente pelo teu aplicativo de podcast preferido. Lembra de se inscrever e avaliar este aplicativo de podcast onde quer que você nos encontre, pois o seu feedback impulsiona nossas criações mais sombrias por meses. Escrito e produzido pelo coletivo Midnight Whisperer, este episódio é um testemunho da excelência da narrativa exclusivamente em áudio. Recomendamos que os ouvintes usem fones de ouvido ou earbuds para apreciar plenamente a engenharia de áudio espacial de alta fidelidade incorporada nessas faixas. Sem fones de ouvido imersivos, grande parte do impacto emocional pretendido pode se perder durante a reprodução em alto-falantes comuns. As paisagens sonoras aqui são calibradas especificamente para desencadear uma resposta psicológica sutil associada ao folclore antigo e à audição noturna. A narrativa desta semana mergulha fundo em verdades ocultas que se recusam a permanecer enterradas em silêncio, fazendo com que cada segundo valha a pena.
+
+Assista com a arte original de terror no YouTube:
+https://youtu.be/g4k5xgiJrfM
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/bmS2y1X4N2U</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_idol_that_ate_the_light_pt-BR.mp3?v=5c54ada205de" length="4582441" type="audio/mpeg" />
+      <guid isPermaLink="false">9b594aa7-45fd-4065-9869-8f81656d24ca</guid>
+      <pubDate>Fri, 05 Jun 2026 19:22:16 +0530</pubDate>
+      <link>https://youtu.be/bmS2y1X4N2U</link>
+      <itunes:summary>Neste episódio, Dev e Meera enfrentam o silêncio assustador do ídolo enquanto percorrem um cenário sonoro de pesadelo. Puro horror e trilha sonora original marcam essa viagem atmosférica para as trevas.</itunes:summary>
+      <itunes:duration>3:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, sons assustadores, gravação binaural, história de fantasmas, thriller sobrenatural, ficção sombria, seita assustadora, mistérios ocultos, ouvir à noite, design de som imersivo, trilha sonora original, midnight whisperer, ficção em áudio, narração de terror, dublagem, terror atmosférico, sussurros sombrios, experiência sonora</itunes:keywords>
     </item>
   </channel>
 </rss>
