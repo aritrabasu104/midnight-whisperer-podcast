@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 10:44:36 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:17:35 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Mitternachtsflüstern</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -50,6 +50,27 @@ https://youtu.be/3RhtFTBU_PI</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_lamp_on_the_water_de.jpg" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, binaurales sounddesign, originalpartitur, horror auf see, übernatürliche themen, gruseliges audio, geistergeschichte, düstere erzählkunst, mitternachtsflüsterer, hörgeschichte, okkultes geheimnis, wissenswertes über wasser, unheimliche atmosphäre, audio für nachtfahrten, gruselige podcast-folge</itunes:keywords>
+    </item>
+    <item>
+      <title>Folge 2: Die hörbare Leere</title>
+      <description>Tritt ein in die Schatten, wo Klang zur Realität wird, und lausche aufmerksam, um die Geheimnisse zu entschlüsseln, die in einem leisen Flüstern verborgen liegen. In diesem vollkommen immersiven Hörerlebnis lädt dich Midnight Whisperer in eine Klanglandschaft ein, die darauf ausgelegt ist, dein Nervensystem zu verunsichern, während Dev und Meera sich einem Objekt stellen, das den Naturgesetzen trotzt. Im Gegensatz zu visuellen Medien stützt sich unsere Produktion ausschließlich auf gesprochene Worte, binaurale Aufnahmetechniken und vielschichtige atmosphärische Musik, um in deinem persönlichen Raum Angst zu erzeugen. Du wirst jedes knarrende Schrittgeräusch hören, jedes Flüstern, das durch hohle Korridore hallt, sodass du dich allein fühlst und doch mit der Tiefe der Erzählung verbunden bist – ganz ohne visuelle Ablenkung. Wir nutzen originelle Musikkompositionen und komplexes binaurales Sounddesign, um den Hörer direkt in die Umgebung der Geschichte zu versetzen und sicherzustellen, dass kein Detail unentdeckt bleibt. Dieses spezielle Horror-Kapitel erforscht die übernatürlichen Implikationen eines Idols, das Licht verschlingt, bevor es in die Dunkelheit stürzt, und verlangt deine volle Aufmerksamkeit, um die Nacht zu überleben. Wer lieber Bilder sieht, kann auf unserem YouTube-Kanal unter https://www.youtube.com/@MidnightWhispererDark die spezielle Visualisierung der Kunstwerke ansehen. Die wahre Kraft liegt jedoch darin, ausschließlich über deine bevorzugte Podcast-App zuzuhören. Bitte denkt daran, diesen Podcast zu abonnieren und zu bewerten, wo immer ihr uns findet, denn euer Feedback treibt unsere düsteren Kreationen über Monate hinweg an. Geschrieben und produziert vom Kollektiv „Midnight Whisperer“, ist diese Folge ein Beweis für exzellentes Storytelling, das ausschließlich auf Audio basiert. Wir empfehlen den Zuhörern, Kopfhörer oder Ohrstöpsel zu tragen, um die in diesen Tracks eingebettete High-Fidelity-Raumklangtechnik voll und ganz genießen zu können. Ohne immersive Kopfhörer könnte ein Großteil der beabsichtigten emotionalen Wirkung bei der Wiedergabe über Standardlautsprecher verloren gehen. Die Klanglandschaften hier sind speziell darauf abgestimmt, eine subtile psychologische Reaktion auszulösen, die mit alter Folklore und nächtlichem Zuhören verbunden ist. Die Erzählung dieser Woche taucht tief in verborgene Wahrheiten ein, die sich weigern, still verborgen zu bleiben, sodass jede Sekunde zählt.
+
+Schau dir das Video mit originalen Horror-Illustrationen auf YouTube an:
+https://youtu.be/g4k5xgiJrfM
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/fKDaY3f7Kss</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_idol_that_ate_the_light_de.mp3?v=25d559457517" length="4494670" type="audio/mpeg" />
+      <guid isPermaLink="false">d6da8150-bb80-4797-bbba-4be90eb4a766</guid>
+      <pubDate>Fri, 05 Jun 2026 20:17:33 +0530</pubDate>
+      <link>https://youtu.be/fKDaY3f7Kss</link>
+      <itunes:summary>In dieser Folge stellen sich Dev und Meera der unheimlichen Stille des Idols, während sie sich durch eine albtraumhafte Klanglandschaft bewegen. Purer Horror und eine originelle Filmmusik prägen diese atmosphärische Reise in die Dunkelheit.</itunes:summary>
+      <itunes:duration>3:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_idol_that_ate_the_light_de.jpg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, gruselige geräusche, binaurale aufnahme, geistergeschichte, übernatürlicher thriller, dunkle literatur, gruseliger kult, okkulte geheimnisse, nachtmusik, eindringliches sounddesign, originalpartitur, mitternachtsflüsterer, hörspiel, horror-erzählung, synchronsprecher, atmosphärischer horror, dunkle flüstern, klangerlebnis</itunes:keywords>
     </item>
   </channel>
 </rss>
