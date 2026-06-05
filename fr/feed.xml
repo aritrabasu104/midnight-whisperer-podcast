@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 10:45:49 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:19:29 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Murmures de Minuit</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -50,6 +50,27 @@ https://youtu.be/Rkrn-zpCMHE</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_lamp_on_the_water_fr.jpg" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, conception sonore binaurale, bande originale, horreur maritime, thèmes surnaturels, un enregistrement effrayant, une histoire de fantômes, récits sombres, le chuchoteur de minuit, conte audio, mystère occulte, tout ce qu&apos;il faut savoir sur l&apos;eau, ambiance inquiétante, enregistrement audio d&apos;un trajet de nuit, épisode de podcast qui donne la chair de poule</itunes:keywords>
+    </item>
+    <item>
+      <title>Épisode 2: Le vide audible</title>
+      <description>Plonge dans l&apos;ombre, là où le son devient réalité, et tends l&apos;oreille pour percer les mystères cachés dans un murmure creux. Dans cette expérience audio totalement immersive, Midnight Whisperer t&apos;invite à découvrir un paysage sonore conçu pour déstabiliser ton système nerveux, tandis que Dev et Meera font face à un objet qui défie les lois de la nature. Contrairement aux médias visuels, notre production repose entièrement sur la parole, des techniques d’enregistrement binaural et des bandes sonores atmosphériques superposées pour créer un sentiment de peur au sein de ton espace personnel. Tu entendras chaque craquement de pas, chaque murmure porté par des couloirs creux, ce qui te garantira de te sentir seul tout en restant connecté aux profondeurs du récit, sans aucune distraction visuelle. Nous utilisons des compositions musicales originales et une conception sonore binaurale complexe pour plonger l’auditeur directement au cœur de l’environnement narratif, en veillant à ce qu’aucun détail ne soit laissé de côté. Ce chapitre d’horreur explore les implications surnaturelles d’une idole qui consume la lumière avant de sombrer dans les ténèbres, exigeant toute ton attention pour survivre à la nuit. Pour ceux qui préfèrent les images, rends-toi sur notre chaîne YouTube à l’adresse https://www.youtube.com/@MidnightWhispererDark pour découvrir la visualisation artistique spéciale. Cependant, la véritable puissance réside dans l’écoute exclusive via ton application de podcast préférée. N&apos;oublie pas de t&apos;abonner et de noter cette application de podcast où que tu nous trouves, car tes commentaires alimentent nos créations les plus sombres pendant des mois. Écrit et produit par le collectif Midnight Whisperer, cet épisode témoigne de l&apos;excellence de la narration exclusivement audio. Nous encourageons les auditeurs à porter des écouteurs ou des oreillettes pour apprécier pleinement l&apos;ingénierie audio spatiale haute fidélité intégrée à ces pistes. Sans casque immersif, une grande partie de l’impact émotionnel recherché pourrait être perdue lors de la lecture sur des haut-parleurs standard. Les paysages sonores sont ici spécialement calibrés pour déclencher une réponse psychologique subtile associée au folklore ancien et à l’écoute nocturne. Le récit de cette semaine plonge au cœur de vérités cachées qui refusent de rester enfouies en silence, faisant de chaque seconde un moment crucial.
+
+Regarde la vidéo avec les illustrations d&apos;horreur originales sur YouTube:
+https://youtu.be/g4k5xgiJrfM
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/9OqZb4L3-pg</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_idol_that_ate_the_light_fr.mp3?v=07d2555910b8" length="5073334" type="audio/mpeg" />
+      <guid isPermaLink="false">ed857caa-8f74-4390-a6da-63ad78dcb8de</guid>
+      <pubDate>Fri, 05 Jun 2026 20:19:28 +0530</pubDate>
+      <link>https://youtu.be/9OqZb4L3-pg</link>
+      <itunes:summary>Dans cet épisode, Dev et Meera affrontent le silence inquiétant de l’idole tout en évoluant dans un paysage sonore cauchemardesque. Horreur pure et bande originale unique caractérisent ce voyage atmosphérique dans les ténèbres.</itunes:summary>
+      <itunes:duration>3:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, des bruits effrayants, enregistrement binaural, une histoire de fantômes, thriller surnaturel, fiction noire, secte effrayante, mystères occultes, écoute nocturne, une conception sonore immersive, bande originale, le chuchoteur de minuit, fiction audio, récit d&apos;horreur, doublage, horreur atmosphérique, murmures sombres, expérience audio</itunes:keywords>
     </item>
   </channel>
 </rss>
