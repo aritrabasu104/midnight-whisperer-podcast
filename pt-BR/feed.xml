@@ -10,13 +10,13 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 21:05:28 +0530</lastBuildDate>
-    <atom:link href="https://example.com/podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2026 19:23:30 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Sussurros da Meia-Noite</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast/pt-BR/cover.jpg" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Sussurros da Meia-Noite</itunes:name>
@@ -27,50 +27,31 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Episódio 1: Uma Sombra Encharcada – História em Áudio</title>
-      <description>Quando o silêncio se torna insuportável, até as sombras se recusam a falar. Esta noite, convidamos você a entrar no barco onde o som se volta contra si mesmo, exigindo toda a sua atenção para sobreviver à noite. Enquanto o motor ruge, Mira e Arman percebem que sua carga guarda segredos que desafiam a física enquanto derivam em um vazio negro. Esta obra oferece pura tensão atmosférica sem distrações visuais, garantindo que você ouça a verdade escondida nas ondas.
+      <title>Episódio 1: A Planchette em Fuga</title>
+      <description>No silêncio profundo de um porão assombrado, vozes começam a surgir em meio ao ruído estático. Esta experiência de áudio te convida a entrar numa narrativa arrepiante, onde o mundo invisível exige a atenção de três almas aterrorizadas em busca de respostas. A atmosfera é densa de suspense, criada especialmente para os fones de ouvido sensíveis que definem a imersão moderna. Cada sussurro tem peso, garantindo que nenhum ouvinte permaneça completamente imperturbável. Você precisa deixar as distrações de lado para mergulhar de cabeça nessa saga sombria.
 
-Você vai sentir a tensão através de uma intimidade ao nível dos ouvidos, utilizando microfones de alta fidelidade para capturar cada rangido da madeira e cada batida da corda molhada contra o metal. Se você está procurando uma narrativa envolvente, esta obra oferece pura tensão atmosférica sem distrações visuais. Nossa produção se baseia na sobreposição de ressonâncias para criar uma profundidade além do que os olhos podem ver, o que significa: feche os olhos e deixe o som envolver você. Este drama em áudio foi criado para fones de ouvido, proporcionando uma experiência imersiva que um vídeo comum não consegue igualar.
+Maya, Nikhil e Tara se veem presos em uma sessão que desafia qualquer explicação lógica ou correção científica. Enquanto tentam controlar a mediunidade, a realidade se fragmenta violentamente diante de seus olhos desesperados. A tensão aumenta implacavelmente à medida que a prancheta começa a se mover contra a vontade deles. Você vai sentir os pelos se arrepiarem enquanto sinais binaurais atmosféricos se movem ao seu redor, criando uma ilusão de presença dentro do seu próprio quarto. Esses episódios não são meramente lidos, mas interpretados com intensa intenção.
 
-Atenção: Contém temas de perigo sobrenatural, suspense psicológico e horror marítimo envolvendo uma viagem sombria de barco. Para quem quiser visualizar a cena, acesse o canal do YouTube em https://www.youtube.com/@MidnightWhispererDark para assistir à experiência visual com arte original acompanhando a trilha de áudio. Apoia a gente clicando em “Inscrever-se”, avaliando e deixando um comentário onde quer que você encontre seu app de podcast favorito. Essas ações ajudam a iluminar o caminho para nossos ouvintes. Escrito e produzido por Midnight Whisperer, dedicado a trazer a escuridão para o mundo digital para os fãs de entretenimento assustador.
+A adaptação completa do roteiro conta com um design de som imersivo e trilha sonora original para criar medo genuíno. A dublagem transmite um medo sutil, em vez dos sustos baratos usados por produções de menor qualidade. A produção de alta fidelidade garante clareza nos momentos mais sombrios, quando a segurança é fundamental. Os avisos de conteúdo incluem perturbações psíquicas e temas sobrenaturais intensos, adequados apenas para público adulto. Recomendamos que ouvintes mais sensíveis usem fones de ouvido para captar cada sussurro com perfeição.
 
-Assista com a arte original de terror no YouTube:
-https://youtu.be/8ex2WvfAM8k
+Se isso te interessa, convidamos você a nos apoiar com avaliações. Assista à experiência visual com arte original no YouTube: https://www.youtube.com/@MidnightWhispererDark. Para mais histórias de pesadelo, inscreve-te e avalia no teu app de podcast favorito hoje mesmo para nos ajudar a continuar produzindo ficção de terror de alta qualidade globalmente. Escrito e produzido por Midnight Whisperer. Não ouças sozinho sem proteção contra forças invisíveis. Esperamos que você fique seguro esta noite enquanto se envolve com esses segredos em áudio. A verdade costuma ser mais pesada do que o silêncio permite. Fique ligado nos próximos episódios, que prometem profundidade semelhante.
+
+Assista com ilustrações de terror originais no YouTube:
+https://youtu.be/DpT_NcqGFdY
 
 Watch with original horror artwork on YouTube:
-https://youtu.be/IpZYxOLxGIs</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_lamp_on_the_water_pt-BR.mp3?v=fee93d587645" length="7219346" type="audio/mpeg" />
-      <guid isPermaLink="false">996e7a1b-d24e-4a7c-a896-f02e14fe8f85</guid>
-      <pubDate>Thu, 04 Jun 2026 10:43:20 +0530</pubDate>
-      <link>https://youtu.be/IpZYxOLxGIs</link>
-      <itunes:summary>Nesta peça em áudio, Mira e Arman atravessam um lago assustador sem nenhum guia. A paisagem sonora se intensifica à medida que o silêncio toma conta da tripulação do barco durante uma viagem sombria.</itunes:summary>
-      <itunes:duration>5:00</itunes:duration>
+https://youtu.be/Ea21liKTyog</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_planchette_ran_first_pt-BR.mp3?v=61fe13951b3b" length="10338993" type="audio/mpeg" />
+      <guid isPermaLink="false">ec21257a-5fec-4503-a6c0-e114e7e5d6c5</guid>
+      <pubDate>Sat, 06 Jun 2026 19:23:29 +0530</pubDate>
+      <link>https://youtu.be/Ea21liKTyog</link>
+      <itunes:summary>Três amigos acabam se deparando com mais do que esperavam quando a sessão de mediunidade sai do controle. A prancheta começa a se mover sozinha, e ninguém está preparado para o que vem a seguir.</itunes:summary>
+      <itunes:duration>7:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg?v=5344337b1041" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_planchette_ran_first_pt-BR.jpg?v=df3cf10d5d03" />
       <itunes:episode>1</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</itunes:keywords>
-    </item>
-    <item>
-      <title>Episódio 2: O Vazio Audível</title>
-      <description>Entre nas sombras, onde o som se torna realidade, e preste atenção para desvendar os mistérios escondidos em um sussurro surdo. Nesta experiência sonora totalmente imersiva, Midnight Whisperer te convida a entrar em uma paisagem sonora criada para perturbar o teu próprio sistema nervoso, enquanto Dev e Meera enfrentam um objeto que desafia as leis da natureza. Ao contrário da mídia visual, nossa produção se baseia inteiramente na palavra falada, em técnicas de gravação binaural e em trilhas sonoras atmosféricas em camadas para criar medo dentro do teu espaço pessoal. Tu ouvirás cada passo rangendo, cada sussurro levado por corredores vazios, garantindo que te sintas sozinho, mas conectado às profundezas da narrativa, sem distrações visuais. Utilizamos composições musicais originais e um complexo design de som binaural para colocar o ouvinte diretamente dentro do ambiente da história, garantindo que nenhum detalhe seja deixado de lado. Este capítulo específico de terror explora as implicações sobrenaturais de um ídolo que consome a luz antes de cair na escuridão, exigindo toda a sua atenção para sobreviver à noite. Para quem prefere ver o visual, visita nosso canal no YouTube em https://www.youtube.com/@MidnightWhispererDark para ver a visualização especial da arte. No entanto, o verdadeiro poder está em ouvir exclusivamente pelo teu aplicativo de podcast preferido. Lembra de se inscrever e avaliar este aplicativo de podcast onde quer que você nos encontre, pois o seu feedback impulsiona nossas criações mais sombrias por meses. Escrito e produzido pelo coletivo Midnight Whisperer, este episódio é um testemunho da excelência da narrativa exclusivamente em áudio. Recomendamos que os ouvintes usem fones de ouvido ou earbuds para apreciar plenamente a engenharia de áudio espacial de alta fidelidade incorporada nessas faixas. Sem fones de ouvido imersivos, grande parte do impacto emocional pretendido pode se perder durante a reprodução em alto-falantes comuns. As paisagens sonoras aqui são calibradas especificamente para desencadear uma resposta psicológica sutil associada ao folclore antigo e à audição noturna. A narrativa desta semana mergulha fundo em verdades ocultas que se recusam a permanecer enterradas em silêncio, fazendo com que cada segundo valha a pena.
-
-Assista com a arte original de terror no YouTube:
-https://youtu.be/g4k5xgiJrfM
-
-Watch with original horror artwork on YouTube:
-https://youtu.be/bmS2y1X4N2U</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_idol_that_ate_the_light_pt-BR.mp3?v=5c54ada205de" length="4582441" type="audio/mpeg" />
-      <guid isPermaLink="false">fbec3fc9-f7a2-4838-bac4-4c57993b948c</guid>
-      <pubDate>Fri, 05 Jun 2026 20:15:39 +0530</pubDate>
-      <link>https://youtu.be/bmS2y1X4N2U</link>
-      <itunes:summary>Neste episódio, Dev e Meera enfrentam o silêncio assustador do ídolo enquanto percorrem um cenário sonoro de pesadelo. Puro horror e trilha sonora original marcam essa viagem atmosférica para as trevas.</itunes:summary>
-      <itunes:duration>3:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg" />
-      <itunes:episode>2</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, sons assustadores, gravação binaural, história de fantasmas, thriller sobrenatural, ficção sombria, seita assustadora, mistérios ocultos, ouvir à noite, design de som imersivo, trilha sonora original, midnight whisperer, ficção em áudio, narração de terror, dublagem, terror atmosférico, sussurros sombrios, experiência sonora</itunes:keywords>
+      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, temas sobrenaturais, terror paranormal, midnight whisperer, áudio da sessão espírita, histórias de casas mal-assombradas, design de som binaural, terror imersivo, atmosfera sombria, podcast de histórias de fantasmas, audiolivro, contos de pesadelo, áudio assustador, episódios do podcast &quot;dark&quot;, narração de terror, audiolivro</itunes:keywords>
     </item>
   </channel>
 </rss>
