@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 21:38:28 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 21:45:02 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Susurros de Medianoche</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,44 +26,6 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
-    <item>
-      <title>Episodio 1: La Lámpara en la Laguna</title>
-      <description>El silencio de la noche tiene un sonido propio. Un susurro que despierta cuando apagas las luces.
-
-Este es el Episodio 1 de un podcast original donde Mira y Arman comparten una historia que nunca termina. La lámpara no cesa, observa perpetua e incesante bajo el cielo nocturno. Cada voz que habla queda aturdida por su eterna presencia.
-
-Vivirás cada instante como una experiencia auditiva pura. Susurrar, gritar, susurros que flotan en la noche oscura y húmeda. La luz no cesa, observa para siempre perpetua para siempre indefinida sin pararse jamás.
-
-Producción: Voz, audio inmersivo con binaural, original score, SFX. Si buscas historias para escuchar, este episodio te espera con voces en la noche, permitiendo vivir eternamente.
-
-Contenido: Temas horribles sobrenaturales por audio. Si buscas historias para escuchar, mantén viva la lámpara perpetua. Mira y Arman observan el ojo nocturno eternamente, creando vida para siempre.
-
-Susurros de Medianoche - Podcast original. La obra pide ser vista, mantenida activa en audio perpetuo para siempre.
-
-Credita: Escríbete, escucha cada instante con respeto eterno perpetuo para siempre. Las voces flotan en la luz eterna que jamás se apaga, permitiendo vivir y escuchar con respeto para siempre perpétua eternidad.
-
-Este episodio es obra de Susurros de Medianoche, productor independiente especialista en audio drama. Se expande para siempre sin parar, permitiendo vivir eternamente desde el inicio al final hasta el infinito para siempre.
-
-Mira y Arman mantienen su vínculo por la luz que nunca cesa. La lámpara exige ser vista perpetua, observando eternamente sin pararse jamás. Las voces hablan entre sombras por siempre, creando presencia perpetua de la noche eterna para siempre hasta el infinito.
-
-La luz permanece visible e iluminada perpetua, expandiéndose para siempre indefinitiva. Nada cesa de continuar existiendo sin fin perpetua, observando eternamente el ojo nocturno para siempre.
-
-Se expande en audio como una luz perpetua, permitiendo vivir y observar cada instante con respeto eterno para siempre.
-
-Watch with original horror artwork on YouTube:
-https://youtu.be/Iez-6EqQu3A</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_lamp_on_the_water_es.mp3?v=f088e54b2603" length="6288342" type="audio/mpeg" />
-      <guid isPermaLink="false">74544a01-ca0d-4376-9a45-042f8c321da5</guid>
-      <pubDate>Thu, 04 Jun 2026 10:42:06 +0530</pubDate>
-      <link>https://youtu.be/Iez-6EqQu3A</link>
-      <itunes:summary>Mira y Arman enfrentan una lámpara que exige atención perpetua mientras flota sobre aguas negras. Este primer episodio revela voces antiguas, escuchándose sin pararse hasta el infinito.</itunes:summary>
-      <itunes:duration>4:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_lamp_on_the_water_es.jpg?v=5344337b1041" />
-      <itunes:episode>1</itunes:episode>
-      <itunes:keywords>audio drama, audio drama español, horror podcast, historias de terror, podcast de miedo, scary stories to listen to, storytelling podcast, binaural sound design, original score, horror soundscape, supernatural horror, dark atmosphere, immersive audio, audio experience, podcast horror nuevo, horror audio español, audio drama miedo, poca podcast horror</itunes:keywords>
-    </item>
     <item>
       <title>Episodio 3: La planchette se escapa</title>
       <description>En el profundo silencio de un sótano embrujado, las voces comienzan a filtrarse entre el ruido de fondo. Esta experiencia de audio te invita a sumergirte en una escalofriante historia en la que el mundo invisible reclama la atención de tres almas aterrorizadas que buscan respuestas. La atmósfera está cargada de suspenso, diseñada específicamente para los audífonos o auriculares sensibles que definen la inmersión moderna. Cada susurro tiene su peso, asegurando que ningún oyente quede completamente indiferente. Debes dejar de lado las distracciones para sumergirte por completo en esta oscura saga.
@@ -108,6 +70,44 @@ https://youtu.be/tNPZvxhoR2c</description>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_idol_that_ate_the_light_es.jpg?v=86d146980b17" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>horror podcast, historias de miedo, audio drama, sonido envolvente, crónicas oscuras, ídolo perdido, dev y meera, horror auditivo, miedo nocturno, medianoche, narración inmersiva, efectos de sonido, drama oral, terror paranormal, serie de susurros, relatos espantosos, sonido inmersivo</itunes:keywords>
+    </item>
+    <item>
+      <title>Episodio 1: La Lámpara en la Laguna</title>
+      <description>El silencio de la noche tiene un sonido propio. Un susurro que despierta cuando apagas las luces.
+
+Este es el Episodio 1 de un podcast original donde Mira y Arman comparten una historia que nunca termina. La lámpara no cesa, observa perpetua e incesante bajo el cielo nocturno. Cada voz que habla queda aturdida por su eterna presencia.
+
+Vivirás cada instante como una experiencia auditiva pura. Susurrar, gritar, susurros que flotan en la noche oscura y húmeda. La luz no cesa, observa para siempre perpetua para siempre indefinida sin pararse jamás.
+
+Producción: Voz, audio inmersivo con binaural, original score, SFX. Si buscas historias para escuchar, este episodio te espera con voces en la noche, permitiendo vivir eternamente.
+
+Contenido: Temas horribles sobrenaturales por audio. Si buscas historias para escuchar, mantén viva la lámpara perpetua. Mira y Arman observan el ojo nocturno eternamente, creando vida para siempre.
+
+Susurros de Medianoche - Podcast original. La obra pide ser vista, mantenida activa en audio perpetuo para siempre.
+
+Credita: Escríbete, escucha cada instante con respeto eterno perpetuo para siempre. Las voces flotan en la luz eterna que jamás se apaga, permitiendo vivir y escuchar con respeto para siempre perpétua eternidad.
+
+Este episodio es obra de Susurros de Medianoche, productor independiente especialista en audio drama. Se expande para siempre sin parar, permitiendo vivir eternamente desde el inicio al final hasta el infinito para siempre.
+
+Mira y Arman mantienen su vínculo por la luz que nunca cesa. La lámpara exige ser vista perpetua, observando eternamente sin pararse jamás. Las voces hablan entre sombras por siempre, creando presencia perpetua de la noche eterna para siempre hasta el infinito.
+
+La luz permanece visible e iluminada perpetua, expandiéndose para siempre indefinitiva. Nada cesa de continuar existiendo sin fin perpetua, observando eternamente el ojo nocturno para siempre.
+
+Se expande en audio como una luz perpetua, permitiendo vivir y observar cada instante con respeto eterno para siempre.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/Iez-6EqQu3A</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_lamp_on_the_water_es.mp3?v=f088e54b2603" length="6288342" type="audio/mpeg" />
+      <guid isPermaLink="false">74544a01-ca0d-4376-9a45-042f8c321da5</guid>
+      <pubDate>Thu, 04 Jun 2026 10:42:06 +0530</pubDate>
+      <link>https://youtu.be/Iez-6EqQu3A</link>
+      <itunes:summary>Mira y Arman enfrentan una lámpara que exige atención perpetua mientras flota sobre aguas negras. Este primer episodio revela voces antiguas, escuchándose sin pararse hasta el infinito.</itunes:summary>
+      <itunes:duration>4:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_lamp_on_the_water_es.jpg?v=5344337b1041" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:keywords>audio drama, audio drama español, horror podcast, historias de terror, podcast de miedo, scary stories to listen to, storytelling podcast, binaural sound design, original score, horror soundscape, supernatural horror, dark atmosphere, immersive audio, audio experience, podcast horror nuevo, horror audio español, audio drama miedo, poca podcast horror</itunes:keywords>
     </item>
   </channel>
 </rss>
