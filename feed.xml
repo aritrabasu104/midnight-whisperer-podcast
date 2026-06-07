@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 21:45:02 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 14:09:25 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 18: The River Remembers Silence</title>
+      <description>Step into the shadows where sound weaves reality for Midnight Whisperer, crafted specifically for immersive audio listeners rather than casual skimmers. This audio drama strips visuals to unleash pure imagination, ensuring every whisper lands softly yet distinctly right in your ear. In this specific narrative, the trio of students named Bima, Dimas, and Sari navigate a terrifying river bank where the law of crossing holds impossible weight. The bridge remembers all previous moments, demanding payment strictly through retained memory. You will hear fully voiced stories layered against haunting ambient noise designed specifically to unsettle your senses during playback. Binaural recording techniques simulate head movement, placing the listener directly inside the tragic aftermath of attempted crossings. Our production team prioritized original score building with meticulous rhythm alongside SFX tailored for headphone listening. We invite you to explore how fear sounds when no video is required, leaving room for your own imagination to fill the dark gaps. Contains specific themes suitable for horror fans seeking atmospheric depth without visual distractions. Watch the full visual narrative experience available on YouTube featuring unique artwork, but know that audio offers a deeper truth. Subscribe and rate review are essential parts of our community support network for ongoing content. Written and produced entirely by the Midnight Whisperer production house team, delivering professional audio storytelling.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/6W7r_Z9isgA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_bridge_no_student_crossed_twice.mp3?v=b98ef48bd3c1" length="8285142" type="audio/mpeg" />
+      <guid isPermaLink="false">6d546149-25fc-45a1-87d0-479a812cf10e</guid>
+      <pubDate>Sun, 07 Jun 2026 14:09:21 +0530</pubDate>
+      <link>https://youtu.be/6W7r_Z9isgA</link>
+      <itunes:summary>Students face a cursed river that remembers their footsteps, revealing why crossing twice is forbidden. Full voice cast and immersive sound design reveal the tragedy trapped between syllables.</itunes:summary>
+      <itunes:duration>5:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_bridge_no_student_crossed_twice.jpg?v=606dcc37112d" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, binaural horror, supernatural thriller, bridge no student crossed, bimas ordeal, dimas fate, sari warning, ghost story audio, atmospheric horror, spooky podcast, eerie soundscape, narrative fiction, creepy campus, midnight whisperer, dark audiobook, horror storytelling, sonic horror, urban legend</itunes:keywords>
+    </item>
     <item>
       <title>Episode 17: The Planchette Runs Free</title>
       <description>In the deep silence of a haunted basement, voices begin to bleed through the static. This audio experience invites you into a chilling narrative where the unseen world demands attention from three terrified souls seeking answers. The atmosphere is thick with suspense, designed specifically for the sensitive headphones or earbuds that define modern immersion. Every whisper carries weight, ensuring no listener remains completely undisturbed. You must put aside distractions to fully engage with this dark saga.
