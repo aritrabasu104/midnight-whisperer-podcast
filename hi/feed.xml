@@ -5,21 +5,21 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>आधी रात की फुसफुसाहट</title>
+    <title>Midnight Whisperer Hindi हिंदी</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 23:31:17 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>आधी रात की फुसफुसाहट</itunes:author>
+    <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
-      <itunes:name>आधी रात की फुसफुसाहट</itunes:name>
+      <itunes:name>Midnight Whisperer Hindi हिंदी</itunes:name>
     </itunes:owner>
     <itunes:category text="Fiction">
       <itunes:category text="Drama" />
