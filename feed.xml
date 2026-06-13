@@ -10,13 +10,13 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 13:37:05 +0530</lastBuildDate>
-    <atom:link href="https://example.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 21:39:15 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast/cover.jpg" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Midnight Whisperer</itunes:name>
@@ -34,7 +34,7 @@ The production utilizes immersive sound design to layer complex themes and origi
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/gz6No7mZTNc</description>
-      <enclosure url="https://example.com/podcast/episodes/the_school_marched_in_winter.mp3?v=069aa523e742" length="9615506" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_school_marched_in_winter.mp3?v=069aa523e742" length="9615506" type="audio/mpeg" />
       <guid isPermaLink="false">6b749e2f-90ca-4dcb-adb9-dea5ff3dbc18</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:04 +0530</pubDate>
       <link>https://youtu.be/gz6No7mZTNc</link>
@@ -42,7 +42,7 @@ https://youtu.be/gz6No7mZTNc</description>
       <itunes:duration>6:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_school_marched_in_winter.jpg?v=1bd5aa0f25c5" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_school_marched_in_winter.jpg?v=1bd5aa0f25c5" />
       <itunes:episode>21</itunes:episode>
       <itunes:keywords>midnight whisperer, horror podcast, scary stories, audio drama, original score, binaural sound, riya, nima, bappa, roll call voice, winter, school, supernatural, spooky, narrative audio, immersive soundscape, full cast, dark fiction, chilling whispers, haunted atmosphere</itunes:keywords>
     </item>
@@ -63,7 +63,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/bY4lOzMqQXw</description>
-      <enclosure url="https://example.com/podcast/episodes/the_fort_sign_waited_for_dusk.mp3?v=3c5233647b4f" length="8468835" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_fort_sign_waited_for_dusk.mp3?v=3c5233647b4f" length="8468835" type="audio/mpeg" />
       <guid isPermaLink="false">fb3d22c2-f72b-4a38-94cd-928c01523fb1</guid>
       <pubDate>Thu, 11 Jun 2026 18:04:14 +0530</pubDate>
       <link>https://youtu.be/bY4lOzMqQXw</link>
@@ -71,7 +71,7 @@ https://youtu.be/bY4lOzMqQXw</description>
       <itunes:duration>5:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_fort_sign_waited_for_dusk.jpg?v=0b9091de12e7" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_fort_sign_waited_for_dusk.jpg?v=0b9091de12e7" />
       <itunes:episode>20</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at bhangarh fort in 2018?, en, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -83,7 +83,7 @@ The ambient soundscape shifts menacingly, utilizing binaural engineering to plac
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/q6eIc-cXTeQ</description>
-      <enclosure url="https://example.com/podcast/episodes/the_canal_learns_your_childs_voice.mp3?v=df33951c5af2" length="8920231" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_canal_learns_your_childs_voice.mp3?v=df33951c5af2" length="8920231" type="audio/mpeg" />
       <guid isPermaLink="false">9dcbb89d-6867-41a8-823d-e794b049844b</guid>
       <pubDate>Mon, 08 Jun 2026 15:03:09 +0530</pubDate>
       <link>https://youtu.be/q6eIc-cXTeQ</link>
@@ -91,7 +91,7 @@ https://youtu.be/q6eIc-cXTeQ</description>
       <itunes:duration>6:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_canal_learns_your_childs_voice.jpg?v=d56d9e02f202" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_canal_learns_your_childs_voice.jpg?v=d56d9e02f202" />
       <itunes:episode>19</itunes:episode>
       <itunes:keywords>horror podcast, audio drama, scary stories, supernatural horror, binaural audio, immersive sound design, midnight whisperer, original podcast series, horror audio drama, podcast episode 19, canal story, dark atmosphere, horror narrator, audio storytelling, spooky audio</itunes:keywords>
     </item>
@@ -101,7 +101,7 @@ https://youtu.be/q6eIc-cXTeQ</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/6W7r_Z9isgA</description>
-      <enclosure url="https://example.com/podcast/episodes/the_bridge_no_student_crossed_twice.mp3?v=b98ef48bd3c1" length="8285142" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_bridge_no_student_crossed_twice.mp3?v=b98ef48bd3c1" length="8285142" type="audio/mpeg" />
       <guid isPermaLink="false">6d546149-25fc-45a1-87d0-479a812cf10e</guid>
       <pubDate>Sun, 07 Jun 2026 14:09:21 +0530</pubDate>
       <link>https://youtu.be/6W7r_Z9isgA</link>
@@ -109,7 +109,7 @@ https://youtu.be/6W7r_Z9isgA</description>
       <itunes:duration>5:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_bridge_no_student_crossed_twice.jpg?v=606dcc37112d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_bridge_no_student_crossed_twice.jpg?v=606dcc37112d" />
       <itunes:episode>18</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, binaural horror, supernatural thriller, bridge no student crossed, bimas ordeal, dimas fate, sari warning, ghost story audio, atmospheric horror, spooky podcast, eerie soundscape, narrative fiction, creepy campus, midnight whisperer, dark audiobook, horror storytelling, sonic horror, urban legend</itunes:keywords>
     </item>
@@ -125,7 +125,7 @@ If this resonates, we invite your support through ratings. Watch the visual expe
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/DpT_NcqGFdY</description>
-      <enclosure url="https://example.com/podcast/episodes/the_planchette_ran_first.mp3?v=3912f30430e4" length="9656257" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_planchette_ran_first.mp3?v=3912f30430e4" length="9656257" type="audio/mpeg" />
       <guid isPermaLink="false">d145d8d2-bbfc-4c68-b78f-7cb979b0c08a</guid>
       <pubDate>Sat, 06 Jun 2026 19:21:58 +0530</pubDate>
       <link>https://youtu.be/DpT_NcqGFdY</link>
@@ -133,7 +133,7 @@ https://youtu.be/DpT_NcqGFdY</description>
       <itunes:duration>6:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_planchette_ran_first.jpg?v=df3cf10d5d03" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_planchette_ran_first.jpg?v=df3cf10d5d03" />
       <itunes:episode>17</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural themes, paranormal horror, midnight whisperer, seance audio, haunted house stories, binaural sound design, immersive horror, dark atmosphere, ghost story podcast, audio book, nightmare tales, spooky audio, dark podcast episodes, horror narration, audio drama audio</itunes:keywords>
     </item>
@@ -143,7 +143,7 @@ https://youtu.be/DpT_NcqGFdY</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/g4k5xgiJrfM</description>
-      <enclosure url="https://example.com/podcast/episodes/the_idol_that_ate_the_light.mp3?v=70c6b8db908d" length="8484508" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_idol_that_ate_the_light.mp3?v=70c6b8db908d" length="8484508" type="audio/mpeg" />
       <guid isPermaLink="false">d12f443e-a898-441f-8494-8238a94d1877</guid>
       <pubDate>Fri, 05 Jun 2026 19:16:20 +0530</pubDate>
       <link>https://youtu.be/g4k5xgiJrfM</link>
@@ -151,7 +151,7 @@ https://youtu.be/g4k5xgiJrfM</description>
       <itunes:duration>5:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_idol_that_ate_the_light.jpg?v=86d146980b17" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_idol_that_ate_the_light.jpg?v=86d146980b17" />
       <itunes:episode>16</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, spooky sounds, binaural recording, ghost story, supernatural thriller, dark fiction, creepy cult, occult mysteries, night time listening, immersive sound design, original score, midnight whisperer, audio fiction, horror narration, voice acting, atmosphere horror, dark whispers, audio experience</itunes:keywords>
     </item>
@@ -165,7 +165,7 @@ Please note: Contains themes of supernatural peril, psychological suspense, and 
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/fpoUzam8vwM</description>
-      <enclosure url="https://example.com/podcast/episodes/the_lamp_on_the_water.mp3?v=74de1286bf31" length="6714033" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_lamp_on_the_water.mp3?v=74de1286bf31" length="6714033" type="audio/mpeg" />
       <guid isPermaLink="false">f93b89f5-ea72-4557-9e6b-7011d8038b18</guid>
       <pubDate>Thu, 04 Jun 2026 10:40:01 +0530</pubDate>
       <link>https://youtu.be/fpoUzam8vwM</link>
@@ -173,7 +173,7 @@ https://youtu.be/fpoUzam8vwM</description>
       <itunes:duration>4:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_lamp_on_the_water.jpg?v=5344337b1041" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_lamp_on_the_water.jpg?v=5344337b1041" />
       <itunes:episode>15</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, binaural sound design, original score, maritime horror, supernatural themes, creepy audio, ghost story, dark storytelling, midnight whisperer, audio tale, occult mystery, water lore, eerie atmosphere, night drive audio, spooky podcast episode</itunes:keywords>
     </item>
@@ -194,7 +194,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/u5lEYVxiYh0</description>
-      <enclosure url="https://example.com/podcast/episodes/what_the_field_takes.mp3?v=5d51207ce907" length="8165396" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/what_the_field_takes.mp3?v=5d51207ce907" length="8165396" type="audio/mpeg" />
       <guid isPermaLink="false">6517a112-f44b-4ee9-bfde-e506cbc4a0ec</guid>
       <pubDate>Fri, 29 May 2026 22:00:00 +0530</pubDate>
       <link>https://youtu.be/u5lEYVxiYh0</link>
@@ -202,7 +202,7 @@ https://youtu.be/u5lEYVxiYh0</description>
       <itunes:duration>5:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/what_the_field_takes.jpg?v=d977f29c0ea6" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/what_the_field_takes.jpg?v=d977f29c0ea6" />
       <itunes:episode>14</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what the field takes, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -223,7 +223,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Zl6lgDpqtAM</description>
-      <enclosure url="https://example.com/podcast/episodes/the_reliquary_of_saint_vellis.mp3?v=4419f70325df" length="7303355" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_reliquary_of_saint_vellis.mp3?v=4419f70325df" length="7303355" type="audio/mpeg" />
       <guid isPermaLink="false">ada07f8a-5497-42c2-b88c-e717ec8b2151</guid>
       <pubDate>Tue, 19 May 2026 11:09:06 +0530</pubDate>
       <link>https://youtu.be/Zl6lgDpqtAM</link>
@@ -231,7 +231,7 @@ https://youtu.be/Zl6lgDpqtAM</description>
       <itunes:duration>5:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_reliquary_of_saint_vellis.jpg?v=bef6d2e8af17" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_reliquary_of_saint_vellis.jpg?v=bef6d2e8af17" />
       <itunes:episode>13</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the reliquary of saint vellis, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -252,7 +252,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/kNwXT17myfU</description>
-      <enclosure url="https://example.com/podcast/episodes/the_card_with_the_corner_turned.mp3?v=527afd1b2708" length="9935244" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_card_with_the_corner_turned.mp3?v=527afd1b2708" length="9935244" type="audio/mpeg" />
       <guid isPermaLink="false">8c7a9496-b38d-4075-bec8-f9208d5f9fc1</guid>
       <pubDate>Sat, 16 May 2026 22:58:31 +0530</pubDate>
       <link>https://youtu.be/kNwXT17myfU</link>
@@ -260,7 +260,7 @@ https://youtu.be/kNwXT17myfU</description>
       <itunes:duration>6:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_card_with_the_corner_turned.jpg?v=9b565e38c1cb" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_card_with_the_corner_turned.jpg?v=9b565e38c1cb" />
       <itunes:episode>12</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the card with the corner turned, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -281,7 +281,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/QKBP9LxnwJU</description>
-      <enclosure url="https://example.com/podcast/episodes/the_parish_diary.mp3?v=4a05a6a1b7b5" length="9426797" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_parish_diary.mp3?v=4a05a6a1b7b5" length="9426797" type="audio/mpeg" />
       <guid isPermaLink="false">195dd891-041a-48d4-aaf1-323c9f0c4a96</guid>
       <pubDate>Fri, 15 May 2026 15:33:35 +0530</pubDate>
       <link>https://youtu.be/QKBP9LxnwJU</link>
@@ -289,7 +289,7 @@ https://youtu.be/QKBP9LxnwJU</description>
       <itunes:duration>6:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_parish_diary.jpg?v=c50003f3f0fb" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_parish_diary.jpg?v=c50003f3f0fb" />
       <itunes:episode>11</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the parish diary, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -310,7 +310,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/ldoiqn_Ngsk</description>
-      <enclosure url="https://example.com/podcast/episodes/the_ringer.mp3?v=b53f1dea155f" length="9050007" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_ringer.mp3?v=b53f1dea155f" length="9050007" type="audio/mpeg" />
       <guid isPermaLink="false">6caecb8c-d1d1-48b7-a438-cab14777f4a6</guid>
       <pubDate>Tue, 12 May 2026 16:34:21 +0530</pubDate>
       <link>https://youtu.be/ldoiqn_Ngsk</link>
@@ -318,7 +318,7 @@ https://youtu.be/ldoiqn_Ngsk</description>
       <itunes:duration>6:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_ringer.jpg?v=7873e22b4b9d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_ringer.jpg?v=7873e22b4b9d" />
       <itunes:episode>10</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the ringer, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -339,7 +339,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/pR-arzvM6_I</description>
-      <enclosure url="https://example.com/podcast/episodes/the_hollow_choir.mp3?v=b008295e9afc" length="9011137" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_hollow_choir.mp3?v=b008295e9afc" length="9011137" type="audio/mpeg" />
       <guid isPermaLink="false">9bd6ca46-a168-45c7-88f8-aa7cdbad0178</guid>
       <pubDate>Sat, 02 May 2026 11:46:20 +0530</pubDate>
       <link>https://youtu.be/pR-arzvM6_I</link>
@@ -347,7 +347,7 @@ https://youtu.be/pR-arzvM6_I</description>
       <itunes:duration>6:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_hollow_choir.jpg?v=7a4761814050" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_hollow_choir.jpg?v=7a4761814050" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the hollow choir, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -357,7 +357,7 @@ https://youtu.be/pR-arzvM6_I</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/iQ_N3RppzQ4</description>
-      <enclosure url="https://example.com/podcast/episodes/the_mourner.mp3?v=5b1343fb8199" length="12874333" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_mourner.mp3?v=5b1343fb8199" length="12874333" type="audio/mpeg" />
       <guid isPermaLink="false">16778de0-d258-4fbb-a88d-cfa7dc063bc0</guid>
       <pubDate>Thu, 30 Apr 2026 21:35:38 +0530</pubDate>
       <link>https://youtu.be/iQ_N3RppzQ4</link>
@@ -365,7 +365,7 @@ https://youtu.be/iQ_N3RppzQ4</description>
       <itunes:duration>8:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_mourner.jpg?v=5abc8f3a61c8" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_mourner.jpg?v=5abc8f3a61c8" />
       <itunes:episode>8</itunes:episode>
       <itunes:keywords>horror podcast, audio drama, scary stories, midnight whisperer, the mourner, innkeeper story, binaural horror, night time listening, supernatural thriller, voice acting, immersive sound, spooky audio, dark ambient, mystery audiobook, audio fiction, horror narration, suspense podcast, halloween podcast, shadow realm, audio horror</itunes:keywords>
     </item>
@@ -386,7 +386,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/TA5jP1rCcIU</description>
-      <enclosure url="https://example.com/podcast/episodes/the_sitter.mp3?v=c753e42909cd" length="11989723" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_sitter.mp3?v=c753e42909cd" length="11989723" type="audio/mpeg" />
       <guid isPermaLink="false">aa520457-4111-4345-8bf7-6798fbf042e2</guid>
       <pubDate>Wed, 29 Apr 2026 19:37:42 +0530</pubDate>
       <link>https://youtu.be/TA5jP1rCcIU</link>
@@ -394,7 +394,7 @@ https://youtu.be/TA5jP1rCcIU</description>
       <itunes:duration>8:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_sitter.jpg?v=a1902ba43c57" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_sitter.jpg?v=a1902ba43c57" />
       <itunes:episode>7</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the sitter, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -415,7 +415,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/KFAM3vkdF9k</description>
-      <enclosure url="https://example.com/podcast/episodes/the_last_sheaf.mp3?v=47dea6383477" length="11471244" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_last_sheaf.mp3?v=47dea6383477" length="11471244" type="audio/mpeg" />
       <guid isPermaLink="false">690bae91-2ddc-4c40-a5c9-32e094661f2a</guid>
       <pubDate>Tue, 28 Apr 2026 10:57:52 +0530</pubDate>
       <link>https://youtu.be/KFAM3vkdF9k</link>
@@ -423,7 +423,7 @@ https://youtu.be/KFAM3vkdF9k</description>
       <itunes:duration>7:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_last_sheaf.jpg?v=a662c4982e36" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_last_sheaf.jpg?v=a662c4982e36" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the last sheaf, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -444,7 +444,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/TvKgCLefTpQ</description>
-      <enclosure url="https://example.com/podcast/episodes/the_footage.mp3?v=50b2a99480ee" length="10622369" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_footage.mp3?v=50b2a99480ee" length="10622369" type="audio/mpeg" />
       <guid isPermaLink="false">0ff1b798-9a51-4345-908f-961173db9a4a</guid>
       <pubDate>Sun, 26 Apr 2026 09:16:47 +0530</pubDate>
       <link>https://youtu.be/TvKgCLefTpQ</link>
@@ -452,7 +452,7 @@ https://youtu.be/TvKgCLefTpQ</description>
       <itunes:duration>7:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_footage.jpg?v=56ded3dd9fcd" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_footage.jpg?v=56ded3dd9fcd" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the footage, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -473,7 +473,7 @@ Content warning: horror themes, supernatural elements.
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/K2pyoRsCJKI</description>
-      <enclosure url="https://example.com/podcast/episodes/the_lantern.mp3?v=46cc112aad5d" length="9850608" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_lantern.mp3?v=46cc112aad5d" length="9850608" type="audio/mpeg" />
       <guid isPermaLink="false">5c6d943b-3859-4ed0-b772-aa27a7fd6e77</guid>
       <pubDate>Fri, 17 Apr 2026 23:14:00 +0530</pubDate>
       <link>https://youtu.be/K2pyoRsCJKI</link>
@@ -481,7 +481,7 @@ https://youtu.be/K2pyoRsCJKI</description>
       <itunes:duration>6:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_lantern.jpg?v=d7ef866b879c" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_lantern.jpg?v=d7ef866b879c" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the lantern, scary podcast, horror fiction</itunes:keywords>
     </item>
@@ -491,7 +491,7 @@ https://youtu.be/K2pyoRsCJKI</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/dEFklXMIOBw</description>
-      <enclosure url="https://example.com/podcast/episodes/the_tithe.mp3?v=da6550a951c3" length="10798539" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_tithe.mp3?v=da6550a951c3" length="10798539" type="audio/mpeg" />
       <guid isPermaLink="false">3d7a7047-20f7-4eaa-9c2a-1b1d4b588762</guid>
       <pubDate>Fri, 10 Apr 2026 05:32:17 +0530</pubDate>
       <link>https://youtu.be/dEFklXMIOBw</link>
@@ -499,7 +499,7 @@ https://youtu.be/dEFklXMIOBw</description>
       <itunes:duration>7:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_tithe.jpg?v=4cfa30adb76d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_tithe.jpg?v=4cfa30adb76d" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural horror, binaural sound, voice acting, original score, eerie sounds, haunted mansion, mystery thriller, nightly knocks, sacrifice theme, ghost story, dark audio drama, chilling tales</itunes:keywords>
     </item>
@@ -509,7 +509,7 @@ https://youtu.be/dEFklXMIOBw</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/_c2pFM3XCiQ</description>
-      <enclosure url="https://example.com/podcast/episodes/the_knock.mp3?v=26fd2f11ee2c" length="5585543" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_knock.mp3?v=26fd2f11ee2c" length="5585543" type="audio/mpeg" />
       <guid isPermaLink="false">f6bdad32-86c1-40ca-afce-935a839fa34c</guid>
       <pubDate>Sat, 04 Apr 2026 21:26:57 +0530</pubDate>
       <link>https://youtu.be/_c2pFM3XCiQ</link>
@@ -517,7 +517,7 @@ https://youtu.be/_c2pFM3XCiQ</description>
       <itunes:duration>3:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_knock.jpg?v=6fccbbefc120" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_knock.jpg?v=6fccbbefc120" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural mystery, urban horror, nightly knocks, midnight whisperer, spine-chilling tales, haunted apartment, mysterious sounds, immersive sound design, voice acting, creepy story, dark podcast, paranormal events</itunes:keywords>
     </item>
@@ -527,7 +527,7 @@ https://youtu.be/_c2pFM3XCiQ</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/VxaTQL6RnWY</description>
-      <enclosure url="https://example.com/podcast/episodes/the_watcher.mp3?v=ac5ef691823d" length="7763528" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_watcher.mp3?v=ac5ef691823d" length="7763528" type="audio/mpeg" />
       <guid isPermaLink="false">58bbe780-b87d-4da0-a2f5-86b02e32807e</guid>
       <pubDate>Wed, 01 Apr 2026 07:48:45 +0530</pubDate>
       <link>https://youtu.be/VxaTQL6RnWY</link>
@@ -535,7 +535,7 @@ https://youtu.be/VxaTQL6RnWY</description>
       <itunes:duration>5:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/artwork/the_watcher.jpg?v=811002070ccf" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_watcher.jpg?v=811002070ccf" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror podcast, scary stories, audio drama, supernatural thriller, unseen force, terror at night, chilling atmosphere, sound design, midnight whispers, spine-chilling audio, dark fiction, haunting sounds, narrative horror, unsettling suspense, mysterious figure, sanity test, horror audio drama, audio storytelling, unseen terror</itunes:keywords>
     </item>

@@ -10,13 +10,13 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 13:37:27 +0530</lastBuildDate>
-    <atom:link href="https://example.com/podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Murmures de Minuit</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast/fr/cover.jpg" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Murmures de Minuit</itunes:name>
@@ -36,7 +36,7 @@ Regarde la vidéo avec les illustrations d&apos;horreur originales sur YouTube:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/IiXDxzXpCdE</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_school_marched_in_winter_fr.mp3?v=623fd75c1edc" length="10196678" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_school_marched_in_winter_fr.mp3?v=623fd75c1edc" length="10196678" type="audio/mpeg" />
       <guid isPermaLink="false">c8047c50-ac78-4851-a2cc-ae766e5ad712</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:27 +0530</pubDate>
       <link>https://youtu.be/IiXDxzXpCdE</link>
@@ -44,7 +44,7 @@ https://youtu.be/IiXDxzXpCdE</description>
       <itunes:duration>7:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_school_marched_in_winter_fr.jpg?v=1bd5aa0f25c5" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_school_marched_in_winter_fr.jpg?v=1bd5aa0f25c5" />
       <itunes:episode>7</itunes:episode>
       <itunes:keywords>le chuchoteur de minuit, podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, bande originale, son binaural, riya, nima, bappa, appel nominal à voix haute, hiver, école, surnaturel, effrayant, audio narratif, paysage sonore immersif, distribution complète, fiction noire, des murmures effrayants, ambiance sinistre</itunes:keywords>
     </item>
@@ -68,7 +68,7 @@ https://youtu.be/bY4lOzMqQXw
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/rNr6nXznBMY</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_fort_sign_waited_for_dusk_fr.mp3?v=6c0df93a1b3e" length="9935244" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_fort_sign_waited_for_dusk_fr.mp3?v=6c0df93a1b3e" length="9935244" type="audio/mpeg" />
       <guid isPermaLink="false">8e153077-8fa8-4aa0-b11c-87a9585d0606</guid>
       <pubDate>Thu, 11 Jun 2026 18:17:12 +0530</pubDate>
       <link>https://youtu.be/rNr6nXznBMY</link>
@@ -76,7 +76,7 @@ https://youtu.be/rNr6nXznBMY</description>
       <itunes:duration>6:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_fort_sign_waited_for_dusk_fr.jpg?v=0b9091de12e7" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_fort_sign_waited_for_dusk_fr.jpg?v=0b9091de12e7" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, que s&apos;est-il passé au fort de bhangarh en 2018 ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
     </item>
@@ -91,7 +91,7 @@ https://youtu.be/q6eIc-cXTeQ
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/IHgxvbMhnsI</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_canal_learns_your_childs_voice_fr.mp3?v=56ea08587edd" length="9868789" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_canal_learns_your_childs_voice_fr.mp3?v=56ea08587edd" length="9868789" type="audio/mpeg" />
       <guid isPermaLink="false">db3e4b41-8d66-41e8-87d4-45b7d8156461</guid>
       <pubDate>Mon, 08 Jun 2026 15:12:54 +0530</pubDate>
       <link>https://youtu.be/IHgxvbMhnsI</link>
@@ -99,7 +99,7 @@ https://youtu.be/IHgxvbMhnsI</description>
       <itunes:duration>6:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_canal_learns_your_childs_voice_fr.jpg?v=d56d9e02f202" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_canal_learns_your_childs_voice_fr.jpg?v=d56d9e02f202" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, pièce radiophonique, histoires qui font peur, horreur surnaturelle, audio binaural, une conception sonore immersive, le chuchoteur de minuit, série de podcasts originale, pièce radiophonique d&apos;horreur, épisode 19 du podcast, l&apos;histoire du canal, ambiance sombre, narrateur d&apos;histoires d&apos;horreur, narration audio, un enregistrement effrayant</itunes:keywords>
     </item>
@@ -112,7 +112,7 @@ https://youtu.be/6W7r_Z9isgA
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/QF8-NsN-9Yk</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_bridge_no_student_crossed_twice_fr.mp3?v=5272312fbba1" length="9307052" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_bridge_no_student_crossed_twice_fr.mp3?v=5272312fbba1" length="9307052" type="audio/mpeg" />
       <guid isPermaLink="false">a53ee395-7c07-4f94-b963-5ffb7fcf1cab</guid>
       <pubDate>Sun, 07 Jun 2026 14:17:15 +0530</pubDate>
       <link>https://youtu.be/QF8-NsN-9Yk</link>
@@ -120,7 +120,7 @@ https://youtu.be/QF8-NsN-9Yk</description>
       <itunes:duration>6:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_bridge_no_student_crossed_twice_fr.jpg?v=606dcc37112d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_bridge_no_student_crossed_twice_fr.jpg?v=606dcc37112d" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, horreur binaurale, thriller surnaturel, un pont qu&apos;aucun élève n&apos;a jamais emprunté, le calvaire de bima, le destin de dimas, avertissement concernant le sari, histoire de fantômes en audio, horreur atmosphérique, podcast effrayant, ambiance sonore inquiétante, fiction narrative, un campus qui fait froid dans le dos, le chuchoteur de minuit, livre audio sombre, récits d&apos;horreur, horreur sonore, légende urbaine</itunes:keywords>
     </item>
@@ -139,7 +139,7 @@ https://youtu.be/DpT_NcqGFdY
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/iTOq0iiHbDo</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_planchette_ran_first_fr.mp3?v=2759adc1e157" length="10059378" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_planchette_ran_first_fr.mp3?v=2759adc1e157" length="10059378" type="audio/mpeg" />
       <guid isPermaLink="false">0d63e7c1-45e5-4a8f-81ab-dc7a113e673a</guid>
       <pubDate>Sat, 06 Jun 2026 19:23:54 +0530</pubDate>
       <link>https://youtu.be/iTOq0iiHbDo</link>
@@ -147,7 +147,7 @@ https://youtu.be/iTOq0iiHbDo</description>
       <itunes:duration>6:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_planchette_ran_first_fr.jpg?v=df3cf10d5d03" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_planchette_ran_first_fr.jpg?v=df3cf10d5d03" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, thèmes surnaturels, horreur paranormale, le chuchoteur de minuit, enregistrement audio de la séance, histoires de maisons hantées, conception sonore binaurale, horreur immersive, ambiance sombre, podcast d&apos;histoires de fantômes, livre audio, histoires d&apos;horreur, un enregistrement effrayant, épisodes du podcast « dark », récit d&apos;horreur, pièce radiophonique audio</itunes:keywords>
     </item>
@@ -160,7 +160,7 @@ https://youtu.be/g4k5xgiJrfM
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/9OqZb4L3-pg</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_idol_that_ate_the_light_fr.mp3?v=07d2555910b8" length="5073334" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_idol_that_ate_the_light_fr.mp3?v=07d2555910b8" length="5073334" type="audio/mpeg" />
       <guid isPermaLink="false">ed857caa-8f74-4390-a6da-63ad78dcb8de</guid>
       <pubDate>Fri, 05 Jun 2026 20:19:28 +0530</pubDate>
       <link>https://youtu.be/9OqZb4L3-pg</link>
@@ -168,7 +168,7 @@ https://youtu.be/9OqZb4L3-pg</description>
       <itunes:duration>3:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg?v=86d146980b17" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg?v=86d146980b17" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, des bruits effrayants, enregistrement binaural, une histoire de fantômes, thriller surnaturel, fiction noire, secte effrayante, mystères occultes, écoute nocturne, une conception sonore immersive, bande originale, le chuchoteur de minuit, fiction audio, récit d&apos;horreur, doublage, horreur atmosphérique, murmures sombres, expérience audio</itunes:keywords>
     </item>
@@ -185,7 +185,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Rkrn-zpCMHE</description>
-      <enclosure url="https://example.com/podcast/fr/episodes/the_lamp_on_the_water_fr.mp3?v=71b9359df484" length="7497079" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_lamp_on_the_water_fr.mp3?v=71b9359df484" length="7497079" type="audio/mpeg" />
       <guid isPermaLink="false">1f615d1c-7055-492c-8fdf-d62c898ac05c</guid>
       <pubDate>Thu, 04 Jun 2026 10:45:48 +0530</pubDate>
       <link>https://youtu.be/Rkrn-zpCMHE</link>
@@ -193,7 +193,7 @@ https://youtu.be/Rkrn-zpCMHE</description>
       <itunes:duration>5:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/fr/artwork/the_lamp_on_the_water_fr.jpg?v=5344337b1041" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_lamp_on_the_water_fr.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, conception sonore binaurale, bande originale, horreur maritime, thèmes surnaturels, un enregistrement effrayant, une histoire de fantômes, récits sombres, le chuchoteur de minuit, conte audio, mystère occulte, tout ce qu&apos;il faut savoir sur l&apos;eau, ambiance inquiétante, enregistrement audio d&apos;un trajet de nuit, épisode de podcast qui donne la chair de poule</itunes:keywords>
     </item>

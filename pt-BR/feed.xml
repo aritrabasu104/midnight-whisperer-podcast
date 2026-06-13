@@ -10,13 +10,13 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 13:37:18 +0530</lastBuildDate>
-    <atom:link href="https://example.com/podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Sussurros da Meia-Noite</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast/pt-BR/cover.jpg" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Sussurros da Meia-Noite</itunes:name>
@@ -36,7 +36,7 @@ Assista com ilustrações originais de terror no YouTube:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/0BSEyWiBVzs</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_school_marched_in_winter_pt-BR.mp3?v=cdd0fc10d953" length="10488204" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_school_marched_in_winter_pt-BR.mp3?v=cdd0fc10d953" length="10488204" type="audio/mpeg" />
       <guid isPermaLink="false">200d9209-064b-4937-86d3-71409f447380</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:18 +0530</pubDate>
       <link>https://youtu.be/0BSEyWiBVzs</link>
@@ -44,7 +44,7 @@ https://youtu.be/0BSEyWiBVzs</description>
       <itunes:duration>7:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_school_marched_in_winter_pt-BR.jpg?v=1bd5aa0f25c5" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_school_marched_in_winter_pt-BR.jpg?v=1bd5aa0f25c5" />
       <itunes:episode>7</itunes:episode>
       <itunes:keywords>midnight whisperer, podcast de terror, histórias de terror, audiolivro, trilha sonora original, som binaural, riya, nima, bappa, votação nominal, inverno, escola, sobrenatural, assustador, áudio narrativo, paisagem sonora envolvente, elenco completo, ficção sombria, sussurros arrepiante, atmosfera assustadora</itunes:keywords>
     </item>
@@ -68,7 +68,7 @@ https://youtu.be/bY4lOzMqQXw
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/BAk7VGQVBrg</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_fort_sign_waited_for_dusk_pt-BR.mp3?v=0814f86a16ce" length="9341533" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_fort_sign_waited_for_dusk_pt-BR.mp3?v=0814f86a16ce" length="9341533" type="audio/mpeg" />
       <guid isPermaLink="false">4f978678-031b-44c6-8f26-eefdefa89210</guid>
       <pubDate>Thu, 11 Jun 2026 18:10:16 +0530</pubDate>
       <link>https://youtu.be/BAk7VGQVBrg</link>
@@ -76,7 +76,7 @@ https://youtu.be/BAk7VGQVBrg</description>
       <itunes:duration>6:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_fort_sign_waited_for_dusk_pt-BR.jpg?v=0b9091de12e7" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_fort_sign_waited_for_dusk_pt-BR.jpg?v=0b9091de12e7" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu no forte de bhangarh em 2018?, pt, podcast de terror, ficção de terror</itunes:keywords>
     </item>
@@ -91,7 +91,7 @@ https://youtu.be/q6eIc-cXTeQ
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/3JKRtoBeRjw</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_canal_learns_your_childs_voice_pt-BR.mp3?v=ad934e20da2e" length="10054363" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_canal_learns_your_childs_voice_pt-BR.mp3?v=ad934e20da2e" length="10054363" type="audio/mpeg" />
       <guid isPermaLink="false">b9118b3a-6e11-4ba2-bd64-0f29702857d1</guid>
       <pubDate>Mon, 08 Jun 2026 15:07:32 +0530</pubDate>
       <link>https://youtu.be/3JKRtoBeRjw</link>
@@ -99,7 +99,7 @@ https://youtu.be/3JKRtoBeRjw</description>
       <itunes:duration>6:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_canal_learns_your_childs_voice_pt-BR.jpg?v=d56d9e02f202" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_canal_learns_your_childs_voice_pt-BR.jpg?v=d56d9e02f202" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>podcast de terror, audiolivro, histórias de terror, terror sobrenatural, áudio binaural, design de som imersivo, midnight whisperer, série de podcasts original, drama de terror em áudio, episódio 19 do podcast, história do canal, atmosfera sombria, narrador de terror, narração em áudio, áudio assustador</itunes:keywords>
     </item>
@@ -112,7 +112,7 @@ https://youtu.be/6W7r_Z9isgA
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/dnZaS8i-T5s</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_bridge_no_student_crossed_twice_pt-BR.mp3?v=a5764fb0c5ea" length="9128374" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_bridge_no_student_crossed_twice_pt-BR.mp3?v=a5764fb0c5ea" length="9128374" type="audio/mpeg" />
       <guid isPermaLink="false">be236206-517c-4f52-9838-d9f6c465a925</guid>
       <pubDate>Sun, 07 Jun 2026 14:13:36 +0530</pubDate>
       <link>https://youtu.be/dnZaS8i-T5s</link>
@@ -120,7 +120,7 @@ https://youtu.be/dnZaS8i-T5s</description>
       <itunes:duration>6:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_bridge_no_student_crossed_twice_pt-BR.jpg?v=606dcc37112d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_bridge_no_student_crossed_twice_pt-BR.jpg?v=606dcc37112d" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, terror binaural, thriller sobrenatural, ponte que nenhum aluno atravessou, a provação de bimas, o destino de dimas, aviso sobre o sari, áudio de história de fantasmas, terror atmosférico, podcast assustador, paisagem sonora sinistra, ficção narrativa, campus assustador, midnight whisperer, audiolivro sombrio, narrativas de terror, horror sonoro, lenda urbana</itunes:keywords>
     </item>
@@ -139,7 +139,7 @@ https://youtu.be/DpT_NcqGFdY
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Ea21liKTyog</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_planchette_ran_first_pt-BR.mp3?v=61fe13951b3b" length="10338993" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_planchette_ran_first_pt-BR.mp3?v=61fe13951b3b" length="10338993" type="audio/mpeg" />
       <guid isPermaLink="false">ec21257a-5fec-4503-a6c0-e114e7e5d6c5</guid>
       <pubDate>Sat, 06 Jun 2026 19:23:29 +0530</pubDate>
       <link>https://youtu.be/Ea21liKTyog</link>
@@ -147,7 +147,7 @@ https://youtu.be/Ea21liKTyog</description>
       <itunes:duration>7:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_planchette_ran_first_pt-BR.jpg?v=df3cf10d5d03" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_planchette_ran_first_pt-BR.jpg?v=df3cf10d5d03" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, temas sobrenaturais, terror paranormal, midnight whisperer, áudio da sessão espírita, histórias de casas mal-assombradas, design de som binaural, terror imersivo, atmosfera sombria, podcast de histórias de fantasmas, audiolivro, contos de pesadelo, áudio assustador, episódios do podcast &quot;dark&quot;, narração de terror, audiolivro</itunes:keywords>
     </item>
@@ -160,7 +160,7 @@ https://youtu.be/g4k5xgiJrfM
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/bmS2y1X4N2U</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_idol_that_ate_the_light_pt-BR.mp3?v=5c54ada205de" length="4582441" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_idol_that_ate_the_light_pt-BR.mp3?v=5c54ada205de" length="4582441" type="audio/mpeg" />
       <guid isPermaLink="false">fbec3fc9-f7a2-4838-bac4-4c57993b948c</guid>
       <pubDate>Fri, 05 Jun 2026 20:15:39 +0530</pubDate>
       <link>https://youtu.be/bmS2y1X4N2U</link>
@@ -168,7 +168,7 @@ https://youtu.be/bmS2y1X4N2U</description>
       <itunes:duration>3:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg?v=86d146980b17" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg?v=86d146980b17" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, sons assustadores, gravação binaural, história de fantasmas, thriller sobrenatural, ficção sombria, seita assustadora, mistérios ocultos, ouvir à noite, design de som imersivo, trilha sonora original, midnight whisperer, ficção em áudio, narração de terror, dublagem, terror atmosférico, sussurros sombrios, experiência sonora</itunes:keywords>
     </item>
@@ -185,7 +185,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/IpZYxOLxGIs</description>
-      <enclosure url="https://example.com/podcast/pt-BR/episodes/the_lamp_on_the_water_pt-BR.mp3?v=fee93d587645" length="7219346" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_lamp_on_the_water_pt-BR.mp3?v=fee93d587645" length="7219346" type="audio/mpeg" />
       <guid isPermaLink="false">996e7a1b-d24e-4a7c-a896-f02e14fe8f85</guid>
       <pubDate>Thu, 04 Jun 2026 10:43:20 +0530</pubDate>
       <link>https://youtu.be/IpZYxOLxGIs</link>
@@ -193,7 +193,7 @@ https://youtu.be/IpZYxOLxGIs</description>
       <itunes:duration>5:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg?v=5344337b1041" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</itunes:keywords>
     </item>

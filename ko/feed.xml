@@ -10,13 +10,13 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 13:37:37 +0530</lastBuildDate>
-    <atom:link href="https://example.com/podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>한밤의 속삭임</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast/ko/cover.jpg" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>한밤의 속삭임</itunes:name>
@@ -32,7 +32,7 @@
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/WR9hzoebWWI</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_school_marched_in_winter_ko.mp3?v=2263934e817d" length="10234294" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_school_marched_in_winter_ko.mp3?v=2263934e817d" length="10234294" type="audio/mpeg" />
       <guid isPermaLink="false">a29b75e1-d092-47f2-89fd-60ac04181cfc</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:37 +0530</pubDate>
       <link>https://youtu.be/WR9hzoebWWI</link>
@@ -40,7 +40,7 @@ https://youtu.be/WR9hzoebWWI</description>
       <itunes:duration>7:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_school_marched_in_winter_ko.jpg?v=1bd5aa0f25c5" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_school_marched_in_winter_ko.jpg?v=1bd5aa0f25c5" />
       <itunes:episode>7</itunes:episode>
       <itunes:keywords>한밤중의 속삭임, 공포 팟캐스트, 무서운 이야기, 오디오 드라마, 오리지널 악보, 바이너럴 사운드, 리야, 니마, 바파, 출석 확인 음성, 겨울, 학교, 신의 조화, 유령 같은, 내레이션 오디오, 몰입형 사운드스케이프, 전체 출연진, 다크 픽션, 오싹한 속삭임, 으스스한 분위기</itunes:keywords>
     </item>
@@ -50,7 +50,7 @@ https://youtu.be/WR9hzoebWWI</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/tIlOvCn2sUg</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_fort_sign_waited_for_dusk_ko.mp3?v=89777ca538e0" length="9986653" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_fort_sign_waited_for_dusk_ko.mp3?v=89777ca538e0" length="9986653" type="audio/mpeg" />
       <guid isPermaLink="false">180a7aaa-d95d-4ad2-8a63-f0455a8906ef</guid>
       <pubDate>Thu, 11 Jun 2026 18:24:07 +0530</pubDate>
       <link>https://youtu.be/tIlOvCn2sUg</link>
@@ -58,7 +58,7 @@ https://youtu.be/tIlOvCn2sUg</description>
       <itunes:duration>6:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_fort_sign_waited_for_dusk_ko.jpg?v=0b9091de12e7" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_fort_sign_waited_for_dusk_ko.jpg?v=0b9091de12e7" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 공포 내레이션, 크리피파스타, 귀신 이야기, 공포 오디오, 한밤중의 속삭임, 2018년 방가르 요새에서 무슨 일이 일어났나요?, en, 무서운 팟캐스트, 공포 소설</itunes:keywords>
     </item>
@@ -73,7 +73,7 @@ https://youtu.be/q6eIc-cXTeQ
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/JO0x-CVRFv0</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_canal_learns_your_childs_voice_ko.mp3?v=c8a35dac57f2" length="9787287" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_canal_learns_your_childs_voice_ko.mp3?v=c8a35dac57f2" length="9787287" type="audio/mpeg" />
       <guid isPermaLink="false">089b7b18-fa3e-4ea4-a024-e6027cf7d680</guid>
       <pubDate>Mon, 08 Jun 2026 15:19:50 +0530</pubDate>
       <link>https://youtu.be/JO0x-CVRFv0</link>
@@ -81,7 +81,7 @@ https://youtu.be/JO0x-CVRFv0</description>
       <itunes:duration>6:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_canal_learns_your_childs_voice_ko.jpg?v=d56d9e02f202" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_canal_learns_your_childs_voice_ko.jpg?v=d56d9e02f202" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 오디오 드라마, 무서운 이야기, 초자연적인 공포, 바이너럴 오디오, 몰입형 사운드 디자인, 한밤중의 속삭임, 오리지널 팟캐스트 시리즈, 공포 오디오 드라마, 팟캐스트 에피소드 19, 운하 이야기, 어두운 분위기, 공포 소설 내레이터, 오디오 스토리텔링, 으스스한 오디오</itunes:keywords>
     </item>
@@ -91,7 +91,7 @@ https://youtu.be/JO0x-CVRFv0</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/CP7gl6zQhR8</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_bridge_no_student_crossed_twice_ko.mp3?v=1eb1ea5ea648" length="9432439" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_bridge_no_student_crossed_twice_ko.mp3?v=1eb1ea5ea648" length="9432439" type="audio/mpeg" />
       <guid isPermaLink="false">93319c8f-e1b1-40c8-b971-ee3fab2390b5</guid>
       <pubDate>Sun, 07 Jun 2026 14:20:56 +0530</pubDate>
       <link>https://youtu.be/CP7gl6zQhR8</link>
@@ -99,7 +99,7 @@ https://youtu.be/CP7gl6zQhR8</description>
       <itunes:duration>6:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_bridge_no_student_crossed_twice_ko.jpg?v=606dcc37112d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_bridge_no_student_crossed_twice_ko.jpg?v=606dcc37112d" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 바이너럴 호러, 초자연 스릴러, 학생이 건너지 않은 다리, 비마스 시련, 디마스의 운명, 사리 경고, 유령 이야기 오디오, 분위기 있는 공포, 으스스한 팟캐스트, 섬뜩한 사운드스케이프, 서사 소설, 으스스한 캠퍼스, 한밤중의 속삭임, 다크 오디오북, 공포 스토리텔링, 소닉 호러, 도시 전설</itunes:keywords>
     </item>
@@ -109,7 +109,7 @@ https://youtu.be/CP7gl6zQhR8</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/VYvfAkjjUeU</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_planchette_ran_first_ko.mp3?v=0e2f1fe43fa8" length="9909540" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_planchette_ran_first_ko.mp3?v=0e2f1fe43fa8" length="9909540" type="audio/mpeg" />
       <guid isPermaLink="false">386114d4-28d0-430b-b2e9-f2ff608fabfb</guid>
       <pubDate>Sat, 06 Jun 2026 19:24:18 +0530</pubDate>
       <link>https://youtu.be/VYvfAkjjUeU</link>
@@ -117,7 +117,7 @@ https://youtu.be/VYvfAkjjUeU</description>
       <itunes:duration>6:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_planchette_ran_first_ko.jpg?v=df3cf10d5d03" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_planchette_ran_first_ko.jpg?v=df3cf10d5d03" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 초자연적 주제, 초자연적인 공포, 한밤중의 속삭임, 강령술 오디오, 유령의 집 이야기, 바이너럴 사운드 디자인, 몰입형 공포, 어두운 분위기, 유령 이야기 팟캐스트, 오디오북, 악몽 이야기, 으스스한 오디오, 어두운 팟캐스트 에피소드, 공포 내레이션, 오디오 드라마 오디오</itunes:keywords>
     </item>
@@ -127,7 +127,7 @@ https://youtu.be/VYvfAkjjUeU</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/GYnRSZntMJk</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_idol_that_ate_the_light_ko.mp3?v=7c550586db49" length="4407525" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_idol_that_ate_the_light_ko.mp3?v=7c550586db49" length="4407525" type="audio/mpeg" />
       <guid isPermaLink="false">8517b952-ae60-408b-91ef-aa56956b0d6c</guid>
       <pubDate>Fri, 05 Jun 2026 20:26:00 +0530</pubDate>
       <link>https://youtu.be/GYnRSZntMJk</link>
@@ -135,7 +135,7 @@ https://youtu.be/GYnRSZntMJk</description>
       <itunes:duration>3:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_idol_that_ate_the_light_ko.jpg?v=86d146980b17" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_idol_that_ate_the_light_ko.jpg?v=86d146980b17" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 으스스한 소리, 바이너럴 녹음, 유령 이야기, 초자연 스릴러, 다크 픽션, 소름 끼치는 컬트, 오컬트 미스터리, 밤에 듣기, 몰입형 사운드 디자인, 오리지널 악보, 한밤중의 속삭임, 오디오 소설, 공포 내레이션, 성우 연기, 분위기 공포, 어둠의 속삭임, 오디오 경험</itunes:keywords>
     </item>
@@ -145,7 +145,7 @@ https://youtu.be/GYnRSZntMJk</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/xLcTjXU8KPg</description>
-      <enclosure url="https://example.com/podcast/ko/episodes/the_lamp_on_the_water_ko.mp3?v=e2c171ea692c" length="7340972" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_lamp_on_the_water_ko.mp3?v=e2c171ea692c" length="7340972" type="audio/mpeg" />
       <guid isPermaLink="false">7344136a-e0ba-45e7-ae49-83a498c9acb7</guid>
       <pubDate>Thu, 04 Jun 2026 10:48:15 +0530</pubDate>
       <link>https://youtu.be/xLcTjXU8KPg</link>
@@ -153,7 +153,7 @@ https://youtu.be/xLcTjXU8KPg</description>
       <itunes:duration>5:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ko/artwork/the_lamp_on_the_water_ko.jpg?v=5344337b1041" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_lamp_on_the_water_ko.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 바이너럴 사운드 디자인, 오리지널 악보, 해양 공포, 초자연적 주제, 소름 끼치는 오디오, 유령 이야기, 어두운 이야기, 한밤중의 속삭임, 오디오 스토리, 오컬트 미스터리, 물에 관한 이야기, 으스스한 분위기, 야간 운전 오디오, 으스스한 팟캐스트 에피소드</itunes:keywords>
     </item>

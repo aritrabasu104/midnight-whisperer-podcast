@@ -10,13 +10,13 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 13:37:33 +0530</lastBuildDate>
-    <atom:link href="https://example.com/podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>深夜の囁き</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast/ja/cover.jpg" />
+    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>深夜の囁き</itunes:name>
@@ -32,7 +32,7 @@
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/dqFhVDZdvsA</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_school_marched_in_winter_ja.mp3?v=fca3e088bea4" length="9886343" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_school_marched_in_winter_ja.mp3?v=fca3e088bea4" length="9886343" type="audio/mpeg" />
       <guid isPermaLink="false">c837062b-35f3-4614-9d8f-8e72981b13a2</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:33 +0530</pubDate>
       <link>https://youtu.be/dqFhVDZdvsA</link>
@@ -40,7 +40,7 @@ https://youtu.be/dqFhVDZdvsA</description>
       <itunes:duration>6:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_school_marched_in_winter_ja.jpg?v=1bd5aa0f25c5" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_school_marched_in_winter_ja.jpg?v=1bd5aa0f25c5" />
       <itunes:episode>7</itunes:episode>
       <itunes:keywords>真夜中のささやき手, ホラーポッドキャスト, 怖い話, オーディオドラマ, オリジナルスコア, バイノーラルサウンド, リヤ, ニマ, バッパ, 点呼の声, 冬, 学校, 超自然, 不気味な, ナレーション音声, 没入感のあるサウンドスケープ, 全キャスト, ダークフィクション, ぞっとするようなささやき, 不気味な雰囲気</itunes:keywords>
     </item>
@@ -50,7 +50,7 @@ https://youtu.be/dqFhVDZdvsA</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/_JdMFBB4kgg</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_fort_sign_waited_for_dusk_ja.mp3?v=3e2caceef8ee" length="9204861" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_fort_sign_waited_for_dusk_ja.mp3?v=3e2caceef8ee" length="9204861" type="audio/mpeg" />
       <guid isPermaLink="false">19dde743-8d38-44cb-aa5e-35efb26dbfb2</guid>
       <pubDate>Thu, 11 Jun 2026 18:20:41 +0530</pubDate>
       <link>https://youtu.be/_JdMFBB4kgg</link>
@@ -58,7 +58,7 @@ https://youtu.be/_JdMFBB4kgg</description>
       <itunes:duration>6:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_fort_sign_waited_for_dusk_ja.jpg?v=0b9091de12e7" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_fort_sign_waited_for_dusk_ja.jpg?v=0b9091de12e7" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 2018年にバンガル城で何が起こったのですか？, en, 怖いポッドキャスト, ホラー小説</itunes:keywords>
     </item>
@@ -73,7 +73,7 @@ https://youtu.be/q6eIc-cXTeQ
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/m3aDO0zrRYA</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_canal_learns_your_childs_voice_ja.mp3?v=8dfd3f100037" length="9463159" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_canal_learns_your_childs_voice_ja.mp3?v=8dfd3f100037" length="9463159" type="audio/mpeg" />
       <guid isPermaLink="false">1cb9f0a8-f43e-42ef-bbb9-52f27a231ffb</guid>
       <pubDate>Mon, 08 Jun 2026 15:16:24 +0530</pubDate>
       <link>https://youtu.be/m3aDO0zrRYA</link>
@@ -81,7 +81,7 @@ https://youtu.be/m3aDO0zrRYA</description>
       <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_canal_learns_your_childs_voice_ja.jpg?v=d56d9e02f202" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_canal_learns_your_childs_voice_ja.jpg?v=d56d9e02f202" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, オーディオドラマ, 怖い話, 超常現象ホラー, バイノーラルオーディオ, 没入型サウンドデザイン, 真夜中のささやき手, オリジナルポッドキャストシリーズ, ホラーオーディオドラマ, ポッドキャスト第19回, 運河物語, 暗い雰囲気, ホラーナレーター, 音声によるストーリーテリング, 不気味な音声</itunes:keywords>
     </item>
@@ -91,7 +91,7 @@ https://youtu.be/m3aDO0zrRYA</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/M9cloRdz_dE</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_bridge_no_student_crossed_twice_ja.mp3?v=af117ea7b5ee" length="9041857" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_bridge_no_student_crossed_twice_ja.mp3?v=af117ea7b5ee" length="9041857" type="audio/mpeg" />
       <guid isPermaLink="false">5e44cb61-2061-4513-b0f9-1bede05301e6</guid>
       <pubDate>Sun, 07 Jun 2026 14:19:06 +0530</pubDate>
       <link>https://youtu.be/M9cloRdz_dE</link>
@@ -99,7 +99,7 @@ https://youtu.be/M9cloRdz_dE</description>
       <itunes:duration>6:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_bridge_no_student_crossed_twice_ja.jpg?v=606dcc37112d" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_bridge_no_student_crossed_twice_ja.jpg?v=606dcc37112d" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, バイノーラルホラー, 超常現象スリラー, 学生が渡らなかった橋, ビマスの試練, ディマス・フェイト, サリ警告, 怪談音声, 雰囲気のあるホラー, 不気味なポッドキャスト, 不気味なサウンドスケープ, 物語小説, 不気味なキャンパス, 真夜中のささやき手, ダークオーディオブック, ホラー物語, ソニックホラー, 都市伝説</itunes:keywords>
     </item>
@@ -109,7 +109,7 @@ https://youtu.be/M9cloRdz_dE</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/teByGQ07vHM</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_planchette_ran_first_ja.mp3?v=ff4e6d783a6f" length="10087591" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_planchette_ran_first_ja.mp3?v=ff4e6d783a6f" length="10087591" type="audio/mpeg" />
       <guid isPermaLink="false">b9bf3c20-85f3-4c19-b011-0aad2497660c</guid>
       <pubDate>Sat, 06 Jun 2026 19:24:06 +0530</pubDate>
       <link>https://youtu.be/teByGQ07vHM</link>
@@ -117,7 +117,7 @@ https://youtu.be/teByGQ07vHM</description>
       <itunes:duration>7:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_planchette_ran_first_ja.jpg?v=df3cf10d5d03" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_planchette_ran_first_ja.jpg?v=df3cf10d5d03" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 超自然的なテーマ, 超常現象ホラー, 真夜中のささやき手, 降霊術の音声, 幽霊屋敷の話, バイノーラルサウンドデザイン, 没入型ホラー, 暗い雰囲気, 怪談ポッドキャスト, オーディオブック, 悪夢の物語, 不気味な音声, ダークなポッドキャストエピソード, ホラーナレーション, オーディオドラマオーディオ</itunes:keywords>
     </item>
@@ -127,7 +127,7 @@ https://youtu.be/teByGQ07vHM</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/gHycQ_vzAKk</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_idol_that_ate_the_light_ja.mp3?v=b1e655fecd9d" length="4437618" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_idol_that_ate_the_light_ja.mp3?v=b1e655fecd9d" length="4437618" type="audio/mpeg" />
       <guid isPermaLink="false">f102b3ba-a890-486d-8103-2d3ee97e017d</guid>
       <pubDate>Fri, 05 Jun 2026 20:21:27 +0530</pubDate>
       <link>https://youtu.be/gHycQ_vzAKk</link>
@@ -135,7 +135,7 @@ https://youtu.be/gHycQ_vzAKk</description>
       <itunes:duration>3:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_idol_that_ate_the_light_ja.jpg?v=86d146980b17" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_idol_that_ate_the_light_ja.jpg?v=86d146980b17" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 不気味な音, バイノーラル録音, 幽霊話, 超常現象スリラー, ダークフィクション, 不気味なカルト, オカルトの謎, 夜間のリスニング, 没入型サウンドデザイン, オリジナルスコア, 真夜中のささやき手, オーディオフィクション, ホラーナレーション, 声優, 雰囲気ホラー, 暗いささやき, オーディオ体験</itunes:keywords>
     </item>
@@ -145,7 +145,7 @@ https://youtu.be/gHycQ_vzAKk</description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/W3xrOZjfQRg</description>
-      <enclosure url="https://example.com/podcast/ja/episodes/the_lamp_on_the_water_ja.mp3?v=65b87f17f75f" length="7087062" type="audio/mpeg" />
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_lamp_on_the_water_ja.mp3?v=65b87f17f75f" length="7087062" type="audio/mpeg" />
       <guid isPermaLink="false">3ab57915-ca58-46df-88ba-2a49c5719c14</guid>
       <pubDate>Thu, 04 Jun 2026 10:47:02 +0530</pubDate>
       <link>https://youtu.be/W3xrOZjfQRg</link>
@@ -153,7 +153,7 @@ https://youtu.be/W3xrOZjfQRg</description>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://example.com/podcast/ja/artwork/the_lamp_on_the_water_ja.jpg?v=5344337b1041" />
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_lamp_on_the_water_ja.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, バイノーラルサウンドデザイン, オリジナルスコア, 海上ホラー, 超自然的なテーマ, 不気味な音声, 幽霊話, 暗い物語, 真夜中のささやき手, 音声物語, オカルトミステリー, 水の伝承, 不気味な雰囲気, 夜間走行用オーディオ, 不気味なポッドキャストのエピソード</itunes:keywords>
     </item>
