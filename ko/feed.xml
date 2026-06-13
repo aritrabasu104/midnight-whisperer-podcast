@@ -5,21 +5,21 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>한밤의 속삭임</title>
+    <title>Midnight Whisperer Korea 한국어</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 23:31:07 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>한밤의 속삭임</itunes:author>
+    <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
-      <itunes:name>한밤의 속삭임</itunes:name>
+      <itunes:name>Midnight Whisperer Korea 한국어</itunes:name>
     </itunes:owner>
     <itunes:category text="Fiction">
       <itunes:category text="Drama" />
