@@ -10,13 +10,13 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 12:10:13 +0530</lastBuildDate>
-    <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 13:37:23 +0530</lastBuildDate>
+    <atom:link href="https://example.com/podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Mitternachtsflüstern</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/cover.jpg" />
+    <itunes:image href="https://example.com/podcast/de/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
       <itunes:name>Mitternachtsflüstern</itunes:name>
@@ -27,25 +27,26 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Folge 7: Die Schulwanderung im Winter</title>
-      <description>Betritt die frostigen Hallen, in denen die Stille eine Warnung ist. Dieses Hörspiel entführt dich in eine Welt, in der Schatten Geheimnisse flüstern, die sich nicht in Luft auflösen wollen. Das Sounddesign versetzt dich mitten in die kalten, knarrenden Linoleumflure, wo Riya, Nima und Bappa in der eisigen Atmosphäre einer verlassenen Bildungseinrichtung um ihr Überleben kämpfen. Du erlebst vollständig vertonte Darbietungen, die für High-Fidelity-Kopfhörer entwickelt wurden und binaurales Raumklang-Audio nutzen, um knarrende Schritte auf leeren Böden zu simulieren. Originalkompositionen untermalen jede Wendung und steigern die Spannung in dieser Wintergeschichte. Wir setzen ein immersives Sounddesign ein, um den Hörer direkt in den Erzählraum zu versetzen, sodass sich jeder Herzschlag und jeder Schritt gefährlich nah anfühlt. Bitte beachte, dass diese Aufnahme Themen des Psychohorrors für Erwachsene enthält. Für visuelle Kunst schau dir die Videoserie auf YouTube an: https://www.youtube.com/@MidnightWhispererDark. Wenn du jedoch lieber nur zuhörst, abonniere den Podcast noch heute auf deiner bevorzugten Plattform. Bewerten, rezensieren und teile diese Folge mit Freunden, die Angst vor der Dunkelheit haben, oder mit denen, die die Nacht lieben. Jeder Track, geschrieben und produziert von Midnight Whisperer, garantiert gleichbleibende Qualität auf allen Veröffentlichungsplattformen. Die Klanglandschaft ist durchdrungen von winterlicher Angst, in der flüsternde Winde mit dem Rauschen unsichtbarer Kräfte verschmelzen. Diese Folge bietet eine unerbittliche Erzählung, die sich auf die Atmosphäre konzentriert und sicherstellt, dass kein Detail allein durch den Klang verloren geht. Du musst deinen Audiogeräten vertrauen, um die subtilen Hinweise zu erkennen, die im Hintergrundrauschen verborgen sind. Hör genau hin, während die Schule ohne Sicht deine Aufmerksamkeit einfordert und ein anhaltendes Gefühl der Angst erzeugt, das dich auch nach dem Abspielen noch verfolgt. Jeder Moment ist darauf ausgelegt, echte Angst zu wecken, statt billige Schockeffekte zu erzeugen.
+      <title>Folge 7: Das gefrorene Echo des Winters</title>
+      <description>Tauche ein in eine beklemmende Realität, in der der Wind nicht nachlassen will und Schatten lauter sprechen als Worte. Riya, Nima und Bappa bewegen sich durch eine Landschaft, die sich von etwas beobachtet fühlt, das älter ist als die Erinnerung selbst, und schaffen so eine Atmosphäre, in der Stille zur Gefahr wird. Du hörst eine Erzählung, die auf stimmlicher Authentizität und atmosphärischer Beklemmung basiert und dich vollständig in die kalte Winternacht eintauchen lässt. Hör genau hin, während Riya und Nima mit verborgenen Wahrheiten ringen und Roll Call Voice weiterhin die vergehenden Momente ihrer Gefahr markiert. Jeder binaurale Hinweis und jedes plötzliche Geräusch verschiebt die Perspektive und sorgt dafür, dass der Horror während dieses gesamten Hörspieldramas authentisch und unverfälscht bleibt.
 
-Schau dir das Video mit originalem Horror-Artwork auf YouTube an:
-https://youtu.be/gz6No7mZTNc
+Die Produktion nutzt immersives Sounddesign, um komplexe Themen und Elemente der Originalmusik zu überlagern. Binaurale Techniken erzeugen ein Gefühl, bei dem kein Moment verschwendet wird, und belohnen geduldige Zuhörer, die auf der Suche nach authentischem Horror von Midnight Whisperer sind. Diese Audioebenen erfordern aufmerksames Hören auf die subtilen Veränderungen des Winters und enthüllen eine erschreckende Wahrheit, die die Realität für immer verändert. Bitte beachte vor dem Abspielen die Inhaltswarnungen bezüglich übernatürlicher Themen und intensiver akustischer Umgebungen. Schau dir das visuelle Erlebnis mit Originalkunstwerken auf YouTube an: https://www.youtube.com/@MidnightWhispererDark. Abonnieren, bewerten und rezensieren in deiner Podcast-App, denn Feedback beflügelt unser Handwerk und sichert zukünftige düstere Geschichten. Geschrieben und produziert von Midnight Whisperer, um dich näher an die dunkle Kunst des Storytelling mit Klängen heranzuführen.
+
+Schau dir das Video mit den Original-Horror-Illustrationen auf YouTube an:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/6VUt183ASYs</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_school_marched_in_winter_de.mp3?v=10b127f7148c" length="9518957" type="audio/mpeg" />
-      <guid isPermaLink="false">9e3db339-b652-4730-83e4-5f85edef20d9</guid>
-      <pubDate>Sat, 13 Jun 2026 12:10:12 +0530</pubDate>
+      <enclosure url="https://example.com/podcast/de/episodes/the_school_marched_in_winter_de.mp3?v=10b127f7148c" length="9518957" type="audio/mpeg" />
+      <guid isPermaLink="false">57b481e4-e284-4f9b-a607-2174b385a7b2</guid>
+      <pubDate>Sat, 13 Jun 2026 13:37:23 +0530</pubDate>
       <link>https://youtu.be/6VUt183ASYs</link>
-      <itunes:summary>Riya, Nima und Bappa bewegen sich durch die unheimliche Atmosphäre einer verlassenen Bildungseinrichtung, die nur unter ihrem Namen bekannt ist.</itunes:summary>
+      <itunes:summary>Riya steht der winterlichen Stille gegenüber, und Nima entdeckt Geheimnisse, die im Schnee verborgen liegen. „Roll Call Voice“ enthüllt erschreckende Wahrheiten, die die Realität für immer verändern.</itunes:summary>
       <itunes:duration>6:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_school_marched_in_winter_de.jpg?v=1bd5aa0f25c5" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_school_marched_in_winter_de.jpg?v=1bd5aa0f25c5" />
       <itunes:episode>7</itunes:episode>
-      <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, mitternachtsflüsterer, schulmarsch, winterhorror, eindringlicher klang, binaurales audio, gesprochenes wort, riya, nima, bappa, namentliche abstimmung, podcast-app, klangerlebnis, originalpartitur, narrativer horror, sounddesign, audio-storytelling, nächtliche angst</itunes:keywords>
+      <itunes:keywords>mitternachtsflüsterer, horror-podcast, gruselgeschichten, hörspiel, originalpartitur, binauraler klang, riya, nima, bappa, namentliche abstimmung, winter, schule, übernatürlich, gruselig, hörbuch, eindringliche klangwelt, gesamte besetzung, dunkle literatur, gruseliges flüstern, gespenstische atmosphäre</itunes:keywords>
     </item>
     <item>
       <title>Folge 6: Was ist 2018 im Fort von Bhangarh passiert?</title>
@@ -67,7 +68,7 @@ https://youtu.be/bY4lOzMqQXw
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/WRbhXtVWZOE</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_fort_sign_waited_for_dusk_de.mp3?v=1e7551025a82" length="9440590" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/de/episodes/the_fort_sign_waited_for_dusk_de.mp3?v=1e7551025a82" length="9440590" type="audio/mpeg" />
       <guid isPermaLink="false">be831e70-528e-43a8-a62f-1a25b351aa69</guid>
       <pubDate>Thu, 11 Jun 2026 18:13:46 +0530</pubDate>
       <link>https://youtu.be/WRbhXtVWZOE</link>
@@ -75,7 +76,7 @@ https://youtu.be/WRbhXtVWZOE</description>
       <itunes:duration>6:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_fort_sign_waited_for_dusk_de.jpg?v=0b9091de12e7" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_fort_sign_waited_for_dusk_de.jpg?v=0b9091de12e7" />
       <itunes:episode>6</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, horror-erzählung, creepypasta, geistergeschichten, horror-hörspiel, mitternachtsflüsterer, was ist 2018 in der festung bhangarh passiert?, de, grusel-podcast, horrorliteratur</itunes:keywords>
     </item>
@@ -90,7 +91,7 @@ https://youtu.be/q6eIc-cXTeQ
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/b_uEO7gl_gU</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_canal_learns_your_childs_voice_de.mp3?v=1ff569be5fd1" length="9549677" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/de/episodes/the_canal_learns_your_childs_voice_de.mp3?v=1ff569be5fd1" length="9549677" type="audio/mpeg" />
       <guid isPermaLink="false">7e12fee5-616f-4a9a-982f-826a508f3298</guid>
       <pubDate>Mon, 08 Jun 2026 15:10:59 +0530</pubDate>
       <link>https://youtu.be/b_uEO7gl_gU</link>
@@ -98,7 +99,7 @@ https://youtu.be/b_uEO7gl_gU</description>
       <itunes:duration>6:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_canal_learns_your_childs_voice_de.jpg?v=d56d9e02f202" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_canal_learns_your_childs_voice_de.jpg?v=d56d9e02f202" />
       <itunes:episode>5</itunes:episode>
       <itunes:keywords>horror-podcast, hörspiel, gruselgeschichten, übernatürlicher horror, binaurales audio, eindringliches sounddesign, mitternachtsflüsterer, original-podcast-serie, horror-hörspiel, podcast, folge 19, die geschichte des kanals, düstere atmosphäre, horror-erzähler, audio-storytelling, gruselige tonaufnahmen</itunes:keywords>
     </item>
@@ -111,7 +112,7 @@ https://youtu.be/6W7r_Z9isgA
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/G6XDKmw6UjY</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_bridge_no_student_crossed_twice_de.mp3?v=97d8805d6208" length="9151571" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/de/episodes/the_bridge_no_student_crossed_twice_de.mp3?v=97d8805d6208" length="9151571" type="audio/mpeg" />
       <guid isPermaLink="false">2a696d7c-f8c4-4cf9-ac5f-3d79231618b9</guid>
       <pubDate>Sun, 07 Jun 2026 14:15:25 +0530</pubDate>
       <link>https://youtu.be/G6XDKmw6UjY</link>
@@ -119,7 +120,7 @@ https://youtu.be/G6XDKmw6UjY</description>
       <itunes:duration>6:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_bridge_no_student_crossed_twice_de.jpg?v=606dcc37112d" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_bridge_no_student_crossed_twice_de.jpg?v=606dcc37112d" />
       <itunes:episode>4</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, binauraler horror, übernatürlicher thriller, eine brücke, die kein schüler überquert hat, bimas tortur, dimas schicksal, sari-warnung, geistergeschichte als hörbuch, stimmungsvoller horror, grusel-podcast, unheimliche klangwelt, belletristik, gruseliger campus, mitternachtsflüsterer, „dark“ als hörbuch, horror-geschichten, akustischer horror, gerücht</itunes:keywords>
     </item>
@@ -138,7 +139,7 @@ https://youtu.be/DpT_NcqGFdY
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Fu7ik25tmYs</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_planchette_ran_first_de.mp3?v=7ff44f38969a" length="9702650" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/de/episodes/the_planchette_ran_first_de.mp3?v=7ff44f38969a" length="9702650" type="audio/mpeg" />
       <guid isPermaLink="false">3b2d44ca-8125-4e01-b5dc-741b48ac225c</guid>
       <pubDate>Sat, 06 Jun 2026 19:23:41 +0530</pubDate>
       <link>https://youtu.be/Fu7ik25tmYs</link>
@@ -146,7 +147,7 @@ https://youtu.be/Fu7ik25tmYs</description>
       <itunes:duration>6:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_planchette_ran_first_de.jpg?v=df3cf10d5d03" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_planchette_ran_first_de.jpg?v=df3cf10d5d03" />
       <itunes:episode>3</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, übernatürliche themen, paranormaler horror, mitternachtsflüsterer, audioaufnahme der séance, spukhausgeschichten, binaurales sounddesign, mitreißender horror, düstere atmosphäre, geistergeschichten-podcast, hörbuch, gruselgeschichten, gruselige tonaufnahmen, düstere podcast-folgen, horror-erzählung, hörspiel</itunes:keywords>
     </item>
@@ -159,7 +160,7 @@ https://youtu.be/g4k5xgiJrfM
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/fKDaY3f7Kss</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_idol_that_ate_the_light_de.mp3?v=25d559457517" length="4494670" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/de/episodes/the_idol_that_ate_the_light_de.mp3?v=25d559457517" length="4494670" type="audio/mpeg" />
       <guid isPermaLink="false">d6da8150-bb80-4797-bbba-4be90eb4a766</guid>
       <pubDate>Fri, 05 Jun 2026 20:17:33 +0530</pubDate>
       <link>https://youtu.be/fKDaY3f7Kss</link>
@@ -167,7 +168,7 @@ https://youtu.be/fKDaY3f7Kss</description>
       <itunes:duration>3:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_idol_that_ate_the_light_de.jpg?v=86d146980b17" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_idol_that_ate_the_light_de.jpg?v=86d146980b17" />
       <itunes:episode>2</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, gruselige geräusche, binaurale aufnahme, geistergeschichte, übernatürlicher thriller, dunkle literatur, gruseliger kult, okkulte geheimnisse, nachtmusik, eindringliches sounddesign, originalpartitur, mitternachtsflüsterer, hörspiel, horror-erzählung, synchronsprecher, atmosphärischer horror, dunkle flüstern, klangerlebnis</itunes:keywords>
     </item>
@@ -184,7 +185,7 @@ https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/3RhtFTBU_PI</description>
-      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_lamp_on_the_water_de.mp3?v=4bfbc21131b8" length="7104616" type="audio/mpeg" />
+      <enclosure url="https://example.com/podcast/de/episodes/the_lamp_on_the_water_de.mp3?v=4bfbc21131b8" length="7104616" type="audio/mpeg" />
       <guid isPermaLink="false">6dae46b4-5aa4-4d8b-9254-f3db7c5dbf82</guid>
       <pubDate>Thu, 04 Jun 2026 10:44:34 +0530</pubDate>
       <link>https://youtu.be/3RhtFTBU_PI</link>
@@ -192,7 +193,7 @@ https://youtu.be/3RhtFTBU_PI</description>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_lamp_on_the_water_de.jpg?v=5344337b1041" />
+      <itunes:image href="https://example.com/podcast/de/artwork/the_lamp_on_the_water_de.jpg?v=5344337b1041" />
       <itunes:episode>1</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, binaurales sounddesign, originalpartitur, horror auf see, übernatürliche themen, gruseliges audio, geistergeschichte, düstere erzählkunst, mitternachtsflüsterer, hörgeschichte, okkultes geheimnis, wissenswertes über wasser, unheimliche atmosphäre, audio für nachtfahrten, gruselige podcast-folge</itunes:keywords>
     </item>
