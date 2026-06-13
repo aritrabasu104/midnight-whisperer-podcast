@@ -5,21 +5,21 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>Murmures de Minuit</title>
+    <title>Midnight Whisperer Français</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 21:38:27 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 23:30:50 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>Murmures de Minuit</itunes:author>
+    <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/cover.jpg" />
     <itunes:owner>
       <itunes:email>pass15000@gmail.com</itunes:email>
-      <itunes:name>Murmures de Minuit</itunes:name>
+      <itunes:name>Midnight Whisperer Français</itunes:name>
     </itunes:owner>
     <itunes:category text="Fiction">
       <itunes:category text="Drama" />
