@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 23:59:19 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:25:53 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -27,35 +27,25 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Episodio 8: ¿Qué pasó en *The Voice Under The Quilt*?</title>
-      <description>«¿Qué pasó en *The Voice Under The Quilt*?» es un drama de audio de terror original de Midnight Whisperer. Esta edición específica para cada lugar cuenta con voces, diseño de sonido y música original para que disfrutes de una experiencia inmersiva con audífonos.
+      <title>Episodio 8: ¿Quién respondió debajo de la colcha?</title>
+      <description>Clara llega a una granja de Adams, Tennessee, para copiar una Biblia familiar, pero Mrs. Marrow le advierte que después de medianoche no debe contestar la voz que respira bajo la colcha.
 
-Idioma: inglés. Se recomienda escucharlo con audífonos en una habitación a oscuras.
+Una historia de terror gótico en español, con niebla, gas de lámpara, rumores de brujería y una habitación que parece guardar memoria.
 
-Mira la experiencia visual con ilustraciones originales en YouTube:
-https://www.youtube.com/@MidnightWhispererDark
+Mira la experiencia visual en YouTube: https://youtu.be/Jt3PhKlPO04
 
-Suscríbete y deja una reseña para ayudar a otros a encontrar el programa.
-
-Escrito y producido por Midnight Whisperer.
-
-Advertencia de contenido: temas de terror, elementos sobrenaturales.
-
-Míralo con ilustraciones originales de terror en YouTube:
-
-Watch with original horror artwork on YouTube:
-https://youtu.be/Jt3PhKlPO04</description>
+Idioma: español. Escúchala con audífonos y las luces apagadas.</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_voice_under_the_quilt_es.mp3?v=4a25d7bc4835" length="10891326" type="audio/mpeg" />
       <guid isPermaLink="false">a1558f4f-7586-46d4-8e61-aad767a1c8df</guid>
       <pubDate>Fri, 19 Jun 2026 23:59:18 +0530</pubDate>
       <link>https://youtu.be/Jt3PhKlPO04</link>
-      <itunes:summary>«¿Qué pasó en *The Voice Under The Quilt*?» — un drama de audio de terror original de Midnight Whisperer, presentado en inglés con un diseño de sonido envolvente.</itunes:summary>
+      <itunes:summary>Una historia de terror gótico en español sobre Clara, Mrs. Marrow y la voz que espera bajo una colcha en Adams, Tennessee.</itunes:summary>
       <itunes:duration>7:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_voice_under_the_quilt_es.jpg?v=4d29fb3dfd13" />
       <itunes:episode>8</itunes:episode>
-      <itunes:keywords>podcast de terror, historias de miedo, audiodrama, narración de terror, creepypasta, historias de fantasmas, audio de terror, midnight whisperer, ¿qué pasó con la voz que se oía debajo de la colcha?, es, podcast de terror, ficción de terror</itunes:keywords>
+      <itunes:keywords>terror en español, historia de terror, terror gótico, audiodrama, brujas, Adams Tennessee, Midnight Whisperer</itunes:keywords>
     </item>
     <item>
       <title>Episodio 7: El eco helado del invierno</title>
