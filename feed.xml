@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 23:29:59 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 23:55:16 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -27,17 +27,46 @@
     <itunes:category text="Fiction" />
 
     <item>
+      <title>Episode 22: What happened in The Voice Under The Quilt?</title>
+      <description>&quot;What happened in The Voice Under The Quilt?&quot; is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+
+Language: English. Best experienced with headphones in a dark room.
+
+Watch the visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find the show.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/oxHrraOJinQ</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_voice_under_the_quilt.mp3?v=379d4289b7d8" length="9138405" type="audio/mpeg" />
+      <guid isPermaLink="false">ab6a6a6e-ee99-433b-82d3-e048e3200b29</guid>
+      <pubDate>Fri, 19 Jun 2026 23:55:14 +0530</pubDate>
+      <link>https://youtu.be/oxHrraOJinQ</link>
+      <itunes:summary>&quot;What happened in The Voice Under The Quilt?&quot; — an original horror audio drama from Midnight Whisperer, presented in English with immersive sound design.</itunes:summary>
+      <itunes:duration>6:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_voice_under_the_quilt.jpg?v=4d29fb3dfd13" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened in the voice under the quilt?, en, scary podcast, horror fiction</itunes:keywords>
+    </item>
+    <item>
       <title>Episode 21: The Frozen Echo of Winter</title>
       <description>Step into a chilling reality where the wind refuses to leave and shadows speak louder than words. Riya, Nima, and Bappa navigate a landscape that feels watched by something older than memory, creating an atmosphere where silence turns dangerous. You will hear a narrative built on vocal authenticity and atmospheric dread, designed to immerse you fully in the cold winter night. Listen closely as Riya and Nima struggle with hidden truths while Roll Call Voice continues to mark the passing moments of their peril. Every binaural cue and sudden sound shifts the perspective, keeping the horror authentic and raw throughout this full audio drama experience.
 
 The production utilizes immersive sound design to layer complex themes and original score elements. Binaural techniques create a sensation where no moment is wasted, rewarding patient listeners seeking authentic horror from Midnight Whisperer. These audio layers demand careful attention to the subtle shifting of winter, revealing a chilling truth that changes reality forever. Please note content warnings regarding supernatural themes and intense auditory environments before play. Watch the visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Subscribe, rate, and review on your podcast app because feedback fuels our craft and ensures future dark stories. Written and produced by Midnight Whisperer to bring you closer to the dark art of sound storytelling.
 
 Watch with original horror artwork on YouTube:
-https://youtu.be/gz6No7mZTNc</description>
+https://youtu.be/5UHrc3HNgvM</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_school_marched_in_winter.mp3?v=069aa523e742" length="9615506" type="audio/mpeg" />
       <guid isPermaLink="false">6b749e2f-90ca-4dcb-adb9-dea5ff3dbc18</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:04 +0530</pubDate>
-      <link>https://youtu.be/gz6No7mZTNc</link>
+      <link>https://youtu.be/5UHrc3HNgvM</link>
       <itunes:summary>Riya faces the winter silence, and Nima finds secrets hidden in the snow. Roll Call Voice brings chilling truths that change reality forever.</itunes:summary>
       <itunes:duration>6:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
