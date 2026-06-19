@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 23:30:59 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:13:43 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 8: 『キルトの下の声』では何が起こったのか？</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/TtuL2LDgMDQ</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_voice_under_the_quilt_ja.mp3?v=da834b8da50e" length="8230598" type="audio/mpeg" />
+      <guid isPermaLink="false">b610d899-bbf2-4516-a5ba-ca43be15a9fb</guid>
+      <pubDate>Sat, 20 Jun 2026 00:13:41 +0530</pubDate>
+      <link>https://youtu.be/TtuL2LDgMDQ</link>
+      <itunes:summary>「キルトの下の声」では何が起こったのか？―― Midnight Whispererによるオリジナルホラーオーディオドラマ。英語音声、臨場感あふれるサウンドデザインでお届けします。</itunes:summary>
+      <itunes:duration>5:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_voice_under_the_quilt_ja.jpg?v=4d29fb3dfd13" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 布団の下の声には何が起こったのか？, en, 怖いポッドキャスト, ホラー小説</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 7: 凍てついた冬のこだま</title>
       <description>
