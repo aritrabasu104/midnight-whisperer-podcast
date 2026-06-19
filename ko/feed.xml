@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 23:31:07 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:17:15 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 8: &apos;이불 속의 목소리&apos;에서 무슨 일이 일어났을까요?</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/CRQ0j5DxzxA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_voice_under_the_quilt_ko.mp3?v=f42bab6f74a7" length="10097622" type="audio/mpeg" />
+      <guid isPermaLink="false">5b5b34bd-ed1d-47b5-bb21-886423b38883</guid>
+      <pubDate>Sat, 20 Jun 2026 00:17:14 +0530</pubDate>
+      <link>https://youtu.be/CRQ0j5DxzxA</link>
+      <itunes:summary>&quot;이불 속 목소리에서 무슨 일이 일어났을까?&quot; - Midnight Whisperer 의 오리지널 공포 오디오 드라마로, 몰입감 넘치는 사운드 디자인과 함께 영어로 제공됩니다.</itunes:summary>
+      <itunes:duration>7:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_voice_under_the_quilt_ko.jpg?v=4d29fb3dfd13" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 공포 내레이션, 크리피파스타, 귀신 이야기, 공포 오디오, 한밤중의 속삭임, 이불 속에서 들려오는 목소리에는 무슨 일이 있었던 걸까요?, en, 무서운 팟캐스트, 공포 소설</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 7: 겨울의 얼어붙은 메아리</title>
       <description>
