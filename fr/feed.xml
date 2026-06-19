@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 00:10:09 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:26:04 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -27,35 +27,25 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Épisode 8: Que s&apos;est-il passé dans « The Voice Under The Quilt » ?</title>
-      <description>« Que s&apos;est-il passé dans *The Voice Under The Quilt*? » est une pièce radiophonique d&apos;horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d&apos;une conception sonore et d&apos;une bande originale, pour une écoute immersive au casque.
+      <title>Épisode 8 : Qui a répondu sous la couette ?</title>
+      <description>Clara arrive dans une ferme d’Adams, au Tennessee, pour recopier une Bible familiale. Mais Mme Marrow la prévient : après minuit, il ne faut pas répondre à la voix sous la couette.
 
-Langue: anglais. À écouter de préférence au casque, dans une pièce sombre.
+Une fiction audio d’horreur gothique en français, avec brouillard, lampe à gaz, rumeurs de sorcellerie et une chambre qui semble garder une mémoire vivante.
 
-Regarde l’expérience visuelle avec les illustrations originales sur YouTube:
-https://www.youtube.com/@MidnightWhispererDark
+Regardez la version visuelle sur YouTube : https://youtu.be/FhGFjqJESfg
 
-Abonne-toi et laisse un commentaire pour aider les autres à découvrir cette émission.
-
-Écrit et produit par Midnight Whisperer.
-
-Avertissement: thèmes d’horreur, éléments surnaturels.
-
-Regarde-la avec les illustrations d’horreur originales sur YouTube:
-
-Watch with original horror artwork on YouTube:
-https://youtu.be/FhGFjqJESfg</description>
+Langue : français. À écouter au casque, lumières éteintes.</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_voice_under_the_quilt_fr.mp3?v=1734f77cee47" length="10661239" type="audio/mpeg" />
       <guid isPermaLink="false">a2737f9d-3efa-4714-8a5d-03e563aec5ec</guid>
       <pubDate>Sat, 20 Jun 2026 00:10:07 +0530</pubDate>
       <link>https://youtu.be/FhGFjqJESfg</link>
-      <itunes:summary>« Que s&apos;est-il passé dans *The Voice Under The Quilt*? » — une pièce radiophonique d&apos;horreur originale de *Midnight Whisperer*, présentée en anglais avec une conception sonore immersive.</itunes:summary>
+      <itunes:summary>Une histoire d’horreur gothique en français sur Clara, Mme Marrow et la voix qui attend sous une couette à Adams, Tennessee.</itunes:summary>
       <itunes:duration>7:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_voice_under_the_quilt_fr.jpg?v=4d29fb3dfd13" />
       <itunes:episode>8</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, qu&apos;est-ce qui s&apos;est passé quand on a entendu cette voix sous la couette ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
+      <itunes:keywords>horreur français, histoire d horreur, horreur gothique, fiction audio, sorcières, Adams Tennessee, Midnight Whisperer</itunes:keywords>
     </item>
     <item>
       <title>Épisode 7: L&apos;écho glacé de l&apos;hiver</title>
