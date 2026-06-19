@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 00:06:33 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:26:01 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -27,35 +27,25 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Folge 8: Was ist in „The Voice Under The Quilt“ passiert?</title>
-      <description>„Was ist in ‚The Voice Under The Quilt‘ passiert?“ ist ein originelles Horror-Hörspiel von Midnight Whisperer. Diese ortsspezifische Ausgabe ist vollständig vertont, mit Sounddesign versehen und musikalisch unterlegt – für ein intensives Hörerlebnis mit Kopfhörern.
+      <title>Folge 8: Wer antwortete unter der Steppdecke?</title>
+      <description>Clara kommt nach Adams, Tennessee, um eine Familienbibel abzuschreiben. Doch Mrs. Marrow warnt sie: Nach Mitternacht darf sie der Stimme unter der Steppdecke nicht antworten.
 
-Sprache: Englisch. Am besten mit Kopfhörern in einem dunklen Raum genießen.
+Eine gotische Horrorgeschichte auf Deutsch, mit Nebel, Gaslicht, alten Hexengerüchten und einem Zimmer, das sich an etwas Lebendiges erinnert.
 
-Schau dir das visuelle Erlebnis mit Original-Artwork auf YouTube an:
-https://www.youtube.com/@MidnightWhispererDark
+Sieh dir die visuelle Version auf YouTube an: https://youtu.be/vJUfl-fIHgM
 
-Abonniere den Kanal und hinterlasse eine Bewertung, damit andere die Serie leichter finden können.
-
-Geschrieben und produziert von Midnight Whisperer.
-
-Inhaltswarnung: Horror-Themen, übernatürliche Elemente.
-
-Schau dir das Video mit den originalen Horror-Illustrationen auf YouTube an:
-
-Watch with original horror artwork on YouTube:
-https://youtu.be/vJUfl-fIHgM</description>
+Sprache: Deutsch. Am besten mit Kopfhörern und ausgeschaltetem Licht hören.</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_voice_under_the_quilt_de.mp3?v=1b7a7be2b047" length="10156554" type="audio/mpeg" />
       <guid isPermaLink="false">3dd39ebc-13ad-4f9f-afb8-1ebe4c0ad65b</guid>
       <pubDate>Sat, 20 Jun 2026 00:06:32 +0530</pubDate>
       <link>https://youtu.be/vJUfl-fIHgM</link>
-      <itunes:summary>„Was ist in ‚The Voice Under The Quilt‘ passiert?“ – ein originelles Horror-Hörspiel von Midnight Whisperer, auf Englisch präsentiert mit fesselndem Sounddesign.</itunes:summary>
+      <itunes:summary>Eine gotische Horrorgeschichte auf Deutsch über Clara, Mrs. Marrow und die Stimme, die unter einer Steppdecke in Adams, Tennessee, wartet.</itunes:summary>
       <itunes:duration>7:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_voice_under_the_quilt_de.jpg?v=4d29fb3dfd13" />
       <itunes:episode>8</itunes:episode>
-      <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, horror-erzählung, creepypasta, geistergeschichten, horror-hörspiel, mitternachtsflüsterer, was ist denn unter der bettdecke passiert?, de, grusel-podcast, horrorliteratur</itunes:keywords>
+      <itunes:keywords>horror deutsch, horrorgeschichte, gothic horror, hörspiel, hexen, Adams Tennessee, Midnight Whisperer</itunes:keywords>
     </item>
     <item>
       <title>Folge 7: Das gefrorene Echo des Winters</title>
