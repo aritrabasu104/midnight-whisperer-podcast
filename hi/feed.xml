@@ -10,7 +10,7 @@
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 00:20:47 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:26:15 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</itunes:summary>
@@ -27,22 +27,25 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>एपिसोड 8: द वॉइस अंडर द क्विल्ट में क्या हुआ?</title>
-      <description>
+      <title>एपिसोड 8: रजाई के नीचे की आवाज़ ने क्या जवाब दिया?</title>
+      <description>क्लारा पारिवारिक बाइबिल की नकल करने टेनेसी के एडम्स में एक फार्महाउस पहुंचती है, लेकिन श्रीमती मैरो चेतावनी देती हैं कि आधी रात के बाद रजाई के नीचे की आवाज़ को जवाब मत देना।
 
-मूल हॉरर आर्टवर्क के साथ YouTube पर देखें:
-https://youtu.be/rpHt7MRBfps</description>
+कोहरे, गैस लैंप, पुराने चुड़ैल-किस्सों और याद रखने वाले कमरे की हिंदी गॉथिक हॉरर ऑडियो ड्रामा।
+
+YouTube पर विजुअल संस्करण देखें: https://youtu.be/rpHt7MRBfps
+
+भाषा: हिंदी। हेडफ़ोन लगाकर और लाइट बंद करके सुनें।</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/episodes/the_voice_under_the_quilt_hi.mp3?v=70216586677d" length="10257491" type="audio/mpeg" />
       <guid isPermaLink="false">45499fb0-f471-46c5-90ca-75ff52becd03</guid>
       <pubDate>Sat, 20 Jun 2026 00:20:45 +0530</pubDate>
       <link>https://youtu.be/rpHt7MRBfps</link>
-      <itunes:summary>&quot;द वॉइस अंडर द क्विल्ट में क्या हुआ?&quot; - Midnight Whisperer का एक मौलिक हॉरर ऑडियो ड्रामा, जिसे अंग्रेजी में इमर्सिव साउंड डिजाइन के साथ प्रस्तुत किया गया है।</itunes:summary>
+      <itunes:summary>क्लारा, श्रीमती मैरो और टेनेसी के एडम्स में रजाई के नीचे इंतज़ार करती आवाज़ पर आधारित हिंदी गॉथिक हॉरर ऑडियो ड्रामा।</itunes:summary>
       <itunes:duration>7:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/artwork/the_voice_under_the_quilt_hi.jpg?v=4d29fb3dfd13" />
       <itunes:episode>8</itunes:episode>
-      <itunes:keywords>हॉरर पॉडकास्ट, डरावनी कहानियां, ऑडियो ड्रामा, डरावनी कहानी, क्रीपीपास्ता, भूतों की कहानियां, डरावनी ऑडियो, आधी रात का फुसफुसाने वाला, रजाई के नीचे से आ रही आवाज में क्या हुआ?, एन, डरावना पॉडकास्ट, डरावनी कथा</itunes:keywords>
+      <itunes:keywords>hindi horror, डरावनी कहानी, गॉथिक हॉरर, ऑडियो ड्रामा, चुड़ैल, Adams Tennessee, Midnight Whisperer</itunes:keywords>
     </item>
     <item>
       <title>एपिसोड 7: Dow Hill में किसने attendance ली?</title>
