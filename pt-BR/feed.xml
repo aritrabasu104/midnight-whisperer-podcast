@@ -10,7 +10,7 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 00:25:57 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:50:04 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Brasil</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episódio 9: O que aconteceu em Belmez de la Moraleda em 1971?</title>
+      <description>“O que aconteceu em Belmez de la Moraleda em 1971?” é um drama de terror em áudio original do site Midnight Whisperer. Essa edição específica para o local conta com dublagem completa, design de som e trilha sonora, tudo pensado para uma experiência imersiva com fones de ouvido.
+
+Idioma: inglês. A melhor experiência é com fones de ouvido em um quarto escuro.
+
+Assista à experiência visual com arte original no YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Inscreva-se e deixe uma avaliação para ajudar outras pessoas a encontrarem o programa.
+
+Escrito e produzido por Midnight Whisperer.
+
+Aviso de conteúdo: temas de terror, elementos sobrenaturais.
+
+Assista com a arte original de terror no YouTube:
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/_n-kGxHv0LA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_kitchen_floor_learned_a_face_pt-BR.mp3?v=d5d6ccc6d5ea" length="3911617" type="audio/mpeg" />
+      <guid isPermaLink="false">0fe09ae8-bb8d-43da-a0f4-9b03bb390ee8</guid>
+      <pubDate>Mon, 22 Jun 2026 00:50:03 +0530</pubDate>
+      <link>https://youtu.be/_n-kGxHv0LA</link>
+      <itunes:summary>&quot;O que aconteceu em Belmez de la Moraleda em 1971?&quot; — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</itunes:summary>
+      <itunes:duration>2:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu em belmez de la moraleda em 1971? o que aconteceu em belmez de la moraleda em 1971?, en informar, podcast de terror, ficção de terror</itunes:keywords>
+    </item>
     <item>
       <title>Episódio 8: Quem respondeu debaixo da colcha?</title>
       <description>Clara chega a uma fazenda em Adams, Tennessee, para copiar uma Bíblia de família, mas a Sra. Marrow avisa que depois da meia-noite ela não deve responder à voz debaixo da colcha.
