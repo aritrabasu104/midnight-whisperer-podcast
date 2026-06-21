@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 23:55:16 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:44:06 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -26,6 +26,34 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 23: What happened at Belmez de la Moraleda in 1971?</title>
+      <description>&quot;What happened at Belmez de la Moraleda in 1971?&quot; is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+
+Language: English. Best experienced with headphones in a dark room.
+
+Watch the visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find the show.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/85E1xyAH3Sg</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_kitchen_floor_learned_a_face.mp3?v=4437a4785008" length="3460221" type="audio/mpeg" />
+      <guid isPermaLink="false">43931fe3-3083-475a-b13c-1c43c9c56e92</guid>
+      <pubDate>Mon, 22 Jun 2026 00:44:04 +0530</pubDate>
+      <link>https://youtu.be/85E1xyAH3Sg</link>
+      <itunes:summary>&quot;What happened at Belmez de la Moraleda in 1971?&quot; — an original horror audio drama from Midnight Whisperer, presented in English with immersive sound design.</itunes:summary>
+      <itunes:duration>2:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at belmez de la moraleda in 1971?, en, scary podcast, horror fiction</itunes:keywords>
+    </item>
     <item>
       <title>Episode 22: What happened in The Voice Under The Quilt?</title>
       <description>&quot;What happened in The Voice Under The Quilt?&quot; is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
