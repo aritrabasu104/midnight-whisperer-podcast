@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 00:26:11 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:04:09 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,23 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 9: 1971년 벨메스 데 라 모랄레다에서 무슨 일이 일어났을까?</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/klPo02zqAHE</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_kitchen_floor_learned_a_face_ko.mp3?v=f2987ec7bfc8" length="4211293" type="audio/mpeg" />
+      <guid isPermaLink="false">94fb0313-6e50-48be-ae81-8fe20ce96d74</guid>
+      <pubDate>Mon, 22 Jun 2026 01:04:08 +0530</pubDate>
+      <link>https://youtu.be/klPo02zqAHE</link>
+      <itunes:summary>&quot;1971년 벨메스 데 라 모랄레다에서 무슨 일이 일어났을까?&quot; - Midnight Whisperer 의 오리지널 공포 오디오 드라마로, 몰입감 넘치는 사운드 디자인과 함께 영어로 제공됩니다.</itunes:summary>
+      <itunes:duration>2:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 공포 내레이션, 크리피파스타, 귀신 이야기, 공포 오디오, 한밤중의 속삭임, 1971년 벨메스 데 라 모랄레다에서 무슨 일이 일어났나요?, en, 무서운 팟캐스트, 공포 소설</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 8: 이불 밑의 목소리는 무엇을 대답했을까?</title>
       <description>클라라는 가족 성경을 필사하러 테네시주 애덤스의 농가에 도착한다. 하지만 마로우 부인은 자정이 지나면 이불 밑의 목소리에 대답하지 말라고 경고한다.
