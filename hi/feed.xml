@@ -10,7 +10,7 @@
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 01:07:36 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:16:57 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</itunes:summary>
@@ -40,6 +40,7 @@ https://youtu.be/FqZ4lB1pUWs</description>
       <itunes:duration>2:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/artwork/the_kitchen_floor_learned_a_face_hi.jpg?v=ad0fc6c0c99d" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>हॉरर पॉडकास्ट, डरावनी कहानियां, ऑडियो ड्रामा, डरावनी कहानी, क्रीपीपास्ता, भूतों की कहानियां, डरावनी ऑडियो, आधी रात का फुसफुसाने वाला, 1971 में बेलमेज़ डे ला मोरालेडा में क्या हुआ था?, एन, डरावना पॉडकास्ट, डरावनी कथा</itunes:keywords>
     </item>
