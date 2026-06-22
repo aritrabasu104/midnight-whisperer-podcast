@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 01:04:09 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:16:45 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -40,6 +40,7 @@ https://youtu.be/klPo02zqAHE</description>
       <itunes:duration>2:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_kitchen_floor_learned_a_face_ko.jpg?v=ad0fc6c0c99d" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 공포 내레이션, 크리피파스타, 귀신 이야기, 공포 오디오, 한밤중의 속삭임, 1971년 벨메스 데 라 모랄레다에서 무슨 일이 일어났나요?, en, 무서운 팟캐스트, 공포 소설</itunes:keywords>
     </item>
