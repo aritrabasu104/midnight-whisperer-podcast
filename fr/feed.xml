@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 00:57:08 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:16:22 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -53,6 +53,7 @@ https://youtu.be/QzQmI2jbscA</description>
       <itunes:duration>2:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_kitchen_floor_learned_a_face_fr.jpg?v=ad0fc6c0c99d" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, que s&apos;est-il passé à belmez de la moraleda en 1971 ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
     </item>
