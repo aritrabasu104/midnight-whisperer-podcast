@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 00:46:35 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:15:45 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -53,6 +53,7 @@ https://youtu.be/oJoxBX-Kyi4</description>
       <itunes:duration>2:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_kitchen_floor_learned_a_face_es.jpg?v=ad0fc6c0c99d" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>podcast de terror, historias de miedo, audiodrama, narración de terror, creepypasta, historias de fantasmas, audio de terror, midnight whisperer, ¿qué pasó en belmez de la moraleda en 1971?, en es-419, podcast de terror, ficción de terror</itunes:keywords>
     </item>
