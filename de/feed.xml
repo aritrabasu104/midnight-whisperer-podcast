@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 00:53:36 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:16:10 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -53,6 +53,7 @@ https://youtu.be/-tWOn980kDU</description>
       <itunes:duration>2:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_kitchen_floor_learned_a_face_de.jpg?v=ad0fc6c0c99d" />
       <itunes:episode>9</itunes:episode>
       <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, horror-erzählung, creepypasta, geistergeschichten, horror-hörspiele, mitternachtsflüsterer, was ist 1971 in belmez de la moraleda passiert?, en de, grusel-podcast, horrorliteratur</itunes:keywords>
     </item>
