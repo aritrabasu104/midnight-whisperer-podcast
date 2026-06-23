@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 08:15:45 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:25:19 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,6 +26,37 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episodio 10: ¿Qué pasó en Ishinomaki en 2011?</title>
+      <description>«¿Qué pasó en Ishinomaki en 2011?» es un audiodrama de terror original de Midnight Whisperer. Esta edición específica para ese lugar cuenta con voces, diseño de sonido y banda sonora completos para que disfrutes de una experiencia inmersiva con audífonos.
+
+Idioma: inglés. Se recomienda escucharlo con audífonos en una habitación a oscuras.
+
+Mira la experiencia visual con ilustraciones originales en YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Suscríbete y deja una reseña para ayudar a otros a encontrar el programa.
+
+Escrito y producido por Midnight Whisperer.
+
+Advertencia de contenido: temas de terror, elementos sobrenaturales.
+
+Míralo con ilustraciones originales de terror en YouTube:
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/it_XDrVK4i8</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_meter_kept_running_to_the_sea_es.mp3?v=4f7630befefb" length="4274614" type="audio/mpeg" />
+      <guid isPermaLink="false">fd282aff-3bca-4584-ab64-a5b3bc24adaf</guid>
+      <pubDate>Wed, 24 Jun 2026 05:25:18 +0530</pubDate>
+      <link>https://youtu.be/it_XDrVK4i8</link>
+      <itunes:summary>«¿Qué pasó en Ishinomaki en 2011?» — un drama de audio de terror original de Midnight Whisperer, presentado en inglés con un diseño de sonido envolvente.</itunes:summary>
+      <itunes:duration>2:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_meter_kept_running_to_the_sea_es.jpg?v=d258dd0fae93" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:keywords>podcast de terror, historias de miedo, audiodrama, narración de terror, creepypasta, historias de fantasmas, audio de terror, midnight whisperer, ¿qué pasó en ishinomaki en 2011?, en es-419, podcast de terror, ficción de terror</itunes:keywords>
+    </item>
     <item>
       <title>Episodio 9: ¿Qué pasó en Belmez de la Moraleda en 1971?</title>
       <description>«¿Qué pasó en Belmez de la Moraleda en 1971?» es un audiodrama de terror original de Midnight Whisperer. Esta edición específica para ese lugar cuenta con voces, diseño de sonido y banda sonora completos, pensados para una experiencia inmersiva con audífonos.
