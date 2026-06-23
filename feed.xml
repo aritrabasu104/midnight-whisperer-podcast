@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 08:15:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:20:53 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -26,6 +26,35 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 24: What happened at Ishinomaki in 2011?</title>
+      <description>&quot;What happened at Ishinomaki in 2011?&quot; is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+
+Language: English. Best experienced with headphones in a dark room.
+
+Watch the visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find the show.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/kzSrC2_UDBU</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_meter_kept_running_to_the_sea.mp3?v=58890361d544" length="3825099" type="audio/mpeg" />
+      <guid isPermaLink="false">d2b501af-8a40-4694-9ce4-e1c1d787f86b</guid>
+      <pubDate>Wed, 24 Jun 2026 05:20:51 +0530</pubDate>
+      <link>https://youtu.be/kzSrC2_UDBU</link>
+      <itunes:summary>&quot;What happened at Ishinomaki in 2011?&quot; — an original horror audio drama from Midnight Whisperer, presented in English with immersive sound design.</itunes:summary>
+      <itunes:duration>2:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_meter_kept_running_to_the_sea.jpg?v=d258dd0fae93" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at ishinomaki in 2011?, en, scary podcast, horror fiction</itunes:keywords>
+    </item>
     <item>
       <title>Episode 23: What happened at Belmez de la Moraleda in 1971?</title>
       <description>&quot;What happened at Belmez de la Moraleda in 1971?&quot; is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
