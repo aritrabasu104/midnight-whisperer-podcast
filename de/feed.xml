@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 08:16:10 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:32:40 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -26,6 +26,37 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 10: Was ist 2011 in Ishinomaki passiert?</title>
+      <description>„Was ist 2011 in Ishinomaki passiert?“ ist ein originelles Horror-Hörspiel von Midnight Whisperer. Diese ortsspezifische Ausgabe ist vollständig vertont, mit Sounddesign versehen und musikalisch unterlegt – für ein intensives Hörerlebnis mit Kopfhörern.
+
+Sprache: Englisch. Am besten mit Kopfhörern in einem dunklen Raum genießen.
+
+Schau dir das visuelle Erlebnis mit Original-Artwork auf YouTube an:
+https://www.youtube.com/@MidnightWhispererDark
+
+Abonniere den Kanal und hinterlasse eine Bewertung, damit andere die Serie leichter finden können.
+
+Geschrieben und produziert von Midnight Whisperer.
+
+Inhaltswarnung: Horror-Themen, übernatürliche Elemente.
+
+Schau dir das Video mit den originalen Horror-Illustrationen auf YouTube an:
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/G4lpvnk6D7Y</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_meter_kept_running_to_the_sea_de.mp3?v=10b0a9259bdb" length="3986222" type="audio/mpeg" />
+      <guid isPermaLink="false">6115f3e6-a7fb-4dd7-90a9-8dc6c0ae02d4</guid>
+      <pubDate>Wed, 24 Jun 2026 05:32:38 +0530</pubDate>
+      <link>https://youtu.be/G4lpvnk6D7Y</link>
+      <itunes:summary>„Was ist 2011 in Ishinomaki passiert?“ – ein originelles Horror-Hörspiel von Midnight Whisperer, auf Englisch präsentiert mit fesselndem Sounddesign.</itunes:summary>
+      <itunes:duration>2:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_meter_kept_running_to_the_sea_de.jpg?v=d258dd0fae93" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, horror-erzählung, creepypasta, geistergeschichten, horror-hörspiele, mitternachtsflüsterer, was ist 2011 in ishinomaki passiert?, en de, grusel-podcast, horrorliteratur</itunes:keywords>
+    </item>
     <item>
       <title>Folge 9: Was ist 1971 in Belmez de la Moraleda passiert?</title>
       <description>„Was geschah 1971 in Belmez de la Moraleda?“ ist ein originelles Horror-Hörspiel von Midnight Whisperer. Diese ortsspezifische Ausgabe ist vollständig vertont, mit Sounddesign versehen und musikalisch unterlegt – für ein intensives Hörerlebnis mit Kopfhörern.
