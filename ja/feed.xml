@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 08:16:34 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:38:16 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 10: 2011年の石巻で何が起こったのか？</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/VOZW_khO16k</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_meter_kept_running_to_the_sea_ja.mp3?v=59afa1d592c8" length="3636391" type="audio/mpeg" />
+      <guid isPermaLink="false">c48094cb-e6e0-4a28-bbba-0244c43465f2</guid>
+      <pubDate>Wed, 24 Jun 2026 05:38:14 +0530</pubDate>
+      <link>https://youtu.be/VOZW_khO16k</link>
+      <itunes:summary>「2011年に石巻で何が起こったのか？」―― Midnight Whispererによるオリジナルホラーオーディオドラマ。英語音声、臨場感あふれるサウンドデザインでお届けします。</itunes:summary>
+      <itunes:duration>2:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_meter_kept_running_to_the_sea_ja.jpg?v=d258dd0fae93" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 2011年に石巻で何が起こったのですか？, en, 怖いポッドキャスト, ホラー小説</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 9: 1971年にベルメス・デ・ラ・モラレダで何が起こったのか？</title>
       <description>
