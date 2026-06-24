@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 05:40:15 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:03:00 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 11: 교환대의 무언의 신호</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/cEyIrWawmTA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_switchboard_dialed_no_one_ko.mp3?v=ec2903375175" length="3467744" type="audio/mpeg" />
+      <guid isPermaLink="false">0df77396-3695-4e9b-b5c4-3561c5ce05f7</guid>
+      <pubDate>Wed, 24 Jun 2026 19:02:58 +0530</pubDate>
+      <link>https://youtu.be/cEyIrWawmTA</link>
+      <itunes:summary>이 오디오 드라마에서 로테, 로젠하임, 그리고 바이스는 교환대의 소름 끼치는 침묵에 맞서게 됩니다. 이 이야기는 바이너럴 사운드 디자인을 통해 잡음과 그림자가 뒤섞인 분위기 속으로 청취자를 끌어들입니다.</itunes:summary>
+      <itunes:duration>2:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_switchboard_dialed_no_one_ko.jpg?v=49e64bd36be5" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 초자연 스릴러, 바이너럴 사운드 디자인, 몰입형 스토리텔링, 오리지널 오디오 드라마, 밤에 듣는 공포, 소름 끼치는 오디오 경험, 신작 공포 영화, 성우 연기 이야기, 분위기 있는 공포, 전화 통화 이야기, 교환대 미스터리, 로테와 로젠하임, 한밤중의 속삭임, 25화, 전체 출연진 오디오, 어둡고 분위기 있는 이야기, 광고 없음</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 10: 2011년 이시노마키에서는 무슨 일이 있었던 걸까?</title>
       <description>
