@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 05:38:16 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:58:55 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 11: 交換台の沈黙の信号</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/OPy4SlM2hEE</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_switchboard_dialed_no_one_ja.mp3?v=aa602b9cc227" length="3344864" type="audio/mpeg" />
+      <guid isPermaLink="false">cce1a048-2872-4f61-8020-10fdf8c2a22e</guid>
+      <pubDate>Wed, 24 Jun 2026 18:57:57 +0530</pubDate>
+      <link>https://youtu.be/OPy4SlM2hEE</link>
+      <itunes:summary>このオーディオドラマでは、ロッテ、ローゼンハイム、ヴァイスの3人が、電話交換台の恐ろしい沈黙に立ち向かいます。物語はバイノーラルサウンドデザインを駆使し、静電気と影が融合する独特の雰囲気にリスナーを引き込みます。</itunes:summary>
+      <itunes:duration>2:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_switchboard_dialed_no_one_ja.jpg?v=49e64bd36be5" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 超常現象スリラー, バイノーラルサウンドデザイン, 没入型のストーリーテリング, オリジナルオーディオドラマ, 夜に耳を澄ますホラー, 不気味なオーディオ体験, 新作ホラー, 声優のストーリー, 雰囲気のあるホラー, 電話の通話の話, 交換台の謎, ロッテとローゼンハイム, 真夜中のささやき手, 第25話, フルキャスト音声, ダークアンビエントストーリー, コマーシャルなし</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 10: 2011年の石巻で何が起こったのか？</title>
       <description>
