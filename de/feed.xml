@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 05:27:45 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:19:18 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -26,6 +26,37 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 12: Was ist in „Die Straße, die ihre Toten vergaß“ passiert?</title>
+      <description>„Was geschah in ‚The Road That Forgot Its Dead‘?“ ist ein originelles Horror-Hörspiel von Midnight Whisperer. Diese ortsspezifische Ausgabe ist vollständig vertont, mit Sounddesign versehen und musikalisch untermalt – für ein intensives Hörerlebnis mit Kopfhörern.
+
+Sprache: Englisch. Am besten mit Kopfhörern in einem dunklen Raum genießen.
+
+Schau dir das visuelle Erlebnis mit Original-Artwork auf YouTube an:
+https://www.youtube.com/@MidnightWhispererDark
+
+Abonniere den Kanal und hinterlasse eine Bewertung, damit andere die Serie leichter finden können.
+
+Geschrieben und produziert von Midnight Whisperer.
+
+Inhaltswarnung: Horror-Themen, übernatürliche Elemente.
+
+Schau dir das Video mit den originalen Horror-Illustrationen auf YouTube an:
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/bYSjgfg0uAA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_de.mp3?v=5c2c5bcb097e" length="3794379" type="audio/mpeg" />
+      <guid isPermaLink="false">dd7ab076-5cb0-4f53-9047-0f5dd349baad</guid>
+      <pubDate>Fri, 26 Jun 2026 03:19:16 +0530</pubDate>
+      <link>https://youtu.be/bYSjgfg0uAA</link>
+      <itunes:summary>„Was ist in ‚The Road That Forgot Its Dead‘ passiert?“ – ein originelles Horror-Hörspiel von Midnight Whisperer, auf Englisch präsentiert mit fesselndem Sounddesign.</itunes:summary>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_de.jpg?v=90b4096b0e8b" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, horror-erzählung, creepypasta, geistergeschichten, horror-hörspiele, mitternachtsflüsterer, was ist auf der straße passiert, die ihre toten vergessen hat?, en de, grusel-podcast, horrorliteratur</itunes:keywords>
+    </item>
     <item>
       <title>Folge 11: Das stille Signal der Telefonzentrale</title>
       <description>In der hohlen Stille eines Telefonzentralenraums lauert etwas direkt hinter dem Wählton. Leg deine Kopfhörer bereit für eine Reise, auf der der Klang selbst zum Bösewicht wird – in dieser vollständig vertonten Produktion. Wir laden dich ein, dich dem Rauschen und den Schatten hinzugeben, indem wir dir den visuellen Halt entziehen und dich in einer für Hörspiele konzipierten Klanglandschaft schutzlos zurücklassen. Dies ist nicht bloß eine Geschichte; es ist ein immersives Horror-Erlebnis, das so gestaltet ist, dass es durch deine Lautsprecher in deinen eigenen Raum hallt.
