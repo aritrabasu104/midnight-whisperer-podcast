@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 05:28:10 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:26:38 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 12: 死者を忘れた道で何が起こったのか？</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/SkByi23wSyI</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_ja.mp3?v=e62616c2e6d0" length="3794379" type="audio/mpeg" />
+      <guid isPermaLink="false">3bbe435c-6624-4f4e-a0e7-04585479c621</guid>
+      <pubDate>Fri, 26 Jun 2026 03:26:36 +0530</pubDate>
+      <link>https://youtu.be/SkByi23wSyI</link>
+      <itunes:summary>「死者を忘れた道」で何が起こったのか？―― Midnight Whispererによるオリジナルホラーオーディオドラマ。英語音声、臨場感あふれるサウンドデザインでお届けします。</itunes:summary>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_ja.jpg?v=90b4096b0e8b" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 死者を忘れた道で何が起こったのか？, en, 怖いポッドキャスト, ホラー小説</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 11: 交換台の沈黙の信号</title>
       <description>
