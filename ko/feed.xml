@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 05:28:23 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:30:27 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 12: &apos;죽음을 잊은 길&apos;에서 무슨 일이 일어났을까?</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/NVycyEPH5lk</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_ko.mp3?v=7fdc784fecd7" length="3794379" type="audio/mpeg" />
+      <guid isPermaLink="false">ce3ce36a-7fa9-4565-a227-ab34e3015cfd</guid>
+      <pubDate>Fri, 26 Jun 2026 03:30:25 +0530</pubDate>
+      <link>https://youtu.be/NVycyEPH5lk</link>
+      <itunes:summary>&quot;죽음을 잊은 길에서 무슨 일이 벌어졌을까?&quot; - Midnight Whisperer 의 오리지널 공포 오디오 드라마로, 몰입감 넘치는 사운드 디자인과 함께 영어로 제공됩니다.</itunes:summary>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_ko.jpg?v=90b4096b0e8b" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 공포 내레이션, 크리피파스타, 귀신 이야기, 공포 오디오, 한밤중의 속삭임, 그 길에서 죽은 자들을 잊은 채 무슨 일이 일어났을까?, en, 무서운 팟캐스트, 공포 소설</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 11: 교환대의 무언의 신호</title>
       <description>
