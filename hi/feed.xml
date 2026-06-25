@@ -10,7 +10,7 @@
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 05:28:36 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:34:18 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>एपिसोड 12: &apos;द रोड दैट फॉरगॉट इट्स डेड&apos; में क्या हुआ?</title>
+      <description>
+
+मूल हॉरर आर्टवर्क के साथ YouTube पर देखें:
+https://youtu.be/raNktYQem00</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/episodes/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_hi.mp3?v=4d2d2ce01053" length="3794379" type="audio/mpeg" />
+      <guid isPermaLink="false">35be8131-fe38-4d26-9069-dd9ff49b0132</guid>
+      <pubDate>Fri, 26 Jun 2026 03:34:15 +0530</pubDate>
+      <link>https://youtu.be/raNktYQem00</link>
+      <itunes:summary>&quot;द रोड दैट फॉरगॉट इट्स डेड में क्या हुआ?&quot; - Midnight Whisperer का एक मौलिक हॉरर ऑडियो ड्रामा, अंग्रेजी में प्रस्तुत किया गया है जिसमें आकर्षक ध्वनि डिजाइन का उपयोग किया गया है।</itunes:summary>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_hi.jpg?v=90b4096b0e8b" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:keywords>हॉरर पॉडकास्ट, डरावनी कहानियां, ऑडियो ड्रामा, डरावनी कहानी, क्रीपीपास्ता, भूतों की कहानियां, डरावनी ऑडियो, आधी रात का फुसफुसाने वाला, सड़क पर ऐसा क्या हुआ कि वह अपने मृतकों को ही भूल गई?, एन, डरावना पॉडकास्ट, डरावनी कथा</itunes:keywords>
+    </item>
     <item>
       <title>एपिसोड 11: स्विचबोर्ड का मौन संकेत</title>
       <description>
