@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 03:26:38 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 15:27:03 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 13: 伐採道路を逆行して歩く | オーディオドラマシリーズ</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/aYCUgHiYcBQ</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_logging_road_walked_backward_ja.mp3?v=ca28d92a26fc" length="3798141" type="audio/mpeg" />
+      <guid isPermaLink="false">83522b9e-d9b4-4406-8190-d79f31b8b5c7</guid>
+      <pubDate>Fri, 26 Jun 2026 15:26:59 +0530</pubDate>
+      <link>https://youtu.be/aYCUgHiYcBQ</link>
+      <itunes:summary>この身の毛もよだつオーディオドラマでは、3人の孤独な魂が忘れ去られた道で奇妙な現象に遭遇する。影と声が一つに融合し、恐ろしい真実へと昇華していく様を、耳を澄ませて聞いてみよう。</itunes:summary>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_logging_road_walked_backward_ja.jpg?v=cae53405fe48" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, オーディオドラマ, 怖い話, お弁当, アルベス, ジョアナ, 伐採道路を後ろ向きに歩いた, 真夜中のささやき手, オリジナルホラーオーディオ, 暗い雰囲気, 一口サイズのホラー, 不気味な物語, 没入型サウンドデザイン, バイノーラルホラー, オーディオスリラー, 幽霊話, 超常現象ホラー, ハロウィン準備完了, 悪夢の燃料, インディーズホラー</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 12: 死者を忘れた道で何が起こったのか？</title>
       <description>
