@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 03:30:27 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 15:30:51 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 13: 거꾸로 걷는 벌목길 | 오디오 드라마 시리즈</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/LHev0Ehr9wY</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_logging_road_walked_backward_ko.mp3?v=94cdbef477da" length="4047662" type="audio/mpeg" />
+      <guid isPermaLink="false">79c39082-99a1-437d-ade9-c02952f80f28</guid>
+      <pubDate>Fri, 26 Jun 2026 15:30:48 +0530</pubDate>
+      <link>https://youtu.be/LHev0Ehr9wY</link>
+      <itunes:summary>이 오싹한 오디오 드라마에서, 길을 잃은 세 영혼은 잊혀진 길에서 기이한 현상을 마주하게 됩니다. 그림자와 목소리가 하나로 합쳐져 섬뜩한 진실을 드러내는 순간에 귀 기울여 보세요.</itunes:summary>
+      <itunes:duration>2:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_logging_road_walked_backward_ko.jpg?v=cae53405fe48" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 오디오 드라마, 무서운 이야기, 도시락, 폐, 조아나, 벌목 도로를 거꾸로 걸어갔다, 한밤중의 속삭임, 오리지널 공포 오디오, 어두운 분위기, 한입 크기의 공포, 으스스한 이야기, 몰입형 사운드 디자인, 바이너럴 호러, 오디오 스릴러, 유령 이야기, 초자연적인 공포, 할로윈 준비 완료!, 악몽 그 자체, 인디 호러</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 12: &apos;죽음을 잊은 길&apos;에서 무슨 일이 일어났을까?</title>
       <description>
