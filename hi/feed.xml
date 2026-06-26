@@ -10,7 +10,7 @@
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 03:34:18 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 15:34:42 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>एपिसोड 13: उल्टी दिशा में चलता हुआ लॉगिंग रोड | ऑडियो ड्रामा सीरीज़</title>
+      <description>
+
+मूल हॉरर आर्टवर्क के साथ YouTube पर देखें:
+https://youtu.be/ubrRKiqMMHY</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/episodes/the_logging_road_walked_backward_hi.mp3?v=a88d276d4910" length="4239506" type="audio/mpeg" />
+      <guid isPermaLink="false">3d008006-4103-4547-b396-d32c02dd0e89</guid>
+      <pubDate>Fri, 26 Jun 2026 15:34:40 +0530</pubDate>
+      <link>https://youtu.be/ubrRKiqMMHY</link>
+      <itunes:summary>इस रोंगटे खड़े कर देने वाले ऑडियो ड्रामा में, तीन भटके हुए लोग एक सुनसान सड़क पर अजीबोगरीब घटनाओं का सामना करते हैं। ध्यान से सुनें क्योंकि परछाइयाँ और आवाज़ें मिलकर एक भयानक सच्चाई में तब्दील हो जाती हैं।</itunes:summary>
+      <itunes:duration>2:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/artwork/the_logging_road_walked_backward_hi.jpg?v=cae53405fe48" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:keywords>हॉरर पॉडकास्ट, ऑडियो ड्रामा, डरावनी कहानियां, बेंतो, अल्वेस, जोआना, लॉगिंग रोड पर पीछे की ओर चलना, आधी रात का फुसफुसाने वाला, मूल हॉरर ऑडियो, अँधेरामय माहौल, छोटे-छोटे टुकड़ों में भयानक दृश्य, डरावनी कहानी सुनाना, इमर्सिव साउंड डिज़ाइन, द्विश्रव्य भयावहता, ऑडियो थ्रिलर, भूत की कहानी, अलौकिक डरावनी, हैलोवीन के लिए तैयार, डरावने सपने जैसा, इंडी हॉरर</itunes:keywords>
+    </item>
     <item>
       <title>एपिसोड 12: &apos;द रोड दैट फॉरगॉट इट्स डेड&apos; में क्या हुआ?</title>
       <description>
