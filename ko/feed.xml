@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 15:30:51 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 13:24:55 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,35 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 14: Room 402 Watched the Stream | 파운드 푸티지 호러</title>
+      <description>&quot;Room 402 Watched the Stream | 파운드 푸티지 호러&quot; is an original horror audio drama from Midnight Whisperer Korea 한국어. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+
+Language: Korean. Best experienced with headphones in a dark room.
+
+Watch the visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find the show.
+
+Written and produced by Midnight Whisperer Korea 한국어.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/0nLGxd8YWqM</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/room_402_watched_the_stream_ko.mp3?v=cb2a4851036a" length="4458934" type="audio/mpeg" />
+      <guid isPermaLink="false">2018b1e4-b91e-4b96-9fef-e3056e4f2003</guid>
+      <pubDate>Sun, 28 Jun 2026 13:24:55 +0530</pubDate>
+      <link>https://youtu.be/0nLGxd8YWqM</link>
+      <itunes:summary>&quot;Room 402 Watched the Stream | 파운드 푸티지 호러&quot; — an original horror audio drama from Midnight Whisperer Korea 한국어, presented in Korean with immersive sound design.</itunes:summary>
+      <itunes:duration>3:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/room_402_watched_the_stream_ko.jpg?v=64bcf8fd7788" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer korea 한국어, room 402 watched the stream | 파운드 푸티지 호러, ko, scary podcast, horror fiction</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 13: 거꾸로 걷는 벌목길 | 오디오 드라마 시리즈</title>
       <description>

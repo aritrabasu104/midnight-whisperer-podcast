@@ -10,7 +10,7 @@
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 15:34:42 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 13:24:58 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा, आवाज़ों, इमर्सिव साउंड डिजाइन और संगीत के साथ, अंधेरे कमरे में हेडफोन पर सुनने के लिए बनाया गया।</itunes:summary>
@@ -26,6 +26,35 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>एपिसोड 14: Room 402 Watched the Stream | Found Footage Horror</title>
+      <description>&quot;Room 402 Watched the Stream | Found Footage Horror&quot; is an original horror audio drama from Midnight Whisperer Hindi हिंदी. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+
+भाषा: हिंदी।. Best experienced with headphones in a dark room.
+
+Watch the visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find the show.
+
+Written and produced by Midnight Whisperer Hindi हिंदी.
+
+Content warning: horror themes, supernatural elements.
+
+मूल हॉरर आर्टवर्क के साथ YouTube पर देखें:
+https://youtu.be/YBEu0VHR7Iw</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/episodes/room_402_watched_the_stream_hi.mp3?v=b886f93b1fcf" length="4378059" type="audio/mpeg" />
+      <guid isPermaLink="false">018ec2ce-3850-4459-a07a-4a98f0048621</guid>
+      <pubDate>Sun, 28 Jun 2026 13:24:58 +0530</pubDate>
+      <link>https://youtu.be/YBEu0VHR7Iw</link>
+      <itunes:summary>&quot;Room 402 Watched the Stream | Found Footage Horror&quot; — an original horror audio drama from Midnight Whisperer Hindi हिंदी, presented in Hindi with immersive sound design.</itunes:summary>
+      <itunes:duration>3:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/artwork/room_402_watched_the_stream_hi.jpg?v=64bcf8fd7788" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer hindi हिंदी, room 402 watched the stream | found footage horror, hi, scary podcast, horror fiction</itunes:keywords>
+    </item>
     <item>
       <title>एपिसोड 13: उल्टी दिशा में चलता हुआ लॉगिंग रोड | ऑडियो ड्रामा सीरीज़</title>
       <description>
