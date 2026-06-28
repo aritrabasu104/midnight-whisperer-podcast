@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 13:22:08 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 13:31:24 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -27,33 +27,35 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Episodio 14: Room 402 observó la transmisión | Terror found footage</title>
-      <description>&quot;Room 402 observó la transmisión | Terror found footage&quot; is an original horror audio drama from Midnight Whisperer Español. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+      <title>Episodio 14: Habitación 402. Vi la transmisión | Drama de audio de terror con metraje encontrado</title>
+      <description>&quot;Room 402 Watched the Stream | Drama de audio de terror con metraje encontrado&quot; es un drama de audio de terror original de Midnight Whisperer. Esta edición específica para cada lugar cuenta con voces, diseño de sonido y banda sonora completos para que disfrutes de una experiencia inmersiva con audífonos.
 
-Language: Spanish. Best experienced with headphones in a dark room.
+Idioma: inglés. Se recomienda escucharlo con audífonos en una habitación a oscuras.
 
-Watch the visual experience with original artwork on YouTube:
+Mira la experiencia visual con ilustraciones originales en YouTube:
 https://www.youtube.com/@MidnightWhispererDark
 
-Subscribe and leave a review to help others find the show.
+Suscríbete y deja una reseña para ayudar a otros a encontrar el programa.
 
-Written and produced by Midnight Whisperer Español.
+Escrito y producido por Midnight Whisperer.
 
-Content warning: horror themes, supernatural elements.
+Advertencia de contenido: temas de terror, elementos sobrenaturales.
+
+Míralo con ilustraciones originales de terror en YouTube:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/nJeOZLwMi9A</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/room_402_watched_the_stream_es.mp3?v=c7b99a87e676" length="4573037" type="audio/mpeg" />
-      <guid isPermaLink="false">785480a7-de95-459d-b66a-af37e564689c</guid>
-      <pubDate>Sun, 28 Jun 2026 13:22:08 +0530</pubDate>
+      <guid isPermaLink="false">ed51fd57-998f-459d-97af-a717260c1634</guid>
+      <pubDate>Sun, 28 Jun 2026 13:31:23 +0530</pubDate>
       <link>https://youtu.be/nJeOZLwMi9A</link>
-      <itunes:summary>&quot;Room 402 observó la transmisión | Terror found footage&quot; — an original horror audio drama from Midnight Whisperer Español, presented in Spanish with immersive sound design.</itunes:summary>
+      <itunes:summary>&quot;Room 402 Watched the Stream | Drama de audio de terror con metraje encontrado&quot; — un drama de audio de terror original de Midnight Whisperer, presentado en inglés con un diseño de sonido envolvente.</itunes:summary>
       <itunes:duration>3:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/room_402_watched_the_stream_es.jpg?v=64bcf8fd7788" />
       <itunes:episode>14</itunes:episode>
-      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer español, room 402 observó la transmisión | terror found footage, es, scary podcast, horror fiction</itunes:keywords>
+      <itunes:keywords>podcast de terror, historias de miedo, audiodrama, narración de terror, creepypasta, historias de fantasmas, audio de terror, midnight whisperer, la habitación 402 vio la transmisión | drama de audio de terror con metraje encontrado, en es-419, podcast de terror, ficción de terror</itunes:keywords>
     </item>
     <item>
       <title>Episodio 13: El camino de los leñadores recorrido al revés | Serie de audiodramas</title>
