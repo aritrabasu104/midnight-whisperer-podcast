@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 13:24:52 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 13:46:17 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -27,33 +27,22 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>エピソード 14: Room 402 Watched the Stream | ファウンドフッテージ・ホラー</title>
-      <description>&quot;Room 402 Watched the Stream | ファウンドフッテージ・ホラー&quot; is an original horror audio drama from Midnight Whisperer Japan 日本語. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
-
-Language: Japanese. Best experienced with headphones in a dark room.
-
-Watch the visual experience with original artwork on YouTube:
-https://www.youtube.com/@MidnightWhispererDark
-
-Subscribe and leave a review to help others find the show.
-
-Written and produced by Midnight Whisperer Japan 日本語.
-
-Content warning: horror themes, supernatural elements.
+      <title>エピソード 14: 402号室はストリームを視聴した｜ファウンドフッテージホラーオーディオドラマ</title>
+      <description>
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/IPnxjmrCFRo</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/room_402_watched_the_stream_ja.mp3?v=701690120ebd" length="4148599" type="audio/mpeg" />
-      <guid isPermaLink="false">49a6d78a-d780-4651-956a-a68dcb412fdd</guid>
-      <pubDate>Sun, 28 Jun 2026 13:24:52 +0530</pubDate>
+      <guid isPermaLink="false">7ac7d799-de40-4769-8c7d-f8c57445da8d</guid>
+      <pubDate>Sun, 28 Jun 2026 13:46:16 +0530</pubDate>
       <link>https://youtu.be/IPnxjmrCFRo</link>
-      <itunes:summary>&quot;Room 402 Watched the Stream | ファウンドフッテージ・ホラー&quot; — an original horror audio drama from Midnight Whisperer Japan 日本語, presented in Japanese with immersive sound design.</itunes:summary>
+      <itunes:summary>「402号室はストリームを視聴していた｜ファウンドフッテージホラーオーディオドラマ」— Midnight Whispererによるオリジナルホラーオーディオドラマ。英語音声、臨場感あふれるサウンドデザインでお届けします。</itunes:summary>
       <itunes:duration>2:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/room_402_watched_the_stream_ja.jpg?v=64bcf8fd7788" />
       <itunes:episode>14</itunes:episode>
-      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer japan 日本語, room 402 watched the stream | ファウンドフッテージ・ホラー, ja, scary podcast, horror fiction</itunes:keywords>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 402号室が配信を視聴 | 発見された映像ホラーオーディオドラマ, en, 怖いポッドキャスト, ホラー小説</itunes:keywords>
     </item>
     <item>
       <title>エピソード 13: 伐採道路を逆行して歩く | オーディオドラマシリーズ</title>
