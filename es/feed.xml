@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 01:59:29 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:09:13 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -27,12 +27,14 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Episodio 15: La decimoquinta sombra en el pozo</title>
-      <description>Prepárate para descender a los pisos silenciosos de un edificio olvidado, donde el silencio nunca es seguro. En este drama de audio inmersivo, escucharás los susurros escalofriantes que trae el viento al atravesar el acero y el concreto. Ana Ribeiro emprende su ruta habitual, pero el Guarda Nocturno sabe lo que le espera en el pozo de la historia. El elevador guarda secretos más antiguos que la propia ciudad, ligados a nombres que no deberían pronunciarse dos veces. Cuando se cierran las puertas, las voces comienzan a recitar desde la oscuridad, exigiendo tu presencia sin emitir ningún sonido. Esta producción se basa en gran medida en la tecnología binaural para situar a los oyentes dentro del propio elevador. Sentirás cada crujido de la cuerda que baja las cabinas metálicas hacia el suelo. El diseño de audio en capas, combinado con la banda sonora original a lo largo de los arcos narrativos, intensifica el horror. Escucha con atención mientras la atmósfera cambia bruscamente de un viaje cotidiano a una interferencia paranormal de un momento a otro. Las advertencias de contenido incluyen temas de terror intenso que involucran fantasmas y fuerzas sobrenaturales que afectan la vida moderna. Asegúrate de estar a salvo antes de intentar escuchar esto solo a altas horas de la noche. El miedo funciona mejor cuando no se ven las sombras. La oscuridad oculta la verdad mejor que la luz. Si la historia te llega, apoya nuestro trabajo viendo la experiencia visual con arte original en YouTube: https://www.youtube.com/@MidnightWhispererDark. Tu participación ayuda a financiar futuros capítulos oscuros que prometemos lanzar pronto. Suscríbete, califica y deja tu reseña en tu app de podcasts favorita para ayudar a otros a encontrar seguridad en el miedo compartido. Escrito y producido por Midnight Whisperer. Acompáñanos en más narraciones escalofriantes donde escuchar importa más de lo que la lectura jamás podría. No bajes el volumen; habla cuando sea necesario. Confía en tus oídos por encima de todos los demás sentidos involucrados aquí.
+      <title>Episodio 15: El ascensor mostró su nombre después de medianoche</title>
+      <description>A medianoche, el ascensor dejó de mostrar pisos. Empezó a enumerar los nombres de todos los que seguían dentro de la torre, y Ana Ribeiro apareció al final.
 
-Este episodio es el vigésimo noveno de nuestra antología en curso de arte de la palabra hablada. Creamos cada elemento de diseño de sonido para garantizar una experiencia totalmente inmersiva, en lugar de solo una escucha de fondo. El paisaje sonoro cambia constantemente a medida que la tensión narrativa se intensifica dentro del espacio confinado de un viejo elevador de servicio.
+Inspirado en los relatos y el folclore de las Trece Almas de São Paulo tras el incendio del edificio Joelma de 1974, este drama sonoro cinematográfico sigue a una técnica que borra una advertencia del panel: TREZE ALMAS — NO BORRAR.
 
-Míralo con ilustraciones originales de terror en YouTube:
+El ascensor se salta el piso trece. Un vaso de agua queda vacío. Trece figuras esperan reflejadas en el acero. Se recomienda escuchar con audífonos.
+
+Mira la historia cinematográfica en YouTube:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/O_OsC7bmP3Q</description>
@@ -40,7 +42,7 @@ https://youtu.be/O_OsC7bmP3Q</description>
       <guid isPermaLink="false">f2fad8e1-9192-4462-98b6-669d1e8397e4</guid>
       <pubDate>Tue, 30 Jun 2026 01:59:27 +0530</pubDate>
       <link>https://youtu.be/O_OsC7bmP3Q</link>
-      <itunes:summary>En este drama de audio, Ana Ribeiro y la Guardia Nocturna recorren los pisos donde los nombres flotan en el aire. El ambiente sonoro se vuelve sombrío a medida que los mecanismos del elevador revelan el horror que se esconde ahí abajo.</itunes:summary>
+      <itunes:summary>Cuando Ana borra el único nombre que el edificio aún da a sus muertos, el ascensor elige a trece reemplazos vivos y deja su nombre para el final.</itunes:summary>
       <itunes:duration>3:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
