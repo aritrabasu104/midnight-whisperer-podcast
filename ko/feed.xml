@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 13:50:01 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:02:52 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 15: 갱도 속 열다섯 번째 그림자</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/Wco_njOXygk</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_elevator_held_thirteen_names_ko.mp3?v=eb64d66ee55e" length="4756103" type="audio/mpeg" />
+      <guid isPermaLink="false">b042a2cf-5397-4468-9f2f-aed0f1159dd6</guid>
+      <pubDate>Tue, 30 Jun 2026 02:02:50 +0530</pubDate>
+      <link>https://youtu.be/Wco_njOXygk</link>
+      <itunes:summary>이 오디오 드라마에서 아나 리베이로와 야간 경비대는 이름들이 허공에 갇혀 있는 층들을 누빕니다. 엘리베이터 기계 장치가 아래에 숨겨진 공포를 드러내면서 음향은 어두워집니다.</itunes:summary>
+      <itunes:duration>3:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_elevator_held_thirteen_names_ko.jpg?v=f87c3fc5d593" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:keywords>한밤중의 속삭임, 29화, 공포 팟캐스트, 오디오 드라마, 무서운 이야기, 엘리베이터, 열세 개의 이름, 아나 리베이로, 야간 경비원, 바이너럴 사운드, 몰입감 넘치는 분위기, 오리지널 악보, 초자연적 주제, 유령 이야기, 다크 오디오, 으스스한 이야기, 브라질 호러, 청취 경험, 새로운 공포 영화 개봉, 오디오 제작</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 14: 402호실, 스트리밍을 시청하다 | 파운드 푸티지 호러 오디오 드라마</title>
       <description>
