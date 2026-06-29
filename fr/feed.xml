@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:01:33 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:10:56 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -27,12 +27,14 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Épisode 15: La quinzième ombre dans le puits</title>
-      <description>Prépare-toi à descendre dans les étages silencieux d’un immeuble oublié, où le silence n’est jamais synonyme de sécurité. Dans ce drame audio immersif, tu entendras les murmures glaçants portés par le vent qui souffle à travers l’acier et le béton. Ana Ribeiro emprunte son itinéraire habituel, mais le Gardien de la Nuit sait ce qui l’attend dans les entrailles de l’histoire. L&apos;ascenseur recèle des secrets plus anciens que la ville elle-même, liés à des noms qu&apos;il ne faut pas prononcer deux fois. À mesure que les portes se referment, des voix se mettent à réciter depuis les ténèbres, exigeant une présence sans émettre le moindre son. Cette production s&apos;appuie largement sur la technologie binaurale pour plonger les auditeurs au cœur même de la cabine. Tu sentiras chaque craquement du câble qui entraîne les cabines métalliques vers les profondeurs du sol. Une conception sonore en couches, combinée à une bande originale, accompagne les arcs narratifs pour intensifier l’horreur. Écoute attentivement alors que l’atmosphère bascule brutalement d’un trajet banal à une intrusion paranormale en un instant. Avertissements: ce contenu comporte des thèmes d’horreur forts impliquant des fantômes et des forces surnaturelles qui affectent la vie moderne. Assure-toi d’être en sécurité avant d’écouter cette histoire seul(e) tard dans la nuit. La peur est à son comble quand les ombres sont invisibles. L’obscurité cache mieux la vérité que la lumière. Si l’histoire te touche, soutiens notre travail en regardant l’expérience visuelle avec les illustrations originales sur YouTube: https://www.youtube.com/@MidnightWhispererDark. Ton engagement aide à financer les prochains chapitres sombres qu’on s’engage à publier bientôt. Abonne-toi, note et laisse un commentaire sur ton application de podcast préférée pour aider les autres à trouver la sécurité dans la peur partagée. Écrit et produit par Midnight Whisperer. Rejoins-nous pour d’autres récits glaçants où l’écoute compte bien plus que la lecture ne le pourrait jamais. Ne baisse pas le volume; parle quand c’est nécessaire. Fais confiance à tes oreilles avant tout autre sens mis en jeu ici.
+      <title>Épisode 15: Après minuit, l’ascenseur affichait son nom</title>
+      <description>À minuit, l&apos;ascenseur a cessé d&apos;afficher les étages. Il a commencé à énumérer toutes les personnes encore présentes dans la tour — Ana Ribeiro apparaissait en dernier.
 
-Cet épisode est le vingt-neuvième de notre anthologie en cours consacrée à l’art de la parole. Nous soignons chaque élément de la conception sonore pour t’offrir une expérience totalement immersive, bien plus qu’une simple écoute de fond. Le paysage sonore évolue sans cesse à mesure que la tension narrative monte dans l’espace confiné d’un vieil ascenseur de service.
+Inspiré des récits et du folklore autour des Treize Âmes de São Paulo après l&apos;incendie de l&apos;immeuble Joelma en 1974, ce drame audio cinématographique suit une technicienne qui efface un avertissement : TREZE ALMAS — NE PAS EFFACER.
 
-Regarde la vidéo accompagnée d’illustrations d’horreur originales sur YouTube:
+L&apos;ascenseur saute le treizième étage. Un gobelet d&apos;eau se vide. Treize silhouettes attendent dans le reflet de l&apos;acier. Écouteurs recommandés.
+
+Regardez l&apos;histoire cinématographique sur YouTube :
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Hm7WnNOkC5w</description>
@@ -40,7 +42,7 @@ https://youtu.be/Hm7WnNOkC5w</description>
       <guid isPermaLink="false">e774e82f-ea0f-4e44-8e69-05f91c7ff48f</guid>
       <pubDate>Tue, 30 Jun 2026 02:01:31 +0530</pubDate>
       <link>https://youtu.be/Hm7WnNOkC5w</link>
-      <itunes:summary>Dans ce feuilleton audio, Ana Ribeiro et la Garde de nuit parcourent les étages où les noms flottent dans les airs. L&apos;ambiance sonore s&apos;assombrit à mesure que les mécanismes des ascenseurs révèlent l&apos;horreur qui se cache en dessous.</itunes:summary>
+      <itunes:summary>Quand Ana efface le seul nom que l&apos;immeuble donne encore à ses morts, l&apos;ascenseur choisit treize remplaçants vivants — et garde son nom pour la fin.</itunes:summary>
       <itunes:duration>3:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
