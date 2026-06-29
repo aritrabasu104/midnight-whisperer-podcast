@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 13:46:17 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:02:14 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,24 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 15: シャフトに潜む15番目の影</title>
+      <description>
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/ZKHXIdHc0Yk</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_elevator_held_thirteen_names_ja.mp3?v=198a8622f37c" length="4276495" type="audio/mpeg" />
+      <guid isPermaLink="false">dbcb44b1-31e3-49f2-a14b-062356f5475c</guid>
+      <pubDate>Tue, 30 Jun 2026 02:02:12 +0530</pubDate>
+      <link>https://youtu.be/ZKHXIdHc0Yk</link>
+      <itunes:summary>このオーディオドラマでは、アナ・リベイロと夜間警備員が、名前が宙に浮いたままのフロアを進んでいく。エレベーターの機構が作動するにつれ、音の風景は暗転し、地下に潜む恐怖が明らかになる。</itunes:summary>
+      <itunes:duration>2:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_elevator_held_thirteen_names_ja.jpg?v=f87c3fc5d593" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:keywords>真夜中のささやき手, 第29話, ホラーポッドキャスト, オーディオドラマ, 怖い話, エレベーター, 13人の名前, アナ・リベイロ, 夜間警備員, バイノーラルサウンド, 没入感のある雰囲気, オリジナルスコア, 超自然的なテーマ, 幽霊話, ダークオーディオ, 不気味な物語, ブラジリアンホラー, リスニング体験, 新作ホラー映画, オーディオ制作</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 14: 402号室はストリームを視聴した｜ファウンドフッテージホラーオーディオドラマ</title>
       <description>
