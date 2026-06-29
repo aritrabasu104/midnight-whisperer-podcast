@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:02:52 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:12:08 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -27,8 +27,14 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>에피소드 15: 갱도 속 열다섯 번째 그림자</title>
-      <description>
+      <title>에피소드 15: 자정, 엘리베이터에 그녀의 이름이 떴다</title>
+      <description>자정이 되자 엘리베이터는 층수 표시를 멈췄다. 대신 아직 건물 안에 남아 있는 사람들의 이름을 하나씩 띄웠고, 아나 히베이루의 이름이 마지막이었다.
+
+1974년 상파울루 조엘마 빌딩 화재 뒤 전해진 ‘열세 영혼’의 기록과 전설에서 영감을 받은 시네마틱 오디오 드라마. 승강기 기술자 아나는 제어판의 경고 ‘TREZE ALMAS — 지우지 말 것’을 삭제한다.
+
+엘리베이터는 13층을 건너뛴다. 물컵은 비어 있고 강철 벽에는 열세 그림자가 서 있다. 이어폰 청취를 권장합니다.
+
+YouTube에서 시네마틱 스토리 보기:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Wco_njOXygk</description>
@@ -36,7 +42,7 @@ https://youtu.be/Wco_njOXygk</description>
       <guid isPermaLink="false">b042a2cf-5397-4468-9f2f-aed0f1159dd6</guid>
       <pubDate>Tue, 30 Jun 2026 02:02:50 +0530</pubDate>
       <link>https://youtu.be/Wco_njOXygk</link>
-      <itunes:summary>이 오디오 드라마에서 아나 리베이로와 야간 경비대는 이름들이 허공에 갇혀 있는 층들을 누빕니다. 엘리베이터 기계 장치가 아래에 숨겨진 공포를 드러내면서 음향은 어두워집니다.</itunes:summary>
+      <itunes:summary>아나가 건물이 죽은 이들에게 남긴 유일한 이름을 지우자, 엘리베이터는 살아 있는 열세 명을 대신 선택하고 그녀의 이름을 마지막에 띄운다.</itunes:summary>
       <itunes:duration>3:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
