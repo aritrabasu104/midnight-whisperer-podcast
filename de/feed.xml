@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:00:54 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:10:22 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -27,12 +27,14 @@
     <itunes:category text="Fiction" />
 
     <item>
-      <title>Folge 15: Der fünfzehnte Schatten im Schacht</title>
-      <description>Mach dich bereit, in die stillen Etagen eines vergessenen Gebäudes hinabzusteigen, wo Stille niemals sicher ist. In diesem fesselnden Hörspiel hörst du das gruselige Flüstern, das der Wind durch Stahl und Beton trägt. Ana Ribeiro begibt sich auf ihren gewohnten Weg, doch der Nachtwächter weiß, was im Schacht der Geschichte auf sie wartet. Der Aufzug birgt Geheimnisse, die älter sind als die Stadt selbst, verbunden mit Namen, die nicht zweimal ausgesprochen werden sollten. Sobald sich die Türen schließen, beginnen Stimmen aus der Dunkelheit zu sprechen und fordern lautlos Aufmerksamkeit. Diese Produktion stützt sich stark auf binaurale Technologie, um die Zuhörer mitten in die Kabine zu versetzen. Du wirst jedes Knarren des Seils spüren, das die Metallkästen hinunter in den Boden zieht. Ein vielschichtiges Audiodesign, kombiniert mit einer Originalmusik, durchzieht die gesamten Erzählbögen, um den Horror zu vertiefen. Hör genau hin, wie sich die Atmosphäre schlagartig von alltäglicher Fahrt zu paranormaler Einmischung wandelt. Zu den Inhaltswarnungen gehören starke Horror-Themen mit Geistern und übernatürlichen Kräften, die das moderne Leben beeinflussen. Bitte achte darauf, dass du in Sicherheit bist, bevor du versuchst, dir das spät in der Nacht alleine anzuhören. Angst wirkt am stärksten, wenn Schatten nicht zu sehen sind. Die Dunkelheit verbirgt die Wahrheit besser als das Licht. Wenn euch die Geschichte anspricht, unterstützt unsere Arbeit, indem ihr euch das visuelle Erlebnis mit Originalkunstwerken auf YouTube anschaut: https://www.youtube.com/@MidnightWhispererDark. Euer Engagement hilft dabei, zukünftige düstere Kapitel zu finanzieren, die wir bald veröffentlichen werden. Abonniert, bewertet und rezensiert in eurer bevorzugten Podcast-App, um anderen zu helfen, Sicherheit in gemeinsamer Angst zu finden. Geschrieben und produziert von Midnight Whisperer. Begleitet uns bei weiteren gruseligen Erzählungen, bei denen das Zuhören mehr zählt, als das Lesen es je könnte. Dreht die Lautstärke nicht herunter; sprecht, wenn nötig. Vertraut vor allem euren Ohren – mehr als allen anderen Sinnen, die hier im Spiel sind.
+      <title>Folge 15: Nach Mitternacht zeigte der Aufzug ihren Namen</title>
+      <description>Um Mitternacht zeigte der Aufzug keine Stockwerke mehr. Stattdessen listete er alle Menschen auf, die noch im Turm waren — Ana Ribeiro erschien zuletzt.
 
-Diese Folge ist die neunundzwanzigste Veröffentlichung in unserer fortlaufenden Anthologie der gesprochenen Wortkunst. Wir gestalten jedes Element des Sounddesigns so, dass ein vollständig immersives Erlebnis entsteht – und nicht nur Hintergrundgeräusche. Die Klanglandschaft verändert sich ständig, während sich die erzählerische Spannung in dem beengten Raum eines alten Lastenaufzugs aufbaut.
+Inspiriert von Berichten und Überlieferungen über São Paulos Legende der Dreizehn Seelen nach dem Brand des Joelma-Gebäudes 1974: Dieses filmische Hörspiel folgt einer Aufzugstechnikerin, die eine Warnung löscht — TREZE ALMAS, NICHT LÖSCHEN.
 
-Schaut euch das Video mit originalen Horror-Illustrationen auf YouTube an:
+Der Aufzug überspringt den dreizehnten Stock. Ein Becher Wasser ist plötzlich leer. Dreizehn Gestalten warten im Stahl. Kopfhörer empfohlen.
+
+Die filmische Geschichte auf YouTube:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/ty94-83qqao</description>
@@ -40,7 +42,7 @@ https://youtu.be/ty94-83qqao</description>
       <guid isPermaLink="false">d2a815f7-ece8-4fab-81d5-904f9c1950ff</guid>
       <pubDate>Tue, 30 Jun 2026 02:00:52 +0530</pubDate>
       <link>https://youtu.be/ty94-83qqao</link>
-      <itunes:summary>In diesem Hörspiel durchstreifen Ana Ribeiro und der Nachtwächter die Etagen, in denen Namen in der Luft schweben. Die Klangwelt wird düster, als Aufzugsmechanismen den Schrecken offenbaren, der sich darunter verbirgt.</itunes:summary>
+      <itunes:summary>Als Ana den einzigen Namen löscht, den das Gebäude seinen Toten noch gibt, wählt der Aufzug dreizehn lebende Ersatzopfer — ihr Name steht zuletzt.</itunes:summary>
       <itunes:duration>3:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
