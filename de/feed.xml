@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:10:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:10:30 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 16: Die Puppe am Kanal verlangte Ersatz</title>
+      <description>Der Kanal liegt schwarz unter den Ahuejote-Bäumen. Über dem Wasser hängen Hunderte verwitterte Puppen, doch nur eine blickt nicht zur Hütte des Hüters. Als Lucía ihre Trajinera an Mateos Chinampa festmacht, hört sie zunächst nur Schnüre, Grillen und das leise Schlagen des Wassers. Dann verstummt die Nacht.
+
+Diese Folge von Midnight Whisperer Deutsch ist ein vollständig lokalisiertes Horror-Hörspiel, das speziell für das Hören mit Kopfhörern gestaltet wurde. Räumliche Stimmen, feuchte Kanalatmosphäre, knarrende Äste, rasselnde Schnüre und eine zurückhaltende Originalmusik führen dicht an Lucías Wahrnehmung heran. Kleine Geräusche markieren jede Verschiebung der Gefahr, bis eine vertraute Stimme unter dem Schilf etwas Unmögliches verlangt.
+
+Die Dramaturgie arbeitet mit wiederkehrenden akustischen Motiven: dem kurzen Kratzen über Lucía, dem plötzlichen Schweigen der Grillen und dem Satz „Ersetze mich“. Ihre Wiederholung verändert jedes Mal die Bedeutung des vorherigen Moments. So entsteht der Schrecken nicht durch grafische Bilder, sondern durch Nähe, Richtung und das Gefühl, dass sich die ganze Insel gleichzeitig bewegt.
+
+Die Geschichte ist eine quellinspirierte, fiktive Neuerzählung. Sie greift Berichte über die Insel der Puppen in Xochimilco, Mexiko-Stadt, und das Motiv aufgehängter Opfergaben auf. Lucía, Mateo, die sprechende Puppe, die Regel „Ersetze mich“ und die übernatürliche Handlung sind erfunden. Es handelt sich nicht um eine Dokumentation realer Personen oder Ereignisse.
+
+Lucía glaubt, Mateo sei am morschen Ufer in Gefahr, und hebt die saubere Puppe an, die sie als Gabe mitgebracht hat. Diese kleine Entscheidung setzt eine Prozession aus Schatten und Schnüren in Bewegung. Was als nächtlicher Besuch beginnt, wird zu einem Kampf gegen einen Fluch, der keinen Stoff als Ersatz sucht.
+
+Achte beim Hören besonders darauf, aus welcher Richtung die Stimmen, Schnüre und Wassergeräusche zu kommen scheinen.
+
+Inhaltshinweis: übernatürliche Bedrohung, Gefahr und eine nicht grafisch dargestellte Verwandlung. Am besten mit Kopfhörern in einem dunklen Raum hören. Abonniere den Podcast und bewerte die Folge, wenn du weitere deutschsprachige Horror-Hörspiele hören möchtest.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/KnjwHdgTMiw</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_doll_nearest_the_canal_de.mp3?v=dfad4a48b92b" length="4631969" type="audio/mpeg" />
+      <guid isPermaLink="false">057dac39-cb63-4193-80fd-fe86f8df388a</guid>
+      <pubDate>Thu, 02 Jul 2026 15:29:23 +0530</pubDate>
+      <link>https://youtu.be/KnjwHdgTMiw</link>
+      <itunes:summary>Auf einer puppenbedeckten Chinampa in Xochimilco hört Lucía Mateos Stimme unter dem Schilf. Doch die Puppe am Kanal sucht keine neue Stoffpuppe — sie verlangt einen lebenden Ersatz.</itunes:summary>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_doll_nearest_the_canal_de.jpg?v=b4774f961e90" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:keywords>horror-podcast, hörspiel, gruselgeschichte, insel der puppen, xochimilco, mexiko-stadt, puppen horror, verfluchte puppe, folk horror, übernatürlicher horror, lucía, mateo, kanal, audio drama, immersiver klang, binauraler klang, originalmusik, midnight whisperer</itunes:keywords>
+    </item>
     <item>
       <title>Folge 15: Nach Mitternacht zeigte der Aufzug ihren Namen</title>
       <description>Um Mitternacht zeigte der Aufzug keine Stockwerke mehr. Stattdessen listete er alle Menschen auf, die noch im Turm waren — Ana Ribeiro erschien zuletzt.
