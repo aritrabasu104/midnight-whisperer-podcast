@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 03:45:39 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:05:24 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -44,11 +44,14 @@
 
 番組をフォローし、ポッドキャストアプリで評価とレビューをお寄せいただけると、新しいリスナーがMidnight Whisperer Japan 日本語を見つける助けになります。
 
-脚本・制作：Midnight Whisperer Japan 日本語。</description>
+脚本・制作：Midnight Whisperer Japan 日本語。
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/TdwvB60D5Ts</description>
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_doll_nearest_the_canal_ja.mp3?v=801bae52f8ef" length="4528524" type="audio/mpeg" />
       <guid isPermaLink="false">57d07157-43a3-4df6-9d45-19b0e8bd47c1</guid>
       <pubDate>Thu, 02 Jul 2026 15:38:13 +0530</pubDate>
-      <link>https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_doll_nearest_the_canal_ja.mp3?v=801bae52f8ef</link>
+      <link>https://youtu.be/TdwvB60D5Ts</link>
       <itunes:summary>寄贈する人形を携えてソチミルコのチナンパを訪れたルシアは、葦の下からマテオの声を聞きます。立体音響と突然の沈黙が導くこのフォークホラーで、運河の人形は新しい玩具ではなく、生きた身代わりを求めます。</itunes:summary>
       <itunes:duration>3:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
