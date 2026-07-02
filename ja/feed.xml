@@ -10,7 +10,7 @@
     <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:11:32 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 03:45:39 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
@@ -26,6 +26,37 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 16: 葦の下の声が代わりを求めた</title>
+      <description>最初の囁きが聞こえる前に、細いトラヒネラの櫂が黒い水を押す音と、孤立したチナンパを包む夜の虫の声が広がります。やがて虫は一斉に黙り、頭上で紐が擦れ、葦の下から聞き慣れた声がルシアの名を呼びます。
+
+ルシアは、寄贈するためのきれいな人形を抱えて、ソチミルコで人形を守る管理人マテオを訪ねます。アウエホテの木々には何百体もの古い人形が吊られ、すべてが小屋を向いています。ただし、運河に最も近い一体を除いて。濡れた服から泥の匂いを漂わせるその人形をマテオは元に戻し、「私の代わりになって」と言われても答えるな、と警告します。人形が求めるのは新しい布の体ではないからです。
+
+この短編フォークホラーでは、音そのものが罠へ変わっていきます。小さな擦過音、同時に傾く人形の頭、飛沫を上げない黒い水、道を塞ぐ影の行列、手首に巻きつく冷たい紐。ルシアがマテオを助けようとして口にした一言が、「代わりを持ってくること」と「その身で代わること」の境界を消してしまいます。結末の変身は、声、沈黙、布と紐の質感で描かれ、流血や写実的な暴力表現はありません。
+
+本作は、メキシコシティのソチミルコに実在する『人形の島』と、1950年代に管理人が人形を吊るし始めたとされる伝承に着想を得たフィクションです。ルシア、マテオ、声をまねる存在、身代わりの掟、超自然的な出来事はすべて創作であり、実在の人物や事件を記録するドキュメンタリーではありません。
+
+日本語の音声演技、イヤホン向けの立体的なサウンドデザイン、運河の環境音、近距離の囁き、抑制されたオリジナル音楽と効果音を重ね、暗い部屋で聴くための没入型オーディオドラマとして制作しました。水音が消える瞬間や、人形の紐が一斉に鳴り始める瞬間まで、ぜひイヤホンでお楽しみください。
+
+内容注意：超自然的な危機、呪われた人形、非写実的な変身表現。
+
+オリジナルのホラーアートによる映像版はYouTubeでご覧いただけます：https://www.youtube.com/@MidnightWhispererDark
+
+番組をフォローし、ポッドキャストアプリで評価とレビューをお寄せいただけると、新しいリスナーがMidnight Whisperer Japan 日本語を見つける助けになります。
+
+脚本・制作：Midnight Whisperer Japan 日本語。</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_doll_nearest_the_canal_ja.mp3?v=801bae52f8ef" length="4528524" type="audio/mpeg" />
+      <guid isPermaLink="false">57d07157-43a3-4df6-9d45-19b0e8bd47c1</guid>
+      <pubDate>Thu, 02 Jul 2026 15:38:13 +0530</pubDate>
+      <link>https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_doll_nearest_the_canal_ja.mp3?v=801bae52f8ef</link>
+      <itunes:summary>寄贈する人形を携えてソチミルコのチナンパを訪れたルシアは、葦の下からマテオの声を聞きます。立体音響と突然の沈黙が導くこのフォークホラーで、運河の人形は新しい玩具ではなく、生きた身代わりを求めます。</itunes:summary>
+      <itunes:duration>3:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_doll_nearest_the_canal_ja.jpg?v=b4774f961e90" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, フォークホラー, 人形の島, ソチミルコ, 呪いの人形, 人形ホラー, メキシコ怪談, 超自然ホラー, 没入型音響, 立体音響, 音声ドラマ, ルシア, マテオ, 身代わりの呪い, 流血なしホラー, midnight whisperer</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 15: 深夜0時、エレベーターに彼女の名前が表示された</title>
       <description>深夜0時、エレベーターは階数の表示をやめた。代わりに、まだビルに残っている全員の名前を映し始め、最後にアナ・リベイロの名が現れた。
