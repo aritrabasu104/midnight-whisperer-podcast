@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:09:13 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:35:00 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,6 +26,40 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episodio 16: La voz bajo los juncos pidió un reemplazo</title>
+      <description>Antes del primer susurro escucharás una trajinera avanzar sobre el agua negra y los insectos nocturnos rodear una chinampa aislada. Después, los grillos callan, un cordón se rompe y una voz conocida llama desde debajo de los juncos.
+
+Lucía llega al terreno de Mateo en Xochimilco con una muñeca limpia para sumarla a los cientos de cuerpos de tela que cuelgan de los ahuejotes. Mateo cuida el lugar y asegura que cada ofrenda lo protege. Sin embargo, la muñeca empapada que cuelga más cerca del canal sigue otra regla: mira hacia el agua. Mateo le advierte a Lucía que, si alguna vez dice Reemplázame, no estará pidiendo otra muñeca.
+
+Este episodio breve de terror folclórico acompaña a Lucía mientras la isla vuelve el sonido en su contra: un roce sobre su cabeza, decenas de rostros que giran al mismo tiempo, cordones que traquetean en el sendero y la voz de Mateo donde Mateo no puede estar. Todo depende de una respuesta equivocada y de la diferencia aterradora entre llevar un reemplazo y ocupar su lugar. La transformación sobrenatural se cuenta mediante voces, silencios y texturas sonoras, sin violencia gráfica.
+
+La historia es una ficción inspirada en relatos sobre la Isla de las Muñecas en Xochimilco, Ciudad de México, donde un cuidador comenzó a colgar muñecas durante el siglo veinte. Lucía, Mateo, la voz imitada y la regla del reemplazo son creaciones ficticias.
+
+Escúchala con audífonos para apreciar el ambiente del canal, los diálogos cercanos, el movimiento de los cordones, la música contenida de terror rural y los silencios repentinos que marcan cada giro. La producción está diseñada como un audiodrama inmersivo para quienes disfrutan del terror sobrenatural sin gore.
+
+Aviso de contenido: peligro sobrenatural, muñecas embrujadas y transformación no gráfica.
+
+Mira la experiencia visual con arte original en YouTube: https://www.youtube.com/@MidnightWhispererDark
+
+Suscríbete, califica y deja una reseña en tu aplicación de podcasts para ayudar a que más oyentes encuentren Midnight Whisperer Español.
+
+Escrito y producido por Midnight Whisperer Español.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/ncgSOwE7eSA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_doll_nearest_the_canal_es.mp3?v=4ef58fe7bc1e" length="5045749" type="audio/mpeg" />
+      <guid isPermaLink="false">2eb767ed-a425-4e8f-885f-2a438243310d</guid>
+      <pubDate>Thu, 02 Jul 2026 15:32:13 +0530</pubDate>
+      <link>https://youtu.be/ncgSOwE7eSA</link>
+      <itunes:summary>Una muñeca donada lleva a Lucía hasta una chinampa sin luna donde una sola ofrenda mira hacia el canal. En este audiodrama inmersivo de terror folclórico, una voz imitada y una respuesta equivocada convierten un ritual de protección en un pacto de reemplazo.</itunes:summary>
+      <itunes:duration>3:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_doll_nearest_the_canal_es.jpg?v=b4774f961e90" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:keywords>podcast de terror, historias de miedo, audiodrama, terror folclórico, muñecas embrujadas, isla de las muñecas, xochimilco, terror mexicano, horror sobrenatural, muñeca maldita, canales de xochimilco, ficción sonora, terror inmersivo, lucía, mateo, maldición del reemplazo, cuentos de terror, terror latino, midnight whisperer, terror sin gore</itunes:keywords>
+    </item>
     <item>
       <title>Episodio 15: El ascensor mostró su nombre después de medianoche</title>
       <description>A medianoche, el ascensor dejó de mostrar pisos. Empezó a enumerar los nombres de todos los que seguían dentro de la torre, y Ana Ribeiro apareció al final.
