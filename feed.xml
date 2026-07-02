@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:08:09 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:30:43 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -26,6 +26,40 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 30: The Doll That Asked Lucía to Take Its Place</title>
+      <description>Before the first whisper, you will hear a lantern boat moving through black canal water and the night insects surrounding a lonely chinampa. Then the crickets vanish, a cord breaks, and a familiar voice calls from beneath the reeds.
+
+Lucía has come to Mateo&apos;s island plot in Xochimilco with a clean doll to add to the hundreds already hanging from the ahuejote trees. Mateo is the caretaker, and every offering is meant to watch over him. One waterlogged doll obeys a different rule. It faces the canal, and Mateo warns Lucía that if it ever says Replace me, the words are not a request for cloth.
+
+This compact folk-horror episode follows Lucía as the island turns sound against her: a scrape overhead, heads shifting in unison, cords rattling across the path, and Mateo&apos;s voice where Mateo should not be. The tension comes from a single mistaken answer and the terrible difference between bringing a replacement and becoming one. The supernatural transformation is presented through sound and suggestion rather than graphic violence.
+
+The story is a fictional retelling inspired by reported accounts surrounding the Island of the Dolls in Xochimilco, Mexico City, where a caretaker began hanging dolls during the twentieth century. Lucía, Mateo, the copied voice, and the replacement bargain are fictional creations.
+
+Listen with headphones for layered canal ambience, close-miked dialogue, shifting doll cords, restrained folk-horror music, and the sudden absence of sound at the story&apos;s turning points. The production is designed as an immersive audio drama while remaining suitable for listeners who prefer supernatural horror without gore.
+
+Content note: supernatural peril, haunted dolls, and a non-graphic transformation.
+
+Watch the visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe, rate, and review Midnight Whisperer in your podcast app to help more listeners discover the show.
+
+Written and produced by Midnight Whisperer.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/74FWE-1nytE</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_doll_nearest_the_canal.mp3?v=2efc39bb1699" length="4270226" type="audio/mpeg" />
+      <guid isPermaLink="false">4363abcd-b75b-467e-8170-00142aeb66eb</guid>
+      <pubDate>Thu, 02 Jul 2026 15:32:13 +0530</pubDate>
+      <link>https://youtu.be/74FWE-1nytE</link>
+      <itunes:summary>A donated doll brings Lucía to a moonless chinampa where one hanging offering faces the canal instead of the caretaker&apos;s hut. In this immersive folk-horror audio drama, a copied voice and one mistaken answer turn the island&apos;s protection ritual into a replacement bargain.</itunes:summary>
+      <itunes:duration>2:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_doll_nearest_the_canal.jpg?v=b4774f961e90" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, folk horror, haunted dolls, island of the dolls, isla de las muñecas, xochimilco, mexico city horror, supernatural horror, cursed doll, canal ghost story, immersive audio drama, headphone horror, lucía, mateo, replacement curse, horror fiction, midnight whisperer, non-graphic horror</itunes:keywords>
+    </item>
     <item>
       <title>Episode 29: The Elevator Listed Her Name After Midnight</title>
       <description>At midnight, the elevator stopped showing floors. It began listing the names of everyone still inside the tower—and Ana Ribeiro was last.
