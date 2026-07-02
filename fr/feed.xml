@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:10:56 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 03:02:06 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -26,6 +26,34 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Épisode 16: La poupée du canal demandait à être remplacée</title>
+      <description>Le canal repose, noir, sous les ahuejotes. Des centaines de poupées usées par le temps sont suspendues au-dessus de l’eau, mais une seule refuse de regarder la cabane du gardien. Lorsque Lucía amarre sa trajinera à la chinampa de Mateo, elle n’entend d’abord que les cordes, les grillons et le léger mouvement de l’eau. Puis la nuit se tait.
+
+Cet épisode de Midnight Whisperer Français est une fiction audio d’horreur entièrement localisée et conçue pour une écoute au casque. Des voix spatialisées, une atmosphère humide de canal, des branches qui grincent, des cordes qui claquent et une musique originale discrète placent l’auditeur au plus près de Lucía. Chaque détail sonore déplace la menace, jusqu’à ce qu’une voix familière formule une demande impossible sous les roseaux.
+
+La mise en scène repose sur trois motifs sonores récurrents : un grattement au-dessus de Lucía, le silence soudain des grillons et la phrase « Remplace-moi ». À chaque retour, leur sens change. La peur naît ainsi de la proximité, de la direction des voix et de l’impression que toute l’île bouge au même instant, sans recourir à une violence graphique.
+
+Cette histoire est une adaptation fictive inspirée de sources. Elle reprend les récits associés à l’Île des poupées de Xochimilco, à Mexico, ainsi que le motif des poupées suspendues comme offrandes. Lucía, Mateo, la poupée qui parle, la règle « Remplace-moi » et toute l’intrigue surnaturelle sont inventés. Il ne s’agit pas d’un documentaire sur des personnes ou des événements réels.
+
+Lucía croit que Mateo est en danger près de la berge pourrie et soulève la poupée immaculée qu’elle a apportée en offrande. Ce geste minuscule met en marche un cortège d’ombres et de cordes. La visite nocturne devient alors une lutte contre une malédiction qui ne cherche pas une autre poupée de tissu.
+
+Avertissement de contenu : menace surnaturelle, mise en danger et transformation non graphique. À écouter de préférence au casque, dans une pièce sombre. Abonnez-vous au podcast et laissez une note si vous souhaitez découvrir d’autres fictions audio d’horreur en français.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/Chrpk10ZyBA</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_doll_nearest_the_canal_fr.mp3?v=1828660b4e41" length="4781181" type="audio/mpeg" />
+      <guid isPermaLink="false">173ecf59-8efa-4eef-b100-f23a5a293f76</guid>
+      <pubDate>Thu, 02 Jul 2026 15:29:23 +0530</pubDate>
+      <link>https://youtu.be/Chrpk10ZyBA</link>
+      <itunes:summary>Sur une chinampa couverte de poupées à Xochimilco, Lucía entend la voix de Mateo sous les roseaux. Mais la poupée près du canal ne réclame pas un nouveau jouet : elle veut une remplaçante vivante.</itunes:summary>
+      <itunes:duration>3:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_doll_nearest_the_canal_fr.jpg?v=b4774f961e90" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:keywords>podcast d&apos;horreur, fiction audio, histoire d&apos;horreur, île des poupées, xochimilco, mexico, poupée maudite, poupées hantées, folk horror, horreur surnaturelle, lucía, mateo, canal, drame audio, son immersif, son binaural, musique originale, midnight whisperer</itunes:keywords>
+    </item>
     <item>
       <title>Épisode 15: Après minuit, l’ascenseur affichait son nom</title>
       <description>À minuit, l&apos;ascenseur a cessé d&apos;afficher les étages. Il a commencé à énumérer toutes les personnes encore présentes dans la tour — Ana Ribeiro apparaissait en dernier.
