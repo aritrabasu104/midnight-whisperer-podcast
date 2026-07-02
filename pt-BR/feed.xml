@@ -10,7 +10,7 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 02:09:48 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:44:25 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Brasil</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
@@ -26,6 +26,40 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episódio 16: A voz sob os juncos pediu uma substituta</title>
+      <description>Antes do primeiro sussurro, você ouvirá uma trajinera deslizando sobre a água negra e os insetos noturnos cercando uma chinampa isolada. Depois, os grilos se calam, um cordão se rompe e uma voz conhecida chama debaixo dos juncos.
+
+Lucía chega ao terreno de Mateo em Xochimilco com uma boneca limpa para se juntar às centenas de figuras de pano penduradas nos ahuejotes. Mateo cuida do lugar e afirma que cada oferenda o protege. A boneca encharcada mais próxima do canal, porém, segue outra regra: ela olha para a água. Mateo avisa Lucía que, se algum dia ela disser Me substitua, não estará pedindo outra boneca.
+
+Este episódio curto de horror folclórico acompanha Lucía enquanto a ilha transforma o som em armadilha: um raspar acima de sua cabeça, dezenas de rostos virando ao mesmo tempo, cordões chacoalhando no caminho e a voz de Mateo onde Mateo não poderia estar. Tudo nasce de uma resposta equivocada e da diferença terrível entre levar uma substituta e tomar o lugar dela. A transformação sobrenatural é contada por vozes, silêncios e texturas sonoras, sem violência gráfica.
+
+A história é uma ficção inspirada em relatos sobre a Ilha das Bonecas em Xochimilco, na Cidade do México, onde um cuidador começou a pendurar bonecas durante o século vinte. Lucía, Mateo, a voz imitada e a regra da substituição são criações fictícias.
+
+Ouça com fones para perceber o ambiente do canal, os diálogos próximos, o movimento dos cordões, a música contida de horror rural e as ausências repentinas de som que marcam cada virada. A produção foi criada como um audiodrama imersivo para quem gosta de terror sobrenatural sem gore.
+
+Aviso de conteúdo: perigo sobrenatural, bonecas assombradas e transformação não gráfica.
+
+Assista à experiência visual com arte original no YouTube: https://www.youtube.com/@MidnightWhispererDark
+
+Inscreva-se, avalie e deixe uma resenha no seu aplicativo de podcasts para ajudar mais ouvintes a encontrar o Midnight Whisperer Brasil.
+
+Escrito e produzido por Midnight Whisperer Brasil.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/vy1BIL7XTik</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_doll_nearest_the_canal_pt-BR.mp3?v=0e806da0d9ae" length="4943558" type="audio/mpeg" />
+      <guid isPermaLink="false">c5a34a41-ff30-4b43-9ac3-789e1c959d37</guid>
+      <pubDate>Thu, 02 Jul 2026 15:32:13 +0530</pubDate>
+      <link>https://youtu.be/vy1BIL7XTik</link>
+      <itunes:summary>Uma boneca doada leva Lucía até uma chinampa sem lua onde apenas uma oferenda está virada para o canal. Neste audiodrama imersivo de horror folclórico, uma voz imitada e uma resposta equivocada transformam um ritual de proteção em um pacto de substituição.</itunes:summary>
+      <itunes:duration>3:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_doll_nearest_the_canal_pt-BR.jpg?v=b4774f961e90" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:keywords>podcast de terror, histórias assustadoras, audiodrama, horror folclórico, bonecas assombradas, ilha das bonecas, xochimilco, terror mexicano, horror sobrenatural, boneca amaldiçoada, canais de xochimilco, ficção sonora, terror imersivo, lucía, mateo, maldição da substituição, contos de terror, horror latino-americano, midnight whisperer, terror sem gore</itunes:keywords>
+    </item>
     <item>
       <title>Episódio 15: O elevador mostrou o nome dela à meia-noite</title>
       <description>À meia-noite, o elevador parou de mostrar os andares. Em seguida, começou a listar os nomes de todos que ainda estavam na torre — e Ana Ribeiro apareceu por último.
