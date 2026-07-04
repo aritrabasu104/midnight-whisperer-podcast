@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 00:30:43 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:48:40 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -26,6 +26,35 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 31: What happened at Loudun in 1891?</title>
+      <description>&quot;What happened at Loudun in 1891?&quot; is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
+
+Language: English. Best experienced with headphones in a dark room.
+
+Watch the visual experience with original artwork on YouTube:
+https://www.youtube.com/@MidnightWhispererDark
+
+Subscribe and leave a review to help others find the show.
+
+Written and produced by Midnight Whisperer.
+
+Content warning: horror themes, supernatural elements.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/BJfQrDqxCV4</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_convent_wrote_backwards.mp3?v=52aea418529f" length="4220697" type="audio/mpeg" />
+      <guid isPermaLink="false">4c9b266a-eea9-4673-832b-484c10b6b5e0</guid>
+      <pubDate>Sat, 04 Jul 2026 12:37:44 +0530</pubDate>
+      <link>https://youtu.be/BJfQrDqxCV4</link>
+      <itunes:summary>&quot;What happened at Loudun in 1891?&quot; — an original horror audio drama from Midnight Whisperer, presented in English with immersive sound design.</itunes:summary>
+      <itunes:duration>2:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_convent_wrote_backwards.jpg?v=2d25b2dc80ff" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at loudun in 1891?, en, scary podcast, horror fiction</itunes:keywords>
+    </item>
     <item>
       <title>Episode 30: The Doll That Asked Lucía to Take Its Place</title>
       <description>Before the first whisper, you will hear a lantern boat moving through black canal water and the night insects surrounding a lonely chinampa. Then the crickets vanish, a cord breaks, and a familiar voice calls from beneath the reeds.

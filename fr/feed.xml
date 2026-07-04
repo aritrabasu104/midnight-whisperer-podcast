@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 03:02:06 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:48:54 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Épisode 17: Que s&apos;est-il passé à Loudun en 1891 ?</title>
+      <description>« Que s&apos;est-il passé à Loudun en 1891 ? » est une fiction audio d&apos;horreur originale de Midnight Whisperer Français. Céleste Marin entre dans les archives d&apos;un couvent pour recopier un ancien témoignage. Mais une seule règle — ne jamais corriger un nom écrit à l&apos;envers — transforme le registre en contrat vivant.
+
+Cette édition est entièrement interprétée, mise en son et mise en musique en français pour une écoute immersive au casque. À écouter de préférence dans l&apos;obscurité.
+
+Avertissement : possession surnaturelle, apparitions squelettiques et danger non graphique.
+
+Regardez l’expérience visuelle avec les illustrations d’horreur originales sur YouTube :
+https://youtu.be/6-kG_SuVbwE</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_convent_wrote_backwards_fr.mp3?v=a036070f78f1" length="4829455" type="audio/mpeg" />
+      <guid isPermaLink="false">82516be2-a92a-4185-b012-cd61b281304f</guid>
+      <pubDate>Sat, 04 Jul 2026 12:38:08 +0530</pubDate>
+      <link>https://youtu.be/6-kG_SuVbwE</link>
+      <itunes:summary>Un nom apparaît à l&apos;envers dans un registre de Loudun, et Céleste découvre que le corriger peut ouvrir toutes les portes des archives.</itunes:summary>
+      <itunes:duration>3:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_convent_wrote_backwards_fr.jpg?v=2d25b2dc80ff" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, horreur audio, midnight whisperer français, qu&apos;est-ce qui s&apos;est passé à loudun en 1891 ?, français, gothique victorien, littérature d&apos;horreur</itunes:keywords>
+    </item>
     <item>
       <title>Épisode 16: La poupée du canal demandait à être remplacée</title>
       <description>Le canal repose, noir, sous les ahuejotes. Des centaines de poupées usées par le temps sont suspendues au-dessus de l’eau, mais une seule refuse de regarder la cabane du gardien. Lorsque Lucía amarre sa trajinera à la chinampa de Mateo, elle n’entend d’abord que les cordes, les grillons et le léger mouvement de l’eau. Puis la nuit se tait.

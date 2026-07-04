@@ -10,7 +10,7 @@
     <description>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 05:05:56 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:49:00 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어 오리지널 호러 오디오 드라마. 성우 연기, 몰입형 사운드 디자인, 음악으로 어두운 방에서 헤드폰으로 듣기 좋게 제작됩니다.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>에피소드 17: 1891년 루둔 수녀원 기록 보관소에서 무슨 일이 있었나?</title>
+      <description>‘1891년 루둔 수녀원 기록 보관소에서 무슨 일이 있었나?’는 Midnight Whisperer Korea 한국어의 오리지널 공포 오디오 드라마입니다. 셀레스트 마린은 오래된 증언록을 필사하러 수녀원 기록 보관소에 들어갑니다. 그러나 단 하나의 규칙—거꾸로 쓰인 이름을 절대 바로잡지 말 것—이 기록을 살아 있는 계약으로 바꿉니다.
+
+한국어 음성 연기, 효과음, 오리지널 음악으로 완성한 몰입형 에피소드입니다. 어두운 방에서 이어폰으로 감상하세요.
+
+콘텐츠 안내: 초자연적 빙의, 해골 같은 환영, 잔혹한 묘사 없는 위험.
+
+오리지널 호러 아트 영상은 YouTube에서 감상하세요:
+https://youtu.be/NbyaLIna0cc</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_convent_wrote_backwards_ko.mp3?v=31764da1e320" length="4779927" type="audio/mpeg" />
+      <guid isPermaLink="false">540ddb86-6820-4e19-adc7-5ff7db30744b</guid>
+      <pubDate>Sat, 04 Jul 2026 12:38:18 +0530</pubDate>
+      <link>https://youtu.be/NbyaLIna0cc</link>
+      <itunes:summary>루둔의 기록에 이름이 거꾸로 나타나고, 셀레스트는 그것을 고치면 보관소의 모든 문이 열린다는 사실을 알게 된다.</itunes:summary>
+      <itunes:duration>3:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_convent_wrote_backwards_ko.jpg?v=2d25b2dc80ff" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 무서운 이야기, 오디오 드라마, 공포 내레이션, 크리피파스타, 귀신 이야기, 공포 오디오, midnight whisperer korea, 1891년 루둔, 한국어, 빅토리아 고딕, 공포 소설</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 16: 갈대 아래 목소리가 대신할 사람을 불렀다</title>
       <description>첫 속삭임이 들리기 전, 좁은 트라히네라의 노가 검은 물을 밀어내는 소리와 외딴 치남파를 에워싼 밤벌레 소리가 펼쳐집니다. 그러다 귀뚜라미가 한순간에 멎고, 머리 위에서 끈이 긁히며, 갈대 아래의 익숙한 목소리가 루시아를 부릅니다.

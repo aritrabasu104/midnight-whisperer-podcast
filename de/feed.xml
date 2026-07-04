@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 02:10:30 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:48:51 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 17: Was geschah 1891 in Loudun?</title>
+      <description>„Was geschah 1891 in Loudun?“ ist ein Original-Horrorhörspiel von Midnight Whisperer Deutsch. Céleste Marin betritt ein Klosterarchiv, um ein altes Zeugnis abzuschreiben. Doch eine einzige Regel — einen rückwärts geschriebenen Namen niemals zu berichtigen — verwandelt das Register in einen lebendigen Vertrag.
+
+Diese Ausgabe ist vollständig auf Deutsch gesprochen, vertont und musikalisch gestaltet. Am besten mit Kopfhörern in einem dunklen Raum hören.
+
+Inhaltshinweis: übernatürliche Besessenheit, skelettartige Erscheinungen und nicht grafisch dargestellte Gefahr.
+
+Sieh dir das visuelle Erlebnis mit originalem Horror-Artwork auf YouTube an:
+https://youtu.be/eaxvc0Jj3d4</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_convent_wrote_backwards_de.mp3?v=224cbd88a309" length="4796854" type="audio/mpeg" />
+      <guid isPermaLink="false">7876dc4a-9729-48fd-a958-10cdf22396ba</guid>
+      <pubDate>Sat, 04 Jul 2026 12:38:03 +0530</pubDate>
+      <link>https://youtu.be/eaxvc0Jj3d4</link>
+      <itunes:summary>In einem Register von Loudun erscheint ein Name rückwärts, und Céleste entdeckt, dass seine Korrektur alle Türen des Archivs öffnen kann.</itunes:summary>
+      <itunes:duration>3:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_convent_wrote_backwards_de.jpg?v=2d25b2dc80ff" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:keywords>horror-podcast, gruselgeschichten, hörspiel, horror-erzählung, creepypasta, geistergeschichten, horror-audio, midnight whisperer deutsch, was ist 1891 in loudun passiert?, deutsch, viktorianische gotik, horrorliteratur</itunes:keywords>
+    </item>
     <item>
       <title>Folge 16: Die Puppe am Kanal verlangte Ersatz</title>
       <description>Der Kanal liegt schwarz unter den Ahuejote-Bäumen. Über dem Wasser hängen Hunderte verwitterte Puppen, doch nur eine blickt nicht zur Hütte des Hüters. Als Lucía ihre Trajinera an Mateos Chinampa festmacht, hört sie zunächst nur Schnüre, Grillen und das leise Schlagen des Wassers. Dann verstummt die Nacht.

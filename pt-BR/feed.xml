@@ -10,7 +10,7 @@
     <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 00:44:25 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:48:47 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Brasil</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episódio 17: O que aconteceu em Loudun em 1891?</title>
+      <description>“O que aconteceu em Loudun em 1891?” é um audiodrama de terror original do Midnight Whisperer Brasil. Céleste Marin entra no arquivo de um convento para copiar um antigo testemunho, mas uma única regra —não corrigir um nome escrito ao contrário— transforma o registro em um contrato vivo.
+
+Esta edição é narrada, sonorizada e musicalizada integralmente em português do Brasil para uma experiência imersiva com fones de ouvido. Melhor ouvir no escuro.
+
+Aviso de conteúdo: possessão sobrenatural, aparições esqueléticas e perigo não gráfico.
+
+Assista à experiência visual com arte de terror original no YouTube:
+https://youtu.be/W3WJ3z9tSe8</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_convent_wrote_backwards_pt-BR.mp3?v=955dd78a1dd2" length="4948573" type="audio/mpeg" />
+      <guid isPermaLink="false">790333b3-c70b-40d8-b25d-c030b46f5b1a</guid>
+      <pubDate>Sat, 04 Jul 2026 12:37:59 +0530</pubDate>
+      <link>https://youtu.be/W3WJ3z9tSe8</link>
+      <itunes:summary>Um nome aparece ao contrário em um registro de Loudun, e Céleste descobre que corrigi-lo pode abrir todas as portas do arquivo.</itunes:summary>
+      <itunes:duration>3:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_convent_wrote_backwards_pt-BR.jpg?v=2d25b2dc80ff" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, terror em áudio, midnight whisperer brasil, o que aconteceu em loudun em 1891?, português brasileiro, gótico vitoriano, ficção de terror</itunes:keywords>
+    </item>
     <item>
       <title>Episódio 16: A voz sob os juncos pediu uma substituta</title>
       <description>Antes do primeiro sussurro, você ouvirá uma trajinera deslizando sobre a água negra e os insetos noturnos cercando uma chinampa isolada. Depois, os grilos se calam, um cordão se rompe e uma voz conhecida chama debaixo dos juncos.
