@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 12:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:00:12 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Épisode 18: Pendjab, 1894 : pourquoi la mariée cachait-elle ses pieds ?</title>
+      <description>Pourquoi un recueil du Pendjab, dans l’Inde britannique, publié en 1894 affirme-t-il que des pieds retournés trahissent une belle churel ?
+
+Une clochette d’argent tinte dans la nuit, puis les bœufs avancent tandis que leur charrette roule en arrière. Sur une route du Pendjab, Arjan comprend trop tard que les empreintes de la mariée voilée ne racontent pas le même trajet que ses pieds.
+
+Arjan rentre chez lui avec un rouleau de tissu indigo lorsqu’une jeune femme surgit d’une haie d’épines. Elle dit que des bandits ont dispersé son cortège et demande de l’eau. Le clair de lune révèle un bracelet de cheville ; dans la poussière, les talons de l’inconnue sont tournés vers Arjan et ses orteils vers la route vide. Sa mère l’avait pourtant prévenu : si les pieds d’une belle voyageuse regardent derrière elle, ne t’arrête pas — et ne ramasse jamais ce qu’elle laisse tomber.
+
+Quand le bijou glisse sous la roue, Arjan descend de la charrette. Le métal est assez froid pour engourdir ses doigts. Une main serre alors son poignet, l’essieu hurle et les branches déchirent la bâche. Même lorsqu’il s’échappe vers les lumières du village, la chevillière sonne à chaque foulée sans jamais perdre de terrain.
+
+Cette fiction audio s’inspire librement du motif de la churel décrit dans Tales of the Punjab, recueil publié en 1894 dans l’Inde britannique. Arjan, la mariée et tous les événements surnaturels sont fictifs. Le récit ne présente aucune personne ni aucun événement inventé comme un fait historique.
+
+La narration française, le bois qui gémit, les pas secs, le tintement du métal, le vent nocturne et une musique originale composent un folk horror immersif, conçu pour une écoute au casque. La peur vient de la direction des sons et du mouvement impossible de la route, sans violence graphique.
+
+Avertissement : poursuite surnaturelle, pieds déformés, enfermement et danger non graphique. Suivez Midnight Whisperer Français et laissez une note pour aider d’autres auditeurs à découvrir nos fictions audio horrifiques.
+
+Regardez l’expérience visuelle avec les illustrations d’horreur originales sur YouTube :
+https://youtu.be/Jt7SOKk08Js</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_roadside_bride_had_wrong_feet_fr.mp3?v=f4ed36905acd" length="4561752" type="audio/mpeg" />
+      <guid isPermaLink="false">f807e8db-501f-54d7-ac93-810cfc23b743</guid>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0530</pubDate>
+      <link>https://youtu.be/Jt7SOKk08Js</link>
+      <itunes:summary>Sur une route du Pendjab, Arjan recueille une mariée voilée dont les empreintes pointent vers l’arrière. Lorsqu’il ramasse sa chevillière d’argent, la charrette, la route et ses propres pas se retournent contre lui.</itunes:summary>
+      <itunes:duration>3:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_roadside_bride_had_wrong_feet_fr.jpg?v=64e751360cc6" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:keywords>podcast d&apos;horreur, fiction audio, histoire d&apos;horreur, folk horror, churel, folklore du pendjab, folklore indien, mariée fantôme, pieds retournés, bracelet de cheville maudit, route hantée, charrette à bœufs, arjan, tales of the punjab, son immersif, audio binaural, musique originale, midnight whisperer</itunes:keywords>
+    </item>
     <item>
       <title>Épisode 17: Que s&apos;est-il passé à Loudun en 1891 ?</title>
       <description>« Que s&apos;est-il passé à Loudun en 1891 ? » est une fiction audio d&apos;horreur originale de Midnight Whisperer Français. Céleste Marin entre dans les archives d&apos;un couvent pour recopier un ancien témoignage. Mais une seule règle — ne jamais corriger un nom écrit à l&apos;envers — transforme le registre en contrat vivant.

@@ -7,13 +7,13 @@
   <channel>
     <title>Midnight Whisperer Japan 日本語</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
-    <description>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</description>
+    <description>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 12:53:36 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:00:18 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
-    <itunes:summary>日本語のオリジナル・ホラー音声ドラマ。声の演技、没入感のある音響、音楽で、暗い部屋でヘッドホン視聴するための番組です。</itunes:summary>
+    <itunes:summary>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/cover.jpg" />
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 18: パンジャーブ、1894年：道端の花嫁はなぜ足を隠したのか？</title>
+      <description>1894年に英領インドのパンジャーブで刊行された民話集は、なぜ後ろ向きの足が美しいチュレルの正体を暴くと記したのか――そしてアルジャンの道で何が起きるのか？
+
+銀の足首飾りが夜道で鳴り、牛が前へ駆ける一方で荷車は後ろへ転がります。パンジャーブの街道で、アルジャンはベールの花嫁の足跡が、彼女の歩いた方向とは逆を指していることに気づきます。
+
+藍染めの布を積んで帰宅する途中、アルジャンは茨の生垣から現れた若い花嫁に出会います。花嫁は盗賊に婚礼の一行を追い散らされたと語り、水を求めます。月明かりに銀の足首飾りが光り、埃には、かかとがアルジャンを向き、つま先が誰もいない道を向いた裸足の跡が残っていました。母の戒めがよみがえります。足が後ろを向く女を見たら、荷車を止めるな。女が落とした物は、すでに女のものだ。
+
+それでも足首飾りが車輪の下へ落ちると、アルジャンは荷車を降ります。指が痺れるほど冷たい銀を車軸から抜いた瞬間、花嫁の手が彼の手首を掴みます。車軸が悲鳴を上げ、茨が幌を裂きます。村の灯りへ逃げても、背後の足首飾りは一歩ごとに鳴り、少しも遠ざかりません。
+
+本作は、1894年に英領インドで刊行された『パンジャブ物語集』に記されたチュレルの伝承モチーフをもとに再構成したフィクションです。アルジャン、花嫁、作中の超自然的な出来事はすべて創作であり、実在の人物や事件を記録するドキュメンタリーではありません。
+
+日本語の音声演技、軋む荷車、乾いた足音、銀の鈴、夜風、立体的なサウンドデザインとオリジナル音楽を重ね、画面がなくても距離と動きを追える民俗ホラーに仕上げました。流血や写実的な暴力表現には頼らず、音の方向と反転する道そのものが恐怖を生みます。
+
+内容注意：超自然的な追跡、後ろ向きの足、閉じ込め、非残酷描写の危機。番組をフォローし、評価やレビューでMidnight Whisperer Japan 日本語を応援していただけると、新しいリスナーが番組を見つける助けになります。
+
+オリジナルのホラーアートによる映像版をYouTubeで見る：
+https://youtu.be/vFMZ1VgEmcQ</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_roadside_bride_had_wrong_feet_ja.mp3?v=04f9b2b72166" length="5115966" type="audio/mpeg" />
+      <guid isPermaLink="false">b84f9845-e64b-52a1-8ad2-950495f3ebc5</guid>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0530</pubDate>
+      <link>https://youtu.be/vFMZ1VgEmcQ</link>
+      <itunes:summary>パンジャーブの夜道で、アルジャンは足跡が後ろを向く花嫁を荷車に乗せます。銀の足首飾りを拾った瞬間、荷車も道も、そしてアルジャン自身の足も逆方向へ動き始めます。</itunes:summary>
+      <itunes:duration>3:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_roadside_bride_had_wrong_feet_ja.jpg?v=64e751360cc6" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 民俗ホラー, チュレル, パンジャーブ民話, インドの怪談, 幽霊の花嫁, 後ろ向きの足, 呪いの足首飾り, 呪われた道, 牛車の怪談, アルジャン, パンジャブ物語集, 没入型音響, 立体音響, オリジナル音楽, midnight whisperer</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 17: 1891年、ルーダン修道院の記録保管庫で何が起きたのか？</title>
       <description>「1891年、ルーダン修道院の記録保管庫で何が起きたのか？」は、Midnight Whisperer Japan 日本語によるオリジナルのホラーオーディオドラマです。セレスト・マランは古い証言書を書き写すため修道院の記録保管庫へ入ります。しかし、たった一つの規則——逆向きに書かれた名前を決して直さないこと——が、その記録を生きた契約へと変えてしまいます。

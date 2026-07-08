@@ -7,13 +7,13 @@
   <channel>
     <title>Midnight Whisperer Brasil</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
-    <description>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</description>
+    <description>Dramas de áudio de terror originais em português do Brasil, com vozes, design de som imersivo e trilha sonora para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 12:53:28 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:00:02 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Brasil</itunes:author>
-    <itunes:summary>Dramas de áudio de terror originais em português brasileiro, com vozes, desenho de som imersivo e trilha para ouvir de fones no escuro.</itunes:summary>
+    <itunes:summary>Dramas de áudio de terror originais em português do Brasil, com vozes, design de som imersivo e trilha sonora para ouvir de fones no escuro.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/cover.jpg" />
@@ -26,6 +26,30 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episódio 18: Punjab, 1894: Por que a noiva da estrada escondia os pés?</title>
+      <description>Por que um livro de folclore de Punjab, na Índia Britânica, publicado em 1894 diz que pés virados denunciam uma bela churel?
+
+No Punjab de 1894, uma tornozeleira de prata reluz ao luar e uma noiva coberta por um véu espera à beira de uma estrada de terra. Arjan se lembra do aviso da mãe: se os pés de uma desconhecida apontarem para a estrada atrás dela, ele não deve parar nem recolher nada que ela deixar cair. Mas um pedido transforma sua compaixão em uma armadilha, a carroça começa a se mover na direção impossível e um tilintar acompanha cada passada.
+
+Este audiodrama de terror folclórico é uma obra de ficção inspirada no motivo da churel e de seus pés virados registrado em Tales of the Punjab, coletânea publicada em 1894. A edição é narrada, sonorizada e musicalizada integralmente em português do Brasil para uma experiência imersiva com fones de ouvido. Melhor ouvir no escuro.
+
+Aviso de conteúdo: ameaça sobrenatural, transformação e perigo não gráfico.
+
+Assista à experiência visual com arte de terror original no YouTube:
+https://youtu.be/Y-bBi3ylYVg</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_roadside_bride_had_wrong_feet_pt-BR.mp3?v=a94d466c85a3" length="4705321" type="audio/mpeg" />
+      <guid isPermaLink="false">dc96628b-2561-50e6-a92c-e38eb17166c5</guid>
+      <pubDate>Wed, 08 Jul 2026 16:56:29 +0530</pubDate>
+      <link>https://youtu.be/Y-bBi3ylYVg</link>
+      <itunes:summary>Arjan para diante de uma noiva com véu em uma estrada do Punjab e descobre que uma tornozeleira perdida pode inverter muito mais do que suas pegadas.</itunes:summary>
+      <itunes:duration>3:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_roadside_bride_had_wrong_feet_pt-BR.jpg?v=64e751360cc6" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, terror folclórico, churel, folclore de Punjab, Tales of the Punjab, noiva da estrada, pés virados, tornozeleira de prata, Arjan, terror sobrenatural, ficção de terror, Midnight Whisperer Brasil</itunes:keywords>
+    </item>
     <item>
       <title>Episódio 17: O que aconteceu em Loudun em 1891?</title>
       <description>“O que aconteceu em Loudun em 1891?” é um audiodrama de terror original do Midnight Whisperer Brasil. Céleste Marin entra no arquivo de um convento para copiar um antigo testemunho, mas uma única regra —não corrigir um nome escrito ao contrário— transforma o registro em um contrato vivo.

@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 12:53:26 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:59:56 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,6 +26,30 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episodio 18: Punjab, 1894: ¿Por qué la novia del camino ocultaba los pies?</title>
+      <description>¿Por qué un libro de folclore de Punjab, India británica, publicado en 1894 dice que los pies al revés delatan a una bella churel?
+
+En el Punjab de 1894, una tobillera de plata brilla bajo la luna y una novia velada espera junto a un camino de tierra. Arjan recuerda la advertencia de su madre: si los pies de una desconocida apuntan hacia el camino que deja atrás, no debe detenerse ni recoger nada que ella pierda. Pero una súplica convierte su compasión en una trampa, la carreta empieza a moverse en la dirección imposible y un tintineo acompaña cada uno de sus pasos.
+
+Este audiodrama de terror folclórico es una ficción inspirada en el motivo de la churel y sus pies invertidos registrado en Tales of the Punjab, una colección publicada en 1894. La edición está narrada, ambientada y musicalizada íntegramente en español para una escucha inmersiva con audífonos. Se disfruta mejor a oscuras.
+
+Aviso de contenido: amenaza sobrenatural, transformación y peligro no gráfico.
+
+Mira la experiencia visual con arte de terror original en YouTube:
+https://youtu.be/z0pKBjqfriU</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_roadside_bride_had_wrong_feet_es.mp3?v=7bcf1116b0ad" length="4620057" type="audio/mpeg" />
+      <guid isPermaLink="false">9b559636-86d5-5ce4-8199-864616390e99</guid>
+      <pubDate>Wed, 08 Jul 2026 16:56:28 +0530</pubDate>
+      <link>https://youtu.be/z0pKBjqfriU</link>
+      <itunes:summary>Arjan se detiene ante una novia velada en un camino del Punjab y descubre que una tobillera perdida puede invertir mucho más que sus huellas.</itunes:summary>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_roadside_bride_had_wrong_feet_es.jpg?v=64e751360cc6" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:keywords>podcast de terror, historias de terror, audiodrama, terror folclórico, churel, folclore de Punjab, Tales of the Punjab, novia del camino, pies al revés, tobillera de plata, Arjan, terror sobrenatural, ficción de terror, Midnight Whisperer Español</itunes:keywords>
+    </item>
     <item>
       <title>Episodio 17: ¿Qué pasó en Loudun en 1891?</title>
       <description>«¿Qué pasó en Loudun en 1891?» es un audiodrama de terror original de Midnight Whisperer Español. Céleste Marin entra en el archivo de un convento para copiar un antiguo testimonio, pero una sola regla —no corregir un nombre escrito al revés— convierte el registro en un contrato vivo.

@@ -7,13 +7,13 @@
   <channel>
     <title>Midnight Whisperer Deutsch</title>
     <link>https://www.youtube.com/@MidnightWhispererDark</link>
-    <description>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</description>
+    <description>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 12:53:31 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:00:07 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
-    <itunes:summary>Originale Horror-Hörspiele auf Deutsch, voll vertont und mit immersivem Sounddesign für Kopfhörer in einem dunklen Raum.</itunes:summary>
+    <itunes:summary>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/cover.jpg" />
@@ -26,6 +26,30 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 18: Punjab, 1894: Warum verbarg die Braut am Straßenrand ihre Füße?</title>
+      <description>Warum sagt ein 1894 erschienenes Sagenbuch aus Punjab in Britisch-Indien, dass rückwärts gerichtete Füße eine schöne Churel entlarven?
+
+Im Punjab des Jahres 1894 wartet eine verschleierte Braut neben einer staubigen Straße, während ihr silbernes Fußkettchen im Mondlicht glänzt. Arjan erinnert sich an die Warnung seiner Mutter: Wenn die Füße einer Fremden zur Straße hinter ihr zeigen, darf er weder anhalten noch etwas aufheben, das sie fallen lässt. Doch eine Bitte macht aus seinem Mitgefühl eine Falle, der Karren setzt sich in die unmögliche Richtung in Bewegung und ein silbernes Klingeln begleitet jeden seiner Schritte.
+
+Dieses Folk-Horror-Hörspiel ist eine fiktive Geschichte, inspiriert vom Motiv der Churel und ihrer rückwärts gerichteten Füße, wie es in der 1894 veröffentlichten Sammlung Tales of the Punjab überliefert wurde. Die Folge ist vollständig auf Deutsch gesprochen, vertont und musikalisch gestaltet. Am besten mit Kopfhörern in einem dunklen Raum hören.
+
+Inhaltshinweis: übernatürliche Bedrohung, Verwandlung und nicht grafisch dargestellte Gefahr.
+
+Sieh dir das visuelle Erlebnis mit originalem Horror-Artwork auf YouTube an:
+https://youtu.be/BOpy08Wz-ig</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_roadside_bride_had_wrong_feet_de.mp3?v=c4136476dedf" length="4457680" type="audio/mpeg" />
+      <guid isPermaLink="false">982a8a50-1114-552e-b465-a40fd8b5f02d</guid>
+      <pubDate>Wed, 08 Jul 2026 16:56:30 +0530</pubDate>
+      <link>https://youtu.be/BOpy08Wz-ig</link>
+      <itunes:summary>Arjan hält bei einer verschleierten Braut auf einer Straße im Punjab an und entdeckt, dass ein verlorenes Fußkettchen weit mehr als nur seine Spuren umkehren kann.</itunes:summary>
+      <itunes:duration>3:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_roadside_bride_had_wrong_feet_de.jpg?v=64e751360cc6" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:keywords>horror-podcast, gruselgeschichten, horror-hörspiel, folk horror, churel, folklore aus Punjab, Tales of the Punjab, braut am straßenrand, verkehrte füße, silbernes fußkettchen, Arjan, übernatürlicher horror, horrorliteratur, Midnight Whisperer Deutsch</itunes:keywords>
+    </item>
     <item>
       <title>Folge 17: Was geschah 1891 in Loudun?</title>
       <description>„Was geschah 1891 in Loudun?“ ist ein Original-Horrorhörspiel von Midnight Whisperer Deutsch. Céleste Marin betritt ein Klosterarchiv, um ein altes Zeugnis abzuschreiben. Doch eine einzige Regel — einen rückwärts geschriebenen Namen niemals zu berichtigen — verwandelt das Register in einen lebendigen Vertrag.
