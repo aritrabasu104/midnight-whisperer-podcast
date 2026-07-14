@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 23:00:07 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:53:34 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</itunes:summary>
@@ -26,6 +26,34 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 19: Paraná, 1947: Warum gab das Grab ihn wieder her?</title>
+      <description>Warum verortete ein volkskundliches Geografiewerk von 1947 den von der Erde verstoßenen Corpo-Seco in Paraná, Brasilien, wo selbst der Tod ihn abwies?
+
+Ein Sarg stößt zum dritten Mal aus demselben Grab empor. Kurz darauf rollt ein Maultierkarren durch die dunklen Kiefern von Paraná, obwohl das Tier längst geflohen ist – und seine Räder machen keinen Laut.
+
+Bento, der Hüter des Totenwegs, soll Joaquim Vales abgewiesenen Leichnam bis zum Morgengrauen transportieren. Die Dorfbewohner geben ihm nur eine Regel mit: Ganz gleich, wessen Stimme der geschlossene Sarg stiehlt, er darf niemals mit einem Namen antworten. Doch Bentos fieberkranke Tochter Rosa wartet in ihrem Haus auf die Medizin in seinem Mantel. Als Bento den vorgeschriebenen Weg verlässt, führen ihn eine Glocke mit reglosem Seil, verlöschende Glut und Erde, die den Sarg wieder ausstößt, immer näher an ihre Tür. Dann flüstert aus dem Holz die Stimme seiner Tochter: „Papa?“
+
+Diese vollständig deutschsprachige Folge setzt auf Stimmen, Stille und räumlich gestaltete Geräusche: das Knarren des Holzes, einen einzelnen Nagel auf dem Sargdeckel, eine unmögliche Glocke, kalten Wind in den Kiefern und den plötzlichen Verlust jedes Radgeräuschs. Das Originalscore zieht sich vom strengen Rhythmus einer überlieferten Warnung bis zu Bentos Entscheidung, den schwarzen Staub von Rosas Schwelle weg und zu sich selbst zu lenken. Am besten mit Kopfhörern in einem dunklen Raum hören.
+
+Das Hörspiel ist eine fiktive Neuerzählung, inspiriert von der brasilianischen Corpo-Seco-Überlieferung und ihrer Verbindung zu Paraná in Luís da Câmara Cascudos erstmals 1947 veröffentlichter volkskundlicher Geografie. Joaquim Vale, Bento, Rosa, der Totenweg, die Namensfalle und alle Ereignisse der Folge sind erfunden.
+
+Inhaltshinweis: Tod und Sarg, ein krankes Kind, übernatürliche Bedrohung, nicht grafisch dargestellte Verwandlung und Verschwinden. Folgen Sie Midnight Whisperer Deutsch in Ihrer Podcast-App und helfen Sie mit einer Bewertung oder Rezension, dass weitere Hörerinnen und Hörer das Hörspiel finden. Geschrieben und produziert von Midnight Whisperer Deutsch.
+
+Sieh dir das visuelle Erlebnis mit originalem Horror-Artwork auf YouTube an:
+https://youtu.be/m4e6rOeKFx0</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_grave_gave_him_back_de.mp3?v=bd40d89471bd" length="4408779" type="audio/mpeg" />
+      <guid isPermaLink="false">231f46b4-766b-521f-9565-b27b5aa54230</guid>
+      <pubDate>Tue, 14 Jul 2026 22:43:27 +0530</pubDate>
+      <link>https://youtu.be/m4e6rOeKFx0</link>
+      <itunes:summary>Ein abgewiesener Sarg rollt lautlos durch die Kiefern von Paraná, und aus seinem Inneren ruft die Stimme von Bentos kranker Tochter. Dieses deutschsprachige Folk-Horror-Hörspiel erzählt mit Stimmen, unheimlicher Stille und Originalmusik, welchen Namen der Totenweg verlangt – und welchen Preis Bento zahlt, um Rosa zu schützen.</itunes:summary>
+      <itunes:duration>3:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_grave_gave_him_back_de.jpg?v=1255d89751c8" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:keywords>horror-podcast, horror-hörspiel, gruselgeschichte, folk horror, corpo-seco, brasilianische folklore, paraná 1947, verfluchter sarg, totenweg, gestohlene stimme, verbotener name, bento und rosa, joaquim vale, übernatürlicher horror, immersives sounddesign, originalmusik, horror mit kopfhörern, midnight whisperer deutsch</itunes:keywords>
+    </item>
     <item>
       <title>Folge 18: Punjab, 1894: Warum verbarg die Braut am Straßenrand ihre Füße?</title>
       <description>Warum sagt ein 1894 erschienenes Sagenbuch aus Punjab in Britisch-Indien, dass rückwärts gerichtete Füße eine schöne Churel entlarven?

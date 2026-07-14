@@ -10,7 +10,7 @@
     <description>Dramas de áudio de terror originais em português do Brasil, com vozes, design de som imersivo e trilha sonora para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 23:00:02 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:53:30 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Brasil</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português do Brasil, com vozes, design de som imersivo e trilha sonora para ouvir de fones no escuro.</itunes:summary>
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episódio 19: Paraná, 1947: Por que a Cova o Devolveu?</title>
+      <description>Por que uma obra de geografia folclórica de 1947 situou o Corpo-Seco, rejeitado pela terra, no Paraná, Brasil, onde até a morte o rejeitou?
+
+Primeiro vem o som da terra se abrindo. Depois, o caixão de Joaquim Vale rompe a superfície pela terceira vez, e os moradores param de cavar. Bento, guardião da estrada dos enterros, recebe uma carroça, um lampião de lata e uma única regra: seja qual for a voz roubada por aquilo que está lá dentro, nunca responda com um nome. A estrada deveria carregar o morto rejeitado até o amanhecer. Rosa, filha de Bento, porém, está ardendo em febre e espera em casa o remédio guardado no casaco do pai.
+
+Este audiodrama de terror folclórico acompanha Bento por uma sequência de recusas impossíveis. O sino da capela toca com a corda parada. As brasas morrem sob cinzas frias. O próprio cemitério empurra o caixão de volta para a carroça. Quando a mula foge e as rodas continuam avançando sem produzir som, a voz de Rosa chama de dentro da tampa—ao mesmo tempo que a tosse verdadeira da menina responde pela janela. Cada ruído aproxima Bento da palavra que a estrada quer ouvir.
+
+Vozes interpretadas, madeira rangendo, arranhões no caixão, vento nos pinheiros, poeira negra e uma trilha original transformam o caminho numa armadilha acústica. Vale ouvir de fones: a distância entre a voz roubada e a filha real é onde o medo deste episódio respira.
+
+A história é uma obra de ficção inspirada em tradições brasileiras do Corpo-Seco associadas ao Paraná por meio da geografia folclórica de Luís da Câmara Cascudo, publicada originalmente em 1947. Joaquim Vale, Bento, Rosa, a estrada, a armadilha do nome e todos os acontecimentos do episódio são fictícios.
+
+Aviso de conteúdo: morte, caixão, doença infantil, ameaça sobrenatural, transformação e desaparecimento não gráficos. Siga, avalie e deixe uma resenha para Midnight Whisperer Brasil no seu aplicativo de podcasts.
+
+Assista à experiência visual com arte de terror original no YouTube:
+https://youtu.be/3sYCvfuN2JQ
+
+Escrito e produzido por Midnight Whisperer Brasil.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/the_grave_gave_him_back_pt-BR.mp3?v=edc32459ccf5" length="4347339" type="audio/mpeg" />
+      <guid isPermaLink="false">232079ff-0956-5684-8a74-7cb79dd6da39</guid>
+      <pubDate>Tue, 14 Jul 2026 22:44:16 +0530</pubDate>
+      <link>https://youtu.be/3sYCvfuN2JQ</link>
+      <itunes:summary>Bento precisa levar pelas estradas do Paraná um caixão rejeitado pelo céu, pelo inferno e pela terra sem jamais responder a uma voz roubada com um nome. Quando o morto chama com a voz de Rosa, salvar a filha pode obrigá-lo a entregar à estrada o próprio nome.</itunes:summary>
+      <itunes:duration>3:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_grave_gave_him_back_pt-BR.jpg?v=1255d89751c8" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:keywords>podcast de terror, drama de áudio de terror, terror folclórico, Corpo-Seco, folclore brasileiro, folclore do Paraná, Cascudo 1947, estrada dos enterros, caixão amaldiçoado, morto rejeitado, voz roubada, nome proibido, Bento e Rosa, ficção sonora sobrenatural, design de som imersivo, terror para ouvir de fones, história de assombração, Midnight Whisperer Brasil</itunes:keywords>
+    </item>
     <item>
       <title>Episódio 18: Punjab, 1894: Por que a noiva da estrada escondia os pés?</title>
       <description>Por que um livro de folclore de Punjab, na Índia Britânica, publicado em 1894 diz que pés virados denunciam uma bela churel?

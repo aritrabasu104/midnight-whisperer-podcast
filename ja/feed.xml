@@ -10,7 +10,7 @@
     <description>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 23:00:18 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:53:42 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</itunes:summary>
@@ -26,6 +26,34 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 19: パラナ、1947年――なぜ墓は彼を突き返したのか？</title>
+      <description>1947年にまとめられた民間伝承の地理資料は、なぜ大地に拒まれ、死にさえ受け入れられなかったコルポ・セコの居場所を「ブラジル、パラナ」としたのか？
+
+同じ墓から、棺が三度目に押し返される。やがてパラナの松林を進み始めたのは、ラバが逃げたあとも止まらず、車輪の音さえ失った荷車でした。
+
+埋葬の道の番人ベントは、ジョアキン・ヴァーレの拒まれた遺体を夜明けまで運ぶよう命じられます。村人たちが託した掟は一つだけ。閉じた棺が誰の声を盗んでも、決して名前で答えてはならない。けれど熱に苦しむ娘ローザは、ベントの上着に入った薬を待っています。娘の家へ寄ろうと道を外れた瞬間から、動かない綱の鐘、冷たい灰に消える炭火、棺を荷車へ押し戻す土が、天も地獄も大地も死者を拒んだことを告げます。そして棺の内側から聞こえたのは、ローザの声でした。
+
+日本語のナレーションと台詞に、木の軋み、蓋を引っかく一本の爪、松を抜ける風、距離を変える咳、突然消える車輪音を重ねた音声ドラマです。オリジナル音楽は、言い伝えの反復するリズムから、黒い塵がローザの敷居へ迫り、ベントが娘を救うため自分の姓名を差し出す瞬間までを静かに追います。暗い部屋でヘッドホンをつけると、音の位置と不在そのものが恐怖になる構成をより深く味わえます。
+
+本作は、Luís da Câmara Cascudoが1947年に初版を刊行した民俗地理でパラナと結び付けられた、ブラジルのコルポ・セコ伝承に着想を得たフィクションです。ジョアキン、ベント、ローザ、埋葬の道、名前の罠、作中の出来事はすべて創作です。
+
+内容に関する注意：死と棺、病気の子ども、超自然的な脅威、流血を伴わない変容と失踪。番組をフォローし、ポッドキャストアプリで評価やレビューをお寄せいただけると、新しいリスナーがMidnight Whisperer Japan 日本語を見つける助けになります。脚本・制作：Midnight Whisperer Japan 日本語。
+
+オリジナルのホラーアートによる映像版をYouTubeで見る：
+https://youtu.be/npmSBCQUorc</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_grave_gave_him_back_ja.mp3?v=161c588d9370" length="4811274" type="audio/mpeg" />
+      <guid isPermaLink="false">64c93cee-3938-5b8f-a9fd-2a0fc025caae</guid>
+      <pubDate>Tue, 14 Jul 2026 22:43:27 +0530</pubDate>
+      <link>https://youtu.be/npmSBCQUorc</link>
+      <itunes:summary>パラナの松林を、誰にも引かれず音も立てない棺の荷車が進みます。棺から病気の娘ローザの声を聞いたベントは、決して口にしてはならない名前と引き換えに、娘を守る決断を迫られる――日本語の声、静寂、立体的な音響とオリジナル音楽で描く民俗ホラーです。</itunes:summary>
+      <itunes:duration>3:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_grave_gave_him_back_ja.jpg?v=1255d89751c8" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 怖い話, ホラー音声ドラマ, 民俗ホラー, コルポ・セコ, ブラジル民間伝承, パラナ 1947年, 呪われた棺, 埋葬の道, 盗まれた声, 禁じられた名前, ベントとローザ, ジョアキン・ヴァーレ, 超自然的ホラー, 没入型音響, オリジナル音楽, ヘッドホンで聴く怖い話, midnight whisperer japan</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 18: パンジャーブ、1894年：道端の花嫁はなぜ足を隠したのか？</title>
       <description>1894年に英領インドのパンジャーブで刊行された民話集は、なぜ後ろ向きの足が美しいチュレルの正体を暴くと記したのか――そしてアルジャンの道で何が起きるのか？

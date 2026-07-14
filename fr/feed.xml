@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 23:00:12 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:53:38 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Épisode 19: Paraná, 1947 : pourquoi la tombe l’a-t-elle rejeté ?</title>
+      <description>Pourquoi une géographie du folklore de 1947 situe-t-elle au Paraná, Brésil, le Corpo-Seco, rejeté par la terre et même par la mort ?
+
+D’abord, la terre se fend. Puis le cercueil de Joaquim Vale remonte à la surface pour la troisième fois, et les villageois cessent de creuser. Bento, gardien de la route des morts, reçoit une charrette, une lanterne en fer-blanc et une seule consigne : quelle que soit la voix volée par ce qui repose dans le cercueil, ne jamais répondre en prononçant un nom. La route doit emporter le mort rejeté jusqu’à l’aube. Mais Rosa, la fille de Bento, est fiévreuse et attend chez elle le remède qu’il porte dans son manteau.
+
+Cette fiction audio de folk horror suit Bento à travers une suite de refus impossibles. La cloche d’une chapelle sonne alors que sa corde ne bouge pas. Les braises meurent sous une cendre glacée. Le cimetière lui-même repousse le cercueil sur la charrette. Lorsque la mule s’enfuit et que les roues continuent d’avancer sans un bruit, la voix de Rosa appelle sous le couvercle—tandis que sa vraie toux répond depuis la maison. Chaque son rapproche Bento du mot que la route attend.
+
+Voix incarnées, bois qui grince, clou sur le cercueil, vent dans les pins, poussière noire et musique originale transforment le trajet en piège acoustique. L’écoute au casque fait entendre toute la distance entre la voix dérobée et l’enfant réelle : c’est dans cet espace que la peur s’installe.
+
+Le récit est une fiction inspirée des traditions brésiliennes du Corpo-Seco associées au Paraná par la géographie folklorique de Luís da Câmara Cascudo, publiée pour la première fois en 1947. Joaquim Vale, Bento, Rosa, la route, le piège du nom et tous les événements racontés sont fictifs.
+
+Avertissement : mort, cercueil, maladie d’un enfant, menace surnaturelle, transformation et disparition non graphiques. Abonnez-vous, notez l’émission et laissez un avis dans votre application de podcasts.
+
+Regardez l’expérience visuelle avec les illustrations d’horreur originales sur YouTube :
+https://youtu.be/zbtz4ogchmI
+
+Écrit et produit par Midnight Whisperer Français.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_grave_gave_him_back_fr.mp3?v=49c1c0215945" length="4435737" type="audio/mpeg" />
+      <guid isPermaLink="false">e690d9e4-a008-5ebf-af9d-34414e0f2e38</guid>
+      <pubDate>Tue, 14 Jul 2026 22:44:16 +0530</pubDate>
+      <link>https://youtu.be/zbtz4ogchmI</link>
+      <itunes:summary>Bento doit conduire sur les routes du Paraná un cercueil que le Ciel, l’enfer et la terre refusent, sans jamais répondre à une voix volée par un nom. Lorsque le mort l’appelle avec la voix de Rosa, sauver sa fille pourrait l’obliger à livrer son propre nom à la route.</itunes:summary>
+      <itunes:duration>3:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_grave_gave_him_back_fr.jpg?v=1255d89751c8" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:keywords>podcast d’horreur, fiction audio horrifique, folk horror, Corpo-Seco, folklore brésilien, folklore du Paraná, Cascudo 1947, route des morts, cercueil maudit, mort rejeté, voix volée, nom interdit, Bento et Rosa, fiction sonore surnaturelle, ambiance sonore immersive, horreur au casque, histoire de revenant, Midnight Whisperer Français</itunes:keywords>
+    </item>
     <item>
       <title>Épisode 18: Pendjab, 1894 : pourquoi la mariée cachait-elle ses pieds ?</title>
       <description>Pourquoi un recueil du Pendjab, dans l’Inde britannique, publié en 1894 affirme-t-il que des pieds retournés trahissent une belle churel ?

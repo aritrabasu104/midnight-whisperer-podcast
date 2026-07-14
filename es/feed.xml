@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 22:59:56 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:53:27 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,6 +26,36 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episodio 19: Paraná, 1947: ¿Por qué la tumba lo devolvió?</title>
+      <description>¿Por qué una obra de geografía folclórica de 1947 situó al Corpo-Seco, rechazado por la tierra, en Paraná, Brasil, donde hasta la muerte lo rechazó?
+
+Primero se oye la tierra al abrirse. Después, el ataúd de Joaquim Vale golpea la superficie por tercera vez y los aldeanos dejan de cavar. A Bento, guardián del camino de los entierros, le entregan una carreta, un farol de hojalata y una sola regla: sin importar qué voz robe aquello que va dentro, nunca debe responder con un nombre. La carreta tendría que llevar al muerto rechazado hasta el amanecer. Pero Rosa, la hija de Bento, arde de fiebre y espera en casa la medicina que él guarda en el abrigo.
+
+Este audiodrama de terror folclórico acompaña a Bento por una sucesión de negativas imposibles. Una campana suena con la cuerda inmóvil. Las brasas se apagan bajo ceniza fría. El propio cementerio devuelve el ataúd a la carreta. Cuando la mula huye y las ruedas siguen avanzando sin hacer ruido, desde el interior del cajón surge la voz de Rosa—mientras su tos verdadera contesta desde la ventana. Cada sonido empuja a Bento hacia la palabra que el camino necesita.
+
+Las voces interpretadas, las ruedas de madera, el arañazo bajo la tapa, el viento entre los pinos, la textura de la ceniza y una partitura original convierten el trayecto en una trampa acústica. Conviene escuchar con audífonos: la distancia entre la voz robada y la hija real sostiene buena parte del miedo.
+
+La historia es una obra de ficción inspirada en tradiciones brasileñas del Corpo-Seco vinculadas con Paraná por medio de la geografía folclórica de Luís da Câmara Cascudo, publicada originalmente en 1947. Joaquim Vale, Bento, Rosa, el camino, la trampa del nombre y todos los sucesos del episodio son ficticios.
+
+Aviso de contenido: muerte, un ataúd, enfermedad infantil, amenaza sobrenatural, transformación y desaparición no gráficas. Suscríbete, califica el programa y deja una reseña en tu aplicación de podcasts.
+
+Mira la experiencia visual con arte de terror original en YouTube:
+https://youtu.be/5UdUU05lS7Y
+
+Escrito y producido por Midnight Whisperer Español.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_grave_gave_him_back_es.mp3?v=a297ae5887a8" length="4396240" type="audio/mpeg" />
+      <guid isPermaLink="false">d6882755-f52c-5c65-af5f-1f0a5ce9d143</guid>
+      <pubDate>Tue, 14 Jul 2026 22:44:16 +0530</pubDate>
+      <link>https://youtu.be/5UdUU05lS7Y</link>
+      <itunes:summary>Bento debe conducir por los caminos de Paraná un ataúd que el cielo, el infierno y la tierra se niegan a aceptar, sin responder jamás a una voz robada con un nombre. Cuando el muerto llama con la voz de Rosa, salvar a su hija puede obligarlo a entregar al camino su propio nombre.</itunes:summary>
+      <itunes:duration>3:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_grave_gave_him_back_es.jpg?v=1255d89751c8" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:keywords>podcast de terror, audiodrama de terror, terror folclórico, Corpo-Seco, folclore brasileño, folclore de Paraná, Cascudo 1947, camino de los entierros, ataúd maldito, muerto rechazado, voz robada, nombre prohibido, Bento y Rosa, ficción sonora sobrenatural, diseño sonoro inmersivo, terror con audífonos, relato de fantasmas, Midnight Whisperer Español</itunes:keywords>
+    </item>
     <item>
       <title>Episodio 18: Punjab, 1894: ¿Por qué la novia del camino ocultaba los pies?</title>
       <description>¿Por qué un libro de folclore de Punjab, India británica, publicado en 1894 dice que los pies al revés delatan a una bella churel?
