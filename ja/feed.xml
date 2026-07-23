@@ -10,7 +10,7 @@
     <description>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:42 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:46 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>第20話：ドゥマス・ビーチ、2026年：黒い砂からささやいたのは誰？｜没入型ホラーオーディオドラマ</title>
+      <description>インド・グジャラート州スーラト近郊のドゥマス・ビーチを扱った2026年の記事は、なぜ日没後に黒い砂から立ち上るささやき声を伝えたのか？
+
+午後11時47分。行方不明の弟デヴの電話が手の中で鳴っているのに、ニラリには砂浜の下から弟の呼ぶ声が聞こえる。チャイ売りが告げた決まりは一つだけ。潮目が変わったら、決して砂に返事をしてはいけない。だがニラリは答えてしまい、埋もれた声はデヴをアラビア海へ誘うすべを覚えていく。
+
+波音、乾いた海風、濡れた砂を踏む足音、背後から迫る盗まれた声を、ぜひヘッドホンで体感してください。内容上の注意：超常的な脅威、溺水の危険、声の喪失、非写実的な苦悶の描写を含みます。
+
+オリジナルのホラーアートによる映像版をYouTubeで見る：
+https://youtu.be/tBPZAIwuKSU</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_black_sand_whispered_back_ja.mp3?v=2dd65d8c65d6" length="4964874" type="audio/mpeg" />
+      <guid isPermaLink="false">0e8db600-1516-5de7-926e-3c1bac9f4574</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/tBPZAIwuKSU</link>
+      <itunes:summary>姉は弟を救うため、月明かりのないドゥマス・ビーチへ踏み込む。そこで待つのは、人の声を盗み、代償を求める黒い砂だった。</itunes:summary>
+      <itunes:duration>3:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_black_sand_whispered_back_ja.jpg?v=2255c251aa87" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, 没入型オーディオドラマ, ドゥマス・ビーチ 2026, 黒い砂, インド怪談, グジャラートの伝説, 呪われた海岸, 盗まれた声, 海の恐怖, ニラリとデヴ, 超常スリラー, Midnight Whisperer Japan</itunes:keywords>
+    </item>
     <item>
       <title>エピソード 19: パラナ、1947年――なぜ墓は彼を突き返したのか？</title>
       <description>1947年にまとめられた民間伝承の地理資料は、なぜ大地に拒まれ、死にさえ受け入れられなかったコルポ・セコの居場所を「ブラジル、パラナ」としたのか？

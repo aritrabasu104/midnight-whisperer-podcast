@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:34 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:32 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 20: Dumas Beach, 2026: Wer flüsterte aus dem schwarzen Sand? | Immersives Horror-Hörspiel</title>
+      <description>Warum berichtete ein Reiseartikel von 2026 am Dumas Beach nahe Surat, Gujarat, Indien, von Stimmen aus schwarzem Sand nach Sonnenuntergang?
+
+Um 23:47 Uhr hört Nirali ihren vermissten Bruder unter dem Strand nach ihr rufen, obwohl Devs Handy in ihrer Hand klingelt. Ein Teeverkäufer hat ihr nur eine Regel mitgegeben: Wenn die Flut wendet, antworte niemals dem Sand. Nirali antwortet trotzdem, und die vergrabene Stimme lernt, Dev ins Arabische Meer zu locken.
+
+Am besten mit Kopfhörern hören: Brandung, trockener Küstenwind, Schritte im nassen Sand und eine gestohlene Stimme, die von hinten immer näher kommt. Inhaltshinweis: übernatürliche Bedrohung, Ertrinkungsgefahr, Stimmverlust und nichtgrafische Verzweiflung.
+
+Sieh dir das visuelle Erlebnis mit originalem Horror-Artwork auf YouTube an:
+https://youtu.be/wbElueas01Y</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_black_sand_whispered_back_de.mp3?v=5f15624ccb7a" length="4616923" type="audio/mpeg" />
+      <guid isPermaLink="false">fca287a9-e45f-5cb2-8bb5-625a5767abbd</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/wbElueas01Y</link>
+      <itunes:summary>Eine Schwester durchquert den nächtlichen Dumas Beach, um ihren Bruder vor schwarzem Sand zu retten, der Stimmen stiehlt und dafür einen Preis verlangt.</itunes:summary>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_black_sand_whispered_back_de.jpg?v=2255c251aa87" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:keywords>Horror-Podcast, immersives Hörspiel, Dumas Beach 2026, schwarzer Sand, indischer Folk-Horror, Legende aus Gujarat, verfluchter Strand, gestohlene Stimme, Meeres-Horror, Nirali und Dev, übernatürlicher Thriller, Midnight Whisperer Deutsch</itunes:keywords>
+    </item>
     <item>
       <title>Folge 19: Paraná, 1947: Warum gab das Grab ihn wieder her?</title>
       <description>Warum verortete ein volkskundliches Geografiewerk von 1947 den von der Erde verstoßenen Corpo-Seco in Paraná, Brasilien, wo selbst der Tod ihn abwies?

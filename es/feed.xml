@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:27 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:19 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episodio 20: Playa de Dumas, 2026: ¿quién susurró desde la arena negra? | Audioficción de terror inmersivo</title>
+      <description>¿Por qué un reportaje de 2026 sobre la playa de Dumas, cerca de Surat, Gujarat, India, habló de susurros bajo la arena negra tras el anochecer?
+
+A las 11:47 de la noche, Nirali oye a su hermano desaparecido llamarla desde debajo de la playa, aunque el teléfono de Dev está sonando en su mano. Un vendedor de té le ha dado una sola regla: cuando cambie la marea, jamás respondas a la arena. Nirali responde, y la voz enterrada aprende a atraer a Dev hacia el mar Arábigo.
+
+Escúchalo con auriculares para sentir el oleaje, el viento seco de la costa, las pisadas sobre la arena mojada y una voz robada que se acerca por detrás. Aviso de contenido: amenaza sobrenatural, peligro de ahogamiento, pérdida de la voz y angustia sin violencia gráfica.
+
+Mira la experiencia visual con arte de terror original en YouTube:
+https://youtu.be/ALBs1V1zjEI</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_black_sand_whispered_back_es.mp3?v=e98f3fd562c7" length="5153582" type="audio/mpeg" />
+      <guid isPermaLink="false">42d3533c-6a75-5f9e-bd69-a142654b838b</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/ALBs1V1zjEI</link>
+      <itunes:summary>Una hermana cruza la playa de Dumas a oscuras para rescatar a su hermano de una arena negra que roba voces y exige un precio para dejarlo ir.</itunes:summary>
+      <itunes:duration>3:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_black_sand_whispered_back_es.jpg?v=2255c251aa87" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:keywords>podcast de terror, audioficción inmersiva, playa de Dumas 2026, arena negra, terror de la India, leyenda de Gujarat, playa embrujada, voz robada, terror marino, Nirali y Dev, suspenso sobrenatural, Midnight Whisperer Español</itunes:keywords>
+    </item>
     <item>
       <title>Episodio 19: Paraná, 1947: ¿Por qué la tumba lo devolvió?</title>
       <description>¿Por qué una obra de geografía folclórica de 1947 situó al Corpo-Seco, rechazado por la tierra, en Paraná, Brasil, donde hasta la muerte lo rechazó?

@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:38 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:40 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Épisode 20 — Plage de Dumas, 2026 : qui murmurait sous le sable noir ? | Fiction audio horrifique immersive</title>
+      <description>Pourquoi un article de 2026 sur la plage de Dumas, près de Surat, Gujarat, Inde, évoquait-il des murmures sous le sable noir après le coucher du soleil ?
+
+À 23 h 47, Nirali entend son frère disparu l’appeler sous la plage, alors même que le téléphone de Dev sonne dans sa main. Un vendeur de thé ne lui a laissé qu’une règle : quand la marée tourne, ne réponds jamais au sable. Nirali répond pourtant, et la voix enfouie apprend à attirer Dev vers la mer d’Arabie.
+
+À écouter au casque pour ressentir le ressac, le vent sec du littoral, les pas dans le sable mouillé et une voix volée qui se rapproche dans leur dos. Avertissement : menace surnaturelle, risque de noyade, perte de la voix et détresse non graphique.
+
+Regardez l’expérience visuelle avec les illustrations d’horreur originales sur YouTube :
+https://youtu.be/6XqgPGu5gCU</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_black_sand_whispered_back_fr.mp3?v=91d7767009c6" length="4907195" type="audio/mpeg" />
+      <guid isPermaLink="false">5a029fed-55f9-55c4-a7c2-e6bd3e42c1d2</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/6XqgPGu5gCU</link>
+      <itunes:summary>Une sœur traverse la plage de Dumas plongée dans le noir pour arracher son frère à un sable noir qui vole les voix et réclame son dû.</itunes:summary>
+      <itunes:duration>3:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_black_sand_whispered_back_fr.jpg?v=2255c251aa87" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:keywords>podcast d’horreur, fiction audio immersive, plage de Dumas 2026, sable noir, horreur indienne, légende du Gujarat, plage hantée, voix volée, horreur maritime, Nirali et Dev, thriller surnaturel, Midnight Whisperer Français</itunes:keywords>
+    </item>
     <item>
       <title>Épisode 19: Paraná, 1947 : pourquoi la tombe l’a-t-elle rejeté ?</title>
       <description>Pourquoi une géographie du folklore de 1947 situe-t-elle au Paraná, Brésil, le Corpo-Seco, rejeté par la terre et même par la mort ?

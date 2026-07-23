@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:22 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:15 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episode 34: Dumas Beach, 2026: Who Whispered from the Black Sand? | Immersive Horror Audio Drama</title>
+      <description>Why did a 2026 report from Dumas Beach near Surat, Gujarat, India, describe whispers rising from its black sand after sunset?
+
+At 11:47 p.m., Nirali hears her missing brother calling from beneath the beach—even though Dev&apos;s phone is ringing in her hand. A tea seller has given her one rule: when the tide turns, never answer the sand. She answers anyway, and the voice below learns how to call Dev toward the Arabian Sea.
+
+Listen with headphones for surf, dry coastal wind, footsteps in wet sand, a ringing phone, and a stolen voice closing in from behind. Content note: supernatural threat, drowning peril, loss of voice, and non-graphic distress.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/irPfgG5F5aM</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/the_black_sand_whispered_back.mp3?v=12d5b16c723f" length="4329785" type="audio/mpeg" />
+      <guid isPermaLink="false">4e466109-4554-5fbe-b0a7-56dd35eed66a</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/irPfgG5F5aM</link>
+      <itunes:summary>A sister crosses a moonless Dumas Beach to rescue her brother from black sand that steals voices—and discovers what it demands in return.</itunes:summary>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/the_black_sand_whispered_back.jpg?v=2255c251aa87" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:keywords>horror podcast, immersive audio drama, Dumas Beach 2026, black sand horror, Indian folk horror, Gujarat ghost story, haunted beach, voice-stealing spirit, ocean horror, Nirali and Dev, supernatural thriller, Midnight Whisperer</itunes:keywords>
+    </item>
     <item>
       <title>Episode 33: Paraná, 1947: Why Did the Grave Give Him Back?</title>
       <description>Why did a 1947 folklore geography place the earth-rejected Corpo-Seco in Paraná, Brazil, where even death refused him?

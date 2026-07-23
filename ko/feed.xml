@@ -10,7 +10,7 @@
     <description>한국어로 선보이는 오리지널 호러 오디오 드라마입니다. 생생한 연기와 몰입감 넘치는 음향, 음악이 여러분을 어둠 속으로 이끕니다. 어두운 방에서 헤드폰으로 감상해 보세요.</description>
     <language>ko</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:46 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:49 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Korea 한국어</itunes:author>
     <itunes:summary>한국어로 선보이는 오리지널 호러 오디오 드라마입니다. 생생한 연기와 몰입감 넘치는 음향, 음악이 여러분을 어둠 속으로 이끕니다. 어두운 방에서 헤드폰으로 감상해 보세요.</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>20화: 두마스 해변, 2026년: 검은 모래 속에서 속삭인 것은 누구였나? | 몰입형 공포 오디오 드라마</title>
+      <description>인도 구자라트주 수라트 근처 두마스 해변을 다룬 2026년 기사는 왜 해가 진 뒤 검은 모래에서 올라오는 속삭임을 묘사했을까?
+
+밤 11시 47분, 니랄리는 실종된 동생 데브의 휴대전화가 손안에서 울리는데도 모래사장 아래에서 자신을 부르는 그의 목소리를 듣는다. 차이 장수가 남긴 규칙은 하나뿐이다. 밀물이 돌아서면 절대로 모래에 대답하지 말 것. 하지만 니랄리는 대답하고, 묻힌 목소리는 데브를 아라비아해로 유인하는 법을 배운다.
+
+파도와 메마른 바닷바람, 젖은 모래 위의 발소리, 등 뒤에서 가까워지는 빼앗긴 목소리를 헤드폰으로 들어 보세요. 내용 주의: 초자연적 위협, 익사 위험, 목소리 상실, 비유혈성 고통 묘사가 포함됩니다.
+
+오리지널 호러 아트 영상은 YouTube에서 감상하세요:
+https://youtu.be/1nfLwLrNfLI</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/episodes/the_black_sand_whispered_back_ko.mp3?v=74ff1eb177ee" length="4907822" type="audio/mpeg" />
+      <guid isPermaLink="false">d37d569c-a205-5b92-a5d4-9fddd8036cf2</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/1nfLwLrNfLI</link>
+      <itunes:summary>한 누나가 동생을 구하려 달빛 없는 두마스 해변으로 들어간다. 그곳의 검은 모래는 사람의 목소리를 훔치고, 놓아주는 대가를 요구한다.</itunes:summary>
+      <itunes:duration>3:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ko/artwork/the_black_sand_whispered_back_ko.jpg?v=2255c251aa87" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:keywords>공포 팟캐스트, 몰입형 오디오 드라마, 두마스 해변 2026, 검은 모래, 인도 민속 공포, 구자라트 전설, 저주받은 해변, 빼앗긴 목소리, 바다 공포, 니랄리와 데브, 초자연 스릴러, Midnight Whisperer Korea</itunes:keywords>
+    </item>
     <item>
       <title>에피소드 19: 파라나, 1947년: 무덤은 왜 그를 돌려보냈나?</title>
       <description>1947년에 처음 출간된 민속 지리서는 왜 대지가 거부하고 죽음마저 외면한 코르포 세코를 브라질 파라나에 자리한 존재로 기록했을까?

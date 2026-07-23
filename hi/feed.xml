@@ -10,7 +10,7 @@
     <description>हिंदी में मौलिक हॉरर ऑडियो ड्रामा—दमदार आवाज़ों, डुबो देने वाले ध्वनि संयोजन और संगीत के साथ, जो आपको अँधेरे में खींच ले जाए। बेहतरीन अनुभव के लिए इसे अँधेरे कमरे में हेडफ़ोन लगाकर सुनें।</description>
     <language>hi</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:53:50 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:57:55 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Hindi हिंदी</itunes:author>
     <itunes:summary>हिंदी में मौलिक हॉरर ऑडियो ड्रामा—दमदार आवाज़ों, डुबो देने वाले ध्वनि संयोजन और संगीत के साथ, जो आपको अँधेरे में खींच ले जाए। बेहतरीन अनुभव के लिए इसे अँधेरे कमरे में हेडफ़ोन लगाकर सुनें।</itunes:summary>
@@ -26,6 +26,28 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>एपिसोड 20: डुमस बीच, 2026: काली रेत के नीचे से किसने फुसफुसाया? | इमर्सिव हॉरर ऑडियो ड्रामा</title>
+      <description>सूरत, गुजरात, भारत के पास डुमस बीच पर 2026 में छपी एक रिपोर्ट ने सूर्यास्त के बाद काली रेत से उठती फुसफुसाहटों का ज़िक्र क्यों किया था?
+
+रात 11:47 बजे निराली अपने लापता भाई देव को रेत के नीचे से पुकारते सुनती है, जबकि देव का फ़ोन उसी के हाथ में बज रहा है। चायवाले ने उसे बस एक नियम बताया था: ज्वार पलटे तो रेत को कभी जवाब मत देना। निराली जवाब दे देती है, और दबी हुई आवाज़ देव को अरब सागर की ओर बुलाना सीख जाती है।
+
+लहरों, सूखी समुद्री हवा, गीली रेत पर कदमों और पीछे से पास आती चुराई हुई आवाज़ को हेडफ़ोन पर महसूस करें। विषय-सूचना: अलौकिक खतरा, डूबने का जोखिम, आवाज़ छिनना और बिना ग्राफ़िक हिंसा के मानसिक संकट।
+
+मूल हॉरर आर्टवर्क के साथ YouTube पर देखें:
+https://youtu.be/CX2UTUq0Lno</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/episodes/the_black_sand_whispered_back_hi.mp3?v=073a7586e868" length="4883372" type="audio/mpeg" />
+      <guid isPermaLink="false">57409982-ced6-58cd-88c1-b349a04a30b3</guid>
+      <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
+      <link>https://youtu.be/CX2UTUq0Lno</link>
+      <itunes:summary>एक बहन अपने भाई को बचाने के लिए अंधेरे डुमस बीच पर उतरती है, जहाँ काली रेत लोगों की आवाज़ें चुराती है और उन्हें छोड़ने की कीमत माँगती है।</itunes:summary>
+      <itunes:duration>3:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/hi/artwork/the_black_sand_whispered_back_hi.jpg?v=2255c251aa87" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:keywords>हॉरर पॉडकास्ट, इमर्सिव ऑडियो ड्रामा, डुमस बीच 2026, काली रेत, भारतीय लोक हॉरर, गुजरात की किंवदंती, भुतहा समुद्र तट, चुराई हुई आवाज़, समुद्री हॉरर, निराली और देव, अलौकिक थ्रिलर, Midnight Whisperer Hindi</itunes:keywords>
+    </item>
     <item>
       <title>एपिसोड 19: पराना, 1947: कब्र ने उसे क्यों लौटा दिया?</title>
       <description>1947 में पहली बार प्रकाशित लोककथा-भूगोल के एक ग्रंथ ने धरती से ठुकराए कोरपो-सेको को पराना, ब्राज़ील से क्यों जोड़ा—जहाँ मौत ने भी उसे ठुकरा दिया?
