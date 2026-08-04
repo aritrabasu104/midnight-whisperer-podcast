@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 15:57:19 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:56:16 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -26,6 +26,38 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Episodio 21: Kuldhara, 1825: ¿Por qué las sombras fueron las últimas en irse?</title>
+      <description>¿Por qué un agrimensor contó una sombra de más en Kuldhara, cerca de Jaisalmer, Rajastán, India, después del legendario abandono de la aldea en 1825?
+
+Antes de llegar a la aldea desierta, Meera oye un lápiz moverse dentro de su estuche de topografía cerrado con llave. Tiene hasta el amanecer para terminar el mapa que su difunto padre no pudo completar y se niega a dejar inconclusa la misma cuadrícula. En la entrada de Kuldhara, un viejo guardián le entrega el registro de campo y una sola instrucción: cuenta muros, no sombras.
+
+El episodio convierte un levantamiento nocturno en un laberinto sonoro. El farol de Rafiq sisea y se apaga. El viento abandona las casas sin techo. Un lápiz añade una cuadragésima segunda raya a un mapa que solo contiene cuarenta y una construcciones. Después, la luz de la luna cruza el callejón desde dos direcciones y deja tres sombras bajo dos personas vivas. Meera dice el número en voz alta, y la sombra sobrante se levanta.
+
+Escucha cómo los números de tiza se borran de las puertas y la verja de hierro se vuelve una pared sin marcas. El registro conserva el último mensaje de su padre: una marca falsa es una casa vacía que pide un nombre. Meera puede recuperar la salida, pero Kuldhara exige algo a cambio. El horror termina en una oficina corriente, donde todas las sillas proyectan una sombra menos la suya.
+
+La interpretación contenida, el grafito sobre el papel, el farol moribundo, el viento del desierto, la acústica cambiante de la piedra y una partitura original construyen una experiencia pensada para audífonos. El miedo nace de las cuentas, del silencio y de la distancia entre una persona y la sombra que debería pertenecerle.
+
+Esta historia es una ficción inspirada en la leyenda del abandono de Kuldhara en 1825. Meera, Rafiq, el viejo guardián, el levantamiento, la Casa Cuarenta y Dos y todos los sucesos sobrenaturales son ficticios. Referencia histórica: Rajasthan Tourism, “Kuldhara Village History: A Haunted Village near Jaisalmer”.
+
+Aviso de contenido: duelo, amenaza sobrenatural, lesión leve no gráfica, encierro y pérdida de identidad. Se disfruta mejor con audífonos y las luces apagadas. Sigue, califica y reseña Midnight Whisperer Español en tu aplicación de pódcasts.
+
+Mira la experiencia visual con arte de terror original en YouTube:
+https://youtu.be/_IQSlS6ZVkU
+
+Escrito y producido por Midnight Whisperer Español.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/the_village_left_in_one_night_es.mp3?v=36bc21f90ccd" length="4184962" type="audio/mpeg" />
+      <guid isPermaLink="false">df5e09e9-3588-5b81-84ec-d9eea01470de</guid>
+      <pubDate>Tue, 04 Aug 2026 16:58:39 +0530</pubDate>
+      <link>https://youtu.be/_IQSlS6ZVkU</link>
+      <itunes:summary>La topógrafa Meera entra en Kuldhara para terminar el mapa de su difunto padre y rompe la única regla del guardián al contar una tercera sombra en voz alta. Para escapar antes del amanecer debe entregar su nombre completo a la imposible Casa Cuarenta y Dos y dejar atrás su propia sombra.</itunes:summary>
+      <itunes:duration>2:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/the_village_left_in_one_night_es.jpg?v=78329da45127" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:keywords>podcast de terror, audiodrama de terror folclórico, Kuldhara, Kuldhara 1825, leyendas de India, aldea abandonada, tres sombras, Casa Cuarenta y Dos, mapa topográfico embrujado, conteo prohibido, Meera y Rafiq, cuento de fantasmas del desierto, ficción sonora sobrenatural, diseño sonoro inmersivo, terror con audífonos, terror de sombras, historia de terror original, Midnight Whisperer Español</itunes:keywords>
+    </item>
     <item>
       <title>Episodio 20: Playa de Dumas, 2026: ¿quién susurró desde la arena negra? | Audioficción de terror inmersivo</title>
       <description>¿Por qué un reportaje de 2026 sobre la playa de Dumas, cerca de Surat, Gujarat, India, habló de susurros bajo la arena negra tras el anochecer?

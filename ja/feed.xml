@@ -10,7 +10,7 @@
     <description>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 15:57:46 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:56:42 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</itunes:summary>
@@ -26,6 +26,38 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>エピソード 21: クルダーラ、1825年：なぜ影だけが最後まで残ったのか？</title>
+      <description>インド、ラージャスターン州ジャイサルメール近郊のクルダーラで、伝説の1825年の村落放棄後、測量士はなぜ影を一つ多く数えたのか？
+
+廃村へ着く前から、ミーラの鍵をかけた測量鞄の中では鉛筆が動いていました。亡き父が残した地図を夜明けまでに完成させるため、彼女は同じ区画を未完成のままにしないと決めます。門で老いた番人から渡された野帳には、ただ一つの忠告が添えられました。「影ではなく、壁を数えろ」
+
+夜の測量は、音の迷路へ変わっていきます。ラフィークのランタンがかすかに鳴って消え、屋根のない家々から風が途絶えます。四十一軒しかない地図に、鉛筆が四十二本目の線を引きました。二方向から差す月明かりの下には、人が二人なのに影が三つ。ミーラがその数を口にした瞬間、余分な影が地面から起き上がります。
+
+戸口のチョーク番号が消える音、鉄の門が何もない壁へ変わる静けさに耳を澄ませてください。父の最後のメモは、偽の印が「名前を求める空き家」だと告げます。出口を取り戻すには、四十二番の家へ人間の名前を渡さなければなりません。結末の舞台は普通の測量事務所。そこでは、ミーラの椅子だけが影を落としません。
+
+抑えた演技、紙を削る鉛筆、消えかけるランタン、砂漠の風、石造りの残響、オリジナル音楽が、ヘッドホン向けの静かな恐怖を作ります。数字と沈黙、そして人と本来その人に属するはずの影との距離が、この物語の不安を支えています。
+
+本作は、1825年のクルダーラ村落放棄の伝説から着想を得たフィクションです。ミーラ、ラフィーク、老いた番人、測量、四十二番の家、すべての怪異は創作です。歴史的参考資料：Rajasthan Tourism「Kuldhara Village History: A Haunted Village near Jaisalmer」。
+
+内容について：喪失、超自然的な脅威、軽い非残酷描写の負傷、閉じ込め、アイデンティティーの喪失を含みます。暗い部屋でヘッドホンを使ってお楽しみください。ポッドキャストアプリで Midnight Whisperer Japan 日本語のフォローと評価をお願いします。
+
+オリジナルのホラーアートによる映像版をYouTubeで見る：
+https://youtu.be/1IssNMycWuY
+
+脚本・制作：Midnight Whisperer Japan 日本語</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/the_village_left_in_one_night_ja.mp3?v=71502e5e2e77" length="4389344" type="audio/mpeg" />
+      <guid isPermaLink="false">6270b19b-34cd-590b-bade-9a764918faf1</guid>
+      <pubDate>Tue, 04 Aug 2026 16:58:39 +0530</pubDate>
+      <link>https://youtu.be/1IssNMycWuY</link>
+      <itunes:summary>測量士ミーラは亡き父の地図を完成させるためクルダーラへ入り、三つ目の影を声に出して数えたことで番人の唯一の禁を破ります。夜明け前に逃げるには、存在しない四十二番の家へフルネームを渡し、自分の影を村に残さなければなりません。</itunes:summary>
+      <itunes:duration>3:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/the_village_left_in_one_night_ja.jpg?v=78329da45127" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:keywords>ホラーポッドキャスト, フォークホラー音声ドラマ, クルダーラ, クルダーラ 1825, インドの伝説, 廃村, 三つの影, 四十二番の家, 呪われた測量地図, 禁じられた数, ミーラとラフィーク, 砂漠の怪談, 超自然音声フィクション, 没入型サウンドデザイン, ヘッドホンホラー, 影の怪異, オリジナル怖い話, Midnight Whisperer Japan</itunes:keywords>
+    </item>
     <item>
       <title>第20話：ドゥマス・ビーチ、2026年：黒い砂からささやいたのは誰？｜没入型ホラーオーディオドラマ</title>
       <description>インド・グジャラート州スーラト近郊のドゥマス・ビーチを扱った2026年の記事は、なぜ日没後に黒い砂から立ち上るささやき声を伝えたのか？

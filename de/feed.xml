@@ -10,7 +10,7 @@
     <description>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</description>
     <language>de</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 15:57:32 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:56:33 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Deutsch</itunes:author>
     <itunes:summary>Originale Horror-Hörspiele auf Deutsch, vollständig vertont, mit immersivem Sounddesign und Musik, die Sie in die Dunkelheit ziehen. Am besten mit Kopfhörern in einem dunklen Raum genießen.</itunes:summary>
@@ -26,6 +26,38 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Folge 21: Kuldhara, 1825: Warum gingen die Schatten zuletzt?</title>
+      <description>Warum zählte ein Vermesser in Kuldhara bei Jaisalmer, Rajasthan, Indien, nach der legendären Aufgabe des Dorfes 1825 einen Schatten zu viel?
+
+Noch bevor Meera das verlassene Dorf erreicht, hört sie einen Bleistift in ihrem verschlossenen Vermessungskoffer. Bis zum Morgengrauen muss sie die Karte vollenden, die ihr verstorbener Vater unvollständig zurückließ. Am Tor von Kuldhara übergibt ihr ein alter Wächter das Feldbuch und nennt eine einzige Regel: Zähl Mauern, keine Schatten.
+
+Aus der nächtlichen Vermessung wird ein akustisches Labyrinth. Rafiqs Laterne zischt und erlischt. Der Wind verstummt zwischen den dachlosen Häusern. Ein Bleistift setzt selbstständig einen zweiundvierzigsten Strich auf eine Karte mit nur einundvierzig Gebäuden. Dann fällt Mondlicht aus zwei Richtungen in die Gasse: Unter zwei lebenden Menschen liegen drei Schatten. Meera spricht die Zahl aus, und der überzählige Schatten richtet sich auf.
+
+Achte darauf, wie die Kreidenummern an den Türen verschwinden und das Eisentor zu einer glatten Wand wird. Das Feldbuch bewahrt die letzte Botschaft ihres Vaters: Ein falscher Strich ist ein leeres Haus, das um einen Namen bittet. Meera kann den Ausgang zurückholen, doch Kuldhara verlangt einen Preis. Der Schluss verlegt den Schrecken in ein gewöhnliches Vermessungsamt, wo jeder Stuhl einen Schatten wirft – außer ihrem.
+
+Zurückhaltende Stimmen, kratzender Graphit, sprödes Papier, die sterbende Laterne, Wüstenwind, wechselnde Steinakustik und eine Originalkomposition machen diese Folge zu einem Hörspiel für Kopfhörer. Die Spannung entsteht aus Zahlen, Stille und der Distanz zwischen einem Menschen und dem Schatten, der zu ihm gehören sollte.
+
+Die Geschichte ist Fiktion, inspiriert von der Legende um die Aufgabe Kuldharas im Jahr 1825. Meera, Rafiq, der alte Wächter, die Vermessung, Haus Zweiundvierzig und alle übernatürlichen Ereignisse sind erfunden. Historische Referenz: Rajasthan Tourism, „Kuldhara Village History: A Haunted Village near Jaisalmer“.
+
+Inhaltshinweis: Trauer, übernatürliche Bedrohung, leichte nicht grafische Verletzung, Eingeschlossensein und Identitätsverlust. Am besten mit Kopfhörern im Dunkeln. Folge und bewerte Midnight Whisperer Deutsch in deiner Podcast-App.
+
+Sieh dir das visuelle Erlebnis mit originalem Horror-Artwork auf YouTube an:
+https://youtu.be/Ocrglt2oF3s
+
+Geschrieben und produziert von Midnight Whisperer Deutsch.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/episodes/the_village_left_in_one_night_de.mp3?v=bbadd6e5f0fe" length="4164273" type="audio/mpeg" />
+      <guid isPermaLink="false">3d8c8e2f-9c0d-5980-ad52-cf51f9976df2</guid>
+      <pubDate>Tue, 04 Aug 2026 16:58:39 +0530</pubDate>
+      <link>https://youtu.be/Ocrglt2oF3s</link>
+      <itunes:summary>Die Vermesserin Meera betritt Kuldhara, um die unvollendete Karte ihres verstorbenen Vaters zu beenden, und bricht die einzige Regel des Wächters, indem sie einen dritten Schatten laut zählt. Für die Flucht vor Tagesanbruch muss sie dem unmöglichen Haus Zweiundvierzig ihren vollständigen Namen geben und ihren eigenen Schatten zurücklassen.</itunes:summary>
+      <itunes:duration>2:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/de/artwork/the_village_left_in_one_night_de.jpg?v=78329da45127" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:keywords>Horror Podcast, Folk Horror Hörspiel, Kuldhara, Kuldhara 1825, indische Legende, verlassenes Dorf, drei Schatten, Haus Zweiundvierzig, verfluchte Vermessungskarte, verbotenes Zählen, Meera und Rafiq, Geistergeschichte aus der Wüste, übernatürliche Audiofiktion, immersives Sounddesign, Kopfhörer-Horror, Schattenhorror, originale Horrorgeschichte, Midnight Whisperer Deutsch</itunes:keywords>
+    </item>
     <item>
       <title>Folge 20: Dumas Beach, 2026: Wer flüsterte aus dem schwarzen Sand? | Immersives Horror-Hörspiel</title>
       <description>Warum berichtete ein Reiseartikel von 2026 am Dumas Beach nahe Surat, Gujarat, Indien, von Stimmen aus schwarzem Sand nach Sonnenuntergang?

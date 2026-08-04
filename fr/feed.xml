@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 15:57:40 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:56:39 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -26,6 +26,38 @@
     </itunes:category>
     <itunes:category text="Fiction" />
 
+    <item>
+      <title>Épisode 21: Kuldhara, 1825 : pourquoi les ombres sont-elles restées ?</title>
+      <description>Pourquoi un géomètre a-t-il compté une ombre de trop à Kuldhara, près de Jaisalmer, au Rajasthan, en Inde, après le légendaire abandon de 1825 ?
+
+Avant même d’atteindre le village désert, Meera entend un crayon bouger dans sa mallette d’arpentage verrouillée. Elle doit achever avant l’aube la carte que son père défunt a laissée incomplète et refuse d’abandonner le même quadrillage que lui. À l’entrée de Kuldhara, un vieux gardien lui confie le carnet de terrain et une seule consigne : compte les murs, pas les ombres.
+
+Le relevé nocturne devient un labyrinthe sonore. La lanterne de Rafiq siffle et s’éteint. Le vent disparaît des maisons sans toit. Un crayon ajoute seul une quarante-deuxième marque à une carte qui ne contient que quarante et un bâtiments. Puis le clair de lune traverse la ruelle depuis deux directions : sous deux personnes vivantes s’étendent trois ombres. Meera prononce le nombre, et l’ombre en trop se relève.
+
+Écoutez les numéros à la craie s’effacer des portes et la grille de fer devenir un mur lisse. Le carnet conserve le dernier message de son père : une fausse marque est une maison vide qui réclame un nom. Meera peut retrouver la sortie, mais Kuldhara exige un prix. La conclusion transporte la peur dans un banal bureau d’arpentage où toutes les chaises projettent une ombre, sauf la sienne.
+
+Voix retenues, graphite sur papier, lanterne mourante, souffle du désert, résonances changeantes de la pierre et musique originale composent une fiction audio pensée pour le casque. La tension naît des nombres, du silence et de la distance entre une personne et l’ombre qui devrait lui appartenir.
+
+Cette histoire est une fiction inspirée de la légende de l’abandon de Kuldhara en 1825. Meera, Rafiq, le vieux gardien, le relevé, la Maison Quarante-Deux et tous les événements surnaturels sont inventés. Référence historique : Rajasthan Tourism, « Kuldhara Village History: A Haunted Village near Jaisalmer ».
+
+Avertissement : deuil, menace surnaturelle, blessure légère non graphique, enfermement et perte d’identité. À écouter au casque dans l’obscurité. Suivez et notez Midnight Whisperer Français dans votre application de podcasts.
+
+Regardez l’expérience visuelle avec les illustrations d’horreur originales sur YouTube :
+https://youtu.be/TmpEnHSqHIE
+
+Écrit et produit par Midnight Whisperer Français.</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/the_village_left_in_one_night_fr.mp3?v=1be9a9fedebd" length="4182454" type="audio/mpeg" />
+      <guid isPermaLink="false">7ae29ae6-8df1-5314-8fb7-61e7109ac29d</guid>
+      <pubDate>Tue, 04 Aug 2026 16:58:39 +0530</pubDate>
+      <link>https://youtu.be/TmpEnHSqHIE</link>
+      <itunes:summary>La géomètre Meera entre dans Kuldhara pour terminer la carte de son père défunt et brise l’unique règle du gardien en comptant à voix haute une troisième ombre. Pour fuir avant l’aube, elle doit donner son nom complet à l’impossible Maison Quarante-Deux et abandonner sa propre ombre.</itunes:summary>
+      <itunes:duration>2:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_village_left_in_one_night_fr.jpg?v=78329da45127" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:keywords>podcast d&apos;horreur, fiction audio folk horror, Kuldhara, Kuldhara 1825, légende indienne, village abandonné, trois ombres, Maison Quarante-Deux, carte d&apos;arpentage hantée, compte interdit, Meera et Rafiq, histoire de fantôme du désert, fiction sonore surnaturelle, design sonore immersif, horreur au casque, horreur des ombres, histoire d&apos;horreur originale, Midnight Whisperer Français</itunes:keywords>
+    </item>
     <item>
       <title>Épisode 20 — Plage de Dumas, 2026 : qui murmurait sous le sable noir ? | Fiction audio horrifique immersive</title>
       <description>Pourquoi un article de 2026 sur la plage de Dumas, près de Surat, Gujarat, Inde, évoquait-il des murmures sous le sable noir après le coucher du soleil ?
