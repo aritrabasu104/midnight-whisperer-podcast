@@ -10,7 +10,7 @@
     <description>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</description>
     <language>fr</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 19:07:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:46:47 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Français</itunes:author>
     <itunes:summary>Fictions audio horrifiques originales en français, avec voix, ambiance sonore immersive et musique, à écouter au casque dans le noir.</itunes:summary>
@@ -27,6 +27,33 @@
     <itunes:category text="Fiction" />
 
     <item>
+      <title>Épisode 22: Darwin, 1929 : que se passe-t-il quand Mara détourne les yeux ?</title>
+      <description>Dans cette fiction originale située à Darwin, Australie, en 1929, qu’est-ce qui franchit la porte dès que Mara détourne les yeux ?
+
+À 0 h 17, Mara ouvre une cabane radio sur la côte pour une visite immobilière hantée. Un fil rouge fait apparaître une porte qui ne devrait pas exister. La Poupée au ruban en surgit : du bois fissuré, un œil en ruban noir et une silhouette de fumée plus grande qui ne prend jamais forme humaine. Chaque fois que Mara détourne les yeux, la poupée franchit exactement une porte et laisse une empreinte humide là où il n’y a pas d’eau. À la troisième sonnerie de cloche, la sortie indiquée sur le plan est bloquée. Mara pourra-t-elle refermer le seuil avant que le catalogue ne réclame un nouvel article ?
+
+Le Fil rouge à Darwin est une histoire d’horreur originale et entièrement fictive. Darwin et 1929 constituent son cadre imaginé, pas le lieu et la date d’un phénomène paranormal documenté. Le récit s’inspire de la logique d’avertissement des Jiangshi et d’une tendance en ligne non vérifiée autour des visites de maisons hantées ; il ne présente pas cette affirmation comme un fait.
+
+Référence du lieu : Australian War Memorial, « Darwin ». Cette source atteste le lieu, pas les événements fictifs ni l’année choisie pour le récit.
+https://www.awm.gov.au/collection/PL2155
+
+À écouter au casque. Abonnez-vous au podcast pour découvrir d’autres histoires d’horreur originales.
+
+Regardez l’expérience visuelle avec les illustrations d’horreur originales sur YouTube :
+https://youtu.be/QoALhlL9s98</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/episodes/episode_047_fr.mp3?v=4e9c45e6f428" length="2233302" type="audio/mpeg" />
+      <guid isPermaLink="false">55871db5-54bc-4bb5-a20e-9d5a6b993be0</guid>
+      <pubDate>Sun, 04 Oct 2026 10:20:09 +0530</pubDate>
+      <link>https://youtu.be/QoALhlL9s98</link>
+      <itunes:summary>Dans cette fiction d’horreur originale située à Darwin, en Australie, en 1929, Mara découvre une porte et une poupée de bois qui avance dès qu’elle détourne les yeux.</itunes:summary>
+      <itunes:duration>1:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/episode_047_fr.jpg?v=b3938ab77ce4" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:keywords>histoire d’horreur, Darwin, 1929, Le Fil rouge à Darwin, Poupée au ruban, maison hantée, horreur surnaturelle, fiction originale, Jiangshi</itunes:keywords>
+    </item>
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 21: Kuldhara, 1825 : pourquoi les ombres sont-elles restées ?</title>
       <description>Pourquoi un géomètre a-t-il compté une ombre de trop à Kuldhara, près de Jaisalmer, au Rajasthan, en Inde, après le légendaire abandon de 1825 ?
 
@@ -50,15 +77,16 @@ https://youtu.be/TmpEnHSqHIE
       <guid isPermaLink="false">7ae29ae6-8df1-5314-8fb7-61e7109ac29d</guid>
       <pubDate>Tue, 04 Aug 2026 16:58:39 +0530</pubDate>
       <link>https://youtu.be/TmpEnHSqHIE</link>
-      <itunes:summary>La géomètre Meera entre dans Kuldhara pour terminer la carte de son père défunt et brise l’unique règle du gardien en comptant à voix haute une troisième ombre. Pour fuir avant l’aube, elle doit donner son nom complet à l’impossible Maison Quarante-Deux et abandonner sa propre ombre.</itunes:summary>
-      <itunes:duration>2:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_village_left_in_one_night_fr.jpg?v=78329da45127" />
-      <itunes:episode>21</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, fiction audio folk horror, Kuldhara, Kuldhara 1825, légende indienne, village abandonné, trois ombres, Maison Quarante-Deux, carte d&apos;arpentage hantée, compte interdit, Meera et Rafiq, histoire de fantôme du désert, fiction sonore surnaturelle, design sonore immersif, horreur au casque, horreur des ombres, histoire d&apos;horreur originale, Midnight Whisperer Français</itunes:keywords>
+      <ns0:summary>La géomètre Meera entre dans Kuldhara pour terminer la carte de son père défunt et brise l’unique règle du gardien en comptant à voix haute une troisième ombre. Pour fuir avant l’aube, elle doit donner son nom complet à l’impossible Maison Quarante-Deux et abandonner sa propre ombre.</ns0:summary>
+      <ns0:duration>2:54</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_village_left_in_one_night_fr.jpg?v=78329da45127" />
+      <ns0:episode>21</ns0:episode>
+      <ns0:keywords>podcast d'horreur, fiction audio folk horror, Kuldhara, Kuldhara 1825, légende indienne, village abandonné, trois ombres, Maison Quarante-Deux, carte d'arpentage hantée, compte interdit, Meera et Rafiq, histoire de fantôme du désert, fiction sonore surnaturelle, design sonore immersif, horreur au casque, horreur des ombres, histoire d'horreur originale, Midnight Whisperer Français</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 20 — Plage de Dumas, 2026 : qui murmurait sous le sable noir ? | Fiction audio horrifique immersive</title>
       <description>Pourquoi un article de 2026 sur la plage de Dumas, près de Surat, Gujarat, Inde, évoquait-il des murmures sous le sable noir après le coucher du soleil ?
 
@@ -72,15 +100,16 @@ https://youtu.be/6XqgPGu5gCU</description>
       <guid isPermaLink="false">5a029fed-55f9-55c4-a7c2-e6bd3e42c1d2</guid>
       <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
       <link>https://youtu.be/6XqgPGu5gCU</link>
-      <itunes:summary>Une sœur traverse la plage de Dumas plongée dans le noir pour arracher son frère à un sable noir qui vole les voix et réclame son dû.</itunes:summary>
-      <itunes:duration>3:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_black_sand_whispered_back_fr.jpg?v=2255c251aa87" />
-      <itunes:episode>20</itunes:episode>
-      <itunes:keywords>podcast d’horreur, fiction audio immersive, plage de Dumas 2026, sable noir, horreur indienne, légende du Gujarat, plage hantée, voix volée, horreur maritime, Nirali et Dev, thriller surnaturel, Midnight Whisperer Français</itunes:keywords>
+      <ns0:summary>Une sœur traverse la plage de Dumas plongée dans le noir pour arracher son frère à un sable noir qui vole les voix et réclame son dû.</ns0:summary>
+      <ns0:duration>3:24</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_black_sand_whispered_back_fr.jpg?v=2255c251aa87" />
+      <ns0:episode>20</ns0:episode>
+      <ns0:keywords>podcast d’horreur, fiction audio immersive, plage de Dumas 2026, sable noir, horreur indienne, légende du Gujarat, plage hantée, voix volée, horreur maritime, Nirali et Dev, thriller surnaturel, Midnight Whisperer Français</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 19: Paraná, 1947 : pourquoi la tombe l’a-t-elle rejeté ?</title>
       <description>Pourquoi une géographie du folklore de 1947 situe-t-elle au Paraná, Brésil, le Corpo-Seco, rejeté par la terre et même par la mort ?
 
@@ -102,15 +131,16 @@ https://youtu.be/zbtz4ogchmI
       <guid isPermaLink="false">e690d9e4-a008-5ebf-af9d-34414e0f2e38</guid>
       <pubDate>Tue, 14 Jul 2026 22:44:16 +0530</pubDate>
       <link>https://youtu.be/zbtz4ogchmI</link>
-      <itunes:summary>Bento doit conduire sur les routes du Paraná un cercueil que le Ciel, l’enfer et la terre refusent, sans jamais répondre à une voix volée par un nom. Lorsque le mort l’appelle avec la voix de Rosa, sauver sa fille pourrait l’obliger à livrer son propre nom à la route.</itunes:summary>
-      <itunes:duration>3:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_grave_gave_him_back_fr.jpg?v=1255d89751c8" />
-      <itunes:episode>19</itunes:episode>
-      <itunes:keywords>podcast d’horreur, fiction audio horrifique, folk horror, Corpo-Seco, folklore brésilien, folklore du Paraná, Cascudo 1947, route des morts, cercueil maudit, mort rejeté, voix volée, nom interdit, Bento et Rosa, fiction sonore surnaturelle, ambiance sonore immersive, horreur au casque, histoire de revenant, Midnight Whisperer Français</itunes:keywords>
+      <ns0:summary>Bento doit conduire sur les routes du Paraná un cercueil que le Ciel, l’enfer et la terre refusent, sans jamais répondre à une voix volée par un nom. Lorsque le mort l’appelle avec la voix de Rosa, sauver sa fille pourrait l’obliger à livrer son propre nom à la route.</ns0:summary>
+      <ns0:duration>3:04</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_grave_gave_him_back_fr.jpg?v=1255d89751c8" />
+      <ns0:episode>19</ns0:episode>
+      <ns0:keywords>podcast d’horreur, fiction audio horrifique, folk horror, Corpo-Seco, folklore brésilien, folklore du Paraná, Cascudo 1947, route des morts, cercueil maudit, mort rejeté, voix volée, nom interdit, Bento et Rosa, fiction sonore surnaturelle, ambiance sonore immersive, horreur au casque, histoire de revenant, Midnight Whisperer Français</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 18: Pendjab, 1894 : pourquoi la mariée cachait-elle ses pieds ?</title>
       <description>Pourquoi un recueil du Pendjab, dans l’Inde britannique, publié en 1894 affirme-t-il que des pieds retournés trahissent une belle churel ?
 
@@ -132,19 +162,20 @@ https://youtu.be/Jt7SOKk08Js</description>
       <guid isPermaLink="false">f807e8db-501f-54d7-ac93-810cfc23b743</guid>
       <pubDate>Wed, 08 Jul 2026 17:00:00 +0530</pubDate>
       <link>https://youtu.be/Jt7SOKk08Js</link>
-      <itunes:summary>Sur une route du Pendjab, Arjan recueille une mariée voilée dont les empreintes pointent vers l’arrière. Lorsqu’il ramasse sa chevillière d’argent, la charrette, la route et ses propres pas se retournent contre lui.</itunes:summary>
-      <itunes:duration>3:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_roadside_bride_had_wrong_feet_fr.jpg?v=64e751360cc6" />
-      <itunes:episode>18</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, fiction audio, histoire d&apos;horreur, folk horror, churel, folklore du pendjab, folklore indien, mariée fantôme, pieds retournés, bracelet de cheville maudit, route hantée, charrette à bœufs, arjan, tales of the punjab, son immersif, audio binaural, musique originale, midnight whisperer</itunes:keywords>
+      <ns0:summary>Sur une route du Pendjab, Arjan recueille une mariée voilée dont les empreintes pointent vers l’arrière. Lorsqu’il ramasse sa chevillière d’argent, la charrette, la route et ses propres pas se retournent contre lui.</ns0:summary>
+      <ns0:duration>3:09</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_roadside_bride_had_wrong_feet_fr.jpg?v=64e751360cc6" />
+      <ns0:episode>18</ns0:episode>
+      <ns0:keywords>podcast d'horreur, fiction audio, histoire d'horreur, folk horror, churel, folklore du pendjab, folklore indien, mariée fantôme, pieds retournés, bracelet de cheville maudit, route hantée, charrette à bœufs, arjan, tales of the punjab, son immersif, audio binaural, musique originale, midnight whisperer</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 17: Que s&apos;est-il passé à Loudun en 1891 ?</title>
-      <description>« Que s&apos;est-il passé à Loudun en 1891 ? » est une fiction audio d&apos;horreur originale de Midnight Whisperer Français. Céleste Marin entre dans les archives d&apos;un couvent pour recopier un ancien témoignage. Mais une seule règle — ne jamais corriger un nom écrit à l&apos;envers — transforme le registre en contrat vivant.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 17: Que s'est-il passé à Loudun en 1891 ?</title>
+      <description>« Que s'est-il passé à Loudun en 1891 ? » est une fiction audio d'horreur originale de Midnight Whisperer Français. Céleste Marin entre dans les archives d'un couvent pour recopier un ancien témoignage. Mais une seule règle — ne jamais corriger un nom écrit à l'envers — transforme le registre en contrat vivant.
 
-Cette édition est entièrement interprétée, mise en son et mise en musique en français pour une écoute immersive au casque. À écouter de préférence dans l&apos;obscurité.
+Cette édition est entièrement interprétée, mise en son et mise en musique en français pour une écoute immersive au casque. À écouter de préférence dans l'obscurité.
 
 Avertissement : possession surnaturelle, apparitions squelettiques et danger non graphique.
 
@@ -154,15 +185,16 @@ https://youtu.be/6-kG_SuVbwE</description>
       <guid isPermaLink="false">82516be2-a92a-4185-b012-cd61b281304f</guid>
       <pubDate>Sat, 04 Jul 2026 12:38:08 +0530</pubDate>
       <link>https://youtu.be/6-kG_SuVbwE</link>
-      <itunes:summary>Un nom apparaît à l&apos;envers dans un registre de Loudun, et Céleste découvre que le corriger peut ouvrir toutes les portes des archives.</itunes:summary>
-      <itunes:duration>3:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_convent_wrote_backwards_fr.jpg?v=2d25b2dc80ff" />
-      <itunes:episode>17</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, horreur audio, midnight whisperer français, qu&apos;est-ce qui s&apos;est passé à loudun en 1891 ?, français, gothique victorien, littérature d&apos;horreur</itunes:keywords>
+      <ns0:summary>Un nom apparaît à l'envers dans un registre de Loudun, et Céleste découvre que le corriger peut ouvrir toutes les portes des archives.</ns0:summary>
+      <ns0:duration>3:21</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_convent_wrote_backwards_fr.jpg?v=2d25b2dc80ff" />
+      <ns0:episode>17</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, récit d'horreur, creepypasta, histoires de fantômes, horreur audio, midnight whisperer français, qu'est-ce qui s'est passé à loudun en 1891 ?, français, gothique victorien, littérature d'horreur</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 16: La poupée du canal demandait à être remplacée</title>
       <description>Le canal repose, noir, sous les ahuejotes. Des centaines de poupées usées par le temps sont suspendues au-dessus de l’eau, mais une seule refuse de regarder la cabane du gardien. Lorsque Lucía amarre sa trajinera à la chinampa de Mateo, elle n’entend d’abord que les cordes, les grillons et le léger mouvement de l’eau. Puis la nuit se tait.
 
@@ -182,23 +214,24 @@ https://youtu.be/Chrpk10ZyBA</description>
       <guid isPermaLink="false">173ecf59-8efa-4eef-b100-f23a5a293f76</guid>
       <pubDate>Thu, 02 Jul 2026 15:29:23 +0530</pubDate>
       <link>https://youtu.be/Chrpk10ZyBA</link>
-      <itunes:summary>Sur une chinampa couverte de poupées à Xochimilco, Lucía entend la voix de Mateo sous les roseaux. Mais la poupée près du canal ne réclame pas un nouveau jouet : elle veut une remplaçante vivante.</itunes:summary>
-      <itunes:duration>3:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_doll_nearest_the_canal_fr.jpg?v=b4774f961e90" />
-      <itunes:episode>16</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, fiction audio, histoire d&apos;horreur, île des poupées, xochimilco, mexico, poupée maudite, poupées hantées, folk horror, horreur surnaturelle, lucía, mateo, canal, drame audio, son immersif, son binaural, musique originale, midnight whisperer</itunes:keywords>
+      <ns0:summary>Sur une chinampa couverte de poupées à Xochimilco, Lucía entend la voix de Mateo sous les roseaux. Mais la poupée près du canal ne réclame pas un nouveau jouet : elle veut une remplaçante vivante.</ns0:summary>
+      <ns0:duration>3:19</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_doll_nearest_the_canal_fr.jpg?v=b4774f961e90" />
+      <ns0:episode>16</ns0:episode>
+      <ns0:keywords>podcast d'horreur, fiction audio, histoire d'horreur, île des poupées, xochimilco, mexico, poupée maudite, poupées hantées, folk horror, horreur surnaturelle, lucía, mateo, canal, drame audio, son immersif, son binaural, musique originale, midnight whisperer</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 15: Après minuit, l’ascenseur affichait son nom</title>
-      <description>À minuit, l&apos;ascenseur a cessé d&apos;afficher les étages. Il a commencé à énumérer toutes les personnes encore présentes dans la tour — Ana Ribeiro apparaissait en dernier.
+      <description>À minuit, l'ascenseur a cessé d'afficher les étages. Il a commencé à énumérer toutes les personnes encore présentes dans la tour — Ana Ribeiro apparaissait en dernier.
 
-Inspiré des récits et du folklore autour des Treize Âmes de São Paulo après l&apos;incendie de l&apos;immeuble Joelma en 1974, ce drame audio cinématographique suit une technicienne qui efface un avertissement : TREZE ALMAS — NE PAS EFFACER.
+Inspiré des récits et du folklore autour des Treize Âmes de São Paulo après l'incendie de l'immeuble Joelma en 1974, ce drame audio cinématographique suit une technicienne qui efface un avertissement : TREZE ALMAS — NE PAS EFFACER.
 
-L&apos;ascenseur saute le treizième étage. Un gobelet d&apos;eau se vide. Treize silhouettes attendent dans le reflet de l&apos;acier. Écouteurs recommandés.
+L'ascenseur saute le treizième étage. Un gobelet d'eau se vide. Treize silhouettes attendent dans le reflet de l'acier. Écouteurs recommandés.
 
-Regardez l&apos;histoire cinématographique sur YouTube :
+Regardez l'histoire cinématographique sur YouTube :
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/Hm7WnNOkC5w</description>
@@ -206,17 +239,18 @@ https://youtu.be/Hm7WnNOkC5w</description>
       <guid isPermaLink="false">e774e82f-ea0f-4e44-8e69-05f91c7ff48f</guid>
       <pubDate>Tue, 30 Jun 2026 02:01:31 +0530</pubDate>
       <link>https://youtu.be/Hm7WnNOkC5w</link>
-      <itunes:summary>Quand Ana efface le seul nom que l&apos;immeuble donne encore à ses morts, l&apos;ascenseur choisit treize remplaçants vivants — et garde son nom pour la fin.</itunes:summary>
-      <itunes:duration>3:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_elevator_held_thirteen_names_fr.jpg?v=f87c3fc5d593" />
-      <itunes:episode>15</itunes:episode>
-      <itunes:keywords>le chuchoteur de minuit, épisode 29, podcast d&apos;horreur, pièce radiophonique, histoires qui font peur, ascenseur, treize noms, ana ribeiro, garde de nuit, son binaural, une ambiance immersive, bande originale, thèmes surnaturels, histoire de fantômes, audio sombre, récit effrayant, horreur brésilienne, expérience d&apos;écoute, nouvelle sortie d&apos;horreur, production audio</itunes:keywords>
+      <ns0:summary>Quand Ana efface le seul nom que l'immeuble donne encore à ses morts, l'ascenseur choisit treize remplaçants vivants — et garde son nom pour la fin.</ns0:summary>
+      <ns0:duration>3:08</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_elevator_held_thirteen_names_fr.jpg?v=f87c3fc5d593" />
+      <ns0:episode>15</ns0:episode>
+      <ns0:keywords>le chuchoteur de minuit, épisode 29, podcast d'horreur, pièce radiophonique, histoires qui font peur, ascenseur, treize noms, ana ribeiro, garde de nuit, son binaural, une ambiance immersive, bande originale, thèmes surnaturels, histoire de fantômes, audio sombre, récit effrayant, horreur brésilienne, expérience d'écoute, nouvelle sortie d'horreur, production audio</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 14: Chambre 402 – J&apos;ai regardé le live | Pièce radiophonique d&apos;horreur de type « found footage »</title>
-      <description>« Room 402 Watched the Stream | Pièce radiophonique d&apos;horreur en found footage » est une pièce radiophonique d&apos;horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d&apos;une conception sonore et d&apos;une bande originale, pour une écoute immersive au casque.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 14: Chambre 402 – J'ai regardé le live | Pièce radiophonique d'horreur de type « found footage »</title>
+      <description>« Room 402 Watched the Stream | Pièce radiophonique d'horreur en found footage » est une pièce radiophonique d'horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d'une conception sonore et d'une bande originale, pour une écoute immersive au casque.
 
 Langue: anglais. À écouter de préférence au casque dans une pièce sombre.
 
@@ -237,15 +271,16 @@ https://youtu.be/K2ehJaUyyo0</description>
       <guid isPermaLink="false">9444261d-9f91-4fae-98e2-54ff127c0c7e</guid>
       <pubDate>Sun, 28 Jun 2026 13:42:37 +0530</pubDate>
       <link>https://youtu.be/K2ehJaUyyo0</link>
-      <itunes:summary>« Room 402 Watched the Stream | Pièce radiophonique d&apos;horreur de type found footage » — une pièce radiophonique d&apos;horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</itunes:summary>
-      <itunes:duration>3:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/room_402_watched_the_stream_fr.jpg?v=64bcf8fd7788" />
-      <itunes:episode>14</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, la chambre 402 a regardé le live | pièce radiophonique d&apos;horreur de type « found footage », fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
+      <ns0:summary>« Room 402 Watched the Stream | Pièce radiophonique d'horreur de type found footage » — une pièce radiophonique d'horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</ns0:summary>
+      <ns0:duration>3:15</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/room_402_watched_the_stream_fr.jpg?v=64bcf8fd7788" />
+      <ns0:episode>14</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, récit d'horreur, creepypasta, histoires de fantômes, audio d'horreur, le chuchoteur de minuit, la chambre 402 a regardé le live | pièce radiophonique d'horreur de type « found footage », fr, podcast qui fait peur, littérature d'horreur</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 13: La route forestière parcourue à rebours | Série radiophonique</title>
       <description>Prépare-toi bien avant d’appuyer sur « play », car l’expérience audio de ce soir va mobiliser tous tes sens. « Midnight Whisperer » te propose un voyage viscéral spécialement conçu pour le casque, où chaque murmure te semblera d’un réalisme envoûtant. Dans ce spécial captivant de deux minutes, Bento, Alves et Joana s’aventurent dans un terrain qui refuse de garder sa forme. Leur chemin se transforme en un labyrinthe sonore, remettant en question tout ce qu’ils croyaient savoir sur la sécurité.
 
@@ -263,17 +298,18 @@ https://youtu.be/BAlVi_Jupl4</description>
       <guid isPermaLink="false">fb776e15-e909-4136-80d1-6cc29b852997</guid>
       <pubDate>Fri, 26 Jun 2026 15:23:07 +0530</pubDate>
       <link>https://youtu.be/BAlVi_Jupl4</link>
-      <itunes:summary>Dans ce drame audio qui te glace le sang, trois âmes égarées sont confrontées à des phénomènes étranges sur une route oubliée. Écoute bien : les ombres et les voix se confondent pour révéler une vérité terrifiante.</itunes:summary>
-      <itunes:duration>2:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_logging_road_walked_backward_fr.jpg?v=cae53405fe48" />
-      <itunes:episode>13</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, pièce radiophonique, histoires qui font peur, bento, valves, joana, j&apos;ai parcouru la route forestière à reculons, le chuchoteur de minuit, piste audio originale d&apos;un film d&apos;horreur, ambiance sombre, des petites histoires d&apos;horreur, récits qui font froid dans le dos, conception sonore immersive, horreur binaurale, thriller audio, histoire de fantômes, horreur surnaturelle, prêt pour halloween, de quoi faire des cauchemars, horreur indépendante</itunes:keywords>
+      <ns0:summary>Dans ce drame audio qui te glace le sang, trois âmes égarées sont confrontées à des phénomènes étranges sur une route oubliée. Écoute bien : les ombres et les voix se confondent pour révéler une vérité terrifiante.</ns0:summary>
+      <ns0:duration>2:54</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_logging_road_walked_backward_fr.jpg?v=cae53405fe48" />
+      <ns0:episode>13</ns0:episode>
+      <ns0:keywords>podcast d'horreur, pièce radiophonique, histoires qui font peur, bento, valves, joana, j'ai parcouru la route forestière à reculons, le chuchoteur de minuit, piste audio originale d'un film d'horreur, ambiance sombre, des petites histoires d'horreur, récits qui font froid dans le dos, conception sonore immersive, horreur binaurale, thriller audio, histoire de fantômes, horreur surnaturelle, prêt pour halloween, de quoi faire des cauchemars, horreur indépendante</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 12: Que s&apos;est-il passé dans « La route qui a oublié ses morts » ?</title>
-      <description>« Que s&apos;est-il passé dans *The Road That Forgot Its Dead*? » est une pièce radiophonique d&apos;horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d&apos;une conception sonore et d&apos;une bande originale, pour une écoute immersive au casque.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 12: Que s'est-il passé dans « La route qui a oublié ses morts » ?</title>
+      <description>« Que s'est-il passé dans *The Road That Forgot Its Dead*? » est une pièce radiophonique d'horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d'une conception sonore et d'une bande originale, pour une écoute immersive au casque.
 
 Langue: anglais. À écouter de préférence au casque, dans une pièce sombre.
 
@@ -294,15 +330,16 @@ https://youtu.be/lsZz8eO_Wtw</description>
       <guid isPermaLink="false">f49da881-cefa-4252-b435-29fb7c004436</guid>
       <pubDate>Fri, 26 Jun 2026 03:22:57 +0530</pubDate>
       <link>https://youtu.be/lsZz8eO_Wtw</link>
-      <itunes:summary>« Que s&apos;est-il passé dans *The Road That Forgot Its Dead*? » — une pièce radiophonique d&apos;horreur originale de *Midnight Whisperer*, présentée en anglais avec une conception sonore immersive.</itunes:summary>
-      <itunes:duration>2:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_fr.jpg?v=90b4096b0e8b" />
-      <itunes:episode>12</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, qu&apos;est-ce qui s&apos;est passé sur cette route qui a oublié ses morts ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
+      <ns0:summary>« Que s'est-il passé dans *The Road That Forgot Its Dead*? » — une pièce radiophonique d'horreur originale de *Midnight Whisperer*, présentée en anglais avec une conception sonore immersive.</ns0:summary>
+      <ns0:duration>2:38</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_fr.jpg?v=90b4096b0e8b" />
+      <ns0:episode>12</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, récit d'horreur, creepypasta, histoires de fantômes, audio d'horreur, le chuchoteur de minuit, qu'est-ce qui s'est passé sur cette route qui a oublié ses morts ?, fr, podcast qui fait peur, littérature d'horreur</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 11: Le signal silencieux du standard téléphonique</title>
       <description>Dans le silence pesant d’une salle de standard téléphonique, quelque chose t’attend juste derrière la tonalité. Prépare ton casque pour un voyage où le son lui-même devient l’antagoniste de cette production entièrement doublée. On t’invite à plonger dans les parasites et l’ombre, en te privant de tout repère visuel pour te laisser vulnérable dans un paysage sonore conçu pour le théâtre audio. Ce n’est pas simplement une histoire; c’est une expérience d’horreur immersive conçue pour résonner à travers tes haut-parleurs et envahir ton espace personnel.
 
@@ -322,28 +359,29 @@ https://youtu.be/U6UCOK_byAA</description>
       <guid isPermaLink="false">ebcf3fe7-1aa8-4f12-acf3-b285defe6f0c</guid>
       <pubDate>Wed, 24 Jun 2026 18:51:55 +0530</pubDate>
       <link>https://youtu.be/U6UCOK_byAA</link>
-      <itunes:summary>Dans cette pièce radiophonique, Lotte, Rosenheim et Weiss sont confrontés au silence terrifiant d&apos;un standard téléphonique. L&apos;histoire s&apos;appuie sur une conception sonore binaurale pour te plonger dans une atmosphère où les parasites et les ombres se confondent.</itunes:summary>
-      <itunes:duration>2:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_switchboard_dialed_no_one_fr.jpg?v=49e64bd36be5" />
-      <itunes:episode>11</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, thriller surnaturel, conception sonore binaurale, récit immersif, pièce radiophonique originale, horreur nocturne à écouter, une expérience audio qui donne la chair de poule, nouveau film d&apos;horreur, histoire du doublage, horreur atmosphérique, l&apos;histoire d&apos;un coup de fil, le mystère du standard téléphonique, lotte et rosenheim, le chuchoteur de minuit, épisode 25, audio avec toute la distribution, une histoire d&apos;ambiance sombre, pas de pauses publicitaires</itunes:keywords>
+      <ns0:summary>Dans cette pièce radiophonique, Lotte, Rosenheim et Weiss sont confrontés au silence terrifiant d'un standard téléphonique. L'histoire s'appuie sur une conception sonore binaurale pour te plonger dans une atmosphère où les parasites et les ombres se confondent.</ns0:summary>
+      <ns0:duration>2:30</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_switchboard_dialed_no_one_fr.jpg?v=49e64bd36be5" />
+      <ns0:episode>11</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, thriller surnaturel, conception sonore binaurale, récit immersif, pièce radiophonique originale, horreur nocturne à écouter, une expérience audio qui donne la chair de poule, nouveau film d'horreur, histoire du doublage, horreur atmosphérique, l'histoire d'un coup de fil, le mystère du standard téléphonique, lotte et rosenheim, le chuchoteur de minuit, épisode 25, audio avec toute la distribution, une histoire d'ambiance sombre, pas de pauses publicitaires</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 10: Que s&apos;est-il passé à Ishinomaki en 2011 ?</title>
-      <description>« Que s&apos;est-il passé à Ishinomaki en 2011? » est une pièce radiophonique d&apos;horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d&apos;une conception sonore et d&apos;une bande originale, pour une écoute immersive au casque.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 10: Que s'est-il passé à Ishinomaki en 2011 ?</title>
+      <description>« Que s'est-il passé à Ishinomaki en 2011? » est une pièce radiophonique d'horreur originale de Midnight Whisperer. Cette édition spécifique à un lieu est entièrement doublée, dotée d'une conception sonore et d'une bande originale, pour une écoute immersive au casque.
 
 Langue: anglais. À écouter de préférence au casque, dans une pièce sombre.
 
-Regarde l&apos;expérience visuelle avec les illustrations originales sur YouTube:
+Regarde l'expérience visuelle avec les illustrations originales sur YouTube:
 https://www.youtube.com/@MidnightWhispererDark
 
 Abonne-toi et laisse un commentaire pour aider les autres à découvrir cette émission.
 
 Écrit et produit par Midnight Whisperer.
 
-Avertissement sur le contenu: thèmes d&apos;horreur, éléments surnaturels.
+Avertissement sur le contenu: thèmes d'horreur, éléments surnaturels.
 
 Regarde-la avec les illustrations d’horreur originales sur YouTube:
 
@@ -353,28 +391,29 @@ https://youtu.be/0GFGCupvgYQ</description>
       <guid isPermaLink="false">7c26b6da-ef19-4ec5-976c-c977d9027882</guid>
       <pubDate>Wed, 24 Jun 2026 05:36:14 +0530</pubDate>
       <link>https://youtu.be/0GFGCupvgYQ</link>
-      <itunes:summary>« Que s&apos;est-il passé à Ishinomaki en 2011? » — une pièce radiophonique d&apos;horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</itunes:summary>
-      <itunes:duration>2:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_meter_kept_running_to_the_sea_fr.jpg?v=d258dd0fae93" />
-      <itunes:episode>10</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, qu&apos;est-ce qui s&apos;est passé à ishinomaki en 2011 ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
+      <ns0:summary>« Que s'est-il passé à Ishinomaki en 2011? » — une pièce radiophonique d'horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</ns0:summary>
+      <ns0:duration>2:42</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_meter_kept_running_to_the_sea_fr.jpg?v=d258dd0fae93" />
+      <ns0:episode>10</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, récit d'horreur, creepypasta, histoires de fantômes, audio d'horreur, le chuchoteur de minuit, qu'est-ce qui s'est passé à ishinomaki en 2011 ?, fr, podcast qui fait peur, littérature d'horreur</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 9: Que s&apos;est-il passé à Belmez de la Moraleda en 1971 ?</title>
-      <description>« Que s&apos;est-il passé à Belmez de la Moraleda en 1971? » est une pièce radiophonique d&apos;horreur originale proposée par Midnight Whisperer. Cette édition spécifique au lieu est entièrement doublée, dotée d&apos;une conception sonore et d&apos;une bande originale, pour une écoute immersive au casque.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 9: Que s'est-il passé à Belmez de la Moraleda en 1971 ?</title>
+      <description>« Que s'est-il passé à Belmez de la Moraleda en 1971? » est une pièce radiophonique d'horreur originale proposée par Midnight Whisperer. Cette édition spécifique au lieu est entièrement doublée, dotée d'une conception sonore et d'une bande originale, pour une écoute immersive au casque.
 
 Langue: anglais. À écouter de préférence au casque, dans une pièce sombre.
 
-Regarde l&apos;expérience visuelle avec les illustrations originales sur YouTube:
+Regarde l'expérience visuelle avec les illustrations originales sur YouTube:
 https://www.youtube.com/@MidnightWhispererDark
 
 Abonne-toi et laisse un commentaire pour aider les autres à découvrir cette émission.
 
 Écrit et produit par Midnight Whisperer.
 
-Avertissement sur le contenu: thèmes d&apos;horreur, éléments surnaturels.
+Avertissement sur le contenu: thèmes d'horreur, éléments surnaturels.
 
 Regarde-la avec les illustrations d’horreur originales sur YouTube:
 
@@ -384,15 +423,16 @@ https://youtu.be/QzQmI2jbscA</description>
       <guid isPermaLink="false">a1f179b2-dbe9-4e4a-afb6-c7cba590371c</guid>
       <pubDate>Mon, 22 Jun 2026 00:57:07 +0530</pubDate>
       <link>https://youtu.be/QzQmI2jbscA</link>
-      <itunes:summary>« Que s&apos;est-il passé à Belmez de la Moraleda en 1971? » — une pièce radiophonique d&apos;horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</itunes:summary>
-      <itunes:duration>2:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_kitchen_floor_learned_a_face_fr.jpg?v=ad0fc6c0c99d" />
-      <itunes:episode>9</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, que s&apos;est-il passé à belmez de la moraleda en 1971 ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
+      <ns0:summary>« Que s'est-il passé à Belmez de la Moraleda en 1971? » — une pièce radiophonique d'horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</ns0:summary>
+      <ns0:duration>2:42</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_kitchen_floor_learned_a_face_fr.jpg?v=ad0fc6c0c99d" />
+      <ns0:episode>9</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, récit d'horreur, creepypasta, histoires de fantômes, audio d'horreur, le chuchoteur de minuit, que s'est-il passé à belmez de la moraleda en 1971 ?, fr, podcast qui fait peur, littérature d'horreur</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 8 : Qui a répondu sous la couette ?</title>
       <description>Clara arrive dans une ferme d’Adams, au Tennessee, pour recopier une Bible familiale. Mais Mme Marrow la prévient : après minuit, il ne faut pas répondre à la voix sous la couette.
 
@@ -405,21 +445,22 @@ Langue : français. À écouter au casque, lumières éteintes.</description>
       <guid isPermaLink="false">a2737f9d-3efa-4714-8a5d-03e563aec5ec</guid>
       <pubDate>Sat, 20 Jun 2026 00:10:07 +0530</pubDate>
       <link>https://youtu.be/FhGFjqJESfg</link>
-      <itunes:summary>Une histoire d’horreur gothique en français sur Clara, Mme Marrow et la voix qui attend sous une couette à Adams, Tennessee.</itunes:summary>
-      <itunes:duration>7:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_voice_under_the_quilt_fr.jpg?v=4d29fb3dfd13" />
-      <itunes:episode>8</itunes:episode>
-      <itunes:keywords>horreur français, histoire d horreur, horreur gothique, fiction audio, sorcières, Adams Tennessee, Midnight Whisperer</itunes:keywords>
+      <ns0:summary>Une histoire d’horreur gothique en français sur Clara, Mme Marrow et la voix qui attend sous une couette à Adams, Tennessee.</ns0:summary>
+      <ns0:duration>7:24</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_voice_under_the_quilt_fr.jpg?v=4d29fb3dfd13" />
+      <ns0:episode>8</ns0:episode>
+      <ns0:keywords>horreur français, histoire d horreur, horreur gothique, fiction audio, sorcières, Adams Tennessee, Midnight Whisperer</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 7: L&apos;écho glacé de l&apos;hiver</title>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 7: L'écho glacé de l'hiver</title>
       <description>Plonge dans une réalité glaçante où le vent refuse de se calmer et où les ombres en disent plus long que les mots. Riya, Nima et Bappa évoluent dans un paysage qui semble surveillé par quelque chose de plus ancien que la mémoire, créant une atmosphère où le silence devient dangereux. Tu découvriras un récit fondé sur l’authenticité vocale et une angoisse ambiante, conçu pour te plonger pleinement dans la froide nuit d’hiver. Écoute attentivement tandis que Riya et Nima se débattent avec des vérités cachées, tandis que Roll Call Voice continue de marquer le passage des instants de leur péril. Chaque signal binaural et chaque son soudain modifie la perspective, préservant l’horreur authentique et brute tout au long de cette expérience audio dramatique complète.
 
-La production utilise une conception sonore immersive pour superposer des thèmes complexes et des éléments de musique originale. Les techniques binaurales créent une sensation où aucun instant n’est gaspillé, récompensant les auditeurs patients à la recherche d’une horreur authentique sur Midnight Whisperer. Ces couches sonores exigent une attention particulière aux subtils changements de l’hiver, révélant une vérité effrayante qui change la réalité à jamais. Merci de noter les avertissements concernant les thèmes surnaturels et les environnements sonores intenses avant la lecture. Regarde l&apos;expérience visuelle avec les illustrations originales sur YouTube: https://www.youtube.com/@MidnightWhispererDark. Abonne-toi, note et laisse un commentaire sur ton application de podcast, car tes retours alimentent notre travail et garantissent de futures histoires sombres. Écrit et produit par Midnight Whisperer pour te rapprocher de l&apos;art sombre de la narration sonore.
+La production utilise une conception sonore immersive pour superposer des thèmes complexes et des éléments de musique originale. Les techniques binaurales créent une sensation où aucun instant n’est gaspillé, récompensant les auditeurs patients à la recherche d’une horreur authentique sur Midnight Whisperer. Ces couches sonores exigent une attention particulière aux subtils changements de l’hiver, révélant une vérité effrayante qui change la réalité à jamais. Merci de noter les avertissements concernant les thèmes surnaturels et les environnements sonores intenses avant la lecture. Regarde l'expérience visuelle avec les illustrations originales sur YouTube: https://www.youtube.com/@MidnightWhispererDark. Abonne-toi, note et laisse un commentaire sur ton application de podcast, car tes retours alimentent notre travail et garantissent de futures histoires sombres. Écrit et produit par Midnight Whisperer pour te rapprocher de l'art sombre de la narration sonore.
 
-Regarde la vidéo avec les illustrations d&apos;horreur originales sur YouTube:
+Regarde la vidéo avec les illustrations d'horreur originales sur YouTube:
 
 Watch with original horror artwork on YouTube:
 https://youtu.be/IiXDxzXpCdE</description>
@@ -427,30 +468,31 @@ https://youtu.be/IiXDxzXpCdE</description>
       <guid isPermaLink="false">c8047c50-ac78-4851-a2cc-ae766e5ad712</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:27 +0530</pubDate>
       <link>https://youtu.be/IiXDxzXpCdE</link>
-      <itunes:summary>Riya affronte le silence de l&apos;hiver, et Nima découvre des secrets enfouis sous la neige. Roll Call Voice révèle des vérités glaçantes qui changent la réalité à jamais.</itunes:summary>
-      <itunes:duration>7:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_school_marched_in_winter_fr.jpg?v=1bd5aa0f25c5" />
-      <itunes:episode>7</itunes:episode>
-      <itunes:keywords>le chuchoteur de minuit, podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, bande originale, son binaural, riya, nima, bappa, appel nominal à voix haute, hiver, école, surnaturel, effrayant, audio narratif, paysage sonore immersif, distribution complète, fiction noire, des murmures effrayants, ambiance sinistre</itunes:keywords>
+      <ns0:summary>Riya affronte le silence de l'hiver, et Nima découvre des secrets enfouis sous la neige. Roll Call Voice révèle des vérités glaçantes qui changent la réalité à jamais.</ns0:summary>
+      <ns0:duration>7:04</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_school_marched_in_winter_fr.jpg?v=1bd5aa0f25c5" />
+      <ns0:episode>7</ns0:episode>
+      <ns0:keywords>le chuchoteur de minuit, podcast d'horreur, histoires qui font peur, pièce radiophonique, bande originale, son binaural, riya, nima, bappa, appel nominal à voix haute, hiver, école, surnaturel, effrayant, audio narratif, paysage sonore immersif, distribution complète, fiction noire, des murmures effrayants, ambiance sinistre</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 6: Que s&apos;est-il passé au fort de Bhangarh en 2018 ?</title>
-      <description>« Que s&apos;est-il passé au fort de Bhangarh en 2018? » est une pièce radiophonique d&apos;horreur originale de Midnight Whisperer. Cette édition spécifique au lieu est entièrement doublée, dotée d&apos;une conception sonore et d&apos;une bande originale, pour une écoute immersive au casque.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 6: Que s'est-il passé au fort de Bhangarh en 2018 ?</title>
+      <description>« Que s'est-il passé au fort de Bhangarh en 2018? » est une pièce radiophonique d'horreur originale de Midnight Whisperer. Cette édition spécifique au lieu est entièrement doublée, dotée d'une conception sonore et d'une bande originale, pour une écoute immersive au casque.
 
 Langue: anglais. À écouter de préférence au casque dans une pièce sombre.
 
-Regarde l&apos;expérience visuelle avec les illustrations originales sur YouTube:
+Regarde l'expérience visuelle avec les illustrations originales sur YouTube:
 https://www.youtube.com/@MidnightWhispererDark
 
 Abonne-toi et laisse un commentaire pour aider les autres à découvrir cette série.
 
 Écrit et produit par Midnight Whisperer.
 
-Avertissement sur le contenu: thèmes d&apos;horreur, éléments surnaturels.
+Avertissement sur le contenu: thèmes d'horreur, éléments surnaturels.
 
-Regarde l&apos;expérience visuelle avec les illustrations d&apos;horreur originales sur YouTube:
+Regarde l'expérience visuelle avec les illustrations d'horreur originales sur YouTube:
 https://youtu.be/bY4lOzMqQXw
 
 Watch with original horror artwork on YouTube:
@@ -459,19 +501,20 @@ https://youtu.be/rNr6nXznBMY</description>
       <guid isPermaLink="false">8e153077-8fa8-4aa0-b11c-87a9585d0606</guid>
       <pubDate>Thu, 11 Jun 2026 18:17:12 +0530</pubDate>
       <link>https://youtu.be/rNr6nXznBMY</link>
-      <itunes:summary>« Que s&apos;est-il passé au fort de Bhangarh en 2018? » — une pièce radiophonique d&apos;horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</itunes:summary>
-      <itunes:duration>6:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_fort_sign_waited_for_dusk_fr.jpg?v=0b9091de12e7" />
-      <itunes:episode>6</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, récit d&apos;horreur, creepypasta, histoires de fantômes, audio d&apos;horreur, le chuchoteur de minuit, que s&apos;est-il passé au fort de bhangarh en 2018 ?, fr, podcast qui fait peur, littérature d&apos;horreur</itunes:keywords>
+      <ns0:summary>« Que s'est-il passé au fort de Bhangarh en 2018? » — une pièce radiophonique d'horreur originale de Midnight Whisperer, présentée en anglais avec une conception sonore immersive.</ns0:summary>
+      <ns0:duration>6:53</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_fort_sign_waited_for_dusk_fr.jpg?v=0b9091de12e7" />
+      <ns0:episode>6</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, récit d'horreur, creepypasta, histoires de fantômes, audio d'horreur, le chuchoteur de minuit, que s'est-il passé au fort de bhangarh en 2018 ?, fr, podcast qui fait peur, littérature d'horreur</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 5: L&apos;eau connaît vos noms</title>
-      <description>Bienvenue dans une expérience audio glaçante où, tout au long de cet enregistrement, le silence murmure souvent plus fort que la peur elle-même. Nous invitons les auditeurs passionnés à enfiler leurs écouteurs pour découvrir un récit entièrement construit autour de la voix humaine et des textures sonores ambiantes. Dans l&apos;épisode 19, intitulé « The Water Knows Your Names », les personnages fictifs Lidia, Ines et Mateo se retrouvent pris dans un phénomène surnaturel qui défie les lois de la nature, tout en faisant face à une transformation terrifiante en quelque chose d&apos;inconnaissable. L&apos;histoire se déroule à travers des dialogues riches en détails, garantissant que chaque mot prononcé semble tangible et lourd de conséquences pour les personnages impliqués.
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 5: L'eau connaît vos noms</title>
+      <description>Bienvenue dans une expérience audio glaçante où, tout au long de cet enregistrement, le silence murmure souvent plus fort que la peur elle-même. Nous invitons les auditeurs passionnés à enfiler leurs écouteurs pour découvrir un récit entièrement construit autour de la voix humaine et des textures sonores ambiantes. Dans l'épisode 19, intitulé « The Water Knows Your Names », les personnages fictifs Lidia, Ines et Mateo se retrouvent pris dans un phénomène surnaturel qui défie les lois de la nature, tout en faisant face à une transformation terrifiante en quelque chose d'inconnaissable. L'histoire se déroule à travers des dialogues riches en détails, garantissant que chaque mot prononcé semble tangible et lourd de conséquences pour les personnages impliqués.
 
-L&apos;ambiance sonore évolue de manière menaçante, utilisant l&apos;ingénierie binaurale pour te plonger directement au cœur des scènes de couloirs humides, sans avertissement ni hésitation. Notre production privilégie une précision vocale cristalline, soutenue par des enregistrements sur le terrain complexes et superposés, conçus pour simuler de manière réaliste une atmosphère envoûtante. Tu seras témoin de performances vocales distinctes qui contrastent avec une bande-son atmosphérique conçue pour déstabiliser tes sens dès la première écoute. La conception audio est ici complexe, utilisant tout le spectre sonore pour transmettre une charge émotionnelle sans aide visuelle. Chaque craquement et chaque murmure sont calibrés spécifiquement pour une écoute au casque afin d’améliorer l’immersion.
+L'ambiance sonore évolue de manière menaçante, utilisant l'ingénierie binaurale pour te plonger directement au cœur des scènes de couloirs humides, sans avertissement ni hésitation. Notre production privilégie une précision vocale cristalline, soutenue par des enregistrements sur le terrain complexes et superposés, conçus pour simuler de manière réaliste une atmosphère envoûtante. Tu seras témoin de performances vocales distinctes qui contrastent avec une bande-son atmosphérique conçue pour déstabiliser tes sens dès la première écoute. La conception audio est ici complexe, utilisant tout le spectre sonore pour transmettre une charge émotionnelle sans aide visuelle. Chaque craquement et chaque murmure sont calibrés spécifiquement pour une écoute au casque afin d’améliorer l’immersion.
 
 Regarde la vidéo avec les illustrations d’horreur originales sur YouTube :
 https://youtu.be/q6eIc-cXTeQ
@@ -482,19 +525,20 @@ https://youtu.be/IHgxvbMhnsI</description>
       <guid isPermaLink="false">db3e4b41-8d66-41e8-87d4-45b7d8156461</guid>
       <pubDate>Mon, 08 Jun 2026 15:12:54 +0530</pubDate>
       <link>https://youtu.be/IHgxvbMhnsI</link>
-      <itunes:summary>Dans cette pièce radiophonique, Lidia, Inès et Mateo sont confrontés à un phénomène surnaturel qui se produit dans les eaux du canal. Le récit s&apos;appuie sur une conception sonore binaurale immersive et une narration très riche en voix.</itunes:summary>
-      <itunes:duration>6:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_canal_learns_your_childs_voice_fr.jpg?v=d56d9e02f202" />
-      <itunes:episode>5</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, pièce radiophonique, histoires qui font peur, horreur surnaturelle, audio binaural, une conception sonore immersive, le chuchoteur de minuit, série de podcasts originale, pièce radiophonique d&apos;horreur, épisode 19 du podcast, l&apos;histoire du canal, ambiance sombre, narrateur d&apos;histoires d&apos;horreur, narration audio, un enregistrement effrayant</itunes:keywords>
+      <ns0:summary>Dans cette pièce radiophonique, Lidia, Inès et Mateo sont confrontés à un phénomène surnaturel qui se produit dans les eaux du canal. Le récit s'appuie sur une conception sonore binaurale immersive et une narration très riche en voix.</ns0:summary>
+      <ns0:duration>6:51</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_canal_learns_your_childs_voice_fr.jpg?v=d56d9e02f202" />
+      <ns0:episode>5</ns0:episode>
+      <ns0:keywords>podcast d'horreur, pièce radiophonique, histoires qui font peur, horreur surnaturelle, audio binaural, une conception sonore immersive, le chuchoteur de minuit, série de podcasts originale, pièce radiophonique d'horreur, épisode 19 du podcast, l'histoire du canal, ambiance sombre, narrateur d'histoires d'horreur, narration audio, un enregistrement effrayant</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 4: Le fleuve se souvient du silence</title>
-      <description>Plonge dans l&apos;ombre, là où le son tisse la réalité pour «Midnight Whisperer», une œuvre spécialement conçue pour les amateurs d&apos;audio immersif plutôt que pour les auditeurs occasionnels. Ce drame audio se passe de tout visuel pour laisser libre cours à l&apos;imagination, veillant à ce que chaque murmure vienne se poser doucement mais clairement à ton oreille. Dans ce récit particulier, le trio d’étudiants composé de Bima, Dimas et Sari évolue sur les rives d’une rivière terrifiante où la loi de la traversée pèse d’un poids insurmontable. Le pont se souvient de tous les moments passés et exige un paiement strictement par le biais de la mémoire conservée. Tu entendras des récits entièrement narrés, superposés à des bruits ambiants envoûtants conçus spécialement pour déstabiliser tes sens pendant l’écoute. Les techniques d’enregistrement binaural simulent les mouvements de la tête, plaçant l’auditeur directement au cœur des conséquences tragiques des tentatives de traversée. Notre équipe de production a donné la priorité à la création d’une bande originale au rythme méticuleux, accompagnée d’effets sonores spécialement adaptés à l’écoute au casque. Nous t’invitons à découvrir à quoi ressemble la peur lorsqu’aucune vidéo n’est nécessaire, laissant ainsi place à ton imagination pour combler les vides sombres. Contient des thèmes spécifiques adaptés aux fans d&apos;horreur à la recherche d&apos;une profondeur atmosphérique sans distractions visuelles. Découvre l&apos;expérience narrative visuelle complète disponible sur YouTube, avec des illustrations uniques, mais sache que l&apos;audio offre une vérité plus profonde. L&apos;abonnement et les notes/commentaires sont des éléments essentiels de notre réseau de soutien communautaire pour la création de contenu continu. Écrit et produit entièrement par l&apos;équipe de la maison de production Midnight Whisperer, offrant une narration audio professionnelle.
+      <description>Plonge dans l'ombre, là où le son tisse la réalité pour «Midnight Whisperer», une œuvre spécialement conçue pour les amateurs d'audio immersif plutôt que pour les auditeurs occasionnels. Ce drame audio se passe de tout visuel pour laisser libre cours à l'imagination, veillant à ce que chaque murmure vienne se poser doucement mais clairement à ton oreille. Dans ce récit particulier, le trio d’étudiants composé de Bima, Dimas et Sari évolue sur les rives d’une rivière terrifiante où la loi de la traversée pèse d’un poids insurmontable. Le pont se souvient de tous les moments passés et exige un paiement strictement par le biais de la mémoire conservée. Tu entendras des récits entièrement narrés, superposés à des bruits ambiants envoûtants conçus spécialement pour déstabiliser tes sens pendant l’écoute. Les techniques d’enregistrement binaural simulent les mouvements de la tête, plaçant l’auditeur directement au cœur des conséquences tragiques des tentatives de traversée. Notre équipe de production a donné la priorité à la création d’une bande originale au rythme méticuleux, accompagnée d’effets sonores spécialement adaptés à l’écoute au casque. Nous t’invitons à découvrir à quoi ressemble la peur lorsqu’aucune vidéo n’est nécessaire, laissant ainsi place à ton imagination pour combler les vides sombres. Contient des thèmes spécifiques adaptés aux fans d'horreur à la recherche d'une profondeur atmosphérique sans distractions visuelles. Découvre l'expérience narrative visuelle complète disponible sur YouTube, avec des illustrations uniques, mais sache que l'audio offre une vérité plus profonde. L'abonnement et les notes/commentaires sont des éléments essentiels de notre réseau de soutien communautaire pour la création de contenu continu. Écrit et produit entièrement par l'équipe de la maison de production Midnight Whisperer, offrant une narration audio professionnelle.
 
-Regarde-la avec les illustrations d&apos;horreur originales sur YouTube:
+Regarde-la avec les illustrations d'horreur originales sur YouTube:
 https://youtu.be/6W7r_Z9isgA
 
 Watch with original horror artwork on YouTube:
@@ -503,25 +547,26 @@ https://youtu.be/QF8-NsN-9Yk</description>
       <guid isPermaLink="false">a53ee395-7c07-4f94-b963-5ffb7fcf1cab</guid>
       <pubDate>Sun, 07 Jun 2026 14:17:15 +0530</pubDate>
       <link>https://youtu.be/QF8-NsN-9Yk</link>
-      <itunes:summary>Les élèves se retrouvent face à une rivière maudite qui se souvient de leurs pas, révélant pourquoi il est interdit de la traverser deux fois. Une distribution vocale complète et une conception sonore immersive dévoilent la tragédie enfouie entre les syllabes.</itunes:summary>
-      <itunes:duration>6:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_bridge_no_student_crossed_twice_fr.jpg?v=606dcc37112d" />
-      <itunes:episode>4</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, horreur binaurale, thriller surnaturel, un pont qu&apos;aucun élève n&apos;a jamais emprunté, le calvaire de bima, le destin de dimas, avertissement concernant le sari, histoire de fantômes en audio, horreur atmosphérique, podcast effrayant, ambiance sonore inquiétante, fiction narrative, un campus qui fait froid dans le dos, le chuchoteur de minuit, livre audio sombre, récits d&apos;horreur, horreur sonore, légende urbaine</itunes:keywords>
+      <ns0:summary>Les élèves se retrouvent face à une rivière maudite qui se souvient de leurs pas, révélant pourquoi il est interdit de la traverser deux fois. Une distribution vocale complète et une conception sonore immersive dévoilent la tragédie enfouie entre les syllabes.</ns0:summary>
+      <ns0:duration>6:27</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_bridge_no_student_crossed_twice_fr.jpg?v=606dcc37112d" />
+      <ns0:episode>4</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, horreur binaurale, thriller surnaturel, un pont qu'aucun élève n'a jamais emprunté, le calvaire de bima, le destin de dimas, avertissement concernant le sari, histoire de fantômes en audio, horreur atmosphérique, podcast effrayant, ambiance sonore inquiétante, fiction narrative, un campus qui fait froid dans le dos, le chuchoteur de minuit, livre audio sombre, récits d'horreur, horreur sonore, légende urbaine</ns0:keywords>
     </item>
-    <item>
-      <title>Épisode 3: La planchette s&apos;envole</title>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Épisode 3: La planchette s'envole</title>
       <description>Dans le silence profond d’un sous-sol hanté, des voix commencent à percer à travers les parasites. Cette expérience audio t’invite à plonger dans un récit glaçant où le monde invisible réclame l’attention de trois âmes terrifiées en quête de réponses. L’atmosphère est chargée de suspense, spécialement conçue pour les casques ou écouteurs de haute sensibilité qui définissent l’immersion moderne. Chaque murmure a son importance, garantissant qu’aucun auditeur ne reste totalement indifférent. Tu dois mettre de côté toute distraction pour te plonger pleinement dans cette sombre saga.
 
 Maya, Nikhil et Tara se retrouvent piégés dans une séance qui défie toute explication logique ou correction scientifique. Alors qu’ils tentent de contrôler la médiumnité, la réalité se fracture violemment sous leurs yeux désespérés. La tension monte inexorablement alors que la planchette commence à bouger contre leur gré. Tu sentiras tes cheveux se dresser sur ta tête tandis que des indices binauraux atmosphériques se déplacent autour de toi, créant une illusion de présence au sein de ta propre pièce. Ces épisodes ne sont pas simplement lus, mais interprétés avec une intense intention.
 
-L&apos;adaptation intégrale du scénario s&apos;appuie sur une conception sonore immersive et une bande originale pour créer une peur authentique. Le doublage transmet une terreur subtile plutôt que de simples sursauts bon marché utilisés par des productions de moindre qualité. La production haute fidélité garantit une clarté sonore même dans les moments les plus sombres, quand la sécurité est primordiale. Les avertissements sur le contenu incluent des troubles psychiques et des thèmes surnaturels intenses, réservés à un public adulte. Nous recommandons aux auditeurs attentifs d’utiliser des écouteurs pour saisir parfaitement chaque murmure.
+L'adaptation intégrale du scénario s'appuie sur une conception sonore immersive et une bande originale pour créer une peur authentique. Le doublage transmet une terreur subtile plutôt que de simples sursauts bon marché utilisés par des productions de moindre qualité. La production haute fidélité garantit une clarté sonore même dans les moments les plus sombres, quand la sécurité est primordiale. Les avertissements sur le contenu incluent des troubles psychiques et des thèmes surnaturels intenses, réservés à un public adulte. Nous recommandons aux auditeurs attentifs d’utiliser des écouteurs pour saisir parfaitement chaque murmure.
 
-Si cela te parle, nous t’invitons à nous soutenir en nous attribuant une note. Découvre l&apos;expérience visuelle avec des illustrations originales sur YouTube: https://www.youtube.com/@MidnightWhispererDark. Pour plus d&apos;histoires cauchemardesques, abonne-toi et note ton application de podcast préférée dès aujourd&apos;hui pour nous permettre de continuer à produire des fictions d&apos;horreur de haute qualité à l&apos;échelle mondiale. Écrit et produit par Midnight Whisperer. N&apos;écoute pas seul sans protection contre les forces invisibles. Nous espérons que tu resteras en sécurité ce soir tout en te plongeant dans ces secrets audio. La vérité est souvent plus lourde que ne le permet le silence. Reste à l&apos;écoute pour les prochains épisodes qui promettent une profondeur similaire.
+Si cela te parle, nous t’invitons à nous soutenir en nous attribuant une note. Découvre l'expérience visuelle avec des illustrations originales sur YouTube: https://www.youtube.com/@MidnightWhispererDark. Pour plus d'histoires cauchemardesques, abonne-toi et note ton application de podcast préférée dès aujourd'hui pour nous permettre de continuer à produire des fictions d'horreur de haute qualité à l'échelle mondiale. Écrit et produit par Midnight Whisperer. N'écoute pas seul sans protection contre les forces invisibles. Nous espérons que tu resteras en sécurité ce soir tout en te plongeant dans ces secrets audio. La vérité est souvent plus lourde que ne le permet le silence. Reste à l'écoute pour les prochains épisodes qui promettent une profondeur similaire.
 
-Regarde la vidéo avec les illustrations d&apos;horreur originales sur YouTube:
+Regarde la vidéo avec les illustrations d'horreur originales sur YouTube:
 https://youtu.be/DpT_NcqGFdY
 
 Watch with original horror artwork on YouTube:
@@ -530,19 +575,20 @@ https://youtu.be/iTOq0iiHbDo</description>
       <guid isPermaLink="false">0d63e7c1-45e5-4a8f-81ab-dc7a113e673a</guid>
       <pubDate>Sat, 06 Jun 2026 19:23:54 +0530</pubDate>
       <link>https://youtu.be/iTOq0iiHbDo</link>
-      <itunes:summary>Trois amis se retrouvent face à une situation bien plus compliquée que prévu quand la séance de spiritisme dégénère. La planchette se met à bouger toute seule, et personne n&apos;est prêt pour ce qui va suivre.</itunes:summary>
-      <itunes:duration>6:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_planchette_ran_first_fr.jpg?v=df3cf10d5d03" />
-      <itunes:episode>3</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, thèmes surnaturels, horreur paranormale, le chuchoteur de minuit, enregistrement audio de la séance, histoires de maisons hantées, conception sonore binaurale, horreur immersive, ambiance sombre, podcast d&apos;histoires de fantômes, livre audio, histoires d&apos;horreur, un enregistrement effrayant, épisodes du podcast « dark », récit d&apos;horreur, pièce radiophonique audio</itunes:keywords>
+      <ns0:summary>Trois amis se retrouvent face à une situation bien plus compliquée que prévu quand la séance de spiritisme dégénère. La planchette se met à bouger toute seule, et personne n'est prêt pour ce qui va suivre.</ns0:summary>
+      <ns0:duration>6:59</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_planchette_ran_first_fr.jpg?v=df3cf10d5d03" />
+      <ns0:episode>3</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, thèmes surnaturels, horreur paranormale, le chuchoteur de minuit, enregistrement audio de la séance, histoires de maisons hantées, conception sonore binaurale, horreur immersive, ambiance sombre, podcast d'histoires de fantômes, livre audio, histoires d'horreur, un enregistrement effrayant, épisodes du podcast « dark », récit d'horreur, pièce radiophonique audio</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 2: Le vide audible</title>
-      <description>Plonge dans l&apos;ombre, là où le son devient réalité, et tends l&apos;oreille pour percer les mystères cachés dans un murmure creux. Dans cette expérience audio totalement immersive, Midnight Whisperer t&apos;invite à découvrir un paysage sonore conçu pour déstabiliser ton système nerveux, tandis que Dev et Meera font face à un objet qui défie les lois de la nature. Contrairement aux médias visuels, notre production repose entièrement sur la parole, des techniques d’enregistrement binaural et des bandes sonores atmosphériques superposées pour créer un sentiment de peur au sein de ton espace personnel. Tu entendras chaque craquement de pas, chaque murmure porté par des couloirs creux, ce qui te garantira de te sentir seul tout en restant connecté aux profondeurs du récit, sans aucune distraction visuelle. Nous utilisons des compositions musicales originales et une conception sonore binaurale complexe pour plonger l’auditeur directement au cœur de l’environnement narratif, en veillant à ce qu’aucun détail ne soit laissé de côté. Ce chapitre d’horreur explore les implications surnaturelles d’une idole qui consume la lumière avant de sombrer dans les ténèbres, exigeant toute ton attention pour survivre à la nuit. Pour ceux qui préfèrent les images, rends-toi sur notre chaîne YouTube à l’adresse https://www.youtube.com/@MidnightWhispererDark pour découvrir la visualisation artistique spéciale. Cependant, la véritable puissance réside dans l’écoute exclusive via ton application de podcast préférée. N&apos;oublie pas de t&apos;abonner et de noter cette application de podcast où que tu nous trouves, car tes commentaires alimentent nos créations les plus sombres pendant des mois. Écrit et produit par le collectif Midnight Whisperer, cet épisode témoigne de l&apos;excellence de la narration exclusivement audio. Nous encourageons les auditeurs à porter des écouteurs ou des oreillettes pour apprécier pleinement l&apos;ingénierie audio spatiale haute fidélité intégrée à ces pistes. Sans casque immersif, une grande partie de l’impact émotionnel recherché pourrait être perdue lors de la lecture sur des haut-parleurs standard. Les paysages sonores sont ici spécialement calibrés pour déclencher une réponse psychologique subtile associée au folklore ancien et à l’écoute nocturne. Le récit de cette semaine plonge au cœur de vérités cachées qui refusent de rester enfouies en silence, faisant de chaque seconde un moment crucial.
+      <description>Plonge dans l'ombre, là où le son devient réalité, et tends l'oreille pour percer les mystères cachés dans un murmure creux. Dans cette expérience audio totalement immersive, Midnight Whisperer t'invite à découvrir un paysage sonore conçu pour déstabiliser ton système nerveux, tandis que Dev et Meera font face à un objet qui défie les lois de la nature. Contrairement aux médias visuels, notre production repose entièrement sur la parole, des techniques d’enregistrement binaural et des bandes sonores atmosphériques superposées pour créer un sentiment de peur au sein de ton espace personnel. Tu entendras chaque craquement de pas, chaque murmure porté par des couloirs creux, ce qui te garantira de te sentir seul tout en restant connecté aux profondeurs du récit, sans aucune distraction visuelle. Nous utilisons des compositions musicales originales et une conception sonore binaurale complexe pour plonger l’auditeur directement au cœur de l’environnement narratif, en veillant à ce qu’aucun détail ne soit laissé de côté. Ce chapitre d’horreur explore les implications surnaturelles d’une idole qui consume la lumière avant de sombrer dans les ténèbres, exigeant toute ton attention pour survivre à la nuit. Pour ceux qui préfèrent les images, rends-toi sur notre chaîne YouTube à l’adresse https://www.youtube.com/@MidnightWhispererDark pour découvrir la visualisation artistique spéciale. Cependant, la véritable puissance réside dans l’écoute exclusive via ton application de podcast préférée. N'oublie pas de t'abonner et de noter cette application de podcast où que tu nous trouves, car tes commentaires alimentent nos créations les plus sombres pendant des mois. Écrit et produit par le collectif Midnight Whisperer, cet épisode témoigne de l'excellence de la narration exclusivement audio. Nous encourageons les auditeurs à porter des écouteurs ou des oreillettes pour apprécier pleinement l'ingénierie audio spatiale haute fidélité intégrée à ces pistes. Sans casque immersif, une grande partie de l’impact émotionnel recherché pourrait être perdue lors de la lecture sur des haut-parleurs standard. Les paysages sonores sont ici spécialement calibrés pour déclencher une réponse psychologique subtile associée au folklore ancien et à l’écoute nocturne. Le récit de cette semaine plonge au cœur de vérités cachées qui refusent de rester enfouies en silence, faisant de chaque seconde un moment crucial.
 
-Regarde la vidéo avec les illustrations d&apos;horreur originales sur YouTube:
+Regarde la vidéo avec les illustrations d'horreur originales sur YouTube:
 https://youtu.be/g4k5xgiJrfM
 
 Watch with original horror artwork on YouTube:
@@ -551,23 +597,24 @@ https://youtu.be/9OqZb4L3-pg</description>
       <guid isPermaLink="false">ed857caa-8f74-4390-a6da-63ad78dcb8de</guid>
       <pubDate>Fri, 05 Jun 2026 20:19:28 +0530</pubDate>
       <link>https://youtu.be/9OqZb4L3-pg</link>
-      <itunes:summary>Dans cet épisode, Dev et Meera affrontent le silence inquiétant de l’idole tout en évoluant dans un paysage sonore cauchemardesque. Horreur pure et bande originale unique caractérisent ce voyage atmosphérique dans les ténèbres.</itunes:summary>
-      <itunes:duration>3:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg?v=86d146980b17" />
-      <itunes:episode>2</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, des bruits effrayants, enregistrement binaural, une histoire de fantômes, thriller surnaturel, fiction noire, secte effrayante, mystères occultes, écoute nocturne, une conception sonore immersive, bande originale, le chuchoteur de minuit, fiction audio, récit d&apos;horreur, doublage, horreur atmosphérique, murmures sombres, expérience audio</itunes:keywords>
+      <ns0:summary>Dans cet épisode, Dev et Meera affrontent le silence inquiétant de l’idole tout en évoluant dans un paysage sonore cauchemardesque. Horreur pure et bande originale unique caractérisent ce voyage atmosphérique dans les ténèbres.</ns0:summary>
+      <ns0:duration>3:31</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_idol_that_ate_the_light_fr.jpg?v=86d146980b17" />
+      <ns0:episode>2</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, des bruits effrayants, enregistrement binaural, une histoire de fantômes, thriller surnaturel, fiction noire, secte effrayante, mystères occultes, écoute nocturne, une conception sonore immersive, bande originale, le chuchoteur de minuit, fiction audio, récit d'horreur, doublage, horreur atmosphérique, murmures sombres, expérience audio</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Épisode 1: Une histoire audio intitulée « Une ombre trempée »</title>
-      <description>Quand le silence s&apos;étire à l&apos;infini, même les ombres se taisent. Ce soir, on t&apos;invite à monter à bord d&apos;un bateau où le son se retourne contre lui-même, exigeant toute ton attention pour survivre à la nuit. Alors que le moteur rugit, Mira et Arman se rendent compte que leur cale recèle des secrets qui défient les lois de la physique, tandis qu&apos;ils dérivent dans un vide noir. Cette œuvre offre une tension atmosphérique pure, sans distraction visuelle, pour que tu puisses entendre la vérité cachée dans les vagues.
+      <description>Quand le silence s'étire à l'infini, même les ombres se taisent. Ce soir, on t'invite à monter à bord d'un bateau où le son se retourne contre lui-même, exigeant toute ton attention pour survivre à la nuit. Alors que le moteur rugit, Mira et Arman se rendent compte que leur cale recèle des secrets qui défient les lois de la physique, tandis qu'ils dérivent dans un vide noir. Cette œuvre offre une tension atmosphérique pure, sans distraction visuelle, pour que tu puisses entendre la vérité cachée dans les vagues.
 
-Tu vivras cette tension grâce à une intimité au niveau de l’oreille, grâce à des microphones haute fidélité qui capturent chaque craquement du bois et chaque claquement de corde mouillée contre le métal. Si tu recherches un récit captivant, cette œuvre offre une tension atmosphérique pure, sans distraction visuelle. Notre production s&apos;appuie sur la superposition de résonances pour créer une profondeur qui dépasse ce que l&apos;œil peut voir; en d&apos;autres termes, ferme les yeux et laisse le son t&apos;envelopper. Ce drame audio est conçu pour être écouté au casque, offrant une expérience immersive qu&apos;une vidéo standard ne peut égaler.
+Tu vivras cette tension grâce à une intimité au niveau de l’oreille, grâce à des microphones haute fidélité qui capturent chaque craquement du bois et chaque claquement de corde mouillée contre le métal. Si tu recherches un récit captivant, cette œuvre offre une tension atmosphérique pure, sans distraction visuelle. Notre production s'appuie sur la superposition de résonances pour créer une profondeur qui dépasse ce que l'œil peut voir; en d'autres termes, ferme les yeux et laisse le son t'envelopper. Ce drame audio est conçu pour être écouté au casque, offrant une expérience immersive qu'une vidéo standard ne peut égaler.
 
-Remarque: contient des thèmes liés au danger surnaturel, au suspense psychologique et à l&apos;horreur maritime impliquant un sombre voyage en bateau. Pour ceux qui souhaitent visualiser la scène, rends-toi sur la chaîne YouTube à l&apos;adresse https://www.youtube.com/@MidnightWhispererDark pour découvrir l&apos;expérience visuelle avec des illustrations originales accompagnant le flux audio. Soutiens-nous en cliquant sur « s&apos;abonner », en notant et en laissant un commentaire sur ton application de podcast préférée. Ces gestes aident à éclairer la voie à suivre pour nos auditeurs. Écrit et produit par Midnight Whisperer, dédié à faire entrer les ténèbres dans le monde numérique pour les fans de divertissement effrayant.
+Remarque: contient des thèmes liés au danger surnaturel, au suspense psychologique et à l'horreur maritime impliquant un sombre voyage en bateau. Pour ceux qui souhaitent visualiser la scène, rends-toi sur la chaîne YouTube à l'adresse https://www.youtube.com/@MidnightWhispererDark pour découvrir l'expérience visuelle avec des illustrations originales accompagnant le flux audio. Soutiens-nous en cliquant sur « s'abonner », en notant et en laissant un commentaire sur ton application de podcast préférée. Ces gestes aident à éclairer la voie à suivre pour nos auditeurs. Écrit et produit par Midnight Whisperer, dédié à faire entrer les ténèbres dans le monde numérique pour les fans de divertissement effrayant.
 
-Regarde avec les illustrations d&apos;horreur originales sur YouTube:
+Regarde avec les illustrations d'horreur originales sur YouTube:
 https://youtu.be/8ex2WvfAM8k
 
 Watch with original horror artwork on YouTube:
@@ -576,13 +623,14 @@ https://youtu.be/Rkrn-zpCMHE</description>
       <guid isPermaLink="false">1f615d1c-7055-492c-8fdf-d62c898ac05c</guid>
       <pubDate>Thu, 04 Jun 2026 10:45:48 +0530</pubDate>
       <link>https://youtu.be/Rkrn-zpCMHE</link>
-      <itunes:summary>Dans cette pièce radiophonique, Mira et Arman traversent un lac fantomatique sans guide. L&apos;ambiance sonore s&apos;intensifie alors que le silence envahit l&apos;équipage de leur bateau au cours d&apos;un voyage dans l&apos;obscurité.</itunes:summary>
-      <itunes:duration>5:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_lamp_on_the_water_fr.jpg?v=5344337b1041" />
-      <itunes:episode>1</itunes:episode>
-      <itunes:keywords>podcast d&apos;horreur, histoires qui font peur, pièce radiophonique, conception sonore binaurale, bande originale, horreur maritime, thèmes surnaturels, un enregistrement effrayant, une histoire de fantômes, récits sombres, le chuchoteur de minuit, conte audio, mystère occulte, tout ce qu&apos;il faut savoir sur l&apos;eau, ambiance inquiétante, enregistrement audio d&apos;un trajet de nuit, épisode de podcast qui donne la chair de poule</itunes:keywords>
+      <ns0:summary>Dans cette pièce radiophonique, Mira et Arman traversent un lac fantomatique sans guide. L'ambiance sonore s'intensifie alors que le silence envahit l'équipage de leur bateau au cours d'un voyage dans l'obscurité.</ns0:summary>
+      <ns0:duration>5:12</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/fr/artwork/the_lamp_on_the_water_fr.jpg?v=5344337b1041" />
+      <ns0:episode>1</ns0:episode>
+      <ns0:keywords>podcast d'horreur, histoires qui font peur, pièce radiophonique, conception sonore binaurale, bande originale, horreur maritime, thèmes surnaturels, un enregistrement effrayant, une histoire de fantômes, récits sombres, le chuchoteur de minuit, conte audio, mystère occulte, tout ce qu'il faut savoir sur l'eau, ambiance inquiétante, enregistrement audio d'un trajet de nuit, épisode de podcast qui donne la chair de poule</ns0:keywords>
     </item>
+  
   </channel>
 </rss>
