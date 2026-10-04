@@ -10,7 +10,7 @@
     <description>Dramas de áudio de terror originais em português do Brasil, com vozes, design de som imersivo e trilha sonora para ouvir de fones no escuro.</description>
     <language>pt-BR</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 19:06:52 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:20:42 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Brasil</itunes:author>
     <itunes:summary>Dramas de áudio de terror originais em português do Brasil, com vozes, design de som imersivo e trilha sonora para ouvir de fones no escuro.</itunes:summary>
@@ -27,6 +27,33 @@
     <itunes:category text="Fiction" />
 
     <item>
+      <title>Episódio 22: Darwin, 1929: O que se move quando Mara desvia o olhar?</title>
+      <description>Nesta ficção original ambientada em Darwin, Austrália, em 1929, o que atravessa a porta sempre que Mara desvia o olhar?
+
+Às 0h17, Mara destranca uma cabana de rádio no litoral para uma visita imobiliária assombrada. Um fio vermelho revela uma porta que não deveria existir. Por ela surge a Boneca da Fita: madeira rachada, um olho de fita preta e uma silhueta maior de fumaça que nunca assume forma humana. Sempre que Mara desvia o olhar, a boneca atravessa exatamente uma porta e deixa uma marca molhada onde não há água. Ao terceiro toque do sino, a saída indicada no mapa está bloqueada. Será que ela consegue fechar o limiar antes que o catálogo reivindique mais um item?
+
+O Fio Vermelho em Darwin é uma história de terror de ficção original. Darwin e 1929 são o cenário imaginado da história, não o local e a data de uma assombração documentada. O conto se inspira na lógica de advertência dos Jiangshi e em uma tendência não verificada sobre visitas a imóveis assombrados; não apresenta essa alegação da internet como fato.
+
+Referência do lugar: Australian War Memorial, “Darwin”. A fonte confirma o lugar, não os acontecimentos fictícios nem o ano em que a história se passa.
+https://www.awm.gov.au/collection/PL2155
+
+Ouça com fones de ouvido. Siga o podcast para ouvir mais histórias de terror originais.
+
+Assista à experiência visual com arte de terror original no YouTube:
+https://youtu.be/C6IooLGxy3E</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/episodes/episode_047_pt-BR.mp3?v=ef1d9c6dab4c" length="2200701" type="audio/mpeg" />
+      <guid isPermaLink="false">f120685f-cbac-40a9-b0c4-85e11a932227</guid>
+      <pubDate>Sun, 04 Oct 2026 10:20:09 +0530</pubDate>
+      <link>https://youtu.be/C6IooLGxy3E</link>
+      <itunes:summary>Nesta ficção de terror original ambientada em Darwin, Austrália, em 1929, Mara descobre uma porta e uma boneca de madeira que avança sempre que ela desvia o olhar.</itunes:summary>
+      <itunes:duration>1:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/episode_047_pt-BR.jpg?v=b3938ab77ce4" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:keywords>história de terror, Darwin, 1929, O Fio Vermelho em Darwin, Boneca da Fita, casa assombrada, terror sobrenatural, ficção original, Jiangshi</itunes:keywords>
+    </item>
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 21: Kuldhara, 1825: por que as sombras foram as últimas a partir?</title>
       <description>Por que um topógrafo contou uma sombra a mais em Kuldhara, perto de Jaisalmer, Rajastão, Índia, após o lendário abandono da aldeia em 1825?
 
@@ -50,15 +77,16 @@ Escrito e produzido por Midnight Whisperer Brasil.</description>
       <guid isPermaLink="false">91dc8e75-e647-5f14-8d30-c261127dd394</guid>
       <pubDate>Tue, 04 Aug 2026 16:58:39 +0530</pubDate>
       <link>https://youtu.be/ytDuCL8cI5k</link>
-      <itunes:summary>A topógrafa Meera entra em Kuldhara para terminar o mapa de seu falecido pai e quebra a única regra do guardião ao contar uma terceira sombra em voz alta. Para escapar antes do amanhecer, ela precisa dar seu nome completo à impossível Casa Quarenta e Dois e deixar a própria sombra para trás.</itunes:summary>
-      <itunes:duration>2:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_village_left_in_one_night_pt-BR.jpg?v=78329da45127" />
-      <itunes:episode>21</itunes:episode>
-      <itunes:keywords>podcast de terror, audiodrama de terror folclórico, Kuldhara, Kuldhara 1825, lendas da Índia, aldeia abandonada, três sombras, Casa Quarenta e Dois, mapa topográfico assombrado, contagem proibida, Meera e Rafiq, história de fantasma do deserto, ficção sonora sobrenatural, design de som imersivo, terror com fones, terror de sombras, história de terror original, Midnight Whisperer Brasil</itunes:keywords>
+      <ns0:summary>A topógrafa Meera entra em Kuldhara para terminar o mapa de seu falecido pai e quebra a única regra do guardião ao contar uma terceira sombra em voz alta. Para escapar antes do amanhecer, ela precisa dar seu nome completo à impossível Casa Quarenta e Dois e deixar a própria sombra para trás.</ns0:summary>
+      <ns0:duration>2:47</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_village_left_in_one_night_pt-BR.jpg?v=78329da45127" />
+      <ns0:episode>21</ns0:episode>
+      <ns0:keywords>podcast de terror, audiodrama de terror folclórico, Kuldhara, Kuldhara 1825, lendas da Índia, aldeia abandonada, três sombras, Casa Quarenta e Dois, mapa topográfico assombrado, contagem proibida, Meera e Rafiq, história de fantasma do deserto, ficção sonora sobrenatural, design de som imersivo, terror com fones, terror de sombras, história de terror original, Midnight Whisperer Brasil</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 20: Praia de Dumas, 2026: quem sussurrou da areia preta? | Audiodrama de terror imersivo</title>
       <description>Por que uma reportagem de 2026 sobre a praia de Dumas, perto de Surat, Gujarat, Índia, descreveu sussurros que subiam da areia preta depois do anoitecer?
 
@@ -72,15 +100,16 @@ https://youtu.be/fakoER-DciA</description>
       <guid isPermaLink="false">869452f2-7130-5a97-adac-3043547c72c1</guid>
       <pubDate>Thu, 23 Jul 2026 15:38:57 +0530</pubDate>
       <link>https://youtu.be/fakoER-DciA</link>
-      <itunes:summary>Uma irmã atravessa a praia de Dumas no escuro para salvar o irmão de uma areia preta que rouba vozes e cobra um preço para libertá-lo.</itunes:summary>
-      <itunes:duration>3:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_black_sand_whispered_back_pt-BR.jpg?v=2255c251aa87" />
-      <itunes:episode>20</itunes:episode>
-      <itunes:keywords>podcast de terror, audiodrama imersivo, praia de Dumas 2026, areia preta, terror indiano, lenda de Gujarat, praia assombrada, voz roubada, terror no mar, Nirali e Dev, suspense sobrenatural, Midnight Whisperer Brasil</itunes:keywords>
+      <ns0:summary>Uma irmã atravessa a praia de Dumas no escuro para salvar o irmão de uma areia preta que rouba vozes e cobra um preço para libertá-lo.</ns0:summary>
+      <ns0:duration>3:15</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_black_sand_whispered_back_pt-BR.jpg?v=2255c251aa87" />
+      <ns0:episode>20</ns0:episode>
+      <ns0:keywords>podcast de terror, audiodrama imersivo, praia de Dumas 2026, areia preta, terror indiano, lenda de Gujarat, praia assombrada, voz roubada, terror no mar, Nirali e Dev, suspense sobrenatural, Midnight Whisperer Brasil</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 19: Paraná, 1947: Por que a Cova o Devolveu?</title>
       <description>Por que uma obra de geografia folclórica de 1947 situou o Corpo-Seco, rejeitado pela terra, no Paraná, Brasil, onde até a morte o rejeitou?
 
@@ -102,15 +131,16 @@ Escrito e produzido por Midnight Whisperer Brasil.</description>
       <guid isPermaLink="false">232079ff-0956-5684-8a74-7cb79dd6da39</guid>
       <pubDate>Tue, 14 Jul 2026 22:44:16 +0530</pubDate>
       <link>https://youtu.be/3sYCvfuN2JQ</link>
-      <itunes:summary>Bento precisa levar pelas estradas do Paraná um caixão rejeitado pelo céu, pelo inferno e pela terra sem jamais responder a uma voz roubada com um nome. Quando o morto chama com a voz de Rosa, salvar a filha pode obrigá-lo a entregar à estrada o próprio nome.</itunes:summary>
-      <itunes:duration>3:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_grave_gave_him_back_pt-BR.jpg?v=1255d89751c8" />
-      <itunes:episode>19</itunes:episode>
-      <itunes:keywords>podcast de terror, drama de áudio de terror, terror folclórico, Corpo-Seco, folclore brasileiro, folclore do Paraná, Cascudo 1947, estrada dos enterros, caixão amaldiçoado, morto rejeitado, voz roubada, nome proibido, Bento e Rosa, ficção sonora sobrenatural, design de som imersivo, terror para ouvir de fones, história de assombração, Midnight Whisperer Brasil</itunes:keywords>
+      <ns0:summary>Bento precisa levar pelas estradas do Paraná um caixão rejeitado pelo céu, pelo inferno e pela terra sem jamais responder a uma voz roubada com um nome. Quando o morto chama com a voz de Rosa, salvar a filha pode obrigá-lo a entregar à estrada o próprio nome.</ns0:summary>
+      <ns0:duration>3:01</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_grave_gave_him_back_pt-BR.jpg?v=1255d89751c8" />
+      <ns0:episode>19</ns0:episode>
+      <ns0:keywords>podcast de terror, drama de áudio de terror, terror folclórico, Corpo-Seco, folclore brasileiro, folclore do Paraná, Cascudo 1947, estrada dos enterros, caixão amaldiçoado, morto rejeitado, voz roubada, nome proibido, Bento e Rosa, ficção sonora sobrenatural, design de som imersivo, terror para ouvir de fones, história de assombração, Midnight Whisperer Brasil</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 18: Punjab, 1894: Por que a noiva da estrada escondia os pés?</title>
       <description>Por que um livro de folclore de Punjab, na Índia Britânica, publicado em 1894 diz que pés virados denunciam uma bela churel?
 
@@ -126,15 +156,16 @@ https://youtu.be/Y-bBi3ylYVg</description>
       <guid isPermaLink="false">dc96628b-2561-50e6-a92c-e38eb17166c5</guid>
       <pubDate>Wed, 08 Jul 2026 16:56:29 +0530</pubDate>
       <link>https://youtu.be/Y-bBi3ylYVg</link>
-      <itunes:summary>Arjan para diante de uma noiva com véu em uma estrada do Punjab e descobre que uma tornozeleira perdida pode inverter muito mais do que suas pegadas.</itunes:summary>
-      <itunes:duration>3:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_roadside_bride_had_wrong_feet_pt-BR.jpg?v=64e751360cc6" />
-      <itunes:episode>18</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, terror folclórico, churel, folclore de Punjab, Tales of the Punjab, noiva da estrada, pés virados, tornozeleira de prata, Arjan, terror sobrenatural, ficção de terror, Midnight Whisperer Brasil</itunes:keywords>
+      <ns0:summary>Arjan para diante de uma noiva com véu em uma estrada do Punjab e descobre que uma tornozeleira perdida pode inverter muito mais do que suas pegadas.</ns0:summary>
+      <ns0:duration>3:15</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_roadside_bride_had_wrong_feet_pt-BR.jpg?v=64e751360cc6" />
+      <ns0:episode>18</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, terror folclórico, churel, folclore de Punjab, Tales of the Punjab, noiva da estrada, pés virados, tornozeleira de prata, Arjan, terror sobrenatural, ficção de terror, Midnight Whisperer Brasil</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 17: O que aconteceu em Loudun em 1891?</title>
       <description>“O que aconteceu em Loudun em 1891?” é um audiodrama de terror original do Midnight Whisperer Brasil. Céleste Marin entra no arquivo de um convento para copiar um antigo testemunho, mas uma única regra —não corrigir um nome escrito ao contrário— transforma o registro em um contrato vivo.
 
@@ -148,15 +179,16 @@ https://youtu.be/W3WJ3z9tSe8</description>
       <guid isPermaLink="false">790333b3-c70b-40d8-b25d-c030b46f5b1a</guid>
       <pubDate>Sat, 04 Jul 2026 12:37:59 +0530</pubDate>
       <link>https://youtu.be/W3WJ3z9tSe8</link>
-      <itunes:summary>Um nome aparece ao contrário em um registro de Loudun, e Céleste descobre que corrigi-lo pode abrir todas as portas do arquivo.</itunes:summary>
-      <itunes:duration>3:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_convent_wrote_backwards_pt-BR.jpg?v=2d25b2dc80ff" />
-      <itunes:episode>17</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, terror em áudio, midnight whisperer brasil, o que aconteceu em loudun em 1891?, português brasileiro, gótico vitoriano, ficção de terror</itunes:keywords>
+      <ns0:summary>Um nome aparece ao contrário em um registro de Loudun, e Céleste descobre que corrigi-lo pode abrir todas as portas do arquivo.</ns0:summary>
+      <ns0:duration>3:26</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_convent_wrote_backwards_pt-BR.jpg?v=2d25b2dc80ff" />
+      <ns0:episode>17</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, terror em áudio, midnight whisperer brasil, o que aconteceu em loudun em 1891?, português brasileiro, gótico vitoriano, ficção de terror</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 16: A voz sob os juncos pediu uma substituta</title>
       <description>Antes do primeiro sussurro, você ouvirá uma trajinera deslizando sobre a água negra e os insetos noturnos cercando uma chinampa isolada. Depois, os grilos se calam, um cordão se rompe e uma voz conhecida chama debaixo dos juncos.
 
@@ -182,21 +214,22 @@ https://youtu.be/vy1BIL7XTik</description>
       <guid isPermaLink="false">c5a34a41-ff30-4b43-9ac3-789e1c959d37</guid>
       <pubDate>Thu, 02 Jul 2026 15:32:13 +0530</pubDate>
       <link>https://youtu.be/vy1BIL7XTik</link>
-      <itunes:summary>Uma boneca doada leva Lucía até uma chinampa sem lua onde apenas uma oferenda está virada para o canal. Neste audiodrama imersivo de horror folclórico, uma voz imitada e uma resposta equivocada transformam um ritual de proteção em um pacto de substituição.</itunes:summary>
-      <itunes:duration>3:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_doll_nearest_the_canal_pt-BR.jpg?v=b4774f961e90" />
-      <itunes:episode>16</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias assustadoras, audiodrama, horror folclórico, bonecas assombradas, ilha das bonecas, xochimilco, terror mexicano, horror sobrenatural, boneca amaldiçoada, canais de xochimilco, ficção sonora, terror imersivo, lucía, mateo, maldição da substituição, contos de terror, horror latino-americano, midnight whisperer, terror sem gore</itunes:keywords>
+      <ns0:summary>Uma boneca doada leva Lucía até uma chinampa sem lua onde apenas uma oferenda está virada para o canal. Neste audiodrama imersivo de horror folclórico, uma voz imitada e uma resposta equivocada transformam um ritual de proteção em um pacto de substituição.</ns0:summary>
+      <ns0:duration>3:25</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_doll_nearest_the_canal_pt-BR.jpg?v=b4774f961e90" />
+      <ns0:episode>16</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias assustadoras, audiodrama, horror folclórico, bonecas assombradas, ilha das bonecas, xochimilco, terror mexicano, horror sobrenatural, boneca amaldiçoada, canais de xochimilco, ficção sonora, terror imersivo, lucía, mateo, maldição da substituição, contos de terror, horror latino-americano, midnight whisperer, terror sem gore</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 15: O elevador mostrou o nome dela à meia-noite</title>
       <description>À meia-noite, o elevador parou de mostrar os andares. Em seguida, começou a listar os nomes de todos que ainda estavam na torre — e Ana Ribeiro apareceu por último.
 
 Inspirado nos relatos e no folclore das Treze Almas de São Paulo após o incêndio do edifício Joelma, em 1974, este drama sonoro cinematográfico acompanha uma técnica que apaga um aviso do painel: TREZE ALMAS — NÃO APAGAR.
 
-O elevador pula o décimo terceiro andar. Um copo d&apos;água fica vazio. Treze figuras esperam refletidas no aço. Recomendamos o uso de fones.
+O elevador pula o décimo terceiro andar. Um copo d'água fica vazio. Treze figuras esperam refletidas no aço. Recomendamos o uso de fones.
 
 Assista à história cinematográfica no YouTube:
 
@@ -206,17 +239,18 @@ https://youtu.be/aaULQAvqrFc</description>
       <guid isPermaLink="false">8f308ed1-08f8-4c1e-b638-827dc0fd7fc0</guid>
       <pubDate>Tue, 30 Jun 2026 02:00:12 +0530</pubDate>
       <link>https://youtu.be/aaULQAvqrFc</link>
-      <itunes:summary>Quando Ana apaga o único nome que o prédio ainda dá aos mortos, o elevador escolhe treze substitutos vivos — e deixa o nome dela por último.</itunes:summary>
-      <itunes:duration>3:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_elevator_held_thirteen_names_pt-BR.jpg?v=f87c3fc5d593" />
-      <itunes:episode>15</itunes:episode>
-      <itunes:keywords>midnight whisperer, episódio 29, podcast de terror, drama em áudio, histórias de terror, elevador, treze nomes, ana ribeiro, protetor noturno, som binaural, atmosfera envolvente, trilha sonora original, temas sobrenaturais, história de fantasmas, áudio sombrio, história assustadora, terror brasileiro, experiência auditiva, novo lançamento de terror, produção de áudio</itunes:keywords>
+      <ns0:summary>Quando Ana apaga o único nome que o prédio ainda dá aos mortos, o elevador escolhe treze substitutos vivos — e deixa o nome dela por último.</ns0:summary>
+      <ns0:duration>3:01</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_elevator_held_thirteen_names_pt-BR.jpg?v=f87c3fc5d593" />
+      <ns0:episode>15</ns0:episode>
+      <ns0:keywords>midnight whisperer, episódio 29, podcast de terror, drama em áudio, histórias de terror, elevador, treze nomes, ana ribeiro, protetor noturno, som binaural, atmosfera envolvente, trilha sonora original, temas sobrenaturais, história de fantasmas, áudio sombrio, história assustadora, terror brasileiro, experiência auditiva, novo lançamento de terror, produção de áudio</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 14: Quarto 402 — Assisti à transmissão | Drama de áudio de terror com filmagens encontradas</title>
-      <description>&quot;Quarto 402: Assisti à Transmissão | Drama de Áudio de Terror com Filmagens Encontradas&quot; é um drama de áudio de terror original do site Midnight Whisperer. Essa edição específica para cada local tem todas as falas dubladas, design de som e trilha sonora, criados para uma experiência imersiva com fones de ouvido.
+      <description>"Quarto 402: Assisti à Transmissão | Drama de Áudio de Terror com Filmagens Encontradas" é um drama de áudio de terror original do site Midnight Whisperer. Essa edição específica para cada local tem todas as falas dubladas, design de som e trilha sonora, criados para uma experiência imersiva com fones de ouvido.
 
 Idioma: inglês. A melhor experiência é com fones de ouvido em um quarto escuro.
 
@@ -237,15 +271,16 @@ https://youtu.be/b7BtMr78Iao</description>
       <guid isPermaLink="false">56122d61-15b7-48c3-935d-019c8ed1f46b</guid>
       <pubDate>Sun, 28 Jun 2026 13:35:08 +0530</pubDate>
       <link>https://youtu.be/b7BtMr78Iao</link>
-      <itunes:summary>&quot;Quarto 402: Assisti à Transmissão | Drama em áudio de terror com imagens encontradas&quot; — um drama em áudio de terror original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</itunes:summary>
-      <itunes:duration>3:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/room_402_watched_the_stream_pt-BR.jpg?v=64bcf8fd7788" />
-      <itunes:episode>14</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o quarto 402 assistiu à transmissão | drama de áudio de terror no estilo “found footage”, en informar, podcast de terror, ficção de terror</itunes:keywords>
+      <ns0:summary>"Quarto 402: Assisti à Transmissão | Drama em áudio de terror com imagens encontradas" — um drama em áudio de terror original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</ns0:summary>
+      <ns0:duration>3:09</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/room_402_watched_the_stream_pt-BR.jpg?v=64bcf8fd7788" />
+      <ns0:episode>14</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o quarto 402 assistiu à transmissão | drama de áudio de terror no estilo “found footage”, en informar, podcast de terror, ficção de terror</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 13: A estrada da exploração madeireira percorrida de costas | Série de drama em áudio</title>
       <description>Prepara-te antes de apertar o play, porque a experiência sonora desta noite exige toda a tua atenção sensorial. Midnight Whisperer oferece uma jornada visceral criada especialmente para fones de ouvido, garantindo que cada sussurro pareça assustadoramente real. Nesse especial envolvente de dois minutos, Bento, Alves e Joana se aventuram em um terreno que se recusa a manter sua forma. O caminho à frente se transforma em um labirinto de sons, desafiando tudo o que eles achavam que sabiam sobre segurança.
 
@@ -263,17 +298,18 @@ https://youtu.be/zk2LVrSe0fQ</description>
       <guid isPermaLink="false">3f4a1b1b-44fd-4a1d-a91f-22b3a1a9a643</guid>
       <pubDate>Fri, 26 Jun 2026 15:13:16 +0530</pubDate>
       <link>https://youtu.be/zk2LVrSe0fQ</link>
-      <itunes:summary>Nesse drama em áudio de arrepiar, três almas perdidas se deparam com fenômenos em uma estrada esquecida. Presta atenção enquanto sombras e vozes se fundem em uma verdade aterrorizante.</itunes:summary>
-      <itunes:duration>2:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_logging_road_walked_backward_pt-BR.jpg?v=cae53405fe48" />
-      <itunes:episode>13</itunes:episode>
-      <itunes:keywords>podcast de terror, drama em áudio, histórias de terror, bento, válvulas, joana, caminhei de costas pela estrada de extração de madeira, midnight whisperer, áudio original de terror, atmosfera sombria, um pouquinho de terror, histórias de terror, design de som imersivo, terror binaural, thriller em áudio, história de fantasmas, terror sobrenatural, pronto pro halloween, coisa de dar pesadelo, terror independente</itunes:keywords>
+      <ns0:summary>Nesse drama em áudio de arrepiar, três almas perdidas se deparam com fenômenos em uma estrada esquecida. Presta atenção enquanto sombras e vozes se fundem em uma verdade aterrorizante.</ns0:summary>
+      <ns0:duration>2:58</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_logging_road_walked_backward_pt-BR.jpg?v=cae53405fe48" />
+      <ns0:episode>13</ns0:episode>
+      <ns0:keywords>podcast de terror, drama em áudio, histórias de terror, bento, válvulas, joana, caminhei de costas pela estrada de extração de madeira, midnight whisperer, áudio original de terror, atmosfera sombria, um pouquinho de terror, histórias de terror, design de som imersivo, terror binaural, thriller em áudio, história de fantasmas, terror sobrenatural, pronto pro halloween, coisa de dar pesadelo, terror independente</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 12: O que rolou em “A Estrada que Esqueceu Seus Mortos”?</title>
-      <description>&quot;O que aconteceu em ‘A Estrada que Esqueceu Seus Mortos’?&quot; é um drama de áudio de terror original do site Midnight Whisperer. Essa edição específica para cada local tem todas as falas dubladas, design de som e trilha sonora, criada para uma experiência imersiva com fones de ouvido.
+      <description>"O que aconteceu em ‘A Estrada que Esqueceu Seus Mortos’?" é um drama de áudio de terror original do site Midnight Whisperer. Essa edição específica para cada local tem todas as falas dubladas, design de som e trilha sonora, criada para uma experiência imersiva com fones de ouvido.
 
 Idioma: inglês. A melhor experiência é com fones de ouvido em um quarto escuro.
 
@@ -294,15 +330,16 @@ https://youtu.be/oif_NEkv0eY</description>
       <guid isPermaLink="false">abd48de3-f54c-4b33-9692-e01fd60600c3</guid>
       <pubDate>Thu, 25 Jun 2026 22:31:35 +0530</pubDate>
       <link>https://youtu.be/oif_NEkv0eY</link>
-      <itunes:summary>&quot;O que aconteceu em ‘A Estrada que Esqueceu Seus Mortos’?&quot; — um drama de áudio de terror original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</itunes:summary>
-      <itunes:duration>2:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_pt-BR.jpg?v=90b4096b0e8b" />
-      <itunes:episode>12</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu naquela estrada que esqueceu seus mortos?, en informar, podcast de terror, ficção de terror</itunes:keywords>
+      <ns0:summary>"O que aconteceu em ‘A Estrada que Esqueceu Seus Mortos’?" — um drama de áudio de terror original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</ns0:summary>
+      <ns0:duration>2:38</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_no_dawn_war_episode_001_the_road_that_forgot_its_dead_pt-BR.jpg?v=90b4096b0e8b" />
+      <ns0:episode>12</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu naquela estrada que esqueceu seus mortos?, en informar, podcast de terror, ficção de terror</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 11: O sinal silencioso da central telefônica</title>
       <description>No silêncio oco de uma sala de centrais telefônicas, algo te espera logo depois do tom de discagem. Prepara seus fones de ouvido para uma jornada em que o próprio som se torna o antagonista nesta produção totalmente dublada. A gente te convida a entrar na estática e na sombra, tirando todo o conforto visual pra te deixar vulnerável em uma paisagem sonora feita pra drama em áudio. Isso não é só uma história; é uma experiência de terror imersiva criada pra ressoar pelos seus alto-falantes e invadir o seu próprio espaço.
 
@@ -322,15 +359,16 @@ https://youtu.be/HpvAfBvOcDo</description>
       <guid isPermaLink="false">070847cc-44ce-4674-aece-7dcb3f7071ed</guid>
       <pubDate>Wed, 24 Jun 2026 18:43:59 +0530</pubDate>
       <link>https://youtu.be/HpvAfBvOcDo</link>
-      <itunes:summary>Nesse drama em áudio, Lotte, Rosenheim e Weiss enfrentam o silêncio assustador de uma central telefônica. A história usa um design de som binaural pra te levar pra uma atmosfera onde o ruído estático e as sombras se misturam.</itunes:summary>
-      <itunes:duration>2:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_switchboard_dialed_no_one_pt-BR.jpg?v=49e64bd36be5" />
-      <itunes:episode>11</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, thriller sobrenatural, design de som binaural, narrativa imersiva, drama em áudio original, horror noturno, uma experiência sonora assustadora, novo filme de terror, história da dublagem, terror atmosférico, história de um telefonema, o mistério da central telefônica, lotte e rosenheim, midnight whisperer, episódio 25, áudio com elenco completo, história de ambient sombrio, sem intervalos comerciais</itunes:keywords>
+      <ns0:summary>Nesse drama em áudio, Lotte, Rosenheim e Weiss enfrentam o silêncio assustador de uma central telefônica. A história usa um design de som binaural pra te levar pra uma atmosfera onde o ruído estático e as sombras se misturam.</ns0:summary>
+      <ns0:duration>2:29</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_switchboard_dialed_no_one_pt-BR.jpg?v=49e64bd36be5" />
+      <ns0:episode>11</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, thriller sobrenatural, design de som binaural, narrativa imersiva, drama em áudio original, horror noturno, uma experiência sonora assustadora, novo filme de terror, história da dublagem, terror atmosférico, história de um telefonema, o mistério da central telefônica, lotte e rosenheim, midnight whisperer, episódio 25, áudio com elenco completo, história de ambient sombrio, sem intervalos comerciais</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 10: O que aconteceu em Ishinomaki em 2011?</title>
       <description>“O que aconteceu em Ishinomaki em 2011?” é um drama de áudio de terror original do site Midnight Whisperer. Essa edição específica para a região conta com dublagem completa, design de som e trilha sonora, tudo pensado para uma experiência imersiva com fones de ouvido.
 
@@ -353,15 +391,16 @@ https://youtu.be/RzOz03eSHXs</description>
       <guid isPermaLink="false">72fec0f0-1be1-4bd5-ac3b-5a25c97365d4</guid>
       <pubDate>Wed, 24 Jun 2026 05:28:59 +0530</pubDate>
       <link>https://youtu.be/RzOz03eSHXs</link>
-      <itunes:summary>&quot;O que aconteceu em Ishinomaki em 2011?&quot; — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</itunes:summary>
-      <itunes:duration>2:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_meter_kept_running_to_the_sea_pt-BR.jpg?v=d258dd0fae93" />
-      <itunes:episode>10</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu em ishinomaki em 2011? o que aconteceu em ishinomaki em 2011?, en informar, podcast de terror, ficção de terror</itunes:keywords>
+      <ns0:summary>"O que aconteceu em Ishinomaki em 2011?" — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</ns0:summary>
+      <ns0:duration>2:52</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_meter_kept_running_to_the_sea_pt-BR.jpg?v=d258dd0fae93" />
+      <ns0:episode>10</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu em ishinomaki em 2011? o que aconteceu em ishinomaki em 2011?, en informar, podcast de terror, ficção de terror</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 9: O que aconteceu em Belmez de la Moraleda em 1971?</title>
       <description>“O que aconteceu em Belmez de la Moraleda em 1971?” é um drama de terror em áudio original do site Midnight Whisperer. Essa edição específica para o local conta com dublagem completa, design de som e trilha sonora, tudo pensado para uma experiência imersiva com fones de ouvido.
 
@@ -384,15 +423,16 @@ https://youtu.be/_n-kGxHv0LA</description>
       <guid isPermaLink="false">0fe09ae8-bb8d-43da-a0f4-9b03bb390ee8</guid>
       <pubDate>Mon, 22 Jun 2026 00:50:03 +0530</pubDate>
       <link>https://youtu.be/_n-kGxHv0LA</link>
-      <itunes:summary>&quot;O que aconteceu em Belmez de la Moraleda em 1971?&quot; — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</itunes:summary>
-      <itunes:duration>2:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_kitchen_floor_learned_a_face_pt-BR.jpg?v=ad0fc6c0c99d" />
-      <itunes:episode>9</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu em belmez de la moraleda em 1971? o que aconteceu em belmez de la moraleda em 1971?, en informar, podcast de terror, ficção de terror</itunes:keywords>
+      <ns0:summary>"O que aconteceu em Belmez de la Moraleda em 1971?" — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com design de som imersivo.</ns0:summary>
+      <ns0:duration>2:42</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_kitchen_floor_learned_a_face_pt-BR.jpg?v=ad0fc6c0c99d" />
+      <ns0:episode>9</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, drama em áudio, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu em belmez de la moraleda em 1971? o que aconteceu em belmez de la moraleda em 1971?, en informar, podcast de terror, ficção de terror</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 8: Quem respondeu debaixo da colcha?</title>
       <description>Clara chega a uma fazenda em Adams, Tennessee, para copiar uma Bíblia de família, mas a Sra. Marrow avisa que depois da meia-noite ela não deve responder à voz debaixo da colcha.
 
@@ -405,15 +445,16 @@ Idioma: português brasileiro. Ouça com fones de ouvido e as luzes apagadas.</d
       <guid isPermaLink="false">3c031a79-305f-4801-92ec-4f7359fb5685</guid>
       <pubDate>Sat, 20 Jun 2026 00:02:53 +0530</pubDate>
       <link>https://youtu.be/to2rbYfIjDI</link>
-      <itunes:summary>Uma história de terror gótico em português brasileiro sobre Clara, Sra. Marrow e a voz que espera debaixo de uma colcha em Adams, Tennessee.</itunes:summary>
-      <itunes:duration>7:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_voice_under_the_quilt_pt-BR.jpg?v=4d29fb3dfd13" />
-      <itunes:episode>8</itunes:episode>
-      <itunes:keywords>terror em português, história de terror, terror gótico, audiodrama, bruxas, Adams Tennessee, Midnight Whisperer</itunes:keywords>
+      <ns0:summary>Uma história de terror gótico em português brasileiro sobre Clara, Sra. Marrow e a voz que espera debaixo de uma colcha em Adams, Tennessee.</ns0:summary>
+      <ns0:duration>7:36</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_voice_under_the_quilt_pt-BR.jpg?v=4d29fb3dfd13" />
+      <ns0:episode>8</ns0:episode>
+      <ns0:keywords>terror em português, história de terror, terror gótico, audiodrama, bruxas, Adams Tennessee, Midnight Whisperer</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 7: O eco gelado do inverno</title>
       <description>Entre numa realidade arrepiante onde o vento se recusa a ir embora e as sombras falam mais alto do que as palavras. Riya, Nima e Bappa percorrem uma paisagem que parece estar sendo observada por algo mais antigo do que a memória, criando uma atmosfera onde o silêncio se torna perigoso. Você vai ouvir uma narrativa construída com base na autenticidade vocal e no medo atmosférico, feita para te envolver totalmente na fria noite de inverno. Presta atenção enquanto Riya e Nima lutam com verdades ocultas, enquanto a voz da chamada continua a marcar os momentos que passam em meio ao perigo. Cada sinal binaural e som repentino muda a perspectiva, mantendo o horror autêntico e cru ao longo de toda essa experiência de drama em áudio.
 
@@ -427,17 +468,18 @@ https://youtu.be/0BSEyWiBVzs</description>
       <guid isPermaLink="false">200d9209-064b-4937-86d3-71409f447380</guid>
       <pubDate>Sat, 13 Jun 2026 13:37:18 +0530</pubDate>
       <link>https://youtu.be/0BSEyWiBVzs</link>
-      <itunes:summary>Riya enfrenta o silêncio do inverno, e Nima descobre segredos escondidos na neve. Roll Call Voice traz verdades arrepiante que mudam a realidade para sempre.</itunes:summary>
-      <itunes:duration>7:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_school_marched_in_winter_pt-BR.jpg?v=1bd5aa0f25c5" />
-      <itunes:episode>7</itunes:episode>
-      <itunes:keywords>midnight whisperer, podcast de terror, histórias de terror, audiolivro, trilha sonora original, som binaural, riya, nima, bappa, votação nominal, inverno, escola, sobrenatural, assustador, áudio narrativo, paisagem sonora envolvente, elenco completo, ficção sombria, sussurros arrepiante, atmosfera assustadora</itunes:keywords>
+      <ns0:summary>Riya enfrenta o silêncio do inverno, e Nima descobre segredos escondidos na neve. Roll Call Voice traz verdades arrepiante que mudam a realidade para sempre.</ns0:summary>
+      <ns0:duration>7:16</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_school_marched_in_winter_pt-BR.jpg?v=1bd5aa0f25c5" />
+      <ns0:episode>7</ns0:episode>
+      <ns0:keywords>midnight whisperer, podcast de terror, histórias de terror, audiolivro, trilha sonora original, som binaural, riya, nima, bappa, votação nominal, inverno, escola, sobrenatural, assustador, áudio narrativo, paisagem sonora envolvente, elenco completo, ficção sombria, sussurros arrepiante, atmosfera assustadora</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 6: O que aconteceu no Forte de Bhangarh em 2018?</title>
-      <description>&quot;O que aconteceu no Forte de Bhangarh em 2018?&quot; é um drama de terror em áudio original do site Midnight Whisperer. Esta edição específica para o local conta com dublagem completa, design de som e trilha sonora, criada para uma experiência imersiva com fones de ouvido.
+      <description>"O que aconteceu no Forte de Bhangarh em 2018?" é um drama de terror em áudio original do site Midnight Whisperer. Esta edição específica para o local conta com dublagem completa, design de som e trilha sonora, criada para uma experiência imersiva com fones de ouvido.
 
 Idioma: inglês. Recomenda-se ouvir com fones de ouvido em um quarto escuro.
 
@@ -459,15 +501,16 @@ https://youtu.be/BAk7VGQVBrg</description>
       <guid isPermaLink="false">4f978678-031b-44c6-8f26-eefdefa89210</guid>
       <pubDate>Thu, 11 Jun 2026 18:10:16 +0530</pubDate>
       <link>https://youtu.be/BAk7VGQVBrg</link>
-      <itunes:summary>&quot;O que aconteceu no Forte de Bhangarh em 2018?&quot; — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com um design de som envolvente.</itunes:summary>
-      <itunes:duration>6:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_fort_sign_waited_for_dusk_pt-BR.jpg?v=0b9091de12e7" />
-      <itunes:episode>6</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu no forte de bhangarh em 2018?, pt, podcast de terror, ficção de terror</itunes:keywords>
+      <ns0:summary>"O que aconteceu no Forte de Bhangarh em 2018?" — um drama de terror em áudio original do site Midnight Whisperer, apresentado em inglês com um design de som envolvente.</ns0:summary>
+      <ns0:duration>6:29</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_fort_sign_waited_for_dusk_pt-BR.jpg?v=0b9091de12e7" />
+      <ns0:episode>6</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, audiolivro, narração de terror, creepypasta, histórias de fantasmas, áudio de terror, midnight whisperer, o que aconteceu no forte de bhangarh em 2018?, pt, podcast de terror, ficção de terror</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 5: A Água Conhece Seus Nomes</title>
       <description>Bem-vindo a uma experiência sonora arrepiante, onde o silêncio muitas vezes sussurra mais alto do que o próprio medo ao longo de todo este lançamento. Convidamos os ouvintes mais dedicados a colocarem os fones de ouvido e a vivenciarem uma narrativa construída inteiramente em torno da voz humana e de texturas ambientais. No Episódio 19, intitulado “The Water Knows Your Names”, os personagens fictícios Lidia, Inês e Mateo se veem envolvidos em um fenômeno sobrenatural que desafia as leis da natureza, enquanto enfrentam uma transformação aterrorizante em algo irreconhecível. A história se desenrola por meio de diálogos ricamente detalhados, garantindo que cada palavra falada pareça tangível e carregada de consequências para os personagens envolvidos.
 
@@ -482,15 +525,16 @@ https://youtu.be/3JKRtoBeRjw</description>
       <guid isPermaLink="false">b9118b3a-6e11-4ba2-bd64-0f29702857d1</guid>
       <pubDate>Mon, 08 Jun 2026 15:07:32 +0530</pubDate>
       <link>https://youtu.be/3JKRtoBeRjw</link>
-      <itunes:summary>Nesta peça em áudio, Lídia, Inês e Mateo enfrentam um fenômeno sobrenatural nas águas do canal. A narrativa é conduzida por um design de som binaural envolvente e uma narrativa fortemente baseada na voz.</itunes:summary>
-      <itunes:duration>6:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_canal_learns_your_childs_voice_pt-BR.jpg?v=d56d9e02f202" />
-      <itunes:episode>5</itunes:episode>
-      <itunes:keywords>podcast de terror, audiolivro, histórias de terror, terror sobrenatural, áudio binaural, design de som imersivo, midnight whisperer, série de podcasts original, drama de terror em áudio, episódio 19 do podcast, história do canal, atmosfera sombria, narrador de terror, narração em áudio, áudio assustador</itunes:keywords>
+      <ns0:summary>Nesta peça em áudio, Lídia, Inês e Mateo enfrentam um fenômeno sobrenatural nas águas do canal. A narrativa é conduzida por um design de som binaural envolvente e uma narrativa fortemente baseada na voz.</ns0:summary>
+      <ns0:duration>6:58</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_canal_learns_your_childs_voice_pt-BR.jpg?v=d56d9e02f202" />
+      <ns0:episode>5</ns0:episode>
+      <ns0:keywords>podcast de terror, audiolivro, histórias de terror, terror sobrenatural, áudio binaural, design de som imersivo, midnight whisperer, série de podcasts original, drama de terror em áudio, episódio 19 do podcast, história do canal, atmosfera sombria, narrador de terror, narração em áudio, áudio assustador</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 4: O rio lembra-se do silêncio</title>
       <description>Entre nas sombras, onde o som tece a realidade em *Midnight Whisperer*, criado especificamente para quem curte áudio imersivo, e não para quem ouve só de passagem. Esse drama em áudio deixa de lado as imagens para dar asas à imaginação pura, garantindo que cada sussurro chegue suave, mas nítido, direto no seu ouvido. Nesta narrativa específica, o trio de estudantes chamado Bima, Dimas e Sari percorre uma margem de rio aterrorizante, onde a lei da travessia tem um peso impossível. A ponte lembra todos os momentos anteriores, exigindo pagamento estritamente por meio da memória retida. Você ouvirá histórias totalmente narradas, sobrepostas a ruídos ambientais assustadores, criados especificamente para perturbar seus sentidos durante a reprodução. Técnicas de gravação binaural simulam o movimento da cabeça, colocando o ouvinte diretamente no meio das trágicas consequências das tentativas de travessia. Nossa equipe de produção priorizou a criação de uma trilha sonora original com ritmo meticuloso, juntamente com efeitos sonoros (SFX) feitos sob medida para audição com fones de ouvido. Convidamos você a explorar como soa o medo quando não é necessário nenhum vídeo, deixando espaço para que sua própria imaginação preencha as lacunas sombrias. Contém temas específicos adequados para fãs de terror que buscam profundidade atmosférica sem distrações visuais. Assista à experiência narrativa visual completa disponível no YouTube, com arte exclusiva, mas saiba que o áudio oferece uma verdade mais profunda. Inscrever-se e avaliar são partes essenciais da nossa rede de apoio à comunidade para conteúdo contínuo. Escrito e produzido inteiramente pela equipe da produtora Midnight Whisperer, oferecendo narrativa em áudio profissional.
 
@@ -503,15 +547,16 @@ https://youtu.be/dnZaS8i-T5s</description>
       <guid isPermaLink="false">be236206-517c-4f52-9838-d9f6c465a925</guid>
       <pubDate>Sun, 07 Jun 2026 14:13:36 +0530</pubDate>
       <link>https://youtu.be/dnZaS8i-T5s</link>
-      <itunes:summary>Os alunos se deparam com um rio amaldiçoado que se lembra de seus passos, revelando por que é proibido atravessá-lo duas vezes. Um elenco de dubladores completo e um design de som envolvente revelam a tragédia presa entre as sílabas.</itunes:summary>
-      <itunes:duration>6:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_bridge_no_student_crossed_twice_pt-BR.jpg?v=606dcc37112d" />
-      <itunes:episode>4</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, terror binaural, thriller sobrenatural, ponte que nenhum aluno atravessou, a provação de bimas, o destino de dimas, aviso sobre o sari, áudio de história de fantasmas, terror atmosférico, podcast assustador, paisagem sonora sinistra, ficção narrativa, campus assustador, midnight whisperer, audiolivro sombrio, narrativas de terror, horror sonoro, lenda urbana</itunes:keywords>
+      <ns0:summary>Os alunos se deparam com um rio amaldiçoado que se lembra de seus passos, revelando por que é proibido atravessá-lo duas vezes. Um elenco de dubladores completo e um design de som envolvente revelam a tragédia presa entre as sílabas.</ns0:summary>
+      <ns0:duration>6:20</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_bridge_no_student_crossed_twice_pt-BR.jpg?v=606dcc37112d" />
+      <ns0:episode>4</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, audiolivro, terror binaural, thriller sobrenatural, ponte que nenhum aluno atravessou, a provação de bimas, o destino de dimas, aviso sobre o sari, áudio de história de fantasmas, terror atmosférico, podcast assustador, paisagem sonora sinistra, ficção narrativa, campus assustador, midnight whisperer, audiolivro sombrio, narrativas de terror, horror sonoro, lenda urbana</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 3: A Planchette em Fuga</title>
       <description>No silêncio profundo de um porão assombrado, vozes começam a surgir em meio ao ruído estático. Esta experiência de áudio te convida a entrar numa narrativa arrepiante, onde o mundo invisível exige a atenção de três almas aterrorizadas em busca de respostas. A atmosfera é densa de suspense, criada especialmente para os fones de ouvido sensíveis que definem a imersão moderna. Cada sussurro tem peso, garantindo que nenhum ouvinte permaneça completamente imperturbável. Você precisa deixar as distrações de lado para mergulhar de cabeça nessa saga sombria.
 
@@ -530,15 +575,16 @@ https://youtu.be/Ea21liKTyog</description>
       <guid isPermaLink="false">ec21257a-5fec-4503-a6c0-e114e7e5d6c5</guid>
       <pubDate>Sat, 06 Jun 2026 19:23:29 +0530</pubDate>
       <link>https://youtu.be/Ea21liKTyog</link>
-      <itunes:summary>Três amigos acabam se deparando com mais do que esperavam quando a sessão de mediunidade sai do controle. A prancheta começa a se mover sozinha, e ninguém está preparado para o que vem a seguir.</itunes:summary>
-      <itunes:duration>7:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_planchette_ran_first_pt-BR.jpg?v=df3cf10d5d03" />
-      <itunes:episode>3</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, temas sobrenaturais, terror paranormal, midnight whisperer, áudio da sessão espírita, histórias de casas mal-assombradas, design de som binaural, terror imersivo, atmosfera sombria, podcast de histórias de fantasmas, audiolivro, contos de pesadelo, áudio assustador, episódios do podcast &quot;dark&quot;, narração de terror, audiolivro</itunes:keywords>
+      <ns0:summary>Três amigos acabam se deparando com mais do que esperavam quando a sessão de mediunidade sai do controle. A prancheta começa a se mover sozinha, e ninguém está preparado para o que vem a seguir.</ns0:summary>
+      <ns0:duration>7:10</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_planchette_ran_first_pt-BR.jpg?v=df3cf10d5d03" />
+      <ns0:episode>3</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, audiolivro, temas sobrenaturais, terror paranormal, midnight whisperer, áudio da sessão espírita, histórias de casas mal-assombradas, design de som binaural, terror imersivo, atmosfera sombria, podcast de histórias de fantasmas, audiolivro, contos de pesadelo, áudio assustador, episódios do podcast "dark", narração de terror, audiolivro</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 2: O Vazio Audível</title>
       <description>Entre nas sombras, onde o som se torna realidade, e preste atenção para desvendar os mistérios escondidos em um sussurro surdo. Nesta experiência sonora totalmente imersiva, Midnight Whisperer te convida a entrar em uma paisagem sonora criada para perturbar o teu próprio sistema nervoso, enquanto Dev e Meera enfrentam um objeto que desafia as leis da natureza. Ao contrário da mídia visual, nossa produção se baseia inteiramente na palavra falada, em técnicas de gravação binaural e em trilhas sonoras atmosféricas em camadas para criar medo dentro do teu espaço pessoal. Tu ouvirás cada passo rangendo, cada sussurro levado por corredores vazios, garantindo que te sintas sozinho, mas conectado às profundezas da narrativa, sem distrações visuais. Utilizamos composições musicais originais e um complexo design de som binaural para colocar o ouvinte diretamente dentro do ambiente da história, garantindo que nenhum detalhe seja deixado de lado. Este capítulo específico de terror explora as implicações sobrenaturais de um ídolo que consome a luz antes de cair na escuridão, exigindo toda a sua atenção para sobreviver à noite. Para quem prefere ver o visual, visita nosso canal no YouTube em https://www.youtube.com/@MidnightWhispererDark para ver a visualização especial da arte. No entanto, o verdadeiro poder está em ouvir exclusivamente pelo teu aplicativo de podcast preferido. Lembra de se inscrever e avaliar este aplicativo de podcast onde quer que você nos encontre, pois o seu feedback impulsiona nossas criações mais sombrias por meses. Escrito e produzido pelo coletivo Midnight Whisperer, este episódio é um testemunho da excelência da narrativa exclusivamente em áudio. Recomendamos que os ouvintes usem fones de ouvido ou earbuds para apreciar plenamente a engenharia de áudio espacial de alta fidelidade incorporada nessas faixas. Sem fones de ouvido imersivos, grande parte do impacto emocional pretendido pode se perder durante a reprodução em alto-falantes comuns. As paisagens sonoras aqui são calibradas especificamente para desencadear uma resposta psicológica sutil associada ao folclore antigo e à audição noturna. A narrativa desta semana mergulha fundo em verdades ocultas que se recusam a permanecer enterradas em silêncio, fazendo com que cada segundo valha a pena.
 
@@ -551,15 +597,16 @@ https://youtu.be/bmS2y1X4N2U</description>
       <guid isPermaLink="false">fbec3fc9-f7a2-4838-bac4-4c57993b948c</guid>
       <pubDate>Fri, 05 Jun 2026 20:15:39 +0530</pubDate>
       <link>https://youtu.be/bmS2y1X4N2U</link>
-      <itunes:summary>Neste episódio, Dev e Meera enfrentam o silêncio assustador do ídolo enquanto percorrem um cenário sonoro de pesadelo. Puro horror e trilha sonora original marcam essa viagem atmosférica para as trevas.</itunes:summary>
-      <itunes:duration>3:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg?v=86d146980b17" />
-      <itunes:episode>2</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, sons assustadores, gravação binaural, história de fantasmas, thriller sobrenatural, ficção sombria, seita assustadora, mistérios ocultos, ouvir à noite, design de som imersivo, trilha sonora original, midnight whisperer, ficção em áudio, narração de terror, dublagem, terror atmosférico, sussurros sombrios, experiência sonora</itunes:keywords>
+      <ns0:summary>Neste episódio, Dev e Meera enfrentam o silêncio assustador do ídolo enquanto percorrem um cenário sonoro de pesadelo. Puro horror e trilha sonora original marcam essa viagem atmosférica para as trevas.</ns0:summary>
+      <ns0:duration>3:10</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_idol_that_ate_the_light_pt-BR.jpg?v=86d146980b17" />
+      <ns0:episode>2</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, audiolivro, sons assustadores, gravação binaural, história de fantasmas, thriller sobrenatural, ficção sombria, seita assustadora, mistérios ocultos, ouvir à noite, design de som imersivo, trilha sonora original, midnight whisperer, ficção em áudio, narração de terror, dublagem, terror atmosférico, sussurros sombrios, experiência sonora</ns0:keywords>
     </item>
-    <item>
+    
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episódio 1: Uma Sombra Encharcada – História em Áudio</title>
       <description>Quando o silêncio se torna insuportável, até as sombras se recusam a falar. Esta noite, convidamos você a entrar no barco onde o som se volta contra si mesmo, exigindo toda a sua atenção para sobreviver à noite. Enquanto o motor ruge, Mira e Arman percebem que sua carga guarda segredos que desafiam a física enquanto derivam em um vazio negro. Esta obra oferece pura tensão atmosférica sem distrações visuais, garantindo que você ouça a verdade escondida nas ondas.
 
@@ -576,13 +623,14 @@ https://youtu.be/IpZYxOLxGIs</description>
       <guid isPermaLink="false">996e7a1b-d24e-4a7c-a896-f02e14fe8f85</guid>
       <pubDate>Thu, 04 Jun 2026 10:43:20 +0530</pubDate>
       <link>https://youtu.be/IpZYxOLxGIs</link>
-      <itunes:summary>Nesta peça em áudio, Mira e Arman atravessam um lago assustador sem nenhum guia. A paisagem sonora se intensifica à medida que o silêncio toma conta da tripulação do barco durante uma viagem sombria.</itunes:summary>
-      <itunes:duration>5:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg?v=5344337b1041" />
-      <itunes:episode>1</itunes:episode>
-      <itunes:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</itunes:keywords>
+      <ns0:summary>Nesta peça em áudio, Mira e Arman atravessam um lago assustador sem nenhum guia. A paisagem sonora se intensifica à medida que o silêncio toma conta da tripulação do barco durante uma viagem sombria.</ns0:summary>
+      <ns0:duration>5:00</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/pt-BR/artwork/the_lamp_on_the_water_pt-BR.jpg?v=5344337b1041" />
+      <ns0:episode>1</ns0:episode>
+      <ns0:keywords>podcast de terror, histórias de terror, audiolivro, design de som binaural, trilha sonora original, terror marítimo, temas sobrenaturais, áudio assustador, história de fantasmas, narrativa sombria, midnight whisperer, conto em áudio, mistério oculto, conhecimento sobre a água, atmosfera sinistra, áudio de viagem noturna, episódio assustador do podcast</ns0:keywords>
     </item>
+  
   </channel>
 </rss>
