@@ -10,7 +10,7 @@
     <description>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</description>
     <language>ja</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 12:10:37 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:20:19 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Japan 日本語</itunes:author>
     <itunes:summary>日本語でお届けするオリジナルのホラー音声ドラマ。迫真の声の演技、没入感あふれる音響、音楽があなたを闇へと誘います。暗い部屋でヘッドホンをつけてお楽しみください。</itunes:summary>
@@ -27,6 +27,33 @@
     <itunes:category text="Fiction" />
 
     <item>
+      <title>エピソード 23: 釜山、2024年：ミナのスマホから何が見ている？</title>
+      <description>2024年の韓国・釜山を舞台にしたオリジナルのフィクション。なぜミナのスマホには、自宅の廊下に潜む脅威が映っているのか？
+
+午前1時17分、ミナのスマホで、触れてもいないホラー動画が再生され始めます。映っている廊下は自宅そのもの。黒い影が、まばたきのたびに小さく折り畳まれていきます。真鍮のデスクランプを握り、キッチンへ後ずさるミナ。すると画面には、すぐ隣にいる影が映ります。廊下が伸び、出口が遠ざかるなか、空洞を持つ煙の塊がガラスを押し抜け始めます。それを呼び込んだ画面を壊したら、何が起こるのでしょうか。
+
+『画面の下の信号』は、創作によるオリジナルのホラー作品です。釜山と2024年は物語の舞台と設定年であり、記録された心霊事件の場所や発生年ではありません。『ねじの回転』の、見つめる者と怪異の間に生まれる緊張感を、新たな画面越しの脅威へと置き換えています。未確認のネット上の話題を事実として扱ってはいません。
+
+舞台の参考資料：釜山広域市「Introduction」。この資料で確認できるのは場所であり、架空の出来事や物語の設定年ではありません。
+https://www.busan.go.kr/eng/introduction
+
+イヤホンやヘッドホンでお楽しみください。番組をフォローして、新しいオリジナルの怖い話をどうぞ。
+
+オリジナルのホラーアートによる映像版をYouTubeで見る：
+https://youtu.be/S8KZlBnxKjE</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/episode_048_ja.mp3?v=ef08e237f597" length="2509782" type="audio/mpeg" />
+      <guid isPermaLink="false">22700e97-1043-4459-8777-7846b9ffab29</guid>
+      <pubDate>Mon, 05 Oct 2026 23:04:11 +0530</pubDate>
+      <link>https://youtu.be/S8KZlBnxKjE</link>
+      <itunes:summary>2024年の韓国・釜山を舞台にした創作ホラー。ミナのスマホに映るのは、自宅の廊下を進む得体の知れない影だった。</itunes:summary>
+      <itunes:duration>1:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/episode_048_ja.jpg?v=8373ed85514f" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:keywords>怖い話, 釜山, 2024年, ミナ, 画面の下の信号, 怪談, オーディオドラマ, オリジナルホラー</itunes:keywords>
+    </item>
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 22: ダーウィン、1929年：マーラが目をそらすと何が動く？</title>
       <description>1929年のオーストラリアのダーウィンを舞台にしたオリジナルのフィクション。マーラが目をそらすたび、何が戸口を通り抜けるのか？
 
@@ -44,15 +71,16 @@ https://www.awm.gov.au/collection/PL2155
       <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/episodes/episode_047_ja.mp3?v=1e8d333a0348" length="2323581" type="audio/mpeg" />
       <guid isPermaLink="false">2692b791-055b-4bf7-9f3b-9280945b4f81</guid>
       <pubDate>Sun, 04 Oct 2026 10:20:09 +0530</pubDate>
-      <link></link>
-      <itunes:summary>1929年のオーストラリアのダーウィンを舞台にしたオリジナルのホラー作品。マーラが見つけたのは、あるはずのない戸口と、目をそらすたびに近づく木の人形だった。</itunes:summary>
-      <itunes:duration>1:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/episode_047_ja.jpg?v=b3938ab77ce4" />
-      <itunes:episode>22</itunes:episode>
-      <itunes:keywords>怖い話, ダーウィン, 1929年, ダーウィンの赤い糸, リボン・ドール, 幽霊屋敷, 怪談, オーディオドラマ, キョンシー</itunes:keywords>
+      <link />
+      <ns0:summary>1929年のオーストラリアのダーウィンを舞台にしたオリジナルのホラー作品。マーラが見つけたのは、あるはずのない戸口と、目をそらすたびに近づく木の人形だった。</ns0:summary>
+      <ns0:duration>1:36</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/ja/artwork/episode_047_ja.jpg?v=b3938ab77ce4" />
+      <ns0:episode>22</ns0:episode>
+      <ns0:keywords>怖い話, ダーウィン, 1929年, ダーウィンの赤い糸, リボン・ドール, 幽霊屋敷, 怪談, オーディオドラマ, キョンシー</ns0:keywords>
     </item>
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 21: クルダーラ、1825年：なぜ影だけが最後まで残ったのか？</title>
       <description>インド、ラージャスターン州ジャイサルメール近郊のクルダーラで、伝説の1825年の村落放棄後、測量士はなぜ影を一つ多く数えたのか？
@@ -86,6 +114,7 @@ https://youtu.be/1IssNMycWuY
       <ns0:keywords>ホラーポッドキャスト, フォークホラー音声ドラマ, クルダーラ, クルダーラ 1825, インドの伝説, 廃村, 三つの影, 四十二番の家, 呪われた測量地図, 禁じられた数, ミーラとラフィーク, 砂漠の怪談, 超自然音声フィクション, 没入型サウンドデザイン, ヘッドホンホラー, 影の怪異, オリジナル怖い話, Midnight Whisperer Japan</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>第20話：ドゥマス・ビーチ、2026年：黒い砂からささやいたのは誰？｜没入型ホラーオーディオドラマ</title>
       <description>インド・グジャラート州スーラト近郊のドゥマス・ビーチを扱った2026年の記事は、なぜ日没後に黒い砂から立ち上るささやき声を伝えたのか？
@@ -108,6 +137,7 @@ https://youtu.be/tBPZAIwuKSU</description>
       <ns0:episode>20</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 没入型オーディオドラマ, ドゥマス・ビーチ 2026, 黒い砂, インド怪談, グジャラートの伝説, 呪われた海岸, 盗まれた声, 海の恐怖, ニラリとデヴ, 超常スリラー, Midnight Whisperer Japan</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 19: パラナ、1947年――なぜ墓は彼を突き返したのか？</title>
@@ -137,6 +167,7 @@ https://youtu.be/npmSBCQUorc</description>
       <ns0:episode>19</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, ホラー音声ドラマ, 民俗ホラー, コルポ・セコ, ブラジル民間伝承, パラナ 1947年, 呪われた棺, 埋葬の道, 盗まれた声, 禁じられた名前, ベントとローザ, ジョアキン・ヴァーレ, 超自然的ホラー, 没入型音響, オリジナル音楽, ヘッドホンで聴く怖い話, midnight whisperer japan</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 18: パンジャーブ、1894年：道端の花嫁はなぜ足を隠したのか？</title>
@@ -169,6 +200,7 @@ https://youtu.be/vFMZ1VgEmcQ</description>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 民俗ホラー, チュレル, パンジャーブ民話, インドの怪談, 幽霊の花嫁, 後ろ向きの足, 呪いの足首飾り, 呪われた道, 牛車の怪談, アルジャン, パンジャブ物語集, 没入型音響, 立体音響, オリジナル音楽, midnight whisperer</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 17: 1891年、ルーダン修道院の記録保管庫で何が起きたのか？</title>
       <description>「1891年、ルーダン修道院の記録保管庫で何が起きたのか？」は、Midnight Whisperer Japan 日本語によるオリジナルのホラーオーディオドラマです。セレスト・マランは古い証言書を書き写すため修道院の記録保管庫へ入ります。しかし、たった一つの規則——逆向きに書かれた名前を決して直さないこと——が、その記録を生きた契約へと変えてしまいます。
@@ -191,6 +223,7 @@ https://youtu.be/76udENwetow</description>
       <ns0:episode>17</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, midnight whisperer japan, 1891年のルーダン, 日本語, ヴィクトリア朝ゴシック, ホラー小説</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 16: 葦の下の声が代わりを求めた</title>
@@ -227,6 +260,7 @@ https://youtu.be/TdwvB60D5Ts</description>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, フォークホラー, 人形の島, ソチミルコ, 呪いの人形, 人形ホラー, メキシコ怪談, 超自然ホラー, 没入型音響, 立体音響, 音声ドラマ, ルシア, マテオ, 身代わりの呪い, 流血なしホラー, midnight whisperer</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 15: 深夜0時、エレベーターに彼女の名前が表示された</title>
       <description>深夜0時、エレベーターは階数の表示をやめた。代わりに、まだビルに残っている全員の名前を映し始め、最後にアナ・リベイロの名が現れた。
@@ -252,6 +286,7 @@ https://youtu.be/ZKHXIdHc0Yk</description>
       <ns0:keywords>真夜中のささやき手, 第29話, ホラーポッドキャスト, オーディオドラマ, 怖い話, エレベーター, 13人の名前, アナ・リベイロ, 夜間警備員, バイノーラルサウンド, 没入感のある雰囲気, オリジナルスコア, 超自然的なテーマ, 幽霊話, ダークオーディオ, 不気味な物語, ブラジリアンホラー, リスニング体験, 新作ホラー映画, オーディオ制作</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 14: 402号室はストリームを視聴した｜ファウンドフッテージホラーオーディオドラマ</title>
       <description>
@@ -270,6 +305,7 @@ https://youtu.be/IPnxjmrCFRo</description>
       <ns0:episode>14</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 402号室が配信を視聴 | 発見された映像ホラーオーディオドラマ, en, 怖いポッドキャスト, ホラー小説</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 13: 伐採道路を逆行して歩く | オーディオドラマシリーズ</title>
@@ -290,6 +326,7 @@ https://youtu.be/aYCUgHiYcBQ</description>
       <ns0:keywords>ホラーポッドキャスト, オーディオドラマ, 怖い話, お弁当, アルベス, ジョアナ, 伐採道路を後ろ向きに歩いた, 真夜中のささやき手, オリジナルホラーオーディオ, 暗い雰囲気, 一口サイズのホラー, 不気味な物語, 没入型サウンドデザイン, バイノーラルホラー, オーディオスリラー, 幽霊話, 超常現象ホラー, ハロウィン準備完了, 悪夢の燃料, インディーズホラー</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 12: 死者を忘れた道で何が起こったのか？</title>
       <description>
@@ -308,6 +345,7 @@ https://youtu.be/SkByi23wSyI</description>
       <ns0:episode>12</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 死者を忘れた道で何が起こったのか？, en, 怖いポッドキャスト, ホラー小説</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 11: 交換台の沈黙の信号</title>
@@ -328,6 +366,7 @@ https://youtu.be/qvmTOyrcWWc</description>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 超常現象スリラー, バイノーラルサウンドデザイン, 没入型のストーリーテリング, オリジナルオーディオドラマ, 夜に耳を澄ますホラー, 不気味なオーディオ体験, 新作ホラー, 声優のストーリー, 雰囲気のあるホラー, 電話の通話の話, 交換台の謎, ロッテとローゼンハイム, 真夜中のささやき手, 第25話, フルキャスト音声, ダークアンビエントストーリー, コマーシャルなし</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 10: 2011年の石巻で何が起こったのか？</title>
       <description>
@@ -347,6 +386,7 @@ https://youtu.be/VOZW_khO16k</description>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 2011年に石巻で何が起こったのですか？, en, 怖いポッドキャスト, ホラー小説</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 9: 1971年にベルメス・デ・ラ・モラレダで何が起こったのか？</title>
       <description>
@@ -365,6 +405,7 @@ https://youtu.be/NJlR_0A3kUI</description>
       <ns0:episode>9</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 1971年にベルメス・デ・ラ・モラレダで何が起こったのですか？, en, 怖いポッドキャスト, ホラー小説</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 8: キルトの下の声は何を答えたのか？</title>
@@ -388,6 +429,7 @@ YouTubeで映像版を見る: https://youtu.be/TtuL2LDgMDQ
       <ns0:keywords>日本語ホラー, 怖い話, ゴシックホラー, オーディオドラマ, 魔女, アダムズ テネシー, Midnight Whisperer</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 7: 凍てついた冬のこだま</title>
       <description>
@@ -407,6 +449,7 @@ https://youtu.be/dqFhVDZdvsA</description>
       <ns0:keywords>真夜中のささやき手, ホラーポッドキャスト, 怖い話, オーディオドラマ, オリジナルスコア, バイノーラルサウンド, リヤ, ニマ, バッパ, 点呼の声, 冬, 学校, 超自然, 不気味な, ナレーション音声, 没入感のあるサウンドスケープ, 全キャスト, ダークフィクション, ぞっとするようなささやき, 不気味な雰囲気</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 6: 2018年にバンガル城で何が起こったのか？</title>
       <description>「2018年にバンガル砦で何が起こったのか？」はMidnight Whispererによるオリジナルホラーオーディオドラマです。この地域限定版は、没入感のあるヘッドホンリスニングのために、フルボイス、サウンドデザイン、音楽が制作されています。言語：英語。暗い部屋でヘッドホンを使用して体験するのが最適です。オリジナルアートワーク付きのビジュアル体験はYouTubeでご覧ください：https://www.youtube.com/@MidnightWhispererDark チャンネル登録とレビューを残して、他の人が番組を見つけられるようにご協力ください。脚本・制作： Midnight Whisperer 。コンテンツ警告：ホラーテーマ、超常現象要素。オリジナルホラーアートワーク付きのYouTubeでご覧ください：https://youtu.be/bY4lOzMqQXw
@@ -425,6 +468,7 @@ https://youtu.be/_JdMFBB4kgg</description>
       <ns0:episode>6</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, ホラーナレーション, クリーピーパスタ, 幽霊話, ホラーオーディオ, 真夜中のささやき手, 2018年にバンガル城で何が起こったのですか？, en, 怖いポッドキャスト, ホラー小説</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 5: 水は君たちの名前を知っている</title>
@@ -450,6 +494,7 @@ https://youtu.be/m3aDO0zrRYA</description>
       <ns0:keywords>ホラーポッドキャスト, オーディオドラマ, 怖い話, 超常現象ホラー, バイノーラルオーディオ, 没入型サウンドデザイン, 真夜中のささやき手, オリジナルポッドキャストシリーズ, ホラーオーディオドラマ, ポッドキャスト第19回, 運河物語, 暗い雰囲気, ホラーナレーター, 音声によるストーリーテリング, 不気味な音声</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 4: 川は沈黙を覚えている</title>
       <description>音によって現実が織りなされる影の世界へ足を踏み入れましょう。『 Midnight Whispererは、気軽にざっと目を通す人ではなく、没入型のオーディオ体験を求めるリスナーのために特別に制作された作品です。このオーディオドラマは、映像を一切排除することで純粋な想像力を解き放ち、すべてのささやきがあなたの耳に優しく、しかしはっきりと届くようにします。この物語では、ビマ、ディマス、サリという名の3人の学生が、渡るには不可能な重圧がかかる恐ろしい川岸を渡ろうとします。橋は過去のすべての瞬間を記憶しており、保持された記憶を通してのみ支払いを要求します。再生中は、あなたの感覚を不安にさせるように特別に設計された、不気味な環境音と重ねられた、フルボイスの物語を聞くことができます。バイノーラル録音技術は頭の動きをシミュレートし、リスナーを渡ろうとした悲劇的な結末の中に直接配置します。制作チームは、ヘッドホンでのリスニングに合わせた効果音とともに、綿密なリズムでオリジナルスコアの構築を優先しました。映像を必要としない恐怖の音を探求し、暗い隙間をあなたの想像力で埋める余地を残しましょう。視覚的な邪魔がなく、雰囲気の深みを求めるホラーファンにぴったりのテーマを扱っています。YouTubeで公開されている、ユニークなアートワークをフィーチャーした完全なビジュアルナラティブ体験をご覧ください。しかし、音声にはより深い真実が込められていることをご承知おきください。チャンネル登録と評価レビューは、継続的なコンテンツ制作のためのコミュニティサポートネットワークに不可欠です。Midnight Midnight Whisperer制作チームが脚本・制作を手掛け、プロフェッショナルなオーディオストーリーテリングをお届けします。YouTubeでオリジナルホラーアートワークと共にご覧ください：https://youtu.be/6W7r_Z9isgA
@@ -468,6 +513,7 @@ https://youtu.be/M9cloRdz_dE</description>
       <ns0:episode>4</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, バイノーラルホラー, 超常現象スリラー, 学生が渡らなかった橋, ビマスの試練, ディマス・フェイト, サリ警告, 怪談音声, 雰囲気のあるホラー, 不気味なポッドキャスト, 不気味なサウンドスケープ, 物語小説, 不気味なキャンパス, 真夜中のささやき手, ダークオーディオブック, ホラー物語, ソニックホラー, 都市伝説</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 3: プランシェットの暴走</title>
@@ -488,6 +534,7 @@ https://youtu.be/teByGQ07vHM</description>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 超自然的なテーマ, 超常現象ホラー, 真夜中のささやき手, 降霊術の音声, 幽霊屋敷の話, バイノーラルサウンドデザイン, 没入型ホラー, 暗い雰囲気, 怪談ポッドキャスト, オーディオブック, 悪夢の物語, 不気味な音声, ダークなポッドキャストエピソード, ホラーナレーション, オーディオドラマオーディオ</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 2: 聴覚の虚無</title>
       <description>音が現実となる影に足を踏み入れ、耳を澄ませて、空虚なささやきの中に隠された謎を解き明かしましょう。この完全に没入できるオーディオ体験では、 Midnight Whisperer 、 DevとMeera自然法則に反する物体と対峙するにつれて、あなたの神経系を不安にさせるように設計されたサウンドスケープへとあなたを誘います。視覚メディアとは異なり、私たちの作品は、あなたのパーソナルスペースに恐怖を構築するために、話し言葉、バイノーラル録音技術、レイヤー化された雰囲気のあるスコアに完全に依存しています。あなたは、空虚な廊下を伝わる足音やささやきをすべて聞き、視覚的な邪魔なしに、孤独を感じながらも物語の深みとつながっていることを保証します。私たちは、オリジナルの音楽作曲と複雑なバイノーラルサウンドデザインを使用して、リスナーを物語環境の中に直接配置し、詳細が見落とされないようにします。この特定のホラーチャプターでは、光を飲み込んでから闇に落ちていく偶像の超自然的な意味を探り、夜を生き延びるためにあなたの全注意を要求します。ビジュアルをご覧になりたい方は、特別なアートワークのビジュアライゼーションをご覧になるには、YouTube チャンネル https://www.youtube.com/@MidnightWhispererDark にアクセスしてください。しかし、真の力は、お好みのポッドキャスト アプリで聴くことにあります。私たちのポッドキャスト アプリをどこで見つけても、ぜひ購読して評価してください。皆様からのフィードバックは、今後数ヶ月にわたって私たちのダークな作品の原動力となります。Midnight Midnight Whispererコレクティブによって執筆および制作されたこのエピソードは、音声のみのストーリーテリングの卓越性の証です。これらのトラックに組み込まれた高忠実度空間オーディオ エンジニアリングを十分に楽しむには、ヘッドホンまたはイヤホンを着用することをお勧めします。没入型ヘッドセットがない場合、通常のスピーカーで再生すると、意図された感情的なインパクトの多くが失われる可能性があります。ここでのサウンドスケープは、古代の民間伝承や夜間のリスニングに関連する微妙な心理的反応を引き起こすように特別に調整されています。今週の物語は、静かに埋もれたままではいられない隠された真実を深く掘り下げ、一瞬一瞬を大切にします。オリジナルのホラーアートワークと共にYouTubeで視聴できます：https://youtu.be/g4k5xgiJrfM
@@ -507,6 +554,7 @@ https://youtu.be/gHycQ_vzAKk</description>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, 不気味な音, バイノーラル録音, 幽霊話, 超常現象スリラー, ダークフィクション, 不気味なカルト, オカルトの謎, 夜間のリスニング, 没入型サウンドデザイン, オリジナルスコア, 真夜中のささやき手, オーディオフィクション, ホラーナレーション, 声優, 雰囲気ホラー, 暗いささやき, オーディオ体験</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>エピソード 1: 水浸しの影 オーディオストーリー</title>
       <description>沈黙が薄れゆくと、影さえも口を閉ざす。今夜、私たちはあなたを、音が互いに反目し合い、夜を生き延びるためにあなたの全神経を集中させる船へと誘います。エンジンが轟音を立てる中、 MiraとArman積荷の中に物理法則に反する秘密が隠されていることに気づき、黒い虚空へと漂流していく。この作品は、視覚的な邪魔を一切排除し、純粋な雰囲気の緊張感を提供することで、波間に隠された真実を聞き取れるようにします。高忠実度マイクを使用して、木材のきしみ音や濡れたロープが金属に叩きつけられる音までを捉え、耳元で親密な緊張感を体験できます。魅力的な物語をお探しなら、この作品は視覚的な邪魔を一切排除し、純粋な雰囲気の緊張感を提供します。私たちの制作は、共鳴を重ね合わせることで、目に見える範囲を超えた深みを生み出します。つまり、目を閉じて音に身を委ねてください。このオーディオドラマはヘッドホン用に作られており、通常のビデオでは味わえない没入感を提供します。ご注意：超自然的な危険、心理的なサスペンス、暗い船旅を伴う海洋ホラーのテーマが含まれています。シーンを視覚的に確認したい方は、YouTubeチャンネル（https://www.youtube.com/@MidnightWhispererDark）にアクセスして、音声フィードとオリジナルのアートワークが融合した映像体験をご覧ください。お気に入りのポッドキャストアプリで、チャンネル登録、評価、レビューをクリックして私たちを応援してください。皆様のご協力が、リスナーの皆様の今後の活動の励みとなります。Midnight Midnight Whispererが制作・執筆。不気味なエンターテイメントを愛するファンのために、デジタル世界に闇をもたらすことを目指しています。YouTubeでオリジナルのホラーアートワークと共にご覧ください：https://youtu.be/8ex2WvfAM8k
@@ -525,6 +573,7 @@ https://youtu.be/W3xrOZjfQRg</description>
       <ns0:episode>1</ns0:episode>
       <ns0:keywords>ホラーポッドキャスト, 怖い話, オーディオドラマ, バイノーラルサウンドデザイン, オリジナルスコア, 海上ホラー, 超自然的なテーマ, 不気味な音声, 幽霊話, 暗い物語, 真夜中のささやき手, 音声物語, オカルトミステリー, 水の伝承, 不気味な雰囲気, 夜間走行用オーディオ, 不気味なポッドキャストのエピソード</ns0:keywords>
     </item>
+  
   
   </channel>
 </rss>
