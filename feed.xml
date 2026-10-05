@@ -10,7 +10,7 @@
     <description>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</description>
     <language>en</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 12:28:53 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:35:24 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer</itunes:author>
     <itunes:summary>Original horror audio dramas — fully voiced, sound-designed, and scored to pull you into the darkness. Best experienced with headphones in a dark room.</itunes:summary>
@@ -27,6 +27,33 @@
     <itunes:category text="Fiction" />
 
     <item>
+      <title>Episode 37: Busan, 2024: What Is Watching Mina Through Her Phone?</title>
+      <description>In this original fiction set in Busan, South Korea, in 2024, why does Mina’s phone show a threat inside her own hallway?
+
+At 1:17 a.m., Mina’s phone starts a horror clip she never touched. The hallway on screen is her own, and a black shape folds smaller whenever she blinks. Holding a brass desk lamp, she retreats toward the kitchen. Then the screen shows the shape beside her. As the corridor stretches and the exit slips away, a hollow knot of smoke begins pushing through the glass. What happens if she breaks the screen that brought it here?
+
+The Signal Beneath the Screen is original horror fiction. Busan and 2024 are its imagined setting, not the place and date of a documented haunting. The story transforms the watched-apparition tension of The Turn of the Screw into a new screen-bound threat; it does not present an unverified online trend as fact.
+
+Setting reference: Busan Metropolitan City, “Introduction”. This source verifies the place, not the fictional events or the story’s setting year.
+https://www.busan.go.kr/eng/introduction
+
+Listen with headphones. Follow the show for more original horror stories.
+
+Watch with original horror artwork on YouTube:
+https://youtu.be/S8KZlBnxKjE</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/episodes/episode_048.mp3?v=d7483450e4db" length="2245213" type="audio/mpeg" />
+      <guid isPermaLink="false">734b6143-2ccf-433b-8704-f3ba415adbdd</guid>
+      <pubDate>Mon, 05 Oct 2026 23:04:11 +0530</pubDate>
+      <link>https://youtu.be/S8KZlBnxKjE</link>
+      <itunes:summary>In this original horror fiction set in Busan, South Korea, in 2024, Mina’s phone shows a threat moving through her own hallway.</itunes:summary>
+      <itunes:duration>1:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/episode_048.jpg?v=8373ed85514f" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:keywords>horror story, Busan, 2024, Mina, The Signal Beneath the Screen, The Hollow Frame, supernatural horror, audio drama, original fiction</itunes:keywords>
+    </item>
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 36: Darwin, 1929: What Moves When Mara Looks Away?</title>
       <description>In this original fiction set in Darwin, Australia, in 1929, what crosses the doorway whenever Mara looks away?
 
@@ -45,14 +72,15 @@ https://youtu.be/YpucZ1_oqIM</description>
       <guid isPermaLink="false">1143ad6e-47ad-47b6-92a4-72e3025ac019</guid>
       <pubDate>Sun, 04 Oct 2026 10:20:09 +0530</pubDate>
       <link>https://youtu.be/YpucZ1_oqIM</link>
-      <itunes:summary>In this original horror fiction set in Darwin, Australia, in 1929, Mara discovers a doorway and a wooden doll that advances whenever she looks away.</itunes:summary>
-      <itunes:duration>1:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/episode_047.jpg?v=b3938ab77ce4" />
-      <itunes:episode>36</itunes:episode>
-      <itunes:keywords>horror story, Darwin, 1929, The Red Thread in Darwin, Ribbon Doll, haunted house, supernatural horror, audio drama, original fiction, Jiangshi</itunes:keywords>
+      <ns0:summary>In this original horror fiction set in Darwin, Australia, in 1929, Mara discovers a doorway and a wooden doll that advances whenever she looks away.</ns0:summary>
+      <ns0:duration>1:27</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/artwork/episode_047.jpg?v=b3938ab77ce4" />
+      <ns0:episode>36</ns0:episode>
+      <ns0:keywords>horror story, Darwin, 1929, The Red Thread in Darwin, Ribbon Doll, haunted house, supernatural horror, audio drama, original fiction, Jiangshi</ns0:keywords>
     </item>
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 35: Kuldhara, 1825: Why Did the Shadows Leave Last?</title>
       <description>Why did a surveyor at Kuldhara near Jaisalmer, Rajasthan, India, count one extra shadow after the village's legendary 1825 abandonment?
@@ -86,6 +114,7 @@ https://youtu.be/hhSaOAXQ7z4</description>
       <ns0:keywords>horror podcast, folk horror audio drama, Kuldhara, Kuldhara 1825, Indian folklore, abandoned village, three shadows, House Forty-Two, haunted survey map, forbidden counting, Meera and Rafiq, desert ghost story, supernatural audio fiction, immersive sound design, headphone horror, shadow horror, original horror story, Midnight Whisperer</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 34: Dumas Beach, 2026: Who Whispered from the Black Sand? | Immersive Horror Audio Drama</title>
       <description>Why did a 2026 report from Dumas Beach near Surat, Gujarat, India, describe whispers rising from its black sand after sunset?
@@ -108,6 +137,7 @@ https://youtu.be/irPfgG5F5aM</description>
       <ns0:episode>34</ns0:episode>
       <ns0:keywords>horror podcast, immersive audio drama, Dumas Beach 2026, black sand horror, Indian folk horror, Gujarat ghost story, haunted beach, voice-stealing spirit, ocean horror, Nirali and Dev, supernatural thriller, Midnight Whisperer</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 33: Paraná, 1947: Why Did the Grave Give Him Back?</title>
@@ -140,6 +170,7 @@ https://youtu.be/_OSBOeRIqkI</description>
       <ns0:keywords>horror podcast, folk horror audio drama, Corpo-Seco, Brazilian folklore, Paraná folklore, Cascudo 1947, burial road, rejected corpse, cursed coffin, stolen voice, forbidden name, Bento and Rosa, supernatural audio fiction, immersive sound design, headphone horror, original horror story, ghost road, Midnight Whisperer</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 32: Punjab, 1894: Why Did the Roadside Bride Hide Her Feet?</title>
       <description>Why does a folklore collection from Punjab, British India, published in 1894 say backward feet expose a beautiful churel—and what happens on Arjan’s road?
@@ -168,6 +199,7 @@ https://youtu.be/fA7ykuOz01w</description>
       <ns0:episode>32</ns0:episode>
       <ns0:keywords>horror podcast, folk horror, churel, churail, Punjab folklore, Indian ghost story, roadside bride, backward feet, cursed anklet, audio drama, immersive horror, Midnight Whisperer</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 31: What happened at Loudun in 1891?</title>
@@ -198,6 +230,7 @@ https://youtu.be/BJfQrDqxCV4</description>
       <ns0:episode>31</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at loudun in 1891?, en, scary podcast, horror fiction</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 30: The Doll That Asked Lucía to Take Its Place</title>
@@ -234,6 +267,7 @@ https://youtu.be/74FWE-1nytE</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, folk horror, haunted dolls, island of the dolls, isla de las muñecas, xochimilco, mexico city horror, supernatural horror, cursed doll, canal ghost story, immersive audio drama, headphone horror, lucía, mateo, replacement curse, horror fiction, midnight whisperer, non-graphic horror</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 29: The Elevator Listed Her Name After Midnight</title>
       <description>At midnight, the elevator stopped showing floors. It began listing the names of everyone still inside the tower—and Ana Ribeiro was last.
@@ -258,6 +292,7 @@ https://youtu.be/Vyk4ORi15WE</description>
       <ns0:episode>29</ns0:episode>
       <ns0:keywords>midnight whisperer, episode 29, horror podcast, audio drama, scary stories, elevator, thirteen names, ana ribeiro, night guard, binaural sound, immersive atmosphere, original score, supernatural themes, ghost story, dark audio, spooky narrative, brazilian horror, listening experience, new horror release, audio production</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 28: Room 402 Watched the Stream | Found Footage Horror Audio Drama</title>
@@ -289,6 +324,7 @@ https://youtu.be/XXb56H4tE-w</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, room 402 watched the stream | found footage horror audio drama, en, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 27: The Logging Road Walked Backward | Audio Drama Series</title>
       <description>Brace yourself before you press play, for tonight's audio experience demands your full sensory attention. Midnight Whisperer delivers a visceral journey designed specifically for headphones, ensuring every whisper feels hauntingly real. In this gripping two-minute special, Bento, Alves, and Joana venture into terrain that refuses to hold its shape. Their path forward turns into a labyrinth of sound, challenging everything they thought they knew about safety.
@@ -313,6 +349,7 @@ https://youtu.be/WNc44It_Sk4</description>
       <ns0:episode>27</ns0:episode>
       <ns0:keywords>horror podcast, audio drama, scary stories, bento, alves, joana, logging road walked backward, midnight whisperer, original horror audio, dark atmosphere, bite size horror, spooky storytelling, immersive sound design, binaural horror, audio thriller, ghost story, supernatural horror, halloween ready, nightmare fuel, indie horror</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 26: What happened in The Road That Forgot Its Dead?</title>
@@ -344,6 +381,7 @@ https://youtu.be/FrivnbrdGBQ</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened in the road that forgot its dead?, en, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 25: The Switchboard’s Silent Signal</title>
       <description>In the hollow silence of a switchboard room, something waits just beyond the dial tone. Prepare your headphones for a journey where sound itself becomes the antagonist in this fully voiced production. We invite you into the static and shadow, stripping away visual comfort to leave you vulnerable in a soundscape designed for audio drama. This is not merely a story; it is an immersive horror experience engineered to resonate through your speakers and into your own space.
@@ -370,6 +408,7 @@ https://youtu.be/ABaXbcXDSc8</description>
       <ns0:episode>25</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, supernatural thriller, binaural sound design, immersive storytelling, original audio drama, night listening horror, creepy audio experience, new release horror, voice acting story, atmospheric horror, phone call story, switchboard mystery, lotte and rosenheim, midnight whisperer, episode 25, full cast audio, dark ambient story, no commercial breaks</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 24: What happened at Ishinomaki in 2011?</title>
@@ -401,6 +440,7 @@ https://youtu.be/kzSrC2_UDBU</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at ishinomaki in 2011?, en, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 23: What happened at Belmez de la Moraleda in 1971?</title>
       <description>"What happened at Belmez de la Moraleda in 1971?" is an original horror audio drama from Midnight Whisperer. This locale-specific edition is fully voiced, sound-designed, and scored for an immersive headphone listen.
@@ -430,6 +470,7 @@ https://youtu.be/85E1xyAH3Sg</description>
       <ns0:episode>23</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at belmez de la moraleda in 1971?, en, scary podcast, horror fiction</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 22: What happened in The Voice Under The Quilt?</title>
@@ -461,6 +502,7 @@ https://youtu.be/oxHrraOJinQ</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened in the voice under the quilt?, en, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 21: The Frozen Echo of Winter</title>
       <description>Step into a chilling reality where the wind refuses to leave and shadows speak louder than words. Riya, Nima, and Bappa navigate a landscape that feels watched by something older than memory, creating an atmosphere where silence turns dangerous. You will hear a narrative built on vocal authenticity and atmospheric dread, designed to immerse you fully in the cold winter night. Listen closely as Riya and Nima struggle with hidden truths while Roll Call Voice continues to mark the passing moments of their peril. Every binaural cue and sudden sound shifts the perspective, keeping the horror authentic and raw throughout this full audio drama experience.
@@ -481,6 +523,7 @@ https://youtu.be/5UHrc3HNgvM</description>
       <ns0:episode>21</ns0:episode>
       <ns0:keywords>midnight whisperer, horror podcast, scary stories, audio drama, original score, binaural sound, riya, nima, bappa, roll call voice, winter, school, supernatural, spooky, narrative audio, immersive soundscape, full cast, dark fiction, chilling whispers, haunted atmosphere</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 20: What happened at Bhangarh Fort in 2018?</title>
@@ -512,6 +555,7 @@ https://youtu.be/bY4lOzMqQXw</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what happened at bhangarh fort in 2018?, en, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 19: The Water Knows Your Names</title>
       <description>Welcome to a chilling audio experience where silence often whispers louder than fear itself throughout the entire duration of this specific release. We invite dedicated listeners to secure headphones and experience a narrative constructed entirely around human voice and environmental texture. In Episode 19, titled The Water Knows Your Names, the fictional inhabitants Lidia, Ines, and Mateo become entangled in a supernatural phenomenon that defies natural laws while facing a terrifying transformation into something unrecognizable. The story unfolds through richly detailed dialogue, ensuring every spoken word feels tangible and heavy with consequence for the characters involved.
@@ -533,6 +577,7 @@ https://youtu.be/q6eIc-cXTeQ</description>
       <ns0:keywords>horror podcast, audio drama, scary stories, supernatural horror, binaural audio, immersive sound design, midnight whisperer, original podcast series, horror audio drama, podcast episode 19, canal story, dark atmosphere, horror narrator, audio storytelling, spooky audio</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 18: The River Remembers Silence</title>
       <description>Step into the shadows where sound weaves reality for Midnight Whisperer, crafted specifically for immersive audio listeners rather than casual skimmers. This audio drama strips visuals to unleash pure imagination, ensuring every whisper lands softly yet distinctly right in your ear. In this specific narrative, the trio of students named Bima, Dimas, and Sari navigate a terrifying river bank where the law of crossing holds impossible weight. The bridge remembers all previous moments, demanding payment strictly through retained memory. You will hear fully voiced stories layered against haunting ambient noise designed specifically to unsettle your senses during playback. Binaural recording techniques simulate head movement, placing the listener directly inside the tragic aftermath of attempted crossings. Our production team prioritized original score building with meticulous rhythm alongside SFX tailored for headphone listening. We invite you to explore how fear sounds when no video is required, leaving room for your own imagination to fill the dark gaps. Contains specific themes suitable for horror fans seeking atmospheric depth without visual distractions. Watch the full visual narrative experience available on YouTube featuring unique artwork, but know that audio offers a deeper truth. Subscribe and rate review are essential parts of our community support network for ongoing content. Written and produced entirely by the Midnight Whisperer production house team, delivering professional audio storytelling.
@@ -551,6 +596,7 @@ https://youtu.be/6W7r_Z9isgA</description>
       <ns0:episode>18</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, binaural horror, supernatural thriller, bridge no student crossed, bimas ordeal, dimas fate, sari warning, ghost story audio, atmospheric horror, spooky podcast, eerie soundscape, narrative fiction, creepy campus, midnight whisperer, dark audiobook, horror storytelling, sonic horror, urban legend</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 17: The Planchette Runs Free</title>
@@ -577,6 +623,7 @@ https://youtu.be/DpT_NcqGFdY</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, supernatural themes, paranormal horror, midnight whisperer, seance audio, haunted house stories, binaural sound design, immersive horror, dark atmosphere, ghost story podcast, audio book, nightmare tales, spooky audio, dark podcast episodes, horror narration, audio drama audio</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 16: The Audible Void</title>
       <description>Step into the shadows where sound becomes reality and listen closely to unravel the mysteries hidden within a hollow whisper. In this fully immersive audio experience, Midnight Whisperer invites you into a soundscape designed to unsettle your very nervous system as Dev and Meera confront an object that defies natural law. Unlike visual media, our production relies entirely on spoken word, binaural recording techniques, and layered atmospheric scores to construct fear within your personal space. You will hear every footstep creak, every whisper carried through hollow corridors, ensuring you feel alone yet connected to the narrative depths without visual distraction. We utilize original music composition and complex binaural sound design to place the listener directly inside the story environment, ensuring no detail is left unexplored. This specific horror chapter explores the supernatural implications of an idol that consumes light before falling down into darkness, demanding your full attention to survive the night. For those who prefer seeing the visuals, visit our YouTube channel at https://www.youtube.com/@MidnightWhispererDark for the special artwork visualization. However, the true power lies in listening strictly through your preferred podcast application. Please remember to subscribe and rate this podcast app wherever you find us, as your feedback drives our darker creations for months. Written and produced by the Midnight Whisperer collective, this episode stands as a testament to audio-only storytelling excellence. We encourage listeners to wear headphones or earbuds to fully appreciate the high-fidelity spatial audio engineering embedded within these tracks. Without immersive headsets, much of the intended emotional impact might be lost during playback on standard speakers. The soundscapes here are specifically calibrated to trigger a subtle psychological response associated with ancient folklore and night time listening. This week's narrative dives deep into hidden truths that refuse to stay buried quietly, making every second count.
@@ -595,6 +642,7 @@ https://youtu.be/g4k5xgiJrfM</description>
       <ns0:episode>16</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, spooky sounds, binaural recording, ghost story, supernatural thriller, dark fiction, creepy cult, occult mysteries, night time listening, immersive sound design, original score, midnight whisperer, audio fiction, horror narration, voice acting, atmosphere horror, dark whispers, audio experience</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 15: A Waterlogged Shadow Audio Story</title>
@@ -618,6 +666,7 @@ https://youtu.be/fpoUzam8vwM</description>
       <ns0:episode>15</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, binaural sound design, original score, maritime horror, supernatural themes, creepy audio, ghost story, dark storytelling, midnight whisperer, audio tale, occult mystery, water lore, eerie atmosphere, night drive audio, spooky podcast episode</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 14: What the Field Takes | Horror Audio Drama</title>
@@ -649,6 +698,7 @@ https://youtu.be/u5lEYVxiYh0</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, what the field takes, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 13: The Reliquary of Saint Vellis | Horror Audio Drama</title>
       <description>"The Reliquary of Saint Vellis" is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
@@ -678,6 +728,7 @@ https://youtu.be/Zl6lgDpqtAM</description>
       <ns0:episode>13</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the reliquary of saint vellis, scary podcast, horror fiction</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 12: The Card with the Corner Turned | Horror Audio Drama</title>
@@ -709,6 +760,7 @@ https://youtu.be/kNwXT17myfU</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the card with the corner turned, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 11: The Parish Diary | Horror Audio Drama</title>
       <description>"The Parish Diary" is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
@@ -738,6 +790,7 @@ https://youtu.be/QKBP9LxnwJU</description>
       <ns0:episode>11</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the parish diary, scary podcast, horror fiction</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 10: The Ringer | Horror Audio Drama</title>
@@ -769,6 +822,7 @@ https://youtu.be/ldoiqn_Ngsk</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the ringer, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 9: The Hollow Choir | Horror Audio Drama</title>
       <description>"The Hollow Choir" is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
@@ -799,6 +853,7 @@ https://youtu.be/pR-arzvM6_I</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the hollow choir, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 8: The Silent Resonance Of The Mourner's Voice</title>
       <description>Ready to close your eyes and listen? This audio drama invites you into a soundscape where silence speaks louder than words. As you strap on your headphones, prepare for a journey through the dark corridors of the human psyche. In this installment, the specific entities are revealed fully as the Mourner and the Innkeeper interact. Their dialogue carries a heavy weight of lost souls, creating an atmospheric burden you must feel to understand the full narrative. Brought to life via high-fidelity recording techniques ensures clarity and immersion for every listener. No video distractions allow pure focus on emotional depth, letting the spoken word guide your imagination naturally. Production values highlight crisp voice acting over cheap foley, ensuring authenticity in the sonic landscape. SFX are crafted specifically for headphone listeners and spatial audio devices to maximize impact. Ambient noises build fear slowly, layering tension within the eight-minute runtime. This is not merely recorded text but performed artistry designed for audio platforms. Content warning: Mild horror and psychological stressors require your attention. Downloadable content implies offline listening availability for commuters or bedtime relaxation. We encourage engagement in your preferred podcast ecosystem, urging you to leave feedback. Credits confirm authorship by Midnight Whisperer, recognizing the effort behind the sonic world.
@@ -817,6 +872,7 @@ https://youtu.be/iQ_N3RppzQ4</description>
       <ns0:episode>8</ns0:episode>
       <ns0:keywords>horror podcast, audio drama, scary stories, midnight whisperer, the mourner, innkeeper story, binaural horror, night time listening, supernatural thriller, voice acting, immersive sound, spooky audio, dark ambient, mystery audiobook, audio fiction, horror narration, suspense podcast, halloween podcast, shadow realm, audio horror</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 7: The Sitter | Horror Audio Drama</title>
@@ -848,6 +904,7 @@ https://youtu.be/TA5jP1rCcIU</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the sitter, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 6: The Last Sheaf | Horror Audio Drama</title>
       <description>"The Last Sheaf" is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
@@ -877,6 +934,7 @@ https://youtu.be/KFAM3vkdF9k</description>
       <ns0:episode>6</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the last sheaf, scary podcast, horror fiction</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 5: The Footage | Horror Audio Drama</title>
@@ -908,6 +966,7 @@ https://youtu.be/TvKgCLefTpQ</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the footage, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 4: The Lantern | Horror Audio Drama</title>
       <description>"The Lantern" is an original horror audio drama by Midnight Whisperer — fully voiced, sound-designed, and scored to pull you into the darkness.
@@ -938,6 +997,7 @@ https://youtu.be/K2pyoRsCJKI</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, horror narration, creepypasta, ghost stories, horror audio, midnight whisperer, the lantern, scary podcast, horror fiction</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 3: Shadows in the Night - The Tithe</title>
       <description>Immerse yourself in the chilling audio drama of 'The Tithe,' where every night, three knocks echo through an old mansion's halls, but no one answers. Maren, Bridget, Elspeth, and Gareth find themselves caught between reality and a supernatural force that demands a price for silence. This episode features top-tier voice acting, binaural sound design that places you inside the story, an original score that builds tension with each knock, and eerie sound effects that bring the haunted mansion to life. Listeners are warned of intense horror elements, including themes of sacrifice and supernatural entities. Watch the visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Subscribe, rate, review 'Midnight Whisperer' for more spine-chilling stories.
@@ -956,6 +1016,7 @@ https://youtu.be/dEFklXMIOBw</description>
       <ns0:episode>3</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, supernatural horror, binaural sound, voice acting, original score, eerie sounds, haunted mansion, mystery thriller, nightly knocks, sacrifice theme, ghost story, dark audio drama, chilling tales</ns0:keywords>
     </item>
+    
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 2: Three Knocks. No One There. Every Night</title>
@@ -976,6 +1037,7 @@ https://youtu.be/_c2pFM3XCiQ</description>
       <ns0:keywords>horror podcast, scary stories, audio drama, supernatural mystery, urban horror, nightly knocks, midnight whisperer, spine-chilling tales, haunted apartment, mysterious sounds, immersive sound design, voice acting, creepy story, dark podcast, paranormal events</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episode 1: The Watcher | Unseen Terror</title>
       <description>Midnight turns sinister as Nina and James find themselves trapped in a nightmare where an unseen force prowls outside their bedroom window. This episode delves into the chilling atmosphere of terror, with meticulous sound design that heightens the suspense. As the shadowy figure's presence grows more relentless, Nina and James must confront their deepest fears. Voice cast includes expert performers who bring this supernatural horror to life, immersing listeners in a world where every whisper could be a harbinger of doom. Content warnings: This episode contains intense horror elements and supernatural themes that may disturb some listeners. Watch the full visual experience with original artwork on YouTube: https://www.youtube.com/@MidnightWhispererDark. Don't miss out—subscribe, rate, and review Midnight Whisperer to stay updated on new episodes of spine-chilling audio drama. Written and produced by Midnight Whisperer.
@@ -994,6 +1056,7 @@ https://youtu.be/VxaTQL6RnWY</description>
       <ns0:episode>1</ns0:episode>
       <ns0:keywords>horror podcast, scary stories, audio drama, supernatural thriller, unseen force, terror at night, chilling atmosphere, sound design, midnight whispers, spine-chilling audio, dark fiction, haunting sounds, narrative horror, unsettling suspense, mysterious figure, sanity test, horror audio drama, audio storytelling, unseen terror</ns0:keywords>
     </item>
+  
   
   </channel>
 </rss>
