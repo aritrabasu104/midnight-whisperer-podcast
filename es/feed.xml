@@ -10,7 +10,7 @@
     <description>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</description>
     <language>es</language>
     <generator>Midnight Whisperer Pipeline</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 17:38:38 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:47:25 +0530</lastBuildDate>
     <atom:link href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Midnight Whisperer Español</itunes:author>
     <itunes:summary>Dramas de audio de terror originales en español, con voces, diseño sonoro inmersivo y música para escucharse con auriculares en la oscuridad.</itunes:summary>
@@ -27,6 +27,27 @@
     <itunes:category text="Fiction" />
 
     <item>
+      <title>Channagiri, 2026: ¿Qué cuelga bajo la campana?</title>
+      <description>En esta ficción original ambientada en Channagiri, Karnataka, India, en 2026, ¿qué cuelga bajo la campana del templo?
+
+A las 12:47 de la madrugada, el vigilante Devanna ve una figura vestida de blanco bajo la campana del templo, aunque la cuerda está enrollada. Meera espera junto a la entrada con una linterna de latón. Más allá del muro de neem tintinean unos cascabeles. Una segunda sombra cruza el patio y una figura de tela aparece junto al pozo, con los bordes agitándose hacia dentro, contra el viento. La sal les concede apenas un respiro. Entonces la campana suena detrás de ellos. La entrada debería ser su salida, pero el camino ya no conduce adonde esperan.
+
+Una historia de terror de ficción original. Channagiri y 2026 son su ambientación imaginaria, no el lugar y la fecha de un suceso sobrenatural documentado. La fuente oficial del distrito de Davanagere solo verifica la ubicación; no respalda los hechos ficticios ni el año elegido.
+https://davanagere.nic.in/en/tehsil/
+
+Historia completa: https://youtu.be/kbhhSq8wzOo</description>
+      <enclosure url="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/episodes/episode_062_es.mp3?v=fc8d326c7944" length="2423264" type="audio/mpeg" />
+      <guid isPermaLink="false">a28ca29c-12b5-4c94-8fb8-e66b256b0c15</guid>
+      <pubDate>Wed, 21 Oct 2026 06:23:25 +0530</pubDate>
+      <link>https://youtu.be/kbhhSq8wzOo</link>
+      <itunes:summary>Devanna y Meera se enfrentan a una aparición de tela y sombra en un patio donde cada campanada convierte la salida en una trampa.</itunes:summary>
+      <itunes:duration>1:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/episode_062_es.jpg?v=5702df10e7b8" />
+      <itunes:keywords>historia de terror, fantasía oscura, ficción original, campana del templo, Channagiri</itunes:keywords>
+    </item>
+    <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 24: El laberinto llevaba su rostro | Praga, 1893</title>
       <description>Ficción de terror original ambientada en Praga, República Checa, en 1893: un laberinto llama a Lenka con su propia voz.
 
@@ -44,14 +65,15 @@ https://youtu.be/r8jFZBDguzE</description>
       <guid isPermaLink="false">9a6bfc3e-beb7-4790-a847-fc030bccbfbf</guid>
       <pubDate>Fri, 09 Oct 2026 15:40:48 +0530</pubDate>
       <link>https://youtu.be/r8jFZBDguzE</link>
-      <itunes:summary>En Praga, en 1893, Lenka sigue su propia voz hacia un laberinto abandonado. Una presencia de hollín convierte el hilo rojo que señala la salida en una trampa mientras se acerca la medianoche.</itunes:summary>
-      <itunes:duration>1:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/episode_049_es.jpg?v=c717475166ef" />
-      <itunes:episode>24</itunes:episode>
-      <itunes:keywords>relato de terror, fantasía oscura, Praga, República Checa, 1893, laberinto embrujado, Lenka, terror sobrenatural, ficción de terror</itunes:keywords>
+      <ns0:summary>En Praga, en 1893, Lenka sigue su propia voz hacia un laberinto abandonado. Una presencia de hollín convierte el hilo rojo que señala la salida en una trampa mientras se acerca la medianoche.</ns0:summary>
+      <ns0:duration>1:54</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:image href="https://aritrabasu104.github.io/midnight-whisperer-podcast/es/artwork/episode_049_es.jpg?v=c717475166ef" />
+      <ns0:episode>24</ns0:episode>
+      <ns0:keywords>relato de terror, fantasía oscura, Praga, República Checa, 1893, laberinto embrujado, Lenka, terror sobrenatural, ficción de terror</ns0:keywords>
     </item>
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 23: Busan, 2024: ¿Qué observa a Mina desde su teléfono?</title>
       <description>En esta ficción original ambientada en Busan, Corea del Sur, en 2024, ¿por qué el teléfono de Mina muestra una amenaza en su propio pasillo?
@@ -80,6 +102,7 @@ https://youtu.be/9518Q75KHsM</description>
       <ns0:keywords>historia de terror, Busan, 2024, Mina, La señal bajo la pantalla, terror sobrenatural, ficción original, audio drama</ns0:keywords>
     </item>
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 22: Darwin, 1929: ¿Qué se mueve cuando Mara aparta la mirada?</title>
       <description>En esta ficción original ambientada en Darwin, Australia, en 1929, ¿qué cruza la puerta cada vez que Mara aparta la mirada?
@@ -107,6 +130,7 @@ https://youtu.be/WPz_XuTfi44</description>
       <ns0:episode>22</ns0:episode>
       <ns0:keywords>historia de terror, Darwin, 1929, El hilo rojo en Darwin, Muñeca de la Cinta, casa encantada, terror sobrenatural, ficción original, Jiangshi</ns0:keywords>
     </item>
+    
     
     
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
@@ -144,6 +168,7 @@ Escrito y producido por Midnight Whisperer Español.</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 20: Playa de Dumas, 2026: ¿quién susurró desde la arena negra? | Audioficción de terror inmersivo</title>
       <description>¿Por qué un reportaje de 2026 sobre la playa de Dumas, cerca de Surat, Gujarat, India, habló de susurros bajo la arena negra tras el anochecer?
@@ -166,6 +191,7 @@ https://youtu.be/ALBs1V1zjEI</description>
       <ns0:episode>20</ns0:episode>
       <ns0:keywords>podcast de terror, audioficción inmersiva, playa de Dumas 2026, arena negra, terror de la India, leyenda de Gujarat, playa embrujada, voz robada, terror marino, Nirali y Dev, suspenso sobrenatural, Midnight Whisperer Español</ns0:keywords>
     </item>
+    
     
     
     
@@ -202,6 +228,7 @@ Escrito y producido por Midnight Whisperer Español.</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 18: Punjab, 1894: ¿Por qué la novia del camino ocultaba los pies?</title>
       <description>¿Por qué un libro de folclore de Punjab, India británica, publicado en 1894 dice que los pies al revés delatan a una bella churel?
@@ -229,6 +256,7 @@ https://youtu.be/z0pKBjqfriU</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 17: ¿Qué pasó en Loudun en 1891?</title>
       <description>«¿Qué pasó en Loudun en 1891?» es un audiodrama de terror original de Midnight Whisperer Español. Céleste Marin entra en el archivo de un convento para copiar un antiguo testimonio, pero una sola regla —no corregir un nombre escrito al revés— convierte el registro en un contrato vivo.
@@ -251,6 +279,7 @@ https://youtu.be/jGeW0ZUToNo</description>
       <ns0:episode>17</ns0:episode>
       <ns0:keywords>podcast de terror, historias de miedo, audiodrama, narración de terror, creepypasta, historias de fantasmas, terror sonoro, midnight whisperer español, ¿qué pasó en loudun en 1891?, español, gótico victoriano, ficción de terror</ns0:keywords>
     </item>
+    
     
     
     
@@ -291,6 +320,7 @@ https://youtu.be/ncgSOwE7eSA</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 15: El ascensor mostró su nombre después de medianoche</title>
       <description>A medianoche, el ascensor dejó de mostrar pisos. Empezó a enumerar los nombres de todos los que seguían dentro de la torre, y Ana Ribeiro apareció al final.
@@ -315,6 +345,7 @@ https://youtu.be/O_OsC7bmP3Q</description>
       <ns0:episode>15</ns0:episode>
       <ns0:keywords>midnight whisperer, episodio 29, podcast de terror, audiodrama, historias de miedo, ascensor, trece nombres, ana ribeiro, protector nocturno, sonido binaural, ambiente envolvente, banda sonora original, temas sobrenaturales, historia de fantasmas, audio oscuro, historia de miedo, terror brasileño, experiencia auditiva, nuevo estreno de terror, producción de audio</ns0:keywords>
     </item>
+    
     
     
     
@@ -352,6 +383,7 @@ https://youtu.be/nJeOZLwMi9A</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 13: El camino de los leñadores recorrido al revés | Serie de audiodramas</title>
       <description>Prepárate antes de darle al play, porque la experiencia de audio de esta noche exige toda tu atención sensorial. Midnight Whisperer te ofrece un viaje visceral diseñado específicamente para audífonos, asegurando que cada susurro se sienta inquietantemente real. En este fascinante especial de dos minutos, Bento, Alves y Joana se adentran en un terreno que se niega a mantener su forma. Su camino se convierte en un laberinto de sonido, que pone a prueba todo lo que creían saber sobre la seguridad.
@@ -378,6 +410,7 @@ https://youtu.be/TdubPvbkruk</description>
       <ns0:episode>13</ns0:episode>
       <ns0:keywords>podcast de terror, audiodrama, historias de miedo, bento, válvulas, joana, caminé de espaldas por el camino forestal, midnight whisperer, audio original de terror, ambiente sombrío, horror en pequeñas dosis, cuentos de terror, diseño de sonido envolvente, terror binaural, thriller de audio, historia de fantasmas, terror sobrenatural, listo para halloween, material para pesadillas, terror independiente</ns0:keywords>
     </item>
+    
     
     
     
@@ -415,6 +448,7 @@ https://youtu.be/7c5ZR04a67A</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 11: La señal silenciosa de la centralita</title>
       <description>En el silencio vacío de una sala de conmutación, algo te espera justo más allá del tono de marcación. Prepara tus audífonos para un viaje en el que el sonido mismo se convierte en el antagonista de esta producción totalmente narrada. Te invitamos a adentrarte en la estática y las sombras, despojándote de la comodidad visual para dejarte vulnerable en un paisaje sonoro diseñado para el drama auditivo. Esto no es solo una historia; es una experiencia de terror inmersiva diseñada para resonar a través de tus altavoces y en tu propio espacio.
@@ -443,6 +477,7 @@ https://youtu.be/rl2kNf3F048</description>
       <ns0:episode>11</ns0:episode>
       <ns0:keywords>podcast de terror, historias de miedo, audiodrama, thriller sobrenatural, diseño de sonido binaural, narrativa inmersiva, audiodrama original, horror nocturno, una experiencia de audio espeluznante, nuevo estreno de terror, historia de doblaje, terror atmosférico, historia de una llamada telefónica, el misterio de la centralita, lotte y rosenheim, midnight whisperer, episodio 25, audio con el elenco completo, historia de ambient oscuro, sin cortes publicitarios</ns0:keywords>
     </item>
+    
     
     
     
@@ -480,6 +515,7 @@ https://youtu.be/it_XDrVK4i8</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 9: ¿Qué pasó en Belmez de la Moraleda en 1971?</title>
       <description>«¿Qué pasó en Belmez de la Moraleda en 1971?» es un audiodrama de terror original de Midnight Whisperer. Esta edición específica para ese lugar cuenta con voces, diseño de sonido y banda sonora completos, pensados para una experiencia inmersiva con audífonos.
@@ -514,6 +550,7 @@ https://youtu.be/oJoxBX-Kyi4</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 8: ¿Quién respondió debajo de la colcha?</title>
       <description>Clara llega a una granja de Adams, Tennessee, para copiar una Biblia familiar, pero Mrs. Marrow le advierte que después de medianoche no debe contestar la voz que respira bajo la colcha.
@@ -535,6 +572,7 @@ Idioma: español. Escúchala con audífonos y las luces apagadas.</description>
       <ns0:episode>8</ns0:episode>
       <ns0:keywords>terror en español, historia de terror, terror gótico, audiodrama, brujas, Adams Tennessee, Midnight Whisperer</ns0:keywords>
     </item>
+    
     
     
     
@@ -560,6 +598,7 @@ https://youtu.be/u4Uv8nLqvtg</description>
       <ns0:episode>7</ns0:episode>
       <ns0:keywords>midnight whisperer, podcast de terror, historias de miedo, audiodrama, banda sonora original, sonido binaural, riya, nima, bappa, votación nominal, invierno, escuela, sobrenatural, espeluznante, audio narrativo, paisaje sonoro envolvente, reparto completo, ficción oscura, susurros escalofriantes, ambiente inquietante</ns0:keywords>
     </item>
+    
     
     
     
@@ -598,6 +637,7 @@ https://youtu.be/JeDh-Zypol0</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 5: El agua conoce vuestros nombres</title>
       <description>Bienvenidos a una experiencia auditiva escalofriante en la que el silencio a menudo susurra más fuerte que el miedo mismo a lo largo de todo este lanzamiento. Invitamos a los oyentes más entregados a que se pongan los audífonos y disfruten de una narrativa construida íntegramente en torno a la voz humana y las texturas ambientales. En el episodio 19, titulado «El agua conoce tus nombres», los personajes ficticios Lidia, Inés y Mateo se ven envueltos en un fenómeno sobrenatural que desafía las leyes de la naturaleza, mientras se enfrentan a una aterradora transformación en algo irreconocible. La historia se desarrolla a través de diálogos ricamente detallados, asegurando que cada palabra pronunciada se sienta tangible y cargada de consecuencias para los personajes involucrados.
@@ -624,6 +664,7 @@ https://youtu.be/eUnxL6jUthw</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 4: El río recuerda el silencio</title>
       <description>Adéntrate en las sombras, donde el sonido teje la realidad en «Midnight Whisperer», una obra creada específicamente para quienes disfrutan del audio inmersivo, más que para quienes solo leen por encima. Este drama de audio prescinde de imágenes para dar rienda suelta a la imaginación pura, asegurándose de que cada susurro llegue suave pero claramente a tu oído. En esta narrativa específica, el trío de estudiantes llamado Bima, Dimas y Sari recorre la orilla de un río aterrador donde la ley del cruce tiene un peso imposible de soportar. El puente recuerda todos los momentos anteriores y exige el pago estrictamente a través de la memoria retenida. Escucharás historias con voces completas superpuestas a un ruido ambiental inquietante, diseñado específicamente para perturbar tus sentidos durante la reproducción. Las técnicas de grabación binaural simulan el movimiento de la cabeza, situando al oyente directamente en medio de las trágicas secuelas de los intentos de cruce. Nuestro equipo de producción priorizó la creación de una banda sonora original con un ritmo meticuloso, junto con efectos especiales adaptados para escuchar con audífonos. Te invitamos a explorar cómo suena el miedo cuando no se necesita video, dejando espacio para que tu propia imaginación llene los oscuros vacíos. Contiene temas específicos adecuados para los fanáticos del terror que buscan profundidad atmosférica sin distracciones visuales. Mira la experiencia narrativa visual completa disponible en YouTube con ilustraciones únicas, pero ten en cuenta que el audio ofrece una verdad más profunda. Suscribirte y calificar la reseña son partes esenciales de nuestra red de apoyo a la comunidad para el contenido continuo. Escrito y producido íntegramente por el equipo de la productora Midnight Whisperer, ofreciendo narración de audio profesional.
@@ -645,6 +686,7 @@ https://youtu.be/oqzr_9acbpQ</description>
       <ns0:episode>4</ns0:episode>
       <ns0:keywords>podcast de terror, historias de miedo, audiodrama, terror binaural, thriller sobrenatural, un puente por el que no pasó ningún estudiante, la odisea de bima, el destino de dimas, advertencia sobre el sari, audio de historias de fantasmas, terror atmosférico, podcast de terror, paisaje sonoro inquietante, ficción narrativa, campus espeluznante, midnight whisperer, audiolibro oscuro, narrativa de terror, horror sonoro, leyenda urbana</ns0:keywords>
     </item>
+    
     
     
     
@@ -678,6 +720,7 @@ https://youtu.be/IRCdnqhaNHw</description>
     
     
     
+    
     <item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Episodio 2: La Sombra del Ídolo</title>
       <description>Prepárate para una experiencia auditiva profunda y aterradora que transforma la oscuridad en sonido vivo. Dev y Meera descubrirán los secretos ocultos detrás de un artefacto que devora la realidad. En este episodio, encontrarás una narrativa inmersiva diseñada para tu imaginación, donde cada susurro cobra vida mediante un diseño de sonido binaural altamente detallado. La atmósfera se construye mediante una banda sonora original que mezcla cuerdas tensas con resonancias sónicas que golpean directamente tu conciencia. La experiencia audiovisual se mantiene inexplorada, pero los audífonos son esenciales para entender la narrativa completa. No es solo un relato de terror; es una invitación a adentrarte en lo indefinible y peligroso. Experimenta los gritos, el silencio pesado y la sensación de ser observado por fuerzas inhumanas mientras avanzan en su búsqueda mática. El ambiente asfixiante se crea con texturas sonoras únicas que simulan vulnerabilidad ante entidades antiguas. Escuchar es arriesgarse a ver lo invisible sin protección emocional visible frente a la trama de sombras. El riesgo es real y te expondrá mediante recursos narrativos potentes para sobrevivir a la trama. Por favor, considera el contenido de terror con cuidado antes de iniciar la narración auditiva inmersiva. Suscríbete ahora para recibir estos episodios cada semana con nuevas capas de misterio constante. Las voces originales y la dirección sonora definen una línea única entre realidad y ficción oscura visible en pantalla. El diseño de sonido envolvente garantiza que el miedo no sea imaginado, sino sentido en tiempo real dentro del espacio doméstico. Visita nuestro canal oficial para ver el arte visual complementario y soporte técnico adicional disponible en YouTube: https://www.youtube.com/@MidnightWhispererDark. Suscríbete, califica y reseña tu Podcast App favorita para apoyar la continuidad de esta serie oscura. Escucha, siente y nunca dudes de quién te llama en la noche para continuar buscando la verdad oculta. Todo el trabajo pertenece a Susurros de Medianoche como obra final inquebrantable.
@@ -696,6 +739,7 @@ https://youtu.be/tNPZvxhoR2c</description>
       <ns0:episode>2</ns0:episode>
       <ns0:keywords>horror podcast, historias de miedo, audio drama, sonido envolvente, crónicas oscuras, ídolo perdido, dev y meera, horror auditivo, miedo nocturno, medianoche, narración inmersiva, efectos de sonido, drama oral, terror paranormal, serie de susurros, relatos espantosos, sonido inmersivo</ns0:keywords>
     </item>
+    
     
     
     
@@ -737,6 +781,7 @@ https://youtu.be/Iez-6EqQu3A</description>
       <ns0:episode>1</ns0:episode>
       <ns0:keywords>audio drama, audio drama español, horror podcast, historias de terror, podcast de miedo, scary stories to listen to, storytelling podcast, binaural sound design, original score, horror soundscape, supernatural horror, dark atmosphere, immersive audio, audio experience, podcast horror nuevo, horror audio español, audio drama miedo, poca podcast horror</ns0:keywords>
     </item>
+  
   
   
   
