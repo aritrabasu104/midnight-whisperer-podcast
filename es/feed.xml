@@ -785,5 +785,6 @@ https://youtu.be/Iez-6EqQu3A</description>
   
   
   
+      <itunes:new-feed-url xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">https://anchor.fm/s/1190b79e8/podcast/rss</itunes:new-feed-url>
   </channel>
 </rss>
